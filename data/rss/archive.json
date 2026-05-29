@@ -5250,6 +5250,11 @@
       "date": "2026-05-29",
       "added": 77,
       "total": 386
+    },
+    {
+      "date": "2026-05-29",
+      "added": 0,
+      "total": 386
     }
   ],
   "sources": {},
@@ -5376,28 +5381,18 @@
         "GPT": 6,
         "Security": 6,
         "Cloud/DevOps": 6,
-        "Coding": 5,
         "Claude": 5,
+        "Coding": 5,
         "Robotics": 4,
         "LLM": 4,
-        "Open Source": 3,
-        "Optimization": 3,
+        "Deployment": 3,
         "Benchmark": 3,
-        "Deployment": 3
+        "Optimization": 3,
+        "Open Source": 3
       }
     }
   ],
   "source_stats": {
-    "openai": {
-      "total": 37,
-      "recent_7d": 37,
-      "recent_30d": 37
-    },
-    "huggingface": {
-      "total": 33,
-      "recent_7d": 33,
-      "recent_30d": 33
-    },
     "techcrunch": {
       "total": 40,
       "recent_7d": 40,
@@ -5407,6 +5402,21 @@
       "total": 60,
       "recent_7d": 60,
       "recent_30d": 60
+    },
+    "lycorp": {
+      "total": 32,
+      "recent_7d": 32,
+      "recent_30d": 32
+    },
+    "openai": {
+      "total": 37,
+      "recent_7d": 37,
+      "recent_30d": 37
+    },
+    "google_ai": {
+      "total": 21,
+      "recent_7d": 21,
+      "recent_30d": 21
     },
     "aws_ml": {
       "total": 32,
@@ -5418,10 +5428,15 @@
       "recent_7d": 21,
       "recent_30d": 21
     },
-    "google_ai": {
-      "total": 21,
-      "recent_7d": 21,
-      "recent_30d": 21
+    "huggingface": {
+      "total": 33,
+      "recent_7d": 33,
+      "recent_30d": 33
+    },
+    "meta_eng": {
+      "total": 10,
+      "recent_7d": 10,
+      "recent_30d": 10
     },
     "woowahan": {
       "total": 10,
@@ -5433,20 +5448,10 @@
       "recent_7d": 20,
       "recent_30d": 20
     },
-    "lycorp": {
-      "total": 32,
-      "recent_7d": 32,
-      "recent_30d": 32
-    },
     "deepmind": {
       "total": 30,
       "recent_7d": 30,
       "recent_30d": 30
-    },
-    "meta_eng": {
-      "total": 10,
-      "recent_7d": 10,
-      "recent_30d": 10
     },
     "ms_ai": {
       "total": 10,
