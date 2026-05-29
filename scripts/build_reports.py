@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+import sys
+if sys.stdout.encoding and sys.stdout.encoding.lower().startswith("cp"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 """
 리포트 빌더
 - data/reports/*.md 파일을 스캔
@@ -31,17 +35,23 @@ def extract_meta(md_text: str, filename: str) -> dict:
             title = m.group(1).strip()
             break
 
-    # 날짜: 파일명에서 YYYYMMDD 또는 내용에서 추출
+    # 날짜: "생성일:" 우선 → 파일명 YYYYMMDD → 본문 첫 날짜
     date = ""
-    dm = re.search(r"(\d{4})[-_]?(\d{2})[-_]?(\d{2})", filename)
-    if dm:
-        date = f"{dm.group(1)}-{dm.group(2)}-{dm.group(3)}"
-    else:
-        for line in lines[:10]:
-            dm2 = re.search(r"(\d{4})-(\d{2})-(\d{2})", line)
-            if dm2:
-                date = dm2.group(0)
-                break
+    for line in lines[:10]:
+        gm = re.search(r"생성일[:\s]+(\d{4})-(\d{2})-(\d{2})", line)
+        if gm:
+            date = gm.group(0).split(":")[-1].strip()[:10]
+            break
+    if not date:
+        dm = re.search(r"(\d{4})[-_]?(\d{2})[-_]?(\d{2})", filename)
+        if dm:
+            date = f"{dm.group(1)}-{dm.group(2)}-{dm.group(3)}"
+        else:
+            for line in lines[:10]:
+                dm2 = re.search(r"(\d{4})-(\d{2})-(\d{2})", line)
+                if dm2:
+                    date = dm2.group(0)
+                    break
 
     # 요약: "핵심 인사이트" 또는 첫 문단
     summary = ""
