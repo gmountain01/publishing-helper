@@ -1,4 +1,4 @@
-name: Fetch RSS Feeds
+name: Fetch RSS & Generate Report
 
 on:
   schedule:
@@ -21,6 +21,11 @@ jobs:
       - name: Fetch RSS feeds
         run: python scripts/fetch_rss.py
 
+      - name: Generate YES24 report
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_report.py
+
       - name: Build report index
         run: python scripts/build_reports.py
 
@@ -29,5 +34,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "auto-update RSS data $(date -u +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "auto-update data $(date -u +'%Y-%m-%d')"
           git push
