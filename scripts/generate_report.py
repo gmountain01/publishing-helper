@@ -351,20 +351,20 @@ def compute_stats(archive: dict) -> str:
         topic_pubs[topic] = pc.most_common(5)
 
     # ── 트렌드 분석 ──
-    # 급상승 도서 (최근 30일 vs 이전)
+    # 급상승 도서 (최근 30일 vs 이전) — 현재 상위권 도서 중 상승폭 큰 순
     surge_books = []
     if len(dates) >= 60:
-        r30_dates = dates[-30:]
-        p30_dates = dates[-60:-30]
+        r30_set = set(dates[-30:])
+        p30_set = set(dates[-60:-30])
         for t in unique_titles:
-            r_ranks = [r["rank"] for r in all_records if r["title"] == t and r["date"] in set(r30_dates) and r["rank"]]
-            p_ranks = [r["rank"] for r in all_records if r["title"] == t and r["date"] in set(p30_dates) and r["rank"]]
+            r_ranks = [r["rank"] for r in all_records if r["title"] == t and r["date"] in r30_set and r["rank"]]
+            p_ranks = [r["rank"] for r in all_records if r["title"] == t and r["date"] in p30_set and r["rank"]]
             if r_ranks and p_ranks:
                 r_avg = sum(r_ranks) / len(r_ranks)
                 p_avg = sum(p_ranks) / len(p_ranks)
-                if p_avg - r_avg >= 10:
+                if p_avg - r_avg >= 5 and r_avg <= 30:  # 현재 30위 이내 + 5순위 이상 상승
                     surge_books.append((round(r_avg), round(p_avg), round(p_avg - r_avg), t, title_info[t].get("publisher", "")))
-        surge_books.sort(key=lambda x: -x[2])
+        surge_books.sort(key=lambda x: -x[2])  # 상승폭 큰 순
 
     # 장기 스테디셀러 (100일+ 등장)
     steady_threshold = 100 if num_days >= 100 else max(int(num_days * 0.7), 10)
