@@ -372,6 +372,159 @@
       "first_seen": "2026-05-29"
     },
     {
+      "id": "2f358dc4a504",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "date": "2026-05-29",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "keywords": [
+        "Developer Tools",
+        "GPT"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "442e91c104b6",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "link": "https://huggingface.co/blog/torch-profiler",
+      "date": "2026-05-29",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "d7fd511f7ffb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...\"토큰 비용  69.5% 절감\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211087",
+      "date": "2026-05-29",
+      "summary": "구글과 메타가 대형언어모델(LLM)의 추론(reasoning) 효율을 자동으로 최적화하는 새로운 프레임워크 ‘오토 TTS(AutoTTS)’를 공개했다. AI가 답변 생성 과정에서 사용하는 연산량을 자동 조절해 정확도를 유지하면서도 토큰 사용량과 운영 비용을 대폭 줄일 수 있다는 점에서 차세대 AI 인프라 핵심 기술로 주목받고 있다.구글과 메타 연구진은 최근 온라인 아카이브를 통해 공개한 논문에서 기존 ‘테스트 타임 스케일링(TTS·Test-Time Scaling)’ 방식의 한계를 해결하기 위해 ‘오토TTS’를 개발했다고 밝혔다. T",
+      "keywords": [
+        "LLM",
+        "Reasoning"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "e653fb4b7ab6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "애플, WWDC서 ‘엣지 AI’ 전면 선언…데이터센터 의존 줄여 '비용 절감'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211107",
+      "date": "2026-05-29",
+      "summary": "애플이 다음 달 8일(현지시간) 개막하는 연례 개발자 행사 'WWDC'에서 아이폰용 AI 기능 강화와 함께 ‘온디바이스 AI’ 전략을 전면에 내세울 전망이다. 대규모 데이터센터 투자 경쟁 대신, 전 세계에 보급된 수십억대의 애플 기기 자체를 AI 컴퓨팅 자원으로 활용해 비용 절감과 개인정보 보호를 동시에 노리겠다는 전략이다.28일(현지시간) 디 인포메이션에 따르면, 애플은 이번 WWDC에서 아이폰, 애플워치, 맥 등에 탑재된 자체 설계 칩의 강점을 활용해 AI 모델을 기기 내부에서 직접 구동하는 방식을 강조할 예정이다.지난 15년간",
+      "keywords": [],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "2ae12775934d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 유럽 매출 급증 맞춰 “해외 인력 3배 확충”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211109",
+      "date": "2026-05-29",
+      "summary": "앤트로픽이 이탈리아 밀라노에 유럽 내 여섯 번째 사무소를 열고 유럽 시장 확대에 속도를 낸다. 기업용 AI 수요가 급증하는 가운데 현지 인력과 조직을 대폭 확대해 유럽 사업 기반을 강화하겠다는 전략이다.크리스 치아우리 앤트로픽 국제사업 총괄은 28일(현지시간) 로이터와의 인터뷰에서 “미국 외 지역에서 클로드(Claude) 대형언어모델(LLM)에 대한 수요가 빠르게 늘고 있다”라며 “해외 인력을 현재보다 3배 수준으로 확대할 계획”이라고 밝혔다.앤트로픽은 현재 런던, 더블린, 취리히, 뮌헨, 파리 등에 거점을 두고 있으며, 이번에 밀",
+      "keywords": [
+        "Claude",
+        "LLM"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "ae27f6052309",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "바이트댄스, 추론 인프라용 CPU 독자 개발…빅테크 '자체 칩' 대열 합류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211113",
+      "date": "2026-05-29",
+      "summary": "바이트댄스가 AI 인프라 확장을 위해 자체 CPU 개발에 착수한 것으로 알려졌다. 생성 AI 산업이 학습 중심에서 실제 서비스 운영을 위한 추론 중심으로 빠르게 이동하며 CPU 중요성이 급격히 커지는 추세를 따른 것이다.28일(현지시간) 로이터에 따르면, 바이트댄스는 최근 자체 서버와 데이터센터에 탑재할 독자 CPU 개발 프로젝트를 추진하고 있다.앞으로 에이전트형 AI 서비스 대규모 확대를 준비 중으로, 대표 플랫폼인 ‘코즈(Coze)’ 등을 포함한 차세대 AI 서비스 운영에 필요한 인프라 확보가 목표인 것으로 전해졌다.현재 프로젝",
+      "keywords": [
+        "AI Agent",
+        "Generative AI"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "e92393cab4a1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 슈퍼브에이아이, ‘GTC 타이베이’서 비전 AI 올인원 ‘슈퍼브 플랫폼’ 시연 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211125",
+      "date": "2026-05-29",
+      "summary": "■ 비전 AI 전문 슈퍼브에이아이(대표 김현수)는 오는 6월1~4일 'GTC 타이베이 2026'에 참가, 비전 AI 개발 전 과정을 지원하는 올인원 플랫폼 '슈퍼브 플랫폼'을 시연한다고 밝혔다. 데이터 큐레이션부터 맞춤형 오토라벨링, 모델 진단까지 하나의 플랫폼에서 처리할 수 있는 플랫폼으로, 커스텀 오토 라벨(Custom-Auto-Label) 기능으로 데이터 작업 시간을 약 50% 이상 단축한다는 설명이다.■ 우주 AI 전문 텔레픽스(대표 조성익)는 인도의 우주 추력기 전문 벨라트릭스 에어로스페이스와 ‘초저궤도 위성 개발 협력’",
+      "keywords": [],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "dcfd81d57d68",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 엘리스그룹, 강원도교육청 AI 교원지원비서 사업 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211120",
+      "date": "2026-05-29",
+      "summary": "■ 엘리스그룹(대표 김재원)은 강원특별자치도교육청의 ‘강원아이로(AI-ro) 생성형 AI 교원지원비서 서비스형 소프트웨어(SaaS) 도입’ 사업에 선정됐다고 밝혔다. 엘리스그룹은 기관 전용 생성형 AI 솔루션 ‘AI헬피챗’을 강원아이로와 연계해 약 1년간 강원특별자치도교육청 소속 초∙중∙고 교원 약 2만 1000명에게 서비스를 제공한다. 업무 및 수업 준비에 최적화된 ‘헬피 프로’와 학습 유도에 특화된 ‘헬피 에듀’ 등 자체 모델을 비롯해 챗GPT, 클로드, 제미나이 등 최신 글로벌 AI 모델을 목적에 맞게 사용할 수 있다고 설명했",
+      "keywords": [
+        "Claude",
+        "GPT",
+        "Gemini",
+        "Generative AI"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "fbc18bf03c54",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오케스트로, GPU 활용률 높이는 AI 추론 운영 플랫폼 ‘콘체르토 AI’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211122",
+      "date": "2026-05-29",
+      "summary": "AI·클라우드 전문 오케스트로(대표 김범재, 김영광)는 GPU 인프라의 활용 효율을 높이는 AI 추론 운영 플랫폼 ‘콘체르토 AI(CONCERTO A.I.)’를 출시했다고 29일 밝혔다.콘체르토 AI는 에이전트형 AI 확산에 따라 급증하는 추론 트래픽에 대응하고 GPU 자원을 효율적으로 운영하도록 설계됐다. 대규모 추론 요청을 분산 처리하고 GPU와 NPU 등 가속기 자원을 작업 특성에 맞춰 배분, 보유 인프라의 활용 효율을 높여주는 것이 특징이다. 분산 서빙을 통한 추론 최적화가 핵심이다. 기존에는 질문을 분석하는 작업과 답변을",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "e27f19961aa2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "과기부, AI 사이버위협 대응 계획 발표…”국제 협력으로 고성능 모델 시범 적용”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211124",
+      "date": "2026-05-29",
+      "summary": "정부가 AI 기반 사이버위협에 대응하기 위한 민간 공동 계획을 내놨다.과학기술정보통신부(장관 배경훈)는 29일 제9회 과학기술관계장관회의에서 'AI 기반 사이버위협에 대응하기 위한 민간 정보보호 추진계획(안)'을 발표했다.민간 분야의 AI 보안 위협 대비를 위한 긴급조치와 사회 전반의 정보보호 체계를 AI 기반으로 전환하기 위한 중장기 방향성을 제시하는 데 초점을 맞췄다.먼저, 정부는 국제협력을 통해 최신 고성능 AI 모델을 취약점 파악 업무과 기업 지원 전반에 시범 적용할 계획이다. 오픈AI의 신뢰기반 접근프로그램(GTAC) 확보",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "bf30344a9ecf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크 \"앤트로픽 데이터센터 계약은 6개월 단기\"…장기 계약 번복 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211083",
+      "date": "2026-05-29",
+      "summary": "일론 머스크 CEO가 앤트로픽에 데이터센터 임대 계약 기간을 “6개월”이라고 밝히면서, 스페이스X가 IPO(기업공개) 서류에서 제시했던 장기 계약 설명과 차이가 있다는 지적이 나오고 있다.머스크 CEO는 28일(현지시간) X를 통해 “스페이스X는 콜로서스(Colossus)를 수년간 임대하기로 약속한 적이 없다”라고 밝혔다.“현재 계약은 180일짜리 임대 계약이며 이후에는 상호 90일 통보로 해지가 가능한 구조”라며 \"단기 계약 구조는 앤트로픽이 아니라 스페이스X의 요청이었다”라고 설명했다.스페이스X는 지난주 공개한 IPO용 S-1",
+      "keywords": [],
+      "first_seen": "2026-05-29"
+    },
+    {
       "id": "6b1fa8ae684f",
       "source": "openai",
       "source_name": "OpenAI",
@@ -5255,6 +5408,11 @@
       "date": "2026-05-29",
       "added": 0,
       "total": 386
+    },
+    {
+      "date": "2026-05-29",
+      "added": 11,
+      "total": 397
     }
   ],
   "sources": {},
@@ -5374,21 +5532,21 @@
     {
       "week": "2026-W22",
       "keywords": {
-        "AI Agent": 32,
+        "AI Agent": 34,
         "Automation": 18,
+        "GPT": 8,
         "Enterprise AI": 7,
+        "Claude": 7,
+        "Security": 7,
+        "LLM": 6,
         "SDK/API": 6,
-        "GPT": 6,
-        "Security": 6,
         "Cloud/DevOps": 6,
-        "Claude": 5,
         "Coding": 5,
         "Robotics": 4,
-        "LLM": 4,
+        "Gemini": 3,
         "Deployment": 3,
         "Benchmark": 3,
-        "Optimization": 3,
-        "Open Source": 3
+        "Optimization": 3
       }
     }
   ],
@@ -5399,9 +5557,9 @@
       "recent_30d": 40
     },
     "aitimes": {
-      "total": 60,
-      "recent_7d": 60,
-      "recent_30d": 60
+      "total": 69,
+      "recent_7d": 69,
+      "recent_30d": 69
     },
     "lycorp": {
       "total": 32,
@@ -5409,9 +5567,9 @@
       "recent_30d": 32
     },
     "openai": {
-      "total": 37,
-      "recent_7d": 37,
-      "recent_30d": 37
+      "total": 38,
+      "recent_7d": 38,
+      "recent_30d": 38
     },
     "google_ai": {
       "total": 21,
@@ -5429,9 +5587,9 @@
       "recent_30d": 21
     },
     "huggingface": {
-      "total": 33,
-      "recent_7d": 33,
-      "recent_30d": 33
+      "total": 34,
+      "recent_7d": 34,
+      "recent_30d": 34
     },
     "meta_eng": {
       "total": 10,
@@ -5465,5 +5623,5 @@
     }
   },
   "last_updated": "2026-05-29",
-  "total_articles": 386
+  "total_articles": 397
 }
