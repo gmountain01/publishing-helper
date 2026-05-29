@@ -237,11 +237,21 @@ TOPIC_KW = {
 }
 
 def _classify_topic(title: str) -> str:
+    """첫 매칭 주제 반환 (단일 분류용)."""
     tl = title.lower()
     for topic, kws in TOPIC_KW.items():
         if any(k in tl for k in kws):
             return topic
     return "기타"
+
+def _classify_topics_multi(title: str) -> list[str]:
+    """매칭되는 모든 주제 반환 (복수 분류용)."""
+    tl = title.lower()
+    matched = []
+    for topic, kws in TOPIC_KW.items():
+        if any(k in tl for k in kws):
+            matched.append(topic)
+    return matched if matched else ["기타"]
 
 def compute_stats(archive: dict) -> str:
     dates = sorted(archive["snapshots"].keys())
@@ -306,10 +316,11 @@ def compute_stats(archive: dict) -> str:
                 seen.add(item["title"])
                 monthly_new[month].add(item["title"])
 
-    # ── 주제별 분석 ──
+    # ── 주제별 분석 (복수 분류: 한 도서가 여러 주제에 포함) ──
     topic_titles = defaultdict(set)
     for t in unique_titles:
-        topic_titles[_classify_topic(t)].add(t)
+        for topic in _classify_topics_multi(t):
+            topic_titles[topic].add(t)
 
     topic_stats = []
     recent30 = set(dates[-30:]) if len(dates) >= 30 else set(dates)
@@ -376,13 +387,15 @@ def compute_stats(archive: dict) -> str:
     hanbit_titles = [t for t in unique_titles if "한빛" in title_info[t].get("publisher", "")]
     hanbit_topic = defaultdict(int)
     for t in hanbit_titles:
-        hanbit_topic[_classify_topic(t)] += 1
+        for topic in _classify_topics_multi(t):
+            hanbit_topic[topic] += 1
 
     hanbit_books = []
     for t in hanbit_titles:
         avg = sum(title_ranks[t]) / len(title_ranks[t]) if title_ranks[t] else 999
         nd = len(title_days[t])
-        hanbit_books.append((avg, nd, t, _classify_topic(t)))
+        topics = ", ".join(_classify_topics_multi(t))
+        hanbit_books.append((avg, nd, t, topics))
     hanbit_books.sort(key=lambda x: x[0])
 
     # ── 리포트 조합 ──
