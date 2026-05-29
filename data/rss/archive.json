@@ -525,6 +525,32 @@
       "first_seen": "2026-05-29"
     },
     {
+      "id": "7a1c98af09d2",
+      "source": "google_ai",
+      "source_name": "Google AI",
+      "icon": "🔵",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "date": "2026-05-29",
+      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "keywords": [
+        "AI Education"
+      ],
+      "first_seen": "2026-05-29"
+    },
+    {
+      "id": "95bb06f5125a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "date": "2026-05-29",
+      "summary": "South Korean chip startup Xcena is betting that AI's real bottleneck is not compute, but memory.",
+      "keywords": [],
+      "first_seen": "2026-05-29"
+    },
+    {
       "id": "6b1fa8ae684f",
       "source": "openai",
       "source_name": "OpenAI",
@@ -5413,6 +5439,11 @@
       "date": "2026-05-29",
       "added": 11,
       "total": 397
+    },
+    {
+      "date": "2026-05-29",
+      "added": 2,
+      "total": 399
     }
   ],
   "sources": {},
@@ -5544,17 +5575,17 @@
         "Coding": 5,
         "Robotics": 4,
         "Gemini": 3,
+        "Generative AI": 3,
         "Deployment": 3,
-        "Benchmark": 3,
-        "Optimization": 3
+        "Benchmark": 3
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 40,
-      "recent_7d": 40,
-      "recent_30d": 40
+      "total": 41,
+      "recent_7d": 41,
+      "recent_30d": 41
     },
     "aitimes": {
       "total": 69,
@@ -5571,10 +5602,15 @@
       "recent_7d": 38,
       "recent_30d": 38
     },
+    "huggingface": {
+      "total": 34,
+      "recent_7d": 34,
+      "recent_30d": 34
+    },
     "google_ai": {
-      "total": 21,
-      "recent_7d": 21,
-      "recent_30d": 21
+      "total": 22,
+      "recent_7d": 22,
+      "recent_30d": 22
     },
     "aws_ml": {
       "total": 32,
@@ -5585,11 +5621,6 @@
       "total": 21,
       "recent_7d": 21,
       "recent_30d": 21
-    },
-    "huggingface": {
-      "total": 34,
-      "recent_7d": 34,
-      "recent_30d": 34
     },
     "meta_eng": {
       "total": 10,
@@ -5623,5 +5654,5 @@
     }
   },
   "last_updated": "2026-05-29",
-  "total_articles": 397
+  "total_articles": 399
 }
