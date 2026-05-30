@@ -1,6 +1,237 @@
 {
   "articles": [
     {
+      "id": "5be6cff8b2ce",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "link": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "date": "2026-05-30",
+      "summary": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "51cbc0bbd75c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+      "link": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "date": "2026-05-30",
+      "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "6fcb375a2b82",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, 새 네트워크 아키텍처 'RNG' 공개…\"장비 69% 줄이고 속도 33% 향상\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211136",
+      "date": "2026-05-30",
+      "summary": "아마존이 수십 년간 데이터센터 업계의 표준으로 자리 잡아온 계층형 네트워크 구조를 대체하는 새로운 네트워크 아키텍처를 공개했다. 새로운 기술이 데이터 처리 속도를 최대 33% 높이고 네트워크 전력 소비를 40% 줄일 수 있으며, 전 세계 클라우드 인프라 운영 비용을 수십억달러 절감할 수 있을 것으로 기대하고 있다.아마존은 28일(현지시간) 새로운 데이터센터 네트워크 구조인 ‘RNG(Resilient Network Graphs)’를 공개했다. RNG는 랜덤 그래프(Random Graph) 이론을 기반으로 설계된 평면형 네트워크 아키텍",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "4e8b0072a819",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 윈도우용 코덱스에 ‘컴퓨터 유즈’ 도입…모바일 원격 제어 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211135",
+      "date": "2026-05-30",
+      "summary": "오픈AI가 코딩 에이전트 ‘코덱스(Codex)’의 기능을 대폭 확장하며 윈도우 11 환경에서도 AI가 직접 컴퓨터를 조작할 수 있는 ‘컴퓨터 유즈(Computer Use)’ 기능을 지원하기 시작했다. 또 아이폰과 안드로이드용 챗GPT 앱을 통해 윈도우 PC에서 실행 중인 코덱스 작업을 원격으로 제어할 수 있게 되면서, 장소에 구애받지 않는 AI 개발 환경 구축에 한 걸음 더 다가섰다는 평가가 나왔다.오픈AI는 29일(현지시간) 코덱스 데스크톱 애플리케이션 업데이트를 통해 윈도우 11 사용자에게 컴퓨터 유즈 기능과 원격 제어 기능을",
+      "keywords": [
+        "AI Agent",
+        "Coding",
+        "GPT"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "5436040c94a8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타의 AI 학습용 '마우스 추적', 유럽 개인정보 규정 위반 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211129",
+      "date": "2026-05-30",
+      "summary": "메타가 AI 에이전트 개발을 위해 미국 직원들의 컴퓨터 사용 기록을 광범위하게 수집하는 가운데, 해외 직원들의 이메일과 채팅 내용까지 수집 대상에 포함될 수 있다는 사실이 알려졌다. 이 때문에 유럽의 개인정보보호 규정(GDPR) 위반 논란으로 확대될 가능성이 제기됐다.로이터는 29일(현지시간) 내부 문건을 인용, 메타가 ‘모델 역량 이니셔티브(MCI·Model Capability Initiative)’라는 도구를 도입해 직원들의 컴퓨터 사용 패턴을 AI 학습 데이터로 수집하고 있다고 보도했다. 이는 CEO인 마크 저커버그가 추진하는",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "da869a298a26",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, ‘나노 바나나 2·프로’ 정식 출시…\"동영상 보고 이미지 만든다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211134",
+      "date": "2026-05-30",
+      "summary": "구글이 기업용 미디어 시장 공략을 강화하기 위해 차세대 이미지 생성 모델 ‘나노 바나나 2(Nano Banana 2)’와 ‘나노 바나나 프로(Nano Banana Pro)’를 정식 출시했다. 특히 나노 바나나 2는 텍스트와 이미지를 넘어 동영상까지 입력으로 활용하는 기능을 추가하며 멀티모달 AI 경쟁력을 강화했다.구글은 29일(현지시간) 기업용 AI 플랫폼인 구글 클라우드 제미나이 엔터프라이즈 에이전트 플랫폼을 통해 나노 바나나 2(제미나이 3.1 플래시 이미지)와 나노 바나나 프로(제미나이 3 프로 이미지)를 일반 공급(GA)한다",
+      "keywords": [
+        "AI Agent",
+        "Gemini",
+        "Image AI"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "0fdde61c6ba0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "블루 오리진 로켓 폭발 사고…스페이스X 독주 강화되나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211133",
+      "date": "2026-05-30",
+      "summary": "제프 베이조스의 우주기업 블루 오리진이 야심차게 추진하던 대형 로켓 개발에 중대한 차질이 발생했다. 차세대 대형 발사체 '뉴 글렌(New Glenn)'이 지상 시험 과정에서 폭발하면서, 스페이스X에 미칠 영향에 관심이 모이고 있다.블루 오리진의 뉴 글렌은 28일(현지시간) 플로리다 발사대에서 연소 시험 중 폭발했다. X를 통해 중계된 영상에는 거대한 로켓이 발사대에서 점화된 직후 거대한 화염과 연기를 뿜어냈다.이 사고로 인명 피해는 일어나지 않은 것으로 알려졌다. 블루 오리진은 정적 연소 시험 도중 이상 현상이 발생했다고 확인했다.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "79c1c3366e27",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI는 동맹국 확장, 앤트로픽은 제한…엇갈리는 사이버보안 전략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211131",
+      "date": "2026-05-30",
+      "summary": "오픈AI와 앤트로픽이 사이버보안 모델 글로벌 확대 전략에서 서로 다른 방향을 보이고 있다. 오픈AI는 한국 정부에 이어 일본 은행권에 최신 모델 접근을 제공하며 모델 배포 확대에 나섰지만, 미소스는 영국과 EU조차 접근하지 못하는 등 여전히 미국 중심의 제한적 운영 기조를 유지하는 모습이다.가타야마 사츠키 일본 재무장관은 29일 제이슨 권 오픈AI 최고 전략책임자(CSO)와의 회담 후, 오픈AI가 사이버 공격 방지를 돕기 위해 일부 일본 금융기관에 'GPT-5.5-사이버' 모델 접근 권한을 제공했다고 밝혔다. 이 모델은 경쟁사인 앤",
+      "keywords": [
+        "GPT",
+        "Security"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "c2b8d4818693",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 18 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211127",
+      "date": "2026-05-30",
+      "summary": "내면지도지난주 칼럼에서는 겨울담요 이야기를 했습니다.담요는 여름이 오면 다른 쓸모를 갖게 됩니다. 햇볕을 가리고, 그늘을 만들고, 찬 마루에 온기를 더하고, 포근한 자리를 만들고, 등을 받쳐주기도 합니다.이렇게 쓸모는 대상 안에 원래 들어있는 성질이 아니라, 쓸모 있게 사용하는 사람에 따라 달라집니다. 그럼에도 우리는 지금 여기서 잘 맞지 않는 나의 쓸모를 탓하기도 합니다.요즘 따라 내가 하는 일이 별 쓸모 없는 것 같다.예전엔 잘 됐는데, 이젠 안된다.이제 쓸모가 하나도 없다.하지만 정말 그럴까요?어쩌면 너무 오랫동안 우리 자신을",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "995c6a793eb9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 정리해고에서 살아남다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211126",
+      "date": "2026-05-30",
+      "summary": "글·그림 Dr. Alf",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "fae085b21ae0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "화석연료서 재생에너지로…필리핀 디젤발전소의 '태양광 변신'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211104",
+      "date": "2026-05-30",
+      "summary": "알손스파워는 최근 필리핀 민다나오 사란가니주 알라벨에 있는 55MW 규모 남부필리핀전력공사(SPPC) 디젤발전소를 98.7MWac 태양광 발전소로 전환한다고 밝혔다.기존 디젤 발전 자산을 재생에너지 설비로 바꾸는 사업으로, 신규 부지를 개발하는 방식보다 부지와 송전 인프라를 활용할 수 있다는 점이 특징이다.이번 사업은 알손스파워가 화석연료 발전 포트폴리오를 재생에너지 중심으로 재편하는 첫 전환 사례다. 디젤발전소는 섬 지역과 전력망이 취약한 지역에서 안정적 전원으로 쓰여왔지만, 연료비 부담과 배출 문제가 크다는 분석이다. 알손스파워",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "9df245df08a2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아프리카 전력 투자, 석탄·대형 수력서 태양광·BESS로 이동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211066",
+      "date": "2026-05-30",
+      "summary": "아프리카 신규 전력 프로젝트의 무게중심이 석탄화력과 대형 수력발전에서 태양광·풍력·배터리에너지 저장장치(BESS)로 이동하고 있다. 전력 수요는 빠르게 늘고 있지만 대형 발전소는 개발 기간과 금융비용 부담이 커, 각국 정부와 투자자가 짧은 기간에 단계적으로 구축할 수 있는 재생에너지 설비를 우선 검토하는 흐름이다.AP는 28일(현지시간) 아프리카 전력 개발 시장에서 태양광과 풍력, BESS가 차세대 전원 포트폴리오의 중심으로 떠오르고 있다고 보도했다.이달 초 중국과 잠비아가 발표한 15억달러(약 2조1750억원) 규모 에너지 협정에",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "9dff2abf0739",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남동물위생시험소, ASF 재유입 차단 위한 정밀검사·예찰 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211067",
+      "date": "2026-05-30",
+      "summary": "전라남도동물위생시험소가 아프리카돼지열병, ASF 재유입 차단을 위해 정밀검사와 예찰을 강화하고 있다고 밝혔다.전남동물위생시험소는 올해 초 지역 양돈농장에서 잇따라 발생한 ASF의 조기 발견과 재확산 방지를 위해 방역지역 이동제한 해제 이후에도 감시체계를 유지하고 있다.전남에서는 지난 1월26일 영광군을 시작으로 2월9일 나주시, 2월20일 무안군, 3월16일 함평군 등 4개 시군 양돈농장에서 ASF가 발생했다.발생농장 관련 방역지역, 역학농장, 도축장, 역학차량 등을 대상으로 임상예찰과 정밀검사를 실시했다. 발생 시군 방역지역은 지",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "aa03e6cbfa0c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스위스 정부, 태양광 잉여전력 보상 체계 변경 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211119",
+      "date": "2026-05-30",
+      "summary": "스위스가 태양광 잉여전력 보상 체계를 시장가격 중심으로 바꾸는 방안을 추진하고 있다.배전망 사업자가 태양광 전력이 계통에 주입되는 시점의 전력시장 가격을 기준으로 보상액을 산정할 수 있도록 하는 제도 개편이다. 2027년 1월1일부터 시행될 예정이다.제도 개편의 목적은 전력이 실제로 필요한 시간에 계통으로 공급되도록 유도하는 데 있다. 태양광 발전이 많은 낮 시간대처럼 전력가격이 낮은 시간에는 전기를 바로 판매하기보다 저장하거나 현장에서 소비하도록 만드는 구조다. 태양광 보급 확대 이후 전력시장 가격 신호를 보상제도에 반영하려는 조",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "3a53c4b64df4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, ‘청년 맞춤형 인턴’ 111명 선발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211085",
+      "date": "2026-05-30",
+      "summary": "여수시가 미취업 청년의 실무 경험과 취업 역량 강화를 위해 하반기 여수형 청년 맞춤형 인턴사업 참여자 111명을 모집한다.여수는 청년들이 시청과 유관기관에서 1개월 동안 행정업무 보조 등 다양한 실무를 경험하도록 지원한다.이번 사업은 청년이 취업 전 현장 업무를 직접 접하고, 진로 탐색과 직무 이해를 넓힐 수 있도록 마련됐다. 공공기관 업무 경험을 통해 지역 청년의 취업 준비 과정을 돕는 일경험 지원 정책이다.신청 자격은 공고일 기준 여수에 거주 중이거나 부모가 5년 이상 여수에 거주 중인 만18세부터 45세 미취업 청년이다. 출생",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "ed29a849a6df",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[5월29일] 요미우리 감독 사건은 왜 ‘챗GPT의 비극’이 됐나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211089",
+      "date": "2026-05-30",
+      "summary": "일본 인기 프로야구팀 요미우리 자이언츠의 아베 신노스케 감독이 딸을 폭행한 혐의로 체포된 뒤 사임한 소식은 큰 화제가 됐습니다.일본 경찰청은 그가 도쿄 시부야구에 있는 자택에서 18세 딸을 붙잡아 바닥에 눕힌 혐의로 체포됐다고 밝혔으며, 아베 감독은 26일 석방된 뒤 기자회견을 열고 눈물을 흘리며 사임을 발표했습니다.그라운드에서도 엄격한 것으로 유명한 아베 감독은 조사관들에게 딸들의 다툼을 말리려다 화를 참지 못했다고 진술했습니다. 그는 현역 시절 이승엽의 팀 동료로, 국내 팬들에도 잘 알려진 인물입니다.그런데 일본에서는 이 사건을",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "da488f98f467",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양, 소규모 사업장 ‘대기배출 IoT 측정기기’ 설치비 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211118",
+      "date": "2026-05-30",
+      "summary": "광양시가 소규모 대기배출사업장의 사물인터넷 측정기기 설치 부담을 줄이기 위해 2차 지원사업을 시행한다.광양은 2026년도 소규모 사업장 대상 ‘사물인터넷 측정기기 설치 지원사업’ 2차 신청을 받는다고 29일 밝혔다.사물인터넷 측정기기는 대기배출시설과 방지시설의 전류, 압력, 수소이온농도, 온도 등 운영 정보를 실시간으로 수집·전송하는 장치다. 2022년 5월 개정된 대기환경보전법에 따라 4·5종 대기배출시설 운영 사업장은 올해 12월 말까지 해당 측정기기를 설치해야 한다.광양은 의무 설치 대상인 소규모 사업장의 경제적 부담을 줄이기",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "79973a0467ad",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양, 러시아 리얼리즘 작가 12인 기획전 ‘눈의 나라 러시아’ 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211114",
+      "date": "2026-05-30",
+      "summary": "광양시 인서리공원 반창고갤러리에서 러시아 겨울 풍경을 담은 특별기획전이 열린다.광양은 러시아 리얼리즘 작가 12인의 설경 작품 50여 점을 선보이는 ‘눈의 나라 러시아’를 오는 6월23일까지 개최한다고 밝혔다.이번 전시는 설원과 눈 덮인 자작나무 숲, 강변과 겨울 들녘 등 러시아의 겨울 풍경을 담은 작품으로 구성됐다. 관람객은 러시아 리얼리즘 미술 특유의 색채와 표현 기법을 통해 이국적인 설경을 감상할 수 있다. 초여름에 한겨울 풍경을 만나는 이색적인 ‘문화 피서’ 경험을 제공한다는 점도 특징이다.전시 이해도를 높이기 위한 도슨트",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
       "id": "0f942237e7a3",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -549,6 +780,236 @@
       "summary": "South Korean chip startup Xcena is betting that AI's real bottleneck is not compute, but memory.",
       "keywords": [],
       "first_seen": "2026-05-29"
+    },
+    {
+      "id": "be876b176720",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "date": "2026-05-29",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "ce0322c55738",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "link": "https://openai.com/index/braintrust",
+      "date": "2026-05-29",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "keywords": [
+        "Coding",
+        "GPT"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "fdf6c4e98bb2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "date": "2026-05-29",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "bb0319888f69",
+      "source": "google_ai",
+      "source_name": "Google AI",
+      "icon": "🔵",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "date": "2026-05-29",
+      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "keywords": [
+        "Coding",
+        "Vibe Coding"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "6aee6b02d3b5",
+      "source": "google_ai",
+      "source_name": "Google AI",
+      "icon": "🔵",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "date": "2026-05-29",
+      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "keywords": [
+        "Gemini",
+        "Video AI"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "5b6cca50542b",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
+      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+      "date": "2026-05-29",
+      "summary": "This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality and quantity for LLMs served on Amazon SageMaker AI endpoints with inference components.",
+      "keywords": [
+        "Automation",
+        "LLM",
+        "Optimization"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "4f181a54ae99",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+      "date": "2026-05-29",
+      "summary": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "62b1c2746533",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "date": "2026-05-29",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "75f84cfeffeb",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "date": "2026-05-29",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "4fd5861e26d9",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What happens when companies become too AI-pilled?",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "date": "2026-05-29",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs i",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "fe0f51562a56",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "date": "2026-05-29",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      "keywords": [
+        "Automation",
+        "Optimization"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "fe212dea92c8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+      "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+      "date": "2026-05-29",
+      "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "4b1d7fc08047",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "date": "2026-05-29",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Coding"
+      ],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "1b3d96b11fca",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "date": "2026-05-29",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "23be547c0da8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "date": "2026-05-29",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "a205088c9383",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "date": "2026-05-29",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "keywords": [],
+      "first_seen": "2026-05-30"
+    },
+    {
+      "id": "535c7791a60e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양경자청, 방산 전문 위드피에스와 투자협약 체결",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211128",
+      "date": "2026-05-29",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 29일, 전남 순천시 소재 방산 전문 위드피에스(대표 이선휴)와 해룡일반산업단지 입주를 위한 투자협약을 체결했다고 밝혔다.이번 투자협약을 통해 위드피에스는 해룡일반산업단지 내 신규 부지를확보하여 약 300억원을 투입, 방산용 영구자석 발전기 및 전원공급체계 전문 생산공장을 증설할 계획이다. 특히 한화시스템이 수요처인 L-SAM 다기능 레이더용 주전원공급 유닛 양산 사업 계약을 이미 확보한 만큼 안정적인 사업 기반 위에서 생산시설을 구축할 수 있을 것으로 기대되며, 공장 가동 이후 단계적인 고용",
+      "keywords": [],
+      "first_seen": "2026-05-30"
     },
     {
       "id": "6b1fa8ae684f",
@@ -5444,6 +5905,11 @@
       "date": "2026-05-29",
       "added": 2,
       "total": 399
+    },
+    {
+      "date": "2026-05-30",
+      "added": 35,
+      "total": 434
     }
   ],
   "sources": {},
@@ -5563,34 +6029,34 @@
     {
       "week": "2026-W22",
       "keywords": {
-        "AI Agent": 34,
-        "Automation": 18,
-        "GPT": 8,
+        "AI Agent": 39,
+        "Automation": 21,
+        "GPT": 12,
+        "Coding": 10,
+        "Security": 9,
         "Enterprise AI": 7,
+        "LLM": 7,
         "Claude": 7,
-        "Security": 7,
-        "LLM": 6,
         "SDK/API": 6,
         "Cloud/DevOps": 6,
-        "Coding": 5,
+        "Gemini": 5,
+        "Optimization": 5,
         "Robotics": 4,
-        "Gemini": 3,
         "Generative AI": 3,
-        "Deployment": 3,
-        "Benchmark": 3
+        "Deployment": 3
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 41,
-      "recent_7d": 41,
-      "recent_30d": 41
+      "total": 53,
+      "recent_7d": 53,
+      "recent_30d": 53
     },
     "aitimes": {
-      "total": 69,
-      "recent_7d": 69,
-      "recent_30d": 69
+      "total": 86,
+      "recent_7d": 86,
+      "recent_30d": 86
     },
     "lycorp": {
       "total": 32,
@@ -5598,9 +6064,9 @@
       "recent_30d": 32
     },
     "openai": {
-      "total": 38,
-      "recent_7d": 38,
-      "recent_30d": 38
+      "total": 41,
+      "recent_7d": 41,
+      "recent_30d": 41
     },
     "huggingface": {
       "total": 34,
@@ -5608,14 +6074,14 @@
       "recent_30d": 34
     },
     "google_ai": {
-      "total": 22,
-      "recent_7d": 22,
-      "recent_30d": 22
+      "total": 24,
+      "recent_7d": 24,
+      "recent_30d": 24
     },
     "aws_ml": {
-      "total": 32,
-      "recent_7d": 32,
-      "recent_30d": 32
+      "total": 33,
+      "recent_7d": 33,
+      "recent_30d": 33
     },
     "nvidia_ai": {
       "total": 21,
@@ -5653,6 +6119,6 @@
       "recent_30d": 30
     }
   },
-  "last_updated": "2026-05-29",
-  "total_articles": 399
+  "last_updated": "2026-05-30",
+  "total_articles": 434
 }
