@@ -1,6 +1,128 @@
 {
   "articles": [
     {
+      "id": "3c8135aac01f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타·구글 등, 미국 교육구에 400억 지급 합의…‘SNS 유해성 줄소송’ 첫 선례",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211143",
+      "date": "2026-05-31",
+      "summary": "메타와 틱톡, 구글 등 세계 최대 소셜미디어 기업들이 청소년 정신건강 악화와 학교 자원 낭비를 초래했다는 소송을 제기한 미국의 한 교육구와 약 2700만달러(약 400억원) 규모의 합의에 도달한 것으로 알려졌다.29일(현지시간) 블룸버그에 따르면, 메타는 미국 켄터키주의 브레시트 카운티 교육구에 900만달러(약 130억원)를 지급하기로 했다.또 스냅과 틱톡은 각각 800만달러(약 120억원)씩 부담한다. 유튜브는 200만달러(약 30억원)가 넘는 금액을 지급하는 동시에 교사들의 수업 활용을 지원하는 교육 프로그램도 제공하기로 했다.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "33878cb0d951",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, 베드록 플랫폼에 ‘그록’ 추가 협상 중...\"주요 모델 다 모은다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211146",
+      "date": "2026-05-31",
+      "summary": "아마존웹서비스(AWS)가 AI 모델 ‘그록(Grok)’을 자체 생성 AI 플랫폼에 추가하는 방안을 추진하는 것으로 알려졌다. AWS는 AI 모델 선택지를 더 확대하게 되고, 머스크의 AI 사업은 수백만명의 기업 고객에게 접근할 수 있는 새로운 유통망을 확보하게 될 기회다.29일(현지시간) 비즈니스 인사이더에 따르면, AWS는 스페이스X의 그록을 자체 AI 플랫폼인 베드록(Bedrock)에 탑재하기 위한 협상을 진행 중이다. 스페이스X가 모델을 이미 AWS에 전달한 것으로 전해지면서, 실제 서비스 출시가 임박했다는 관측이 나오고 있다",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "e4c60bf85d27",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "CNN, 퍼플렉시티에 저작권 소송…“수천 건 콘텐츠 무단 복제”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211147",
+      "date": "2026-05-31",
+      "summary": "미국의 뉴스 채널 CNN이 퍼플렉시티를 상대로 저작권 침해 소송을 제기했다. 로이터에 따르면, CNN은 28일(현지시간) 뉴욕 연방지방법원에 제출한 소장에서 퍼플렉시티가 자사의 기사, 영상, 이미지 등 수천 건의 콘텐츠를 무단으로 복제해 AI 서비스 운영에 활용하고 있다고 주장했다.또 퍼플렉시티가 CNN의 보도 내용을 기반으로 원본과 동일하거나 실질적으로 유사한 경쟁 콘텐츠를 생성·배포함으로써 저작권을 침해하고 있다고 밝혔다.CNN은 소송을 통해 손해배상과 함께 퍼플렉시티가 자사의 지식재산권을 침해하는 행위를 중단하도록 하는 법원",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "40078cc93130",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천, 2027년 누리호 탑재 ‘순천 SAT’ 개발 본격화…학생·기업 참여 연계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211108",
+      "date": "2026-05-31",
+      "summary": "순천시가 2027년 누리호 6호기에 탑재될 첫 인공위성 ‘순천 SAT’ 개발을 본격화하며 지역 학생과 기업이 참여하는 연계사업을 추진한다.순천은 지난 4월 체결한 ‘순천 SAT 개발 및 실증 업무협약’을 바탕으로 국립순천대, 조선대, 전남테크노파크와 컨소시엄을 구성하고 위성 개발과 지역 연계 프로그램을 함께 진행한다고 밝혔다.이번 사업은 미래 우주 인재 양성과 지역기업 기술 역량 강화를 동시에 겨냥한다. 주요 사업은 학생참여형 ‘순천 SAT 관측 아이디어 공모전’과 기업연계형 ‘순천 SAT 개발 협력기업 발굴사업’이다.‘순천 SAT",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "52da38a94b75",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"미국 제재에 오히려 감사\"…화웨이의 역설, 반도체 자립 가속화 자신감",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211145",
+      "date": "2026-05-31",
+      "summary": "화웨이가 미국의 반도체 제재가 오히려 중국 반도체 산업 성장의 촉매제가 됐다며 \"감사하다\"는 입장을 밝혔다. 수년간 이어진 기술 봉쇄가 오히려 중국 기업들의 연구개발 투자와 독자 기술 확보를 자극했다는 주장이다.쉬즈쥔 화웨이 순환 회장 겸 부회장인 지난주 차세대 반도체 기술과 관련한 인터뷰에서 \"미국이 중국 기업과 산업을 압박하지 않았다면 지금과 같은 변화는 일어나지 않았을 것\"이라며 \"중국 반도체 산업 생태계가 성장할 수 있도록 만든 점에서는 미국에 감사하다\"라고 말했다.화웨이는 25일 행사에서 자체 개발한 ‘로직폴딩(LogicF",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "f6eecc066237",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주 남구, 대촌천·수춘천 ‘생태계 교란종’ 제거 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211101",
+      "date": "2026-05-31",
+      "summary": "광주 남구가 대촌천과 수춘천 일원에서 토종 생태계를 위협하는 생태계 교란종 제거에 나선다.남구는 대촌천, 수춘천, 물빛 근린공원 주변 생태환경을 점검한 결과 환삼덩굴과 도깨비가지, 붉은귀거북 서식 여부를 확인하고 오는 10월까지 집중 관리한다고 밝혔다.이번에 확인된 동식물은 환경부 지정 생태계 교란종으로, 번식력과 적응력이 강해 토종 생물의 서식 공간을 빠르게 잠식하는 특징이 있다. 하천 주변 생태계를 단기간에 훼손해 생물다양성 감소와 생태계 균형 붕괴를 유발할 수 있다.환삼덩굴은 주변 식생을 덮어 토종 식물의 광합성과 생육을 방해",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "5935a74661a9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "영국 태양광, 10년 만에 확장세로… 지난해 2.6GW 신규 설치 ‘역대급’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211069",
+      "date": "2026-05-31",
+      "summary": "영국의 태양광 보급이 2025년 다시 속도를 내며 10년 만에 확장세를 회복했다.27일(현지시간) 영국 정부는 지난해 태양광 2.6기가와트(GW)를 새로 설치했고, 연말 기준 누적 태양광 설비용량은 21.6GW로 늘었다고 발표했다. 전체 태양광 용량은 전년보다 13.6% 증가했다.소규모 옥상 태양광 시장도 뚜렷한 회복세를 보였다. 영국 소규모 재생에너지 인증기관 MCS는 2025년 인증 태양광 설치 건수가 기존 연간 기록인 2011년 20만3125건을 넘어섰다고 밝혔다. 이에 따라 영국의 누적 인증 소규모 태양광 설치는 185만건",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "e8944f4a0f8e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "일본, 폭설 지역 공공시설서 ‘경량 태양광 PPA’ 첫 실증 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211094",
+      "date": "2026-05-31",
+      "summary": "일본 적설 지역에서 경량 태양광을 활용한 전력구매계약(PPA) 실증이 시작됐다.도쿄센추리와 JFE엔지니어링, 어반에너지는 27일 니가타현 묘코시에서 칼코파이라이트 태양전지를 활용한 지자체 대상 태양광 PPA 서비스를 시작했다고 밝혔다.이번 사업은 칼코파이라이트 태양전지를 활용한 일본 첫 지자체 대상 PPA 사례로 소개됐다. 세 회사는 묘코시가 운영하는 묘코클린센터에 PXP의 칼코파이라이트 태양전지를 설치하고, 5월1일부터 시내 공공시설에 재생에너지 전력 공급을 시작했다. 설비 출력은 4.94kW이며, 전력 공급 기간은 2028년 4",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "8a49be032196",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주 광산구 첨단도서관, 청소년 ‘예술·독서 융합 진로 프로그램’ 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211097",
+      "date": "2026-05-31",
+      "summary": "광주 광산구 첨단도서관이 청소년의 진로 탐색을 돕는 예술·독서 융합 프로그램을 운영한다.첨단도서관은 오는 6월13일부터 7월11일까지 매주 토요일 도서관 2층 시청각실에서 ‘예술×진로: 다르게 보고 나답게 선택하기’를 진행한다고 밝혔다.이번 프로그램은 예술가들의 삶과 작품을 매개로 청소년이 다양한 가치관을 이해하고, 자신만의 진로 기준을 세울 수 있도록 돕기 위해 마련됐다. 프로그램은 총 5회 과정으로 운영된다.주요 내용은 피카소의 ‘틀을 깨는 선택’, 뒤샹의 ‘생각이 작품이 되는 순간’, 미켈란젤로의 ‘끝까지 해내는 힘’, 백남준",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "6108e6192b25",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수시보건소, 여름철 ‘레지오넬라증’ 대비 다중이용시설 위생 점검",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211077",
+      "date": "2026-05-31",
+      "summary": "여수시보건소가 여름철 레지오넬라증 예방을 위해 다중이용시설 수질·환경 검사에 나선다.여수보건소는 올해 이른 무더위가 예상됨에 따라 대형건물과 병원, 목욕탕, 숙박업소 등 시민 이용이 많은 시설을 대상으로 위생 점검을 추진한다고 밝혔다.레지오넬라증은 제3급 법정감염병으로, 레지오넬라균 감염에 의해 발생하는 급성 호흡기 질환이다. 대형건물 냉각탑수와 다중이용시설 급수시설, 샤워기, 분수 등 오염된 물속 균이 비말 형태로 인체에 흡입될 경우 감염될 수 있다.주요 증상은 발열, 기침, 오심, 구토, 복통, 호흡곤란 등이다. 대부분 2~5일",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
       "id": "5be6cff8b2ce",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -230,6 +352,224 @@
       "summary": "광양시 인서리공원 반창고갤러리에서 러시아 겨울 풍경을 담은 특별기획전이 열린다.광양은 러시아 리얼리즘 작가 12인의 설경 작품 50여 점을 선보이는 ‘눈의 나라 러시아’를 오는 6월23일까지 개최한다고 밝혔다.이번 전시는 설원과 눈 덮인 자작나무 숲, 강변과 겨울 들녘 등 러시아의 겨울 풍경을 담은 작품으로 구성됐다. 관람객은 러시아 리얼리즘 미술 특유의 색채와 표현 기법을 통해 이국적인 설경을 감상할 수 있다. 초여름에 한겨울 풍경을 만나는 이색적인 ‘문화 피서’ 경험을 제공한다는 점도 특징이다.전시 이해도를 높이기 위한 도슨트",
       "keywords": [],
       "first_seen": "2026-05-30"
+    },
+    {
+      "id": "4f54dd187fdc",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "date": "2026-05-30",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "b6fd04d690e3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "date": "2026-05-30",
+      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "3ffabc5abc63",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Snap alums unveil Ghost Angels fund",
+      "link": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "date": "2026-05-30",
+      "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "54225d41602f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "date": "2026-05-30",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "keywords": [
+        "AI Coding"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "361533e64698",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta is reportedly developing an AI pendant",
+      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "date": "2026-05-30",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "efe0c0c4c881",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "date": "2026-05-30",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "keywords": [
+        "Automation",
+        "Gemini"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "1091c10f9199",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "date": "2026-05-30",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "4fd271260b06",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "date": "2026-05-30",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "bc5a5e4a806d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+      "link": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "date": "2026-05-30",
+      "summary": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "ab2b3abb1532",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TikTok’s road to becoming a super app",
+      "link": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
+      "date": "2026-05-30",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "18ced20bf064",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "내부 데이터로 ‘예측 시장’서 18억 챙긴 구글 직원 기소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211140",
+      "date": "2026-05-30",
+      "summary": "구글의 현직 소프트웨어 엔지니어가 회사의 기밀 검색 데이터를 이용해 베팅 플랫폼 ‘폴리마켓’에서 불법 거래를 감행한 혐의로 미국 검찰에 기소됐다.미국 맨해튼 연방 검찰청은 28일(현지시간) 구글의 이탈리아 국적 엔지니어 미켈레 스파뇰로를 사기 및 자금 세탁 혐의로 기소했다고 밝혔다. 법원에 제출된 형사 고소장에 따르면, 스파뇰로는 구글 내부의 극소수 직원만 접근할 수 있는 비공개 검색 통계 데이터를 활용해 약 120만달러(약 18억원) 상당의 부당 이득을 챙긴 혐의를 받고 있다.그는 폴리마켓에서 ‘알파라쿤(AlphaRaccoon)’",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "797d9e5da4d4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, ‘AI 펜던트’ 개발 착수…AI 안경 라인업도 대폭 추가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211141",
+      "date": "2026-05-30",
+      "summary": "메타가 내년에 새로운 AI 펜던트를 추가하고 AI 안경 제품군을 대폭 확장할 것으로 밝혀졌다. 하드웨어 사업 강화로 수익을 확대하고 자체 AI 모델 활용도를 극대화하려는 의도다.디 인포메이션은 29일(현지시간) 알렉스 히멜 메타 웨어러블 부문 부사장이 작성한 내부 메모를 입수, 웨어러블 기기 로드맵을 공개했다.이에 따르면, 히멜 부사장은 메타의 AI 모델과 새로운 앱 구독 요금제, 현재 개발 중인 소비자용 AI 에이전트 '해치(Hatch)'의 사용을 촉진하기 위해 하드웨어 제품군을 확대한다고 밝혔다.AI 펜던트의 구체적인 사양은 나",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "5d040618b24e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, AI 검색에 ‘사용자 선호 소스’ 기능 도입...\"맞춤형 콘텐츠 강화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211139",
+      "date": "2026-05-30",
+      "summary": "구글이 AI 검색에서도 사용자가 신뢰하는 출처와 고품질 콘텐츠를 쉽게 발견할 수 있도록 돕는 새로운 업데이트를 발표했다.구글은 27일(현지시간) AI 개요와 AI 모드에서 사용자가 즐겨 찾는 웹사이트를 지정할 수 있는 '선호 소스(Preferred Sources)’ 기능을 추가했다.사용자가 검색 개인 설정에서 소스 기본 설정을 찾아 자주 방문하거나 신뢰하는 미디어나 블로그 사이트를 등록하면, AI 답변에서 해당 소스의 링크가 먼저 노출된다. 구글은 사전 테스트 결과, 사용자가 선호하는 소스로 지정된 웹사이트로 이동할 확률이 일반 링",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "f42a59e10aa9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"페인트 모션 후 라보나 킥\"…현대차, RL로 구현한 휴머노이드 제어 기술 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211138",
+      "date": "2026-05-30",
+      "summary": "현대자동차가 월드컵을 앞두고 자회사 보스턴 다이내믹스의 휴머노이드 로봇 아틀라스의 축구 동작 학습 과정을 담은 '스쿨 오브 풋볼(School of Football)' 캠페인 영상을 29일 공개했다.이 중 프롤로그와 첫 번째 시리즈에 해당하는 '기초 동작'은 지난 25일 선보여 화제가 됐다. 여기에 두 번째 훈련인 '킥'과 세 번째인 '라보나 킥'를 추가했다. 특히 29일에는 아틀라스가 수비수를 속이는 페인트 동작과 라보나 킥을 결합한 고난도 기술 '고스트 라보나 킥'이 하이라이트로 소개됐다.현대차는 정밀한 전신 제어 기술과 실시간",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "402d2a2a530f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 서소문 고가 붕괴·삼전닉스 ETF 여풀 속 '종전 기대감'에 출렁인 환율",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211137",
+      "date": "2026-05-30",
+      "summary": "AI타임스와 이스트에이드의 5월 넷째 주(5월 22일~28일) 이슈 분석 결과, 인명 사고와 주식 시장 변동성, 국제 정세 등이 키워드 상위권을 차지했다.이번 주 가장 높은 검색량을 기록한 1위는 ‘서소문 고가 붕괴(8.76%)’다.서울 서소문 고가차도 철거 현장에서 발생한 붕괴 사고로 3명이 숨졌다. 사고 직후 열차 운행에 차질이 빚어졌으며, 사고 나흘 만에 KTX와 경의선 운행이 재개되고 있다. 노동 당국은 공사의 원·하청업체 본사 및 현장사무실 등 총 7개소에 대해 압수수색을 진행 중이다.2위는 지난주에 이어 ‘스타벅스 탱크데",
+      "keywords": [],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "2de516fa1bfa",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "리퀴드 AI, 온디바이스용 모델 ‘LFM2.5’ 공개…환각 줄고 추론 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211132",
+      "date": "2026-05-30",
+      "summary": "리퀴드 AI가 소비자용 하드웨어에서 실행할 수 있는 차세대 온디바이스 AI 모델을 공개했다. 리퀴드 AI는 28일(현지시간) 도구 호출과 에이전트 작업 수행에 최적화된 전문가 혼합(MoE) 모델 ‘LFM2.5-8B-A1B’를 공개했다. 새 모델은 최대 12만8000토큰의 장문 컨텍스트와 추론(reasoning) 기능을 새롭게 지원한다.LFM2.5-8B-A1B는 지난해 공개된 LFM2-8B-A1B의 후속 모델로, 총 83억개(8.3B)의 매개변수를 보유하고 있지만 실제 추론 과정에서는 15억개(1.5B)만 활성화된다. 이러한 희소 구",
+      "keywords": [
+        "AI Agent",
+        "Reasoning"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "e739ea94875b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스텝펀, ‘스텝 3.7 플래시’ 공개...\"클로드 97% 성능인데 비용은 1/9\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211130",
+      "date": "2026-05-30",
+      "summary": "스텝펀이 멀티모달 기능과 에이전트 실행 능력을 대폭 강화한 차세대 모델을 공개했다. 이 모델은 이미지 이해 기능이 처음으로 탑재됐으며, 코딩과 도구 활용, 장기 작업 수행 능력에서 전작을 크게 뛰어넘는 성능을 기록했다. 스텝펀은 29일(현지시간) 총 1980억개(198B)의 매개변수를 갖춘 희소 전문가 혼합(MoE) 기반 비전-언어 모델 ‘스텝 3.7 플래시(Step 3.7 Flash)’를 오픈소스로 공개했다.1960개 규모의 언어 모델과 18억개 규모의 비전 인코더(ViT)를 결합해 이미지와 텍스트를 동시에 처리할 수 있도록 설계",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "Open Source"
+      ],
+      "first_seen": "2026-05-31"
     },
     {
       "id": "0f942237e7a3",
@@ -5873,6 +6213,86 @@
       "summary": "기술 세계는 정말 빨리 바뀝니다. 어제까지 뜨겁던 기술이 몇 년 뒤에는 조용해지고, 또 다른 이름의 프레임워크가 등장합니다. 그래서 백엔드를 처음 공부하는 분들은 종종 이렇게 생각합니다. “스프링은 너무 오래된 거 아닌가?” 저도 처음에는 비슷했습니다. 처음 스프링 프로젝트를 열었을 때 느낀 인상은 솔직히 무겁고, 복잡하고, 파일도 많고, 구조도 딱딱하다는 쪽에 가까웠습니다. 그런데 이상하게도 한국에서 일할 때도 스프링을 봤고, 일본에서 일할 때도 또 스프링을 봤습니다. 더 흥미로웠던 건 단순히 예전부터 쓰던 기술이라서 남아 있는",
       "keywords": [],
       "first_seen": "2026-05-27"
+    },
+    {
+      "id": "b425a0e5f3fe",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "Opus 4.8 등장: 클로드는 빼앗긴 주도권을 찾아올까?",
+      "link": "https://yozm.wishket.com/magazine/detail/3780",
+      "date": "",
+      "summary": "Opus 4.8이 나왔습니다. 4.7이 나온지 42일만이죠. 전에 없던 빠른 업그레이드입니다. GPT-5.5와 Codex에 주도권을 내준 한 달, 클로드의 반격 턴이죠. 가격은 그대로 둔 채 코딩·장기 에이전트 벤치마크를 끌어올렸고, 핵심으로 내세운 건 '정직성'입니다. 같은 날 클로드 코드는 스스로 수십~수백 개 에이전트를 지휘하는 workflow를 공개했고요. 공식 문서와 커뮤니티 반응을 따라가며, 마지막으로 미토스(Mythos) 현황까지 정리했습니다.",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Claude",
+        "Coding",
+        "GPT"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "30daa8ab3fe1",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "[클코나잇 2] 웨비나 OPEN! 클로드 코드의 한계 확장",
+      "link": "https://yozm.wishket.com/magazine/detail/3778",
+      "date": "",
+      "summary": "지난 5월 27일, 클코나잇 시즌 2 1회차 웨비나가 열렸습니다. 1회차 웨비나가 끝난 후, “좋은 인사이트를 쉽게 이해할 수 있는 배움의 장”, “생활의 달인처럼 주변의 고수님들을 만난 시간”, “나와 비슷한 고민과 생각을 가진 사람들의 모임”이라는 후기가 이어졌는데요. 이번 2회차는 한 걸음 더 들어가, 헤드리스 모드에서 채널 기반 세션으로 클로드 코드 자동화 구조를 바꾼 이야기, AI 에이전트를 모바일에서 이어가는 방법, 5일 만에 웹 포털 런칭하기, AI 도구 26개를 만들며 얻은 자동화 노하우까지. 각자의 이유로 클로드 코",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Claude"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "ecd4433ade53",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "1년 전 클로드 코드가 뜰 거라고 예측했던 Dan Shipper의 새 예측",
+      "link": "https://yozm.wishket.com/magazine/detail/3776",
+      "date": "",
+      "summary": "도구 118개를 한 번에 연결하는 오픈소스 개인 AI 에이전트 OpenHuman, 1년 전 클로드 코드의 부상을 적중시킨 Dan Shipper의 새 AI 예측 12가지, 코딩 도구를 넘어 PM·디자인·재무·영업까지 확장된 오픈AI 코덱스 활용 사례 52선. 이번 주 프로덕트 메이커가 알아야 할 세 가지를 정리했습니다.",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "Open Source"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "0c5510f08ebd",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI는 왜 자꾸 틀리는가",
+      "link": "https://yozm.wishket.com/magazine/detail/3775",
+      "date": "",
+      "summary": "AI 챗봇은 거짓말을 하지 않습니다. 그저 '가장 그럴듯한 답변'을 생성할 뿐입니다. 그런데 그 답으로 회사가 법정에 가야 하는 문제가 생기기도 합니다. 같은 입력에 같은 출력이 나오는 결정론적 소프트웨어와 달리, LLM은 답을 계산하지 않고 생성합니다. 이 차이가 프로덕트의 테스트·실패·비용을 통째로 바꿔놓습니다. 정확도 100%를 KPI로 잡지 않는 이유, 실패가 조용히 그럴듯하게 오는 이유, '버그를 0으로 만드는 PM'에서 '확률과 함께 사는 법을 설계하는 PM'으로의 이동까지, 그 근간을 설명합니다. AI 프로덕트 매니지먼",
+      "keywords": [
+        "Chatbot",
+        "LLM"
+      ],
+      "first_seen": "2026-05-31"
+    },
+    {
+      "id": "8d4186ebe0a2",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "바이브 코딩으로 7일간 900커밋, 디자이너의 앱 출시기",
+      "link": "https://yozm.wishket.com/magazine/detail/3774",
+      "date": "",
+      "summary": "지난 3월 9일, 저는 클로드(Claude)에게 “뭔가 새로운 아이디어 없니?”라고 물었습니다. 그리고 3월 16일, 앱스토어(App Store)에 심사를 넣었습니다. 앱스토어에 업로드하기 전까지 7일 동안 커밋(Commit)을 900개 달성한 것이죠. 저는 업무를 마친 뒤, 남은 주말과 출근 전 오전, 퇴근 후 밤 시간을 투자해 ‘문채(문장 채집 앱)’을 만들었습니다. 이번 글에서는 제가 바이브 코딩으로 문채를 만들며 겪은 기획과 문제 정의 과정, 3,800줄 코드와 42개 파일 동시 수정, 로그인 오류 같은 시행착오, 그리고 앱",
+      "keywords": [
+        "Claude",
+        "Vibe Coding"
+      ],
+      "first_seen": "2026-05-31"
     }
   ],
   "daily_stats": [
@@ -5910,6 +6330,11 @@
       "date": "2026-05-30",
       "added": 35,
       "total": 434
+    },
+    {
+      "date": "2026-05-31",
+      "added": 32,
+      "total": 466
     }
   ],
   "sources": {},
@@ -6029,34 +6454,34 @@
     {
       "week": "2026-W22",
       "keywords": {
-        "AI Agent": 39,
-        "Automation": 21,
+        "AI Agent": 42,
+        "Automation": 22,
         "GPT": 12,
         "Coding": 10,
         "Security": 9,
+        "Claude": 8,
         "Enterprise AI": 7,
         "LLM": 7,
-        "Claude": 7,
+        "Gemini": 6,
         "SDK/API": 6,
         "Cloud/DevOps": 6,
-        "Gemini": 5,
         "Optimization": 5,
         "Robotics": 4,
-        "Generative AI": 3,
-        "Deployment": 3
+        "Generative AI": 4,
+        "Open Source": 4
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 53,
-      "recent_7d": 53,
-      "recent_30d": 53
+      "total": 63,
+      "recent_7d": 63,
+      "recent_30d": 63
     },
     "aitimes": {
-      "total": 86,
-      "recent_7d": 86,
-      "recent_30d": 86
+      "total": 103,
+      "recent_7d": 103,
+      "recent_30d": 103
     },
     "lycorp": {
       "total": 32,
@@ -6114,11 +6539,11 @@
       "recent_30d": 10
     },
     "yozm": {
-      "total": 30,
-      "recent_7d": 30,
-      "recent_30d": 30
+      "total": 35,
+      "recent_7d": 35,
+      "recent_30d": 35
     }
   },
-  "last_updated": "2026-05-30",
-  "total_articles": 434
+  "last_updated": "2026-05-31",
+  "total_articles": 466
 }
