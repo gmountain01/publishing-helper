@@ -1,6 +1,156 @@
 {
   "articles": [
     {
+      "id": "35a44044c93d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 코딩·에이전트 기능 통합한 '코파일럿 슈퍼 앱' 개발 중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211175",
+      "date": "2026-06-01",
+      "summary": "마이크로소프트(MS)가 분산된 다양한 코파일럿(Copilot) 서비스를 하나로 통합하는 '코파일럿 슈퍼 앱(Super App)' 개발에 나선 것으로 알려졌다. 코딩 지원부터 업무 협업, AI 에이전트 기능까지 하나의 인터페이스에서 제공하는 것이 목표다.29일(현지시간) 포춘에 따르면, MS는 내부적으로 '딜리버링 원 코파일럿(Delivering One Copilot)'이라는 슬로건으로 새로운 통합 코파일럿 플랫폼을 개발 중이다.소비자용과 기업용 코파일럿 서비스를 하나의 생태계로 통합하는 것이 핵심 과제로, 최근 코파일럿 총괄 책임자",
+      "keywords": [
+        "AI Agent",
+        "AI Coding"
+      ],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "baedeca29cd2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "네이버, 드론 플랫폼 유비파이에 투자...\"피지컬 AI 생태계 확장\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211174",
+      "date": "2026-06-01",
+      "summary": "유비파이(대표 임현)는 네이버로부터 투자를 유치하고 전략적 파트너십을 체결했다고 1일 밝혔다. 투자 액수는 공개하지 않았다.유비파이의 드론 군집비행 기술 및 자율비행 플랫폼에 네이버의 AI·클라우드·디지털 트윈 기술을 접목해 공공 드론 시장 공략을 본격화할 계획이다.드론이 현실 세계의 데이터를 실시간으로 인지하고 스스로 판단하는 피지컬 AI 인프라를 구축해 스마트시티부터 공공 안전까지 광범위한 현장에 적용하는 것이 목표라고 전했다.유비파이는 세계 최대 규모 군집 드론 기네스 기록을 보유하고 있으며, 드론 기업 최초로 '1000만달러",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "61073b25aaae",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 공공배달앱 ‘먹깨비’ 주말 5000원 할인쿠폰 쏜다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211168",
+      "date": "2026-06-01",
+      "summary": "여수시가 주말 외식 소비를 촉진하고 지역 소상공인을 지원하기 위해 공공배달앱 ‘먹깨비’ 할인 이벤트를 운영한다고 1일 밝혔다.여수는 6월과 7월 두 달간 ‘소상공인 힘내장(場)! 먹깨비 주말 할인쿠폰’ 이벤트를 추진한다.이번 이벤트는 소비가 집중되는 주말 시간대 지역 상권에 활력을 불어넣기 위해 마련됐다. 행사명에 포함된 ‘장’은 소상공인과 시민이 함께 어우러지는 상생의 마당이라는 의미를 담았다.할인쿠폰은 6월1일부터 예산 소진 시까지 선착순으로 발급된다. 주문 금액 1만5000원 이상 결제할 경우 5000원 할인쿠폰을 1일 1회",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "b809cfee7a0f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 바이오 안보 프로젝트 시동…'GPT-로절린드' 제한적 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211165",
+      "date": "2026-06-01",
+      "summary": "오픈AI가 바이오 안보와 생명과학 위한 새로운 AI 이니셔티브를 공개하며 첨단 AI를 활용한 공중보건 및 생물방어 역량 강화에 본격적으로 나섰다. 특히, 사이버보안 분야의 '미소스'나 'GPT-5.5-사이버'와 유사한 개념의 생명과학 특화 AI 모델 ‘GPT-로절린드(GPT-Rosalind)’를 공개했다.오픈AI는 29일(현지시간) 새로운 생물 방어 프로그램인 ‘로절린드 바이오디펜스(Rosalind Biodefense)’를 출범했다.이에 따라 생명과학 연구를 위해 개발한 추론 모델 GPT-로절린드의 접근 권한을 미국 정부와 동맹국의",
+      "keywords": [
+        "GPT",
+        "Security"
+      ],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "b88aa9601ef3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“호르무즈 해협 위기 충격”…IEA, 각국 ‘에너지 안보’ 중심 투자 재편 진단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211164",
+      "date": "2026-06-01",
+      "summary": "중동 전쟁으로 촉발된 에너지 충격이 세계 에너지 투자 전략을 바꿀 수 있다는 국제에너지기구(IEA)의 분석이 나왔다. 호르무즈 해협 차질로 석유·가스 공급 불안이 커지면서 각국이 에너지 안보를 다시 투자 판단의 중심에 놓기 시작했다는 진단이다.IEA는 28일(현지시간) 공개한 ‘세계 에너지 투자 2026’ 보고서에서 올해 세계 에너지 투자액이 3조4000억달러(약 4930조원)에 이를 것으로 전망했다.전년보다 5% 늘어난 규모다. 청정에너지 투자액은 2조2000억달러(약 3336조원)로, 화석연료 투자액을 크게 웃돈다.파티 비롤 I",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "38273cb97b7f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국 세액공제 축소 우려 속…코네티컷, 태양광·배터리 장기 지원 통과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211163",
+      "date": "2026-06-01",
+      "summary": "미국 코네티컷주가 주택용·커뮤니티 태양광 인센티브를 2035년까지 연장하는 법안을 추진하면서 배터리에너지 저장장치(BESS)가 핵심 수혜 대상으로 떠올랐다.코네티컷 주의회는 지난 6일 주택용·커뮤니티 태양광 지원 프로그램을 2035년까지 유지하는 법안을 통과시켰고, 법안은 네드 라몬트 주지사 서명을 앞두고 있다.법안에는 주택용 태양광과 커뮤니티솔라 시장의 제도 공백을 막는 동시에 배터리 저장장치의 역할을 키우는 내용을 담고 있다. 코네티컷주의 주택용 태양광, 상업용 태양광, 커뮤니티 태양광 지원 프로그램을 2035년까지 연장하는 내",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "f5cb9751ef95",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "호주, 글로벌 가정용 배터리 시장 ‘석권’…전 세계 보급 용량의 60% 집중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211161",
+      "date": "2026-06-01",
+      "summary": "호주가 가정용 태양광에 이어 배터리 보급에서도 세계 주요 시장으로 떠올랐다. 주택 3곳 중 1곳에 태양광 패널이 설치된 데 이어, 지난해 7월 이후 가정용 배터리 약 41만5000대가 새로 연결되면서 주택 25곳 중 1곳이 배터리를 갖추게 됐다.31일(현지시간) 가디언에 따르면, 호주는 정책 지원과 전력시장 구조 변화가 맞물리며 가정용 재생에너지와 배터리 확산이 전력시장 비용을 낮출 수 있음을 보여주고 있다.올해 회계연도 기준 전 세계 약 200개국에 설치된 가정용 배터리 용량의 60% 가까이가 호주에 집중될 것이라는 분석도 나왔다",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "64078323aaba",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KAIST, AI대학 비전 선포식 개최…”AI 대학 자문단 출범”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211150",
+      "date": "2026-06-01",
+      "summary": "한국과학기술원(KAIST, 총장 이광형)은 학술문화관(E9) 5층 정근모컨퍼런스홀에서 ‘KAIST AI대학 비전선포식’을 개최했다고 1일 밝혔다.비전선포식은 이광형 KAIST 총장의 환영사로 시작됐다.이어 배경훈 부총리 겸 과학기술정보통신부 장관이 기조강연을 통해 AI 시대 핵심 인재 양성과 교육 혁신 방향을 제시했다. 배경훈 부총리는 “AI가 생성의 단계를 넘어 실행의 단계로 넘어가는 대전환의 시기에 선제 대응하기 위해서는 AI 인재에 대한 투자가 가장 시급하다”라고 강조했다.산업현장 및 글로벌 전문가들로 구성된 AI대학 자문단",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "fd7f3f49a5da",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“1만 2900원으로 남도 바다·미식 여행”…‘남도한바퀴’ 여름 코스 시동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211157",
+      "date": "2026-06-01",
+      "summary": "전라남도가 여름철을 맞아 관광지 순환버스 ‘남도한바퀴’ 여름 코스를 새로 운영한다고 1일 밝혔다.전남은 6월부터 8월까지 해변과 섬, 숲, 정원, 해양레저, 남도미식을 한 번에 즐길 수 있는 14개 여행코스를 선보인다.남도한바퀴는 버스를 타고 코스별로 3~5개 관광명소와 축제를 함께 둘러보는 전남 대표 관광상품이다. 이번 여름 코스는 순천·광양, 장성·영광, 목포, 화순·담양, 여수, 고흥 등 전남 주요 관광지를 중심으로 구성됐다.주요 코스에는 선암사와 광양 불고기거리, 요트체험을 잇는 순천·광양 코스, 백양사와 영광 굴비거리, 백",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "a257dee85710",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주, 청년 인건비 90% 지원하는 ‘일경험드림’ 사업장 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211158",
+      "date": "2026-06-01",
+      "summary": "광주시가 하반기 광주청년 일경험드림 사업에 참여할 제20기 드림터를 오는 17일까지 모집한다고 밝혔다.드림터는 미취업 청년에게 실무 중심 일경험을 제공하는 사업장이다. 광주청년 일경험드림 사업은 청년이 지역 사업장에서 실제 직무를 경험하며 취업역량을 키우고, 지역사회에 안정적으로 정착하도록 돕는 청년 일자리 지원 사업이다.광주는 이번 모집을 통해 청년에게는 현장 경험을, 사업장에는 지역 인재를 사전에 발굴할 기회를 제공한다는 방침이다.모집 대상은 광주, 광주전남공동혁신도시, 빛그린산업단지에 있는 상시근로자 5인 이상 사업장이다. 신",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "ba63555f089e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 콘텐츠 OS ‘크리어스’, 오픈AI 협업 트랙 ‘열림’ 프로그램 선정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211121",
+      "date": "2026-06-01",
+      "summary": "AI 콘텐츠 OS ‘크리어스(CREUS)’를 운영하는 프롬랩스(대표 강동훈)가 중소벤처기업부·창업진흥원이 주관하는 ‘2026 어라운드X(AroundX) 글로벌 기업 협업 프로그램’의 오픈AI 협업 트랙 참여 기업으로 선정됐다고 1일 밝혔다. 이에 지난 15일 오리엔테이션을 시작으로 본격적인 프로그램 활동에 돌입했다.어라운드X는 정부와 글로벌 기업이 손잡고 국내 유망 스타트업의 성장과 해외 진출을 지원하는 오픈이노베이션 프로그램으이다. 올해에는 오픈AI, 메르세데스-벤츠 코리아, 아스텔라스, HP 등 4개사가 합류, 17개 기업으로",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "763ffa676944",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "업스테이지, 독파모 '중간 모델'로 국내 첫 AA 40점대 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211156",
+      "date": "2026-06-01",
+      "summary": "업스테이지(대표 김성훈)는 독자 파운데이션 모델 프로젝트 2차 평가를 앞두고 개발 중인 ‘솔라(Solar-Preview)’가 글로벌 AI 모델 성능 평가 지표인 ‘아티피셜 애널리시스(AA) 인덱스’ 40점을 돌파했다.김성훈 업스테이지 대표는 31일 개인 페이스북 계정을 통해 업스테이지 컨소시엄의 독자 AI 모델 성능 지표를 공개했다.이는 6월 말에 공개 예정인 2차 평가 모델의 ‘중간 모델’로, 사실상 완성된 버전은 아니다. 그럼에도 미국과 중국의 AI 모델만이 달성했던 40점의 벽을 넘어서며 기술력을 입증했다고 강조했다. 특히,",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
       "id": "3c8135aac01f",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -121,6 +271,193 @@
       "summary": "여수시보건소가 여름철 레지오넬라증 예방을 위해 다중이용시설 수질·환경 검사에 나선다.여수보건소는 올해 이른 무더위가 예상됨에 따라 대형건물과 병원, 목욕탕, 숙박업소 등 시민 이용이 많은 시설을 대상으로 위생 점검을 추진한다고 밝혔다.레지오넬라증은 제3급 법정감염병으로, 레지오넬라균 감염에 의해 발생하는 급성 호흡기 질환이다. 대형건물 냉각탑수와 다중이용시설 급수시설, 샤워기, 분수 등 오염된 물속 균이 비말 형태로 인체에 흡입될 경우 감염될 수 있다.주요 증상은 발열, 기침, 오심, 구토, 복통, 호흡곤란 등이다. 대부분 2~5일",
       "keywords": [],
       "first_seen": "2026-05-31"
+    },
+    {
+      "id": "6e2aa85b95d5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "date": "2026-05-31",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "43b874f58198",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "date": "2026-05-31",
+      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "c1384759d49d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+      "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+      "date": "2026-05-31",
+      "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "25426526b484",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
+      "link": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
+      "date": "2026-05-31",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "219fb65d984a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Making sense of the debate over AI psychosis",
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "date": "2026-05-31",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "d11ddbb842b3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+      "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "date": "2026-05-31",
+      "summary": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "3e476249ebcc",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
+      "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "date": "2026-05-31",
+      "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "f04bc16b12c2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“춤추는 젠슨 황, CEO 같지 않아”…직원 행사 영상 또 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211155",
+      "date": "2026-05-31",
+      "summary": "Jensen Huang is out there living his best life, dancing at the NVIDIA all-employee celebration event in Taipei, TaiwanYou'd never guess he's the CEO pic.twitter.com/LsLTsMfPqd— Mario Nawfal (@MarioNawfal) May 30, 2026젠슨 황 엔비디아 CEO가 직원들과 함께 춤을 추는 영상이 온라인에서 화제를 모으고 있다.30일 X에 게시물을 올린 기술 인플루언서 마리오 노팔은 그",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "1541e89838de",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“단순 감지 넘어 맥락까지 본다”…그렙, 시험감독 기술에 ‘에이전트’ 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211152",
+      "date": "2026-05-31",
+      "summary": "AI 테스팅 전문 그렙(대표 임성수)은 온라인 시험 감독 솔루션 '모니토'에 에이전트 시스템을 도입, 정확도를 향상했다고 31일 밝혔다.AI 시험감독 모니토는 ▲시선 추적 ▲얼굴 인증 ▲화면 복제 및 듀얼 모니터 사용 방지 등 AI 기반 부정행위 방지 기술과 ▲웹캠과 모바일, 화면 공유를 통한 3채널 실시간 모니터링 기능을 갖춘 온라인 시험 감독 솔루션이다. 오프라인 대비 최대 40% 수준의 운영 비용 절감 효과를 입증한 바 있다.하지만, 기존에는 ‘손이 화면 밖으로 나갔다’와 같은 단순한 동작 감지에 의존해야 했기 때문에, 부정행",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "5357bbf04766",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈 모델, 폐쇄형에 4개월 뒤져…에포크 \"격차 다시 확대\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211153",
+      "date": "2026-05-31",
+      "summary": "개방형 AI 모델과 폐쇄형 모델 간 성능 격차가 올해 들어 다시 소폭 벌어진 것으로 나타났다. 다만 격차는 여전히 수개월 수준에 그쳤다.비영리 연구 기관인 에포크 AI(Epoch AI)는 29일(현지시간) 보고서를 통해 최고 수준의 오픈웨이트 모델이 최고 수준의 폐쇄형 모델보다 평균 4개월 정도 뒤처져 있다고 밝혔다.이번 분석은 자체 개발한 '에포크 역량 지수(ECI)'를 기반으로 이뤄졌다. ECI는 다양한 AI 평가 결과를 종합해 모델의 전반적인 성능 수준을 측정하는 지표다.ECI 기준 최고 점수를 기록한 모델은 지난 4월 공개된",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "b0e87bc3f928",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“AI 서버 구축 전 미리 성능 검증”…KAIST, LLM 인프라 시뮬레이터 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211151",
+      "date": "2026-05-31",
+      "summary": "AI 인프라의 성능과 효율을 미리 테스트하고 검증해 볼 수 있는 ‘AI 가상 실험장’ 개발에 성공했다. 한국과학기술원(KAIST, 총장 이광형)은 박종세 전산학부 교수 연구팀이 개발한 대형언어모델(LLM) 서비스 인프라 시뮬레이터 연구가 국제적인 컴퓨터 시스템 학회 ‘ISPASS 2026’에서 최우수 논문상을 받았다고 31일 밝혔다.연구팀이 개발한 인프라 시뮬레이터의 정식 명칭은 ‘LLM서빙심 2.0(LLMServingSim 2.0)’이다. 대규모 AI 서버를 구축하기 전에 컴퓨터 안에서 성능과 효율을 미리 검증할 수 있는 가상 실",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "333b5e4d0b72",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "가우디오랩, 'AI 오디오'로 모빌리티 시장 조준...\"차량용 사운드 고도화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211149",
+      "date": "2026-05-31",
+      "summary": "가우디오랩(대표 오현오)은 최근 자동차 전장 전문 모트렉스와 AI 오디오 기술 탑재 ‘차량용 인포테인먼트 사운드 솔루션 고도화’ MOU를 체결, 모빌리티 산업 진출을 확장한다고 31일 밝혔다.모트렉스는 가우디오랩의 AI 오디오 원천기술을 차량용 IVI(In-Vehicle Infortainment) 양산 제품에 적용하기 위한 기술 협력을 추진한다. 완성차 고객사의 차세대 SDV(Software Defined Vehicle) 요구에 대응하고, AI 사운드 사용자경험(UX)을 강화한다는 전략이다.가우디오랩 관계자는 “최근 자동차 업계에서",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "d1289452bf14",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "소프트뱅크, 프랑스에 최대 131조 투자…유럽 최대 AI 인프라 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211144",
+      "date": "2026-05-31",
+      "summary": "일본 소프트뱅크가 프랑스에 최대 750억유로(약 131조원)의 AI 데이터센터 인프라를 구축하는 초대형 투자 계획을 발표했다. 계획이 현실화하면 유럽 최대 규모의 AI 데이터센터 프로젝트가 탄생하게 된다.30일(현지시간) 라트리뷴 에 따르면, 소프트뱅크는 프랑스 북부 오드프랑스 지역을 중심으로 2031년까지 450억유로(약 79조원)를 우선 투자해 총 3.1기가와트(GW) 규모의 AI 데이터센터 컴퓨팅 용량을 구축할 계획이라고 밝혔다.대상 지역은 됭케르크, 보스켈, 부샹 등이며, 이후 추가 개발을 통해 총투자 규모를 750억유로,",
+      "keywords": [],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "69ba2225e959",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[기고] 한국딥러닝 “제조 AI 보안의 핵심: 원문은 이해하되, 활용은 통제하라”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211148",
+      "date": "2026-05-31",
+      "summary": "■ 제조 문서를 AI가 읽는 순간, 보안은 생산 경쟁력의 문제가 된다기업 AI 도입 논의에서 가장 먼저 등장하는 질문은 대부분 ‘성능’입니다. 문서를 얼마나 정확하게 읽는가, 업무를 얼마나 빠르게 처리하는가, 사람이 검토하던 과정을 얼마나 줄일 수 있는가가 주요 평가 기준이 됩니다. 그러나, 실제 제조 현장에 들어가면 질문은 곧 달라집니다. 이 문서를 AI가 읽어도 되는가. AI가 읽은 결과는 어디에 저장되는가. 누가 그 결과를 볼 수 있는가. 협력사나 외부 시스템과 공유할 수 없는 문서는 무엇인가. 특히, 제조업에서는 이 질문이",
+      "keywords": [
+        "ML/DL",
+        "Security"
+      ],
+      "first_seen": "2026-06-01"
+    },
+    {
+      "id": "126bcdb39b53",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, PC CPU 시장 본격 진출…MS와 첫 ‘윈도우 AI PC’ 선보인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211142",
+      "date": "2026-05-31",
+      "summary": "AI 칩 시장을 주도하고 있는 엔비디아가 본격적으로 PC 프로세서 시장에 진출한다. 마이크로소프트(MS)와 손잡고 자사 칩을 메인 프로세서로 탑재한 첫 윈도우 PC를 공개할 예정이다.30일(현지시간) 악시오스에 따르면, 엔비디아와 MS는 다음 주 대만에서 열리는 '컴퓨텍스 2026'과 미국 샌프란시스코에서 개최되는 'MS 빌드 2026'에서 공동 개발한 차세대 AI PC를 발표할 예정이다.새 제품은 엔비디아의 프로세서를 주 CPU로 사용하는 최초의 윈도우 PC로 알려졌다. 또 MS의 '서피스(Surface)' 브랜드뿐 아니라 델 등",
+      "keywords": [],
+      "first_seen": "2026-06-01"
     },
     {
       "id": "5be6cff8b2ce",
@@ -6335,23 +6672,15 @@
       "date": "2026-05-31",
       "added": 32,
       "total": 466
+    },
+    {
+      "date": "2026-06-01",
+      "added": 27,
+      "total": 493
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W15",
-      "keywords": {
-        "Open Source": 1,
-        "SDK/API": 1,
-        "Video AI": 1,
-        "Embeddings": 1,
-        "Multimodal": 1,
-        "AI Safety": 1,
-        "Developer Tools": 1,
-        "Generative AI": 1
-      }
-    },
     {
       "week": "2026-W16",
       "keywords": {
@@ -6454,96 +6783,105 @@
     {
       "week": "2026-W22",
       "keywords": {
-        "AI Agent": 42,
+        "AI Agent": 43,
         "Automation": 22,
         "GPT": 12,
         "Coding": 10,
-        "Security": 9,
+        "Security": 10,
         "Claude": 8,
+        "LLM": 8,
         "Enterprise AI": 7,
-        "LLM": 7,
         "Gemini": 6,
         "SDK/API": 6,
         "Cloud/DevOps": 6,
         "Optimization": 5,
-        "Robotics": 4,
         "Generative AI": 4,
-        "Open Source": 4
+        "Open Source": 4,
+        "Robotics": 4
+      }
+    },
+    {
+      "week": "2026-W23",
+      "keywords": {
+        "AI Agent": 1,
+        "AI Coding": 1,
+        "GPT": 1,
+        "Security": 1
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 63,
-      "recent_7d": 63,
-      "recent_30d": 63
-    },
     "aitimes": {
-      "total": 103,
-      "recent_7d": 103,
-      "recent_30d": 103
-    },
-    "lycorp": {
-      "total": 32,
-      "recent_7d": 32,
-      "recent_30d": 32
-    },
-    "openai": {
-      "total": 41,
-      "recent_7d": 41,
-      "recent_30d": 41
-    },
-    "huggingface": {
-      "total": 34,
-      "recent_7d": 34,
-      "recent_30d": 34
-    },
-    "google_ai": {
-      "total": 24,
-      "recent_7d": 24,
-      "recent_30d": 24
-    },
-    "aws_ml": {
-      "total": 33,
-      "recent_7d": 33,
-      "recent_30d": 33
-    },
-    "nvidia_ai": {
-      "total": 21,
-      "recent_7d": 21,
-      "recent_30d": 21
-    },
-    "meta_eng": {
-      "total": 10,
-      "recent_7d": 10,
-      "recent_30d": 10
-    },
-    "woowahan": {
-      "total": 10,
-      "recent_7d": 10,
-      "recent_30d": 10
-    },
-    "toss": {
-      "total": 20,
+      "total": 123,
       "recent_7d": 20,
       "recent_30d": 20
     },
+    "techcrunch": {
+      "total": 70,
+      "recent_7d": 7,
+      "recent_30d": 7
+    },
+    "lycorp": {
+      "total": 32,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "openai": {
+      "total": 41,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "huggingface": {
+      "total": 34,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "google_ai": {
+      "total": 24,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "aws_ml": {
+      "total": 33,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "nvidia_ai": {
+      "total": 21,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "meta_eng": {
+      "total": 10,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "woowahan": {
+      "total": 10,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "toss": {
+      "total": 20,
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
     "deepmind": {
       "total": 30,
-      "recent_7d": 30,
-      "recent_30d": 30
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "ms_ai": {
       "total": 10,
-      "recent_7d": 10,
-      "recent_30d": 10
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "yozm": {
       "total": 35,
-      "recent_7d": 35,
-      "recent_30d": 35
+      "recent_7d": 0,
+      "recent_30d": 0
     }
   },
-  "last_updated": "2026-05-31",
-  "total_articles": 466
+  "last_updated": "2026-06-01",
+  "total_articles": 493
 }
