@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "6db06110db22",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "date": "2026-06-05",
+      "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "f09bf40cce29",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주, 여름철 물놀이형 수경시설 관리 상담 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211365",
+      "date": "2026-06-05",
+      "summary": "광주보건환경연구원은 여름철 시민 이용이 늘어나는 물놀이형 수경시설의 안전한 운영을 위해 광주지역 20개 시설을 대상으로 현장 수질관리 컨설팅을 실시한다고 5일 밝혔다.물놀이형 수경시설은 바닥분수, 조합놀이대, 벽천 등 이용자의 신체가 물과 직접 접촉하는 시설을 말한다. 올해 4월 기준 광주지역에 신고된 물놀이형 수경시설은 총 70개소, 93개 시설이며 공공시설 11개소와 민간시설 59개소가 운영 중이다.보건환경연구원은 8일부터 19일까지 컨설팅 참여 시설 20개소를 선착순 모집하고, 10일부터 순차적으로 현장 방문 상담을 진행할 예",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "fd92d8575c16",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남, ‘조상땅 찾기’ 서비스 절차 간소화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211362",
+      "date": "2026-06-05",
+      "summary": "전라남도가 조상 명의 토지를 보다 쉽게 확인할 수 있도록 ‘조상땅 찾기’ 서비스 절차를 대폭 간소화했다고 5일 밝혔다.기존에는 가족관계증명서 등 각종 증빙서류를 직접 발급받아 제출해야 했지만 앞으로는 정보제공 동의만으로 토지 조회가 가능해진다.전남은 국토교통부의 국가공간정보플랫폼(K-GEO 플랫폼)과 행정정보공동이용시스템을 연계해 신청자가 별도 서류를 제출하지 않아도 담당 공무원이 행정정보를 확인해 서비스를 제공할 수 있도록 개선했다.그동안 조상땅 찾기 서비스는 가족관계증명서 등 관련 서류를 준비해야 해 고령층과 정보 취약계층의 이",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "05a2ab49d3ba",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황 오늘 입국...'삼소 회동'부터 T1·시구·스타트업 면담까지 빽빽",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211360",
+      "date": "2026-06-05",
+      "summary": "젠슨 황 엔비디아 최고경영자(CEO)는 5일 오후 1시 김포공항을 통해 입국하는 것으로 알려졌다.엔비디아와 IT 업계에 따르면, 오후 3시에는 서울 마포구 동교동 'T1 베이스캠프'를 찾아 '페이커' 이상혁을 비롯한 T1 선수단과 만남을 갖는다.저녁에는 홍대 입구 인근 삼겹살 전문점에서 국내 주요 그룹 수장들과 만찬을 나눈다. 최태원 SK그룹 회장, 정의선 현대차그룹 회장, 구광모 LG그룹 회장, 이해진 네이버 의장 등이 자리를 함께할 예정이다.삼겹살에 소주를 곁들인 이른바 '삼소 회동'에서는 AI 반도체, 로보틱스, 피지컬 AI,",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "555d5988aa0d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "베트남 첫 'DPPA' 열렸다…삼성전자, 태양광 전력 직접 구매 시작",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211357",
+      "date": "2026-06-05",
+      "summary": "베트남 첫 직접전력구매계약(DPPA)이 1일(현지시간)부터 실제 운전에 들어갔다. 삼성전자 베트남 타이응우옌 법인(SEVT)이 전력 구매자, TTC 득후에 2 태양광 발전소가 재생에너지 공급자로 참여했다.베트남 국가전력계통·시장운영기관(NSMO)에 따르면, 두 기관은 국가 전력망을 통한 DPPA 참여에 필요한 기술·법적 절차를 마쳤다. 이번 거래는 베트남 정부가 2025년 3월 시행령 57호를 시행한 뒤 DPPA 제도가 실제 전력시장 거래로 연결된 첫 사례다.DPPA는 대규모 전력소비자가 재생에너지 발전사업자와 직접 계약해 전력을",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "ade1e49b62cf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "태양광 해체·재활용 시장, 거대 과제로 부상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211356",
+      "date": "2026-06-05",
+      "summary": "태양광 산업이 대규모 해체와 폐설비 처리 국면에 대비해야 하는 시점에 들어섰다.PV 테크는 4일(현지시간) 수명이 끝나는 태양광 프로젝트와 장비가 늘어나는 흐름을 다루며, 산업계의 해체·재활용 준비 수준이 새 과제로 떠오르고 있다고 보도했다.태양광 모듈은 통상 25~30년, 최근에는 운전 조건에 따라 25~35년 안팎의 수명이다. 다만 출력 저하, 기술 발전, 전력판매 조건 변화, 리파워링 수요에 따라 실제 교체 시점은 더 앞당겨질 수 있다. 이에 따라 해체는 단순 철거가 아니라 자산 가치 회수, 폐기물 관리, 재활용 인프라, 토지",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "4d5875771814",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[6월4일] 유엔이 AI 챗봇에 \"예의를 생략하라\"고 제안한 이유는",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211314",
+      "date": "2026-06-05",
+      "summary": "에너지 절약과 탄소 감축을 위한 정책은 이미 일상에 깊숙이 들어와 있습니다. 종이 빨대, 비닐봉투 유료화, 냉난방 온도 제한 등이 대표적입니다.그런데 앞으로는 AI 챗봇을 사용할 때도 이런 정책이 도입될지 모르겠습니다. \"챗봇에 공손한 말투를 사용하지 말라\"라는 것입니다.유엔 산하 유엔대학의 수자원·환경·보건연구소는 3일(현지시간) 발표한 연구를 통해 사용자들이 AI 챗봇 대화에서 공손한 표현을 생략하는 '간결 모드'를 채택할 것을 제안했습니다. \"부탁드립니다\"나 \"감사합니다\"와 같은 단어를 제거하면 전체 토큰 사용량이 30% 감소",
+      "keywords": [
+        "Chatbot"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "8e6cb8e0ab78",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 딥페이크 보이스피싱…  구글은 다 탐지 가능하다?",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211346",
+      "date": "2026-06-05",
+      "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "4a61de886eb9",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "토스팀이 AI 파도를 마주하는 방법: AI Surf Day",
+      "link": "https://toss.tech/article/ai-surf-day",
+      "date": "2026-06-05",
+      "summary": "파도를 멈출 수는 없지만, 서핑하는 방법은 배울 수 있다.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
       "id": "788f5071a2fb",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -131,6 +241,677 @@
       "summary": "브라질 재생에너지 시장에서 출력제어가 주요 리스크로 떠올랐다. 태양광·풍력 발전설비는 빠르게 늘고 있지만, 전기를 실어 나를 송전망 확충은 이를 따라가지 못하고 있기 때문이라는 분석이다.에너지시장 분석 기관 오로라 에너지 리서치는 1일(현지시간) 브라질의 재생에너지 출력제어율이 2025년 약 21% 수준까지 높아졌다고 분석했다.다만 송전망 확충, 전력수요 증가, 배터리 에너지저장장치 도입이 진행되면 2030년까지 현재보다 8~12%포인트 낮아질 수 있다고 봤다.출력제어는 발전설비가 전기를 만들 수 있는데도 송전망 부족이나 전력 수급",
       "keywords": [],
       "first_seen": "2026-06-04"
+    },
+    {
+      "id": "ae995b9c3e75",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "link": "https://openai.com/index/endava-frontiers",
+      "date": "2026-06-04",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Coding",
+        "Enterprise AI",
+        "GPT"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "785dbaa6ae56",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "link": "https://openai.com/index/chatgpt-memory-dreaming",
+      "date": "2026-06-04",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "5be6c3392056",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Biodefense in the Intelligence Age",
+      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "date": "2026-06-04",
+      "summary": "An action plan for AI-powered biological resilience",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "16b629a3fac6",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "date": "2026-06-04",
+      "summary": "",
+      "keywords": [
+        "AI Safety",
+        "Enterprise AI",
+        "Multimodal"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "2bae54a2574f",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "date": "2026-06-04",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "4da7ced3f30a",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "link": "https://huggingface.co/blog/hf-cli-for-agents",
+      "date": "2026-06-04",
+      "summary": "",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "ee9a637fb085",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+      "date": "2026-06-04",
+      "summary": "Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Deployment",
+        "Optimization",
+        "Reasoning"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "997538f580dc",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+      "date": "2026-06-04",
+      "summary": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streamin",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "9c7d6c037dae",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "date": "2026-06-04",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "64d9b1101438",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "date": "2026-06-04",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "4d8de7d9e556",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "date": "2026-06-04",
+      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "87f245147ca4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "date": "2026-06-04",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "f1501202b85c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+      "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+      "date": "2026-06-04",
+      "summary": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "292be7eaabe4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "date": "2026-06-04",
+      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "8b644a7e5ea0",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "date": "2026-06-04",
+      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "c0c0af892bbf",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "date": "2026-06-04",
+      "summary": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "00e723ebe8d2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+      "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+      "date": "2026-06-04",
+      "summary": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "36b17b2ca4f8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "date": "2026-06-04",
+      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "c0573bd77080",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "date": "2026-06-04",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "a9f5799d3419",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+      "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
+      "date": "2026-06-04",
+      "summary": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "002414726df1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Cash App launches a wand for tap-and-pay",
+      "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
+      "date": "2026-06-04",
+      "summary": "Digital wallet app Cash App is launching a new gadget on Thursday, seemingly inspired by the social media trend that involves paying for items in the real world with a tap of a homemade magic wand, which hides a tap-and-pay credit card.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "354f5594171b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
+      "link": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
+      "date": "2026-06-04",
+      "summary": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.",
+      "keywords": [
+        "RAG",
+        "Robotics"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "36b0e84d9836",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+      "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+      "date": "2026-06-04",
+      "summary": "Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "b7898e6f6a78",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "date": "2026-06-04",
+      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "684094a82a91",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
+      "link": "https://techcrunch.com/2026/06/04/chinese-spies-are-using-linkedin-to-lure-westerners-into-sharing-sensitive-information/",
+      "date": "2026-06-04",
+      "summary": "The advisory warns that Chinese spies are using public job search platforms to recruit people with access to non-public information.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "2accf44358f0",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "date": "2026-06-04",
+      "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "5dd62efc7316",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Oura Ring 5 review: Thinner, lighter, better",
+      "link": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/",
+      "date": "2026-06-04",
+      "summary": "The Ring 5, which Oura describes as the world’s smallest smart ring, is 40% smaller than its predecessor and starts at $399.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "35fbab7bc62f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"매일 아침 나를 위한 스토리 생성\"... 구글, AI 브리핑 '드림빈즈' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211327",
+      "date": "2026-06-04",
+      "summary": "구글이 사용자의 다양한 서비스 데이터를 바탕으로 매일 맞춤형 콘텐츠를 제공하는 새로운 AI 실험 앱을 공개했다. 실험적인 제품 개발 조직인 구글 랩스는 3일(현지시간) 안드로이드와 iOS용 신규 AI 앱 ‘드림빈즈(Dreambeans)’를 출시했다고 밝혔다.이 앱은 구글의 최신 AI 기술인 ‘퍼스널 인텔리전스(Personal Intelligence)’와 ‘나노 바나나 2(Nano Banana 2)’를 활용해 사용자의 관심사와 일정을 분석하고, 매일 새로운 맞춤형 스토리를 생성한다.드림빈즈의 핵심은 사용자의 동의를 통해 여러 구글 서",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "ee75b9fb7977",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "누스 리서치, '헤르메스 데스크톱' 출시…일반 사용자 접근성 높였다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211335",
+      "date": "2026-06-04",
+      "summary": "오픈소스 전문 누스 리서치가 자율형 AI 에이전트 '헤르메스 에이전트(Hermes Agent)'를 위한 데스크톱 앱을 출시했다. 이번 출시로 지금까지 터미널에서 명령줄 인터페이스(CLI)를 중심으로 사용되던 헤르메스 에이전트가 그래픽 사용자 인터페이스(GUI)를 제공하게 되면서 폭넓은 사용자층을 확보할 수 있을 것으로 기대됐다. 누스 리서치는 3일(현지시간) 오픈소스 자율형 AI 에이전트 '헤르메스 에이전트'를 일반 사용자도 쉽게 활용할 수 있도록 GUI를 갖춘 '헤르메스 데스크톱(Hermes Desktop)' 공개 프리뷰 버전을",
+      "keywords": [
+        "AI Agent",
+        "Open Source"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "11ccb782d613",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한국IBM, 개발 전 과정 아우르는 에이전트 ‘IBM 밥’ 국내 최초 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211352",
+      "date": "2026-06-04",
+      "summary": "한국IBM이 AI 코딩을 넘어 기획·개발·테스트·배포·운영·보안까지 소프트웨어 개발 전 과정을 아우르는 솔루션 ‘IBM 밥(Bob)’을 국내에서 처음 공개했다. 4일 서울 여의도 IFC 사무실에서 열린 간담회에서 IBM 밥은 조직의 ‘파트너’로서 기존의 코드와 개발 문화 등을 반영할 수 있다고 소개됐다.코드를 생성하는 데 그치지 않고 애플리케이션 전체 구조와 소스 코드 자산을 바탕으로 맥락을 이해한다는 설명이다. 또 여러 단계의 작업을 자동으로 수행하며, 개발 전 과정에 보안과 정책을 내재화하는 방식으로 동작한다. 실제 IBM 내부",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "5868e4b4f928",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "자율형 'AI 웜' 구현 성공...\"인간 개입 없이 진화해 네트워크로 확산\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211341",
+      "date": "2026-06-04",
+      "summary": "오픈소스 AI 모델을 활용해 스스로 취약점을 찾고 공격 방식을 바꾸며 퍼져 나가는 ‘AI 기반 컴퓨터 웜(AI Worm)’이 현실화할 수 있다는 연구 결과가 나왔다. 연구진은 실험 환경에서 인간의 개입 없이 네트워크 전체로 퍼져나가는 프로토타입을 구현하는 데 성공했으며, 이는 사이버 보안 역사상 새로운 위협의 시작이 될 수 있다고 경고했다.토론토대학교와 벡터 연구소(Vector Institute), 케임브리지대학교 연구진은 2일(현지시간) 오픈소스 AI 모델을 활용해 스스로 공격 전략을 수립하고 네트워크 내 기기들을 감염시키는 AI",
+      "keywords": [
+        "Open Source",
+        "Security",
+        "Vector DB"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "dfd0613cad1d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 앱 없는 AI 에이전트용 플랫폼 '프로젝트 솔라라' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211337",
+      "date": "2026-06-04",
+      "summary": "마이크로소프트(MS)가 PC와 스마트폰 중심의 기존 컴퓨팅 패러다임을 넘어, AI 에이전트가 직접 구동되는 차세대 기업용 기기 플랫폼 ‘프로젝트 솔라라(Project Solara)’를 공개했다. 클라우드 기반 AI 에이전트를 웨어러블 배지와 데스크 허브 등 다양한 전용 디바이스에서 활용할 수 있도록 설계된 이 플랫폼은 AI 시대의 새로운 하드웨어 생태계 구축을 목표로 한다.MS는 2일(현지시간) 미국 샌프란시스코에서 열린 '빌드' 개발자 컨퍼런스에서 AI 에이전트 중심의 기업용 기기를 위한 칩-투-클라우드(chip-to-cloud)",
+      "keywords": [
+        "AI Agent",
+        "Cloud/DevOps"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "4731705204c2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS가 촉발한 '미소스' 체급 논쟁...\"역대급 연산 자원 투입 가능성\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211348",
+      "date": "2026-06-04",
+      "summary": "베일에 싸여 있던 앤트로픽의 '클로드 미소스'에 대한 사양을 엿볼 수 있는 힌트가 등장했다. 만약 이와 관련한 추정이 사실이라면, 미소스는 전례 없는 규모의 연산 자원을 활용해 훈련했을 가능성을 시사한다.X에서 리산 알 가이브라는 이름으로 활동하는 유명 AI 분석가는 3일(현지시간) X를 통해 마이크로소프트(MS)가 '빌드' 컨퍼런스에서 공개한 슬라이드를 근거로 미소스를 분석했다.무스타파 술레이먼 MS AI CEO는 이날 기조연설에서 AI 성능을 끌어올리는 핵심 기술이 사전학습(Pretraining scaling)에서 미세조정(Fi",
+      "keywords": [
+        "Claude",
+        "Fine-tuning"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "70cab738eb48",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 바이브 코딩 가능한 개인용 에이전트 '해치' 출시 준비",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211316",
+      "date": "2026-06-04",
+      "summary": "메타가 소비자용 AI 에이전트 서비스 ‘해치(Hatch)’ 출시를 추진 중인 것으로 알려졌다. 바이브 코딩 기능을 포함한 메타 제품의 핵심 엔진으로 작동할 예정으로, 특히 월 최대 200달러에 달하는 프리미엄 구독 요금제까지 검토하는 것으로 알려졌다. 3일(현지시간) 디 인포메이션에 따르면, 메타는 현재 개발 중인 AI 에이전트 플랫폼 해치에 월 199.99달러 수준의 프리미엄 구독 상품을 도입하는 방안을 검토하고 있다. 최종 가격 정책은 아직 확정되지 않은 상태다.해치는 사용자가 자연어로 원하는 작업을 설명하면 이를 실제로 수행하",
+      "keywords": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "55430a34cbfb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "와이즈넛, 멀티모달 AI 모델 출시…‘산업 현장형 AI 에이전트’ 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211343",
+      "date": "2026-06-04",
+      "summary": "와이즈넛(대표 강용성)은 멀티모달 기능이 강화된 ‘와이즈 로아 울트라(WISE LLOA Ultra)’를 출시, 산업 현장형 AI 에이전트 사업 강화에 나선다고 4일 밝혔다.기존의 와이즈 로아 라인업은 ▲기본형 AI 응답 중심의 ‘코어’ ▲업무 자동화 및 고도화 응답 중심의 ‘프로’ ▲심층 추론 및 대용량 데이터 분석 중심의 ‘맥스’ 등의 모델로 구성돼 있었다. 와이즈넛은 이에 멀티모달 기능이 강화된 ‘울트라’ 버전을 추가했다. 이미지·영상 데이터 분석과 시각 객체 인식, 동적 맥락 추론까지 지원하는 멀티모달 기능이 탑재된 최상위 모",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Data Analysis"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "549a43c283ec",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "과기부, 퓨리오사AI·리벨리온 반도체 검증...\"‘서비스별 성능 만족\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211349",
+      "date": "2026-06-04",
+      "summary": "과학기술정보통신부(부총리 겸 장관 배경훈)는 4일 서울 소공동 롯데호텔 크리스탈볼룸에서 국산 AI 반도체 성과를 공유, 성장 전략을 논의하는 ‘K-AI 반도체 성장 포럼’을 개최했다고 밝혔다.특히, 국산 AI 반도체 공식 성능 측정 지표 ‘K-퍼프(Perf)’를 활용해 국내 기업 퓨리오사AI와 리벨리온의 반도체의 ‘성능 검증’을 진행했다고 소개했다. K-퍼프는 국산 AI 반도체 성능에 관한 신뢰성을 높이고, 수요 기업이 필요로 하는 성능 데이터를 객관적으로 제공하기 위한 공식 지표다. 지난해 12월 수요 기관과 공급 기관이 공동으로",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "1c62f7519678",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한국퀀텀컴퓨팅, LS ITC와 ‘양자보안 전환’ PoC 완료",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211344",
+      "date": "2026-06-04",
+      "summary": "양자컴퓨팅 전문 한국퀀텀컴퓨팅(KQC, 대표 김준영)은 LS그룹의 IT서비스 기업 LS ITC와 양자내성암호(PQC) 보안 기술실증(PoC)을 성공적으로 완료했다고 4일 밝혔다.이번 PoC는 에이전트 AI를 사용한 해킹과 양자 컴퓨터의 위험에 대비하기 위해 스마트 인프라 및 제조 환경에서 요구되는 ‘보안 수준 고도화’를 목표로 한다. KQC는 인증·접속·운영 관리 전반에 걸쳐 양자보안 기술의 실제 적용 가능성을 검증하는 데 초점을 맞췄다.우선, PQC 기반 FIDO 인증 키를 적용해 LS그룹의 사용자 로그인 보안 체계 강화를 위한",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "b3a2db675118",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오션스마트, AI 해운 플랫폼으로 시드 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211345",
+      "date": "2026-06-04",
+      "summary": "오션스마트(대표 유창현)가 한국투자액셀러레이터로부터 시드 투자를 유치했다고 4일 밝혔다. 액수는 공개하지 않았다.오션스마트는 해운 산업이 항로 설계와 선복 배분, 일정 조율 등 핵심 의사결정을 이메일 및 수기 문서에 크게 의존한다는 점을 개선하기 위해 해운 플랫폼을 구축했다.대형 본선과 피더선의 정보를 통합해 선박 일정, 항만 슬롯, 화물·운임 데이터를 학습한 모델을 바탕으로 항로별 최적 배선 계획을 제시해 준다. 운항 중 발생하는 변동 요소를 실시간으로 반영해 일정과 비용을 재조정하는 구조다.그 결과, 오션스마트는 AI 네이티브",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "322dfac26539",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 메디아나, 제이엘케이와 뇌졸중 예후관리 AI 플랫폼 구축 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211353",
+      "date": "2026-06-04",
+      "summary": "■ 메디아나가 의료 AI 전문 제이엘케이와 뇌졸중 환자 대상 디지털 예후관리 플랫폼 구축에 나선다고 밝혔다. 이번 사업은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 의료 AI 혁신 생태계 조성 사업인 '닥터앤서 3.0'의 일부로 진행된다. 고려대학교구로병원이 참여해 실제 임상 환경에서 실증을 수행한다. 퇴원 이후 환자의 상태를 지속 관리할 수 있는 디지털 케어 모델을 구축할 계획이다.■ 웍스피어(대표 윤현준)가 운영하는 채용 관리 솔루션 나인하이어가 자체 솔루션과 외부 AI 도구를 연결하는 'MCP연동' 기능을 출시",
+      "keywords": [
+        "MCP"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "f67ddcec5c2f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 스카이인텔리전스, 서울대 AI연구원과 피지컬 AI 연구 MOU 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211334",
+      "date": "2026-06-04",
+      "summary": "■ 스카이인텔리전스(대표 이재철)는 서울대학교 AI연구원(AIIS)과 로봇 비전 및 파지 기술 고도화를 위한 업무협약(MOU)을 체결했다고 밝혔다. 스카이인텔리전스는 엔비디아 옴니버스 기반 디지털 트윈 기술로 피지컬 AI 산업에 적용 가능한 합성 데이터를 생산하는 인프라를 포함해 로봇 파지 정확도와 안정성 향상을 위한 공동 연구를 추진하며, 고정밀 3차원 CAD 모델, 학습·평가용 데이터셋 등을 제공할 예정이다.■ 넵튠(대표 강율빈)의 기업용 채팅 솔루션 ‘클랫’이 출시 5년만에 누적 이용자 수 3500만명을 돌파했다고 밝혔다. 클",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "d28eea06deae",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "과기부, 연구 도메인 특화 AI 모델 개발 나서…4년간 225억 투입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211351",
+      "date": "2026-06-04",
+      "summary": "과학기술정보통신부(부총리 겸 장관 배경훈)는 AI를 활용해 과학기술 연구방식을 혁신하기 위한 ‘신규 연구개발 사업’을 본격 추진한다고 4일 밝혔다.과기부는 앞으로 4년 간 ▲바이오 ▲재료, 화학 ▲지구과학 ▲에너지, 거대과학 ▲이차전지 등 6개 분야에서 도메인 특화 AI 모델 개발에 나선다. 총 225억원을 투입할 예정이다.각 과제에는 해당 분야 연구자와 AI, 데이터 전문 연구자가 참여한다. AI 모델 개발에 필요한 GPU 등 컴퓨팅 인프라를 지원하고 사업을 통해 확보된 연구데이터 및 AI 모델은 공개 플랫폼을 통해 개방할 계획이",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "7284ce196bde",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양, 6일 마동저수지서 ‘환경사랑 한마당’ 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211338",
+      "date": "2026-06-04",
+      "summary": "광양시가 제31회 환경의 날을 맞아 시민 참여형 환경행사를 연다고 4일 밝혔다. 광양은 오는 6월6일 마동저수지 생태공원에서 ‘광양사랑 환경사랑 한마당행사’를 개최한다.이번 행사는 6월5일 환경의 날을 기념해 환경오염과 기후위기의 심각성을 알리고 시민들의 환경보전 의식을 높이기 위해 마련됐다. 올해 행사는 ‘기후 행동으로 실현하는 녹색 대한민국’을 주제로 진행된다.행사에는 초·중·고등학생을 비롯한 시민과 민간 환경단체, 교육단체 등이 참여할 예정이다. 기념식에서는 환경보전 활동에 기여한 유공자에게 표창장을 수여하고 그동안의 활동을",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "56ca0bd29e7f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 노트북용  멀티모달 '젬마 4' 출시...\"인코더 빼고 경량화 성공\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211306",
+      "date": "2026-06-04",
+      "summary": "구글이 이미지와 오디오 인코더를 완전히 제거한 새로운 온디바이스 멀티모달 모델을 공개했다. 120억개 규모의 매개변수를 갖춘 이 모델은 텍스트, 이미지, 오디오, 비디오를 단일 아키텍처에서 처리하면서도 일반 소비자용 노트북에서 구동할 수 있도록 설계됐다.구글은 3일(현지시간) 최신 오픈웨이트 모델인 ‘젬마 4 12B(Gemma 4 12B)’를 출시하며, 이를 \"노트북을 위한 에이전트형 멀티모달 AI\"라고 소개했다.젬마 4 12B는 약 119억5000만개의 매개변수를 갖춘 디코더 전용 트랜스포머 모델이다. 텍스트뿐 아니라 이미지, 비",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "cbde57fdf9b1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, AI 자금 조달 129조로 확대… 35%는 '인재 유지' 세금으로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211307",
+      "date": "2026-06-04",
+      "summary": "구글이 AI 인프라 투자 확대를 위해 추진 중인 대규모 주식 공모 규모를 당초 800억달러(약 122조원)에서 847억5000만달러(약 129조원)로 상향 조정했다. 투자자들의 강한 수요가 확인되면서 조달 규모를 약 50억달러 늘린 것이다. 다만 조달 자금의 상당 부분이 데이터센터 구축이 아닌 직원 주식 보상에 따른 세금 납부에 사용될 예정이다.구글은 3일(현지시간) 공시를 통해 총주식 발행 규모를 847억5000만달러로 확대한다고 밝혔다. 이는 지난 1일 발표한 800억달러 계획보다 47억5000만달러(약 7조원) 증가한 규모다.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "a87dee154288",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남인평원, 'AI·미디어 문해교실' 운영기관 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211292",
+      "date": "2026-06-04",
+      "summary": "전남인재평생교육진흥원이 디지털 활용에 어려움을 겪는 도민을 대상으로 ‘2026년 찾아가는 AI·디지털 미디어 문해교실’ 운영기관을 모집한다고 4일 밝혔다.전남인평원은 오는 15일까지 운영기관 신청을 받는다. 이번 사업은 문해학습자와 고령자 등 디지털 취약계층이 일상에서 필요한 디지털 환경을 이해하고 정보 활용 역량을 높이도록 지원하기 위해 마련됐다.교육은 7월부터 12월까지 시군 문해교육기관과 복지관, 마을회관, 경로당 등 생활권 현장에서 진행된다.교육과정은 인공지능 이해와 활용, 디지털 미디어 이해와 허위정보 구별, 개인정보 보호",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "7b9e6e2a5ab2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'여수세계섬박람회' 앞두고 도서지역 방치폐기물 정비",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211308",
+      "date": "2026-06-04",
+      "summary": "여수시가 2026여수세계섬박람회를 앞두고 도서지역 방치폐기물 정비에 나선다고 4일 밝혔다.여수는 청정 섬 환경을 조성하고 관광객 방문에 대비하기 위해 ‘도서지역 방치폐기물 처리 사업’을 추진한다.도서지역은 육지와 떨어진 지리적 특성으로 폐기물 운반과 처리에 어려움이 크다. 특히 해안가나 공한지에 장기간 방치된 폐기물은 섬 경관을 훼손하고 침출수 발생 등 2차 환경오염 우려를 키워왔다.이에 여수는 올해 4월부터 8월까지를 도서지역 방치폐기물 집중 수거기간으로 정하고 관내 25개 도서를 대상으로 정밀조사를 실시했다. 조사 대상은 돌산",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "d6ce860b1041",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT, 앤트로픽 '프로젝트 글래스윙' 합류 공식 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211332",
+      "date": "2026-06-04",
+      "summary": "SK텔레콤(대표 정재헌)이 4일 앤트로픽 '프로젝트 글래스윙' 합류를 공식 인정했다.SK텔레콤은 이날 \"앤트로픽의 '프로젝트 글래스윙'에 합류하며, '미소스'의 조기 접근 권한을 획득했다\"라며 \"이번 프로젝트를 통해 위험 요소를 선제 방어하고, 핵심 인프라와 서비스 보안을 강화해 나갈 계획\"이라고 말했다.이어 \"수천만 국민의 일상을 함께하는 통신·AI 인프라를 운영하는 기업으로서, 이번 협력을 바탕으로 국내 디지털 안보 강화에 기여하겠다\"라며 \"현재는 엄격한 규정과 관리 지침에 따라 '클로드 미소스' 테스트에 나서고 있다\"라고 말했",
+      "keywords": [
+        "Claude",
+        "Security"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "1fb6f4bf6049",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "퀀텀에어로, 이금모 CTO 영입...\"방산 AI 주권 확보 목표\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211318",
+      "date": "2026-06-04",
+      "summary": "퀀텀에어로(대표 전은경)는 방산 AI 기술 고도화를 위해 이금모 최고기술책임자(CTO)를 영입했다고 4일 밝혔다.이금모 CTO는 연세대학교 전자공학 박사 출신으로 LIG넥스원, 마블 반도체 코리아, 엔씨소프트를 거쳐 원프레딕트 CTO를 역임했다.방산, 반도체, 대규모 소프트웨어 플랫폼 개발 경험을 두루 갖췄으며, 소버린 방산 AI 플랫폼 구축을 담당한다.퀀텀에어로의 AI 플랫폼 개발 조직을 총괄하며 ▲임무 자율화 소프트웨어 플랫폼 개발 ▲드론·로봇·무인체계용 AI 운영체계 구축 ▲AI 협업 자율화 및 군집 운용 기술 개발 ▲GPS",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "299fc9caf3bc",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "베스핀글로벌, 스마트테크 코리아 참가...\"제조 AX 전략 제시\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211317",
+      "date": "2026-06-04",
+      "summary": "베스핀글로벌(대표 허양호)은 오는 10일 서울 코엑스에서 열리는 '스마트테크 코리아 2026(STK 2026)'에 참가한다고 밝혔다.STK는 AI, 로봇, AI 팩토리, 보안, 디지털 유통·물류 등 다양한 산업의 혁신 기술을 선보이는 테크 전시회로, 올해는 약 500개 기업이 2000개 부스 규모로 참가한다.베스핀글로벌은 AX 전용 컨설팅 서비스 '헬프나우 저니 투 AI'와 운영 솔루션 '헬프나우 AI 파운드리'를 중심으로 엔터프라이즈 AX 경험을 공유한다. 특히 제조 산업의 현장 데이터 정비부터 AI 에이전트 운영에 이르는 AI",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "e2624424f9fd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천, 산림계곡 불법시설물  '자진 신고·철거' 기간 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211312",
+      "date": "2026-06-04",
+      "summary": "순천시가 여름 휴가철을 앞두고 산림계곡 내 불법시설물 정비에 나선다고 4일 밝혔다.순천은 시민들이 쾌적하고 안전한 산림 환경을 이용할 수 있도록 오는 30일까지 산림계곡 내 불법시설물 자진 철거 및 신고 기간을 운영한다.단속 대상은 관내 주요 산림계곡 주변 임야에 산지전용 허가 없이 설치된 평상, 방갈로, 가설건축물, 각종 적치물 등이다. 일반인과 업소를 구분하지 않고 적용되며, 사유림이라도 적법한 허가 절차 없이 산지를 훼손한 경우 단속 대상에 포함된다.해당 기간 안에 불법시설물을 자진 신고하고 원상복구 의사를 밝히면, 순천은 정",
+      "keywords": [],
+      "first_seen": "2026-06-05"
     },
     {
       "id": "0ade69e4cf3b",
@@ -824,6 +1605,46 @@
         "Security"
       ],
       "first_seen": "2026-06-04"
+    },
+    {
+      "id": "f4668eb33c4a",
+      "source": "meta_eng",
+      "source_name": "Meta Engineering",
+      "icon": "🔷",
+      "title": "Lights Out, Systems On: Validating Instant Power Loss Readiness",
+      "link": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+      "date": "2026-06-03",
+      "summary": "We’re introducing Instantaneous PowerLoss Storm, a new testing paradigm within Meta’s infrastructure for handling and mitigating instant or zero-notice power loss in our data centers.  We’re sharing: how we built readiness to tolerate instant failures into our existing systems with defense-in-depth",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "6e68da9f855d",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "date": "2026-06-03",
+      "summary": "",
+      "keywords": [
+        "Chatbot"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "951093ddfc86",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "date": "2026-06-03",
+      "summary": "",
+      "keywords": [
+        "MCP"
+      ],
+      "first_seen": "2026-06-05"
     },
     {
       "id": "997164041698",
@@ -9087,6 +9908,109 @@
         "Vibe Coding"
       ],
       "first_seen": "2026-05-31"
+    },
+    {
+      "id": "5b9c37281dda",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "누구나 만드는 시대, 정말 중요한 건 무엇일까 (Figma CPO)",
+      "link": "https://yozm.wishket.com/magazine/detail/3785",
+      "date": "",
+      "summary": "AI한테 큰 작업을 시키면 늘 중간에 흐지부지되셨다면. 여러 보조 AI를 동시에 굴려 일을 끝내는 Claude Code 다이나믹 워크플로, 프롬프트만으로 웹앱을 만들어 URL로 공유하는 오픈AI Codex Sites, 그리고 누구나 빠르게 만들 수 있는 시대에 진짜 차이를 만드는 게 무엇인지 짚은 Figma CPO의 글까지. 이번 주 프로덕트 메이커가 주목할 세 가지를 정리했습니다.",
+      "keywords": [
+        "Claude",
+        "Coding",
+        "Prompt"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "a4c5facd4dec",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "PM은 LLM을 어디까지 이해해야 할까?",
+      "link": "https://yozm.wishket.com/magazine/detail/3784",
+      "date": "",
+      "summary": "LLM은 신비로운 마법 상자가 아니라 '다음 단어를 확률로 예측하는' 기계입니다. 이러한 특징은 제품의 설계와 운영에 다양한 영향을 끼칩니다. 그래서 엔지니어만큼 깊이 알 필요는 없지만, PM이라면 의사결정을 위한 최소한의 지식은 알아야 합니다.  시리즈 두 번째 글은 토큰·컨텍스트·추론·RAG·에이전트, 다섯 개의 단어로 그 직관을 줄 지식을 정리했습니다. 한국어 서비스의 비용이 더 나오는 이유, 챗봇이 자신만만하게 틀리는 이유, '우리 회사 문서를 아는 AI'에 RAG가 필요한 이유 등을 짚었습니다.",
+      "keywords": [
+        "AI Agent",
+        "Chatbot",
+        "LLM",
+        "RAG"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "6911ff333822",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "이제 AI에게 매번 설명하지 않아도 됩니다: Kanwas",
+      "link": "https://yozm.wishket.com/magazine/detail/3783",
+      "date": "",
+      "summary": "AI 도구가 넘쳐나는 시대, 정작 팀의 지식은 Claude 채팅창, 노션 문서, 로컬 폴더 사이를 떠돌고 있습니다. 회의에서 내린 결정은 이틀 뒤면 아무도 기억하지 못하고, 고객 인터뷰에서 나온 인사이트는 누군가의 노트 앱 깊숙이 사라지는 경우도 생깁니다. AI를 열심히 쓰는데도 아웃풋이 항상 ‘뭔가 우리 팀 이야기가 아닌 것 같은’ 느낌이 드는 이유가 바로 여기에 있습니다. 오늘 소개할 ‘Kanwas’는 이 구조적 문제를 정면으로 겨냥한 서비스입니다. 몇 주간 직접 써보면서 느낀 점을 솔직하게 정리해 봤습니다.",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "61ad1ed8237c",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI 오피스: 픽셀 아트로 살아난 2D 월드 제작기",
+      "link": "https://yozm.wishket.com/magazine/detail/3782",
+      "date": "",
+      "summary": "지난 2회차에선 API 비용 폭탄을 맞고, 아키텍처를 통째로 갈아엎었던 눈물겨운 사투를 다뤘는데요.  API 비용 문제를 간신히 수습하고 나니, 곧바로 다른 벽에 부딪혔습니다. 야심 차게 만든 텍스트 로그 화면을 본 지인들의 반응이 생각보다 차가웠거든요. \"그래서 이게 끝이야? 그냥 채팅창 보는 느낌인데?\" 정곡을 찔렸습니다. 제 눈에는 에이전트들의 심오한 상호작용이 보였지만, 처음 보는 사람에겐 그저 '글자가 올라오는 까만 화면'일 뿐이었죠. 에이전트들이 출근하고, 커피를 마시러 이동하고, 동료와 마주치는 '진짜 공간'이 필요해진",
+      "keywords": [
+        "AI Agent",
+        "SDK/API"
+      ],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "65420b199252",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AX의 어려움은 전 직원이 AI를 쓴 이후부터 시작된다",
+      "link": "https://yozm.wishket.com/magazine/detail/3781",
+      "date": "",
+      "summary": "요즘 어딜 가나 AI와 AX 이야기를 합니다. 그런데 막상 \"전사가 AI를 잘 쓰게 만든다\"는 건, 들여다볼수록 쉽지 않은 일이었습니다. 저는 AI 전문가는 아니지만, 기술자였다가 조직문화와 일하는 법을 담당하게 된 사람으로서 최근에는 전사 AX라는, 정해진 답이 없는 영역을 맡게 되었습니다. 이 글에서는 AI라는 바다를 향해 수많은 구성원들이 배를 띄우고 잘 나아가게 만드는 여정을 정리해 봤습니다. 멋있는 프레임이 아니라, 실제로 우리에게 일어난 일과 일어날 일을 4개 페이즈로 알아보겠습니다.",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "85d52a4be406",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "데이터가 없으면 디자인을 어떻게 개선하나요?",
+      "link": "https://yozm.wishket.com/magazine/detail/3779",
+      "date": "",
+      "summary": "UX/UI 디자이너로 일하다 보면 한 번쯤은 이런 순간이 옵니다. “이 구조는 사용자가 불편해할 것 같습니다”라고 이야기했는데, 곧바로 “근거 있나요?”라는 질문이 돌아오는 순간입니다. 문제는 그 다음입니다. 막상 근거를 보여주고 싶어도 정작 팀 안에는 그 근거를 만들 데이터가 없는 경우가 굉장히 많습니다. 애초에 데이터라는 게 존재하지 않는 회사가 오히려 더 많죠. 그런데 신기하게도 그런 상황에서도 제품은 계속 만들어집니다. 누군가는 버튼 위치를 정해야 하고, 어떤 화면을 없앨지 결정해야 하고, 사용자가 왜 여기서 멈추는지를 설명",
+      "keywords": [],
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "165e3407292c",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "MCP·Skills·Hooks·Sub-agents, 4가지 중 뭘 골라야 할까?",
+      "link": "https://yozm.wishket.com/magazine/detail/3777",
+      "date": "",
+      "summary": "클로드 코드를 쓰다 보면 어느 순간 \"왜 이렇게 멍청해지지?\"라는 불만이 쌓이기 마련입니다. 앤트로픽에서 클로드 코드를 만드는 엔지니어, Daisy Hollman은 \"에이전트를 코드베이스에 잘 맞추는 가장 빠른 방법은 더 똑똑한 모델이 아니라 더 빡빡한 피드백 루프\"라고 말합니다. 그가 전하는 커스텀을 해야 하는 이유, MCP·Skills·Hooks·Sub-agents 4가지 커스텀 추상화를 언제 어떻게 골라 써야 하는지, 클로드 코드를 더 잘 쓰기 위해 알아야 할 것들을 정리했습니다.",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "LLM",
+        "MCP"
+      ],
+      "first_seen": "2026-06-05"
     }
   ],
   "daily_stats": [
@@ -9149,6 +10073,11 @@
       "date": "2026-06-04",
       "added": 49,
       "total": 674
+    },
+    {
+      "date": "2026-06-05",
+      "added": 69,
+      "total": 743
     }
   ],
   "sources": {},
@@ -9275,59 +10204,59 @@
     {
       "week": "2026-W23",
       "keywords": {
-        "AI Agent": 39,
-        "Automation": 20,
-        "Security": 12,
-        "Coding": 10,
-        "GPT": 9,
-        "LLM": 9,
-        "Deployment": 7,
-        "SDK/API": 7,
-        "Enterprise AI": 7,
-        "Claude": 5,
-        "Open Source": 5,
-        "AI Safety": 5,
-        "Developer Tools": 5,
-        "Fine-tuning": 4,
-        "MCP": 3
+        "AI Agent": 51,
+        "Automation": 23,
+        "Security": 18,
+        "GPT": 11,
+        "Coding": 11,
+        "LLM": 10,
+        "Enterprise AI": 9,
+        "SDK/API": 8,
+        "Deployment": 8,
+        "Claude": 7,
+        "Open Source": 7,
+        "AI Safety": 6,
+        "Robotics": 6,
+        "Fine-tuning": 5,
+        "Developer Tools": 5
       }
     }
   ],
   "source_stats": {
+    "techcrunch": {
+      "total": 148,
+      "recent_7d": 85,
+      "recent_30d": 85
+    },
     "aitimes": {
-      "total": 201,
-      "recent_7d": 98,
-      "recent_30d": 98
-    },
-    "aws_ml": {
-      "total": 50,
-      "recent_7d": 17,
-      "recent_30d": 17
-    },
-    "nvidia_ai": {
-      "total": 32,
-      "recent_7d": 11,
-      "recent_30d": 11
+      "total": 231,
+      "recent_7d": 128,
+      "recent_30d": 128
     },
     "openai": {
-      "total": 52,
-      "recent_7d": 11,
-      "recent_30d": 11
-    },
-    "huggingface": {
-      "total": 38,
-      "recent_7d": 4,
-      "recent_30d": 4
-    },
-    "techcrunch": {
-      "total": 128,
-      "recent_7d": 65,
-      "recent_30d": 65
+      "total": 55,
+      "recent_7d": 14,
+      "recent_30d": 14
     },
     "google_ai": {
       "total": 26,
       "recent_7d": 2,
       "recent_30d": 2
+    },
+    "aws_ml": {
+      "total": 51,
+      "recent_7d": 18,
+      "recent_30d": 18
+    },
+    "nvidia_ai": {
+      "total": 33,
+      "recent_7d": 12,
+      "recent_30d": 12
+    },
+    "huggingface": {
+      "total": 43,
+      "recent_7d": 9,
+      "recent_30d": 9
     },
     "lycorp": {
       "total": 32,
@@ -9335,9 +10264,9 @@
       "recent_30d": 0
     },
     "meta_eng": {
-      "total": 10,
-      "recent_7d": 0,
-      "recent_30d": 0
+      "total": 11,
+      "recent_7d": 1,
+      "recent_30d": 1
     },
     "woowahan": {
       "total": 10,
@@ -9345,9 +10274,9 @@
       "recent_30d": 0
     },
     "toss": {
-      "total": 20,
-      "recent_7d": 0,
-      "recent_30d": 0
+      "total": 21,
+      "recent_7d": 1,
+      "recent_30d": 1
     },
     "deepmind": {
       "total": 30,
@@ -9360,11 +10289,11 @@
       "recent_30d": 0
     },
     "yozm": {
-      "total": 35,
-      "recent_7d": 0,
-      "recent_30d": 0
+      "total": 42,
+      "recent_7d": 7,
+      "recent_30d": 7
     }
   },
-  "last_updated": "2026-06-04",
-  "total_articles": 674
+  "last_updated": "2026-06-05",
+  "total_articles": 743
 }
