@@ -1,6 +1,131 @@
 {
   "articles": [
     {
+      "id": "0f45a45a7a59",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+      "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "date": "2026-06-08",
+      "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, valida",
+      "keywords": [
+        "Cloud/DevOps",
+        "Robotics"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "7bce91cbf14d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트릴리온랩스, 엔비디아 옴니버스로 '산업 특화 월드모델' 구현 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211461",
+      "date": "2026-06-08",
+      "summary": "트릴리온랩스(대표 신재민)는 엔비디아의 '네모트론'과 '옴니버스 라이브러리'를 활용해 AI 팩토리용 '산업 월드모델' 개발에 착수한다고 8일 밝혔다.산업 월드모델은 AI 데이터센터·발전소 등 복잡한 산업 환경을 AI가 스스로 이해하고 시뮬레이션해 운영을 최적화하는 모델을 의미한다.이번에는 엔비디아의 2가지 핵심 기술이 활용된다. 오픈웨이트 모델인 ‘네모트론’의 고도화된 추론 역량을 자체 모델에 결합해 시너지를 극대화한다.동시에 가상 세계인 디지털 트윈 및 시뮬레이션 개발 도구인 ‘옴니버스 라이브러리’를 활용한다. 물리 기반 시뮬레이",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "ced9628a4886",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, '미소스급' 새 모델 안전 테스트 착수...\"6월말 출시 유력\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211447",
+      "date": "2026-06-08",
+      "summary": "앤트로픽이 차세대 모델 ‘미소스(Mythos)’ 계열의 새로운 체크포인트로 알려진 ‘오세아누스(Oceanus)’에 대한 레드팀 테스트를 시작한 정황이 포착되면서, 이르면 6월 말 정식 출시 가능성이 제기되고 있다. 이는 앤트로픽이 몇주 안으로 '미소스급 모델'을 출시하겠다고 밝힌 것과 비슷한 시기다.5일(현지시간) 테스팅카탈로그에 따르면, 6월 초 클로드 콘솔(Claude Console) 내부에서 ‘claude-oceanus-v1-p’라는 새로운 모델 식별자가 발견됐다.이 모델에는 ‘-v1-p’라는 태그가 부착됐는데, 이는 일반적으",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "9911fb1ecee6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수 갯벌, 유네스코 세계유산 등재 눈앞",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211457",
+      "date": "2026-06-08",
+      "summary": "여수시 갯벌의 유네스코 세계유산 추가 등재에 청신호가 켜졌다. 여수는 유네스코 세계유산 ‘한국의 갯벌’ 2단계 확대 등재와 관련해 국제자연보전연맹이 등재를 권고하면서 추가 등재가 유력해졌다고 5일 밝혔다.한국의 갯벌 2단계는 기존 세계유산에 포함된 갯벌의 범위를 넓히는 사업이다. 신규 대상지에는 여수 갯벌을 비롯해 고흥·무안·서산 갯벌이 포함됐다. 최종 등재 여부는 오는 7월 부산에서 열리는 제48차 유네스코 세계유산위원회에서 결정된다.여수 갯벌은 다양한 해양생물과 철새가 서식하는 생태 가치가 높은 지역이다. 동아시아-대양주 철새",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "fe463401d6c7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "LG, 엔비디아와 모빌리티·인프라·피지컬 AI 협력…”제조 데이터와 컴퓨팅 기술 결합”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211464",
+      "date": "2026-06-08",
+      "summary": "LG가 엔비디아와 피지컬 AI, AI 인프라(AIDC), 모빌리티 등 산업 분야에서 전략적 협업 확대에 나선다. LG는 8일 서울 여의도 LG트윈타워에서 구광모 LG 대표와 젠슨 황 엔비디아 CEO가 참석한 가운데 최고경영진 회의를 열었다고 밝혔다.황 CEO는 “한국은 제조, 메카트로닉스, AI 분야에서 뛰어난 경쟁력을 갖추고 있으며, 로보틱스와 피지컬 AI를 한국의 핵심 성장 산업으로 만들어 나갈 수 있을 것”이라고 말했다.먼저, LG는 엔비디아의 '아이작 그루트' 생태계를 바탕으로 엔비디아의 레퍼런스 로봇을 공동 개발하는 협업을",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "cd0e90b1bf40",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SK, 엔비디아 전방위 AI 동맹...\"차세대 메모리·GW급 AIDC 구축\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211453",
+      "date": "2026-06-08",
+      "summary": "SK그룹이 엔비디아와 반도체 공급을 넘어 인프라 전 영역으로 파트너십을 확대한다고 8일 밝혔다.먼저 SK하이닉스는 엔비디아와 차세대 메모리 공동 개발에 착수한다. 설계 단계부터 GPU(그래픽처리장치)와 메모리의 성능을 동시에 끌어올리는 새로운 컴퓨팅 아키텍처 연구를 통해, 기존 HBM(고대역폭 메모리) 중심 협업을 하드웨어 전반으로 확장한다는 구상이다.구체적으로 엔비디아의 차세대 AI 플랫폼인 '베라 루빈' AI 슈퍼컴퓨터와 '베라' CPU, 'RTX 스파크' AI PC, '젯슨 토르' 로보틱스 플랫폼용 메모리 등을 공동 개발한다.",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "6d5d477d1040",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남 무안-신안 154kV 송전망 준공… 태양광 숨통 트인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211443",
+      "date": "2026-06-08",
+      "summary": "전남 무안과 신안을 잇는 송전망이 준공되면서 전남지역 재생에너지 출력제어 부담이 일부 줄어들 전망이다.기후에너지환경부와 한국전력공사, 한국전력거래소는 전남 무안군과 신안군을 연결하는 154kV 송전망이 5월30일 최종 준공됐다고 7일 밝혔다. 송전망은 전남 운남-신안-읍동 구간 52km를 잇는다.이번 송전망 가동으로 전남지역 재생에너지 전력을 수요지로 보내는 능력이 강화된다. 정부는 이에 따라 재생에너지 출력제어가 완화되고, 약 190MW 규모 재생에너지 접속 대기도 해소될 것으로 기대하고 있다.재생에너지 출력제어는 전력 수요보다",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "17350b9f3a4f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "크래프톤 “엔비디아 'RTX 스파크'에 게임 최적화…로보틱스 협력도 확장”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211452",
+      "date": "2026-06-08",
+      "summary": "크래프톤(대표 김창한)은 7일 서울 강남구 PC방에서 PUBG 팬들을 위한 이벤트를 진행, 엔비디아와 협력 확대를 논의했다고 밝혔다. '배틀그라운드' 이용자들을 위해 마련된 이벤트로, 장병규 크래프톤 의장과 젠슨 황 엔비디아 CEO가 직접 소통의 시간을 가졌다. 이번 만남을 계기로 두 회사는 AI 기술 협력을 가속하기로 했다. 크래프톤 주요 타이틀을 차세대 AI PC용 온디바이스 슈퍼칩 ‘RTX 스파크’ 플랫폼에 최적화할 예정이다.로보틱스 분야에서도 논의를 진행했다. 지난해 4월에는 김창한 크래프톤 대표가 미국 캘리포니아 엔비디아",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "0f91984dea7a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주 전통시장, 국산 수산물 구매 시 최대 30% 온누리상품권 환급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211438",
+      "date": "2026-06-08",
+      "summary": "광주시가 전통시장 소비를 활성화하고 수산물 구매 부담을 낮추기 위해 국산 수산물 구매 고객을 대상으로 온누리상품권 환급행사를 실시한다고 8일 밝혔다.광주는 오는 10일부터 14일까지 닷새 동안 지역 11개 전통시장에서 국산 수산물을 구매한 소비자에게 구매금액의 최대 30%를 온누리상품권으로 환급하는 행사를 추진한다. 이번 사업은 해양수산부가 주관하고 지방자치단체가 함께 참여하는 소비촉진 사업이다.행사 대상 시장은 남광주시장·남광주해뜨는시장연합, 대인시장, 양동전통시장연합, 무등시장, 봉선시장, 말바우시장, 운암시장, 송정매일시장·1",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "6086a5e1b8e2",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "Skill 품질 관리를 위한 Rubric 설계와 시스템 구현",
+      "link": "https://toss.tech/article/skill-quality-rubric",
+      "date": "2026-06-08",
+      "summary": "갈수록 커지는 Skill의 품질 편차와 그 간극을 최소화하기 위한 방법",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
       "id": "ac467f5cf688",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -76,6 +201,240 @@
       "summary": "영국 태양광 누적 설비용량이 2026년 4월 말 기준 22.3기가와트(GW)에 도달했다. 설치 건수는 200만건을 넘었고, 최근 1년 동안 2.3GW가 새로 보급됐다.영국 에너지안보탄소중립부(DESNZ)가 지난 28일(현지시간) 발표한 4월 태양광 보급 통계에 따르면 영국 태양광 누적 설비는 22.3GW, 설치 건수는 202만6000건으로 집계됐다.최근 12개월 동안 추가된 설비는 2.3GW로, 같은 기간 누적 설비는 11.2% 늘었다. 2026년 4월 한 달 신규 설치는 2만2733건, 107메가와트(MW)였다.2025~2026",
       "keywords": [],
       "first_seen": "2026-06-07"
+    },
+    {
+      "id": "347aba1d7069",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "date": "2026-06-07",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "983ca5f5eaa4",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "link": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+      "date": "2026-06-07",
+      "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s fu",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "7e181edffb1c",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      "link": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "date": "2026-06-07",
+      "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming co",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "823021378754",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "date": "2026-06-07",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "c733bac7a8d4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "date": "2026-06-07",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "893947abd016",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI is still working on that ‘super app’",
+      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "date": "2026-06-07",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "5556d9191e75",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+      "date": "2026-06-07",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "e777cc8ad02a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "date": "2026-06-07",
+      "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "83c693bbfd1e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"깐부 어게인\"...젠슨 황, 유퀴즈·야구장 시구 넘나든 종횡무진 행보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211434",
+      "date": "2026-06-07",
+      "summary": "젠슨 황 엔비디아 CEO가 주말 일정을 활용해 방송 출연과 야구 시구부터 게임사, 반도체 총수 만남까지 종횡무진 행보를 선보였다.주말 공식 일정은 지난 6일 tvN 예능 프로그램 ‘유 퀴즈 온 더 블럭’ 녹화로 시작됐으며, 이날 저녁에는 종로구의 토속촌 삼계탕집을 찾았다. 지난 5일 '삼소 회동'에 이은 BBQ 2차 회동까지 이른바 'K-회식'을 즐긴 만큼, 일정을 여유롭게 소화한 것으로 확인됐다.이튿날인 7일 오찬에는 정의선 현대차그룹 회장과 만났다. 이는 8일 예정된 사옥 방문 전 사전 조율 목적으로, 현대차그룹의 모빌리티 제조",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "0db798d3d4f9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"채팅은 죽었다\"...챗GPT, '에이전트 슈퍼 앱' 개편 초읽기",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211437",
+      "date": "2026-06-07",
+      "summary": "오픈AI가 '챗GPT' 출시 이후 최대의 개편을 앞둔 것으로 알려졌다. 앞으로 몇주 안으로 AI 챗봇을 넘어서 코딩과 에이전트 중심의 '슈퍼 앱'으로 전면 개편한다는 구상이다.파이낸셜타임스(FT)는 7일 다수의 관계자를 인용, 오픈AI가 기업공개(IPO)를 앞두고 몇주 안에 단계적으로 챗GPT를 개편할 예정이라고 보도했다. 이에 따라 챗GPT 웹사이트와 모바일 앱이 먼저 변경될 예정이다.오픈AI가 챗GPT와 코덱스, AI 브라우저를 통합한 슈퍼 앱을 개발 중이라는 소식은 이전에도 전해졌다. 그러나 이번에는 고객들이 별도의 화면 이탈",
+      "keywords": [
+        "AI Agent",
+        "Chatbot",
+        "GPT"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "783776f907ba",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "알트먼·럭키, 실리콘 밸리 거물들 유튜브 예능서 '마피아 게임' 설전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211435",
+      "date": "2026-06-07",
+      "summary": "샘 알트먼 오픈AI CEO와 팔머 럭키 안두릴 창립자 등 IT 업계 유명인들이 예능 프로그램에 출연, 마피아 게임을 펼쳤다.피터 틸이 창립한 벤처캐피털 파운더스 펀드는 4일(현지시간) 유튜브와 X를 통해 새로운 마피아 게임 프로그램을 공개했다.여기에는 알트먼과 럭키, 브라이언 존슨 바이오해커 창립자, 딜런 필드 피그마 창립자 등 기술 업계의 유명인과 투자자, 프로 포커 선수, 작가 등 셀럽 12명이 참여했다.33분 분량의 에피소드에서는 온갖 비난이 오가는 흥미진진한 경기가 펼쳐졌다. 특히 럭키는 경기 도중 농담을 자주 했는데, 이",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "82d8c683532f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "월드컵, 축구공 속 ‘센서’와 ‘AI’가 판정 바꾼다… '반자동 오프사이드' 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211433",
+      "date": "2026-06-07",
+      "summary": "다가오는 2026 FIFA 북중미 월드컵에서는 첨단 센서 기술과 AI가 경기장 안팎을 지배할 전망이다.BBC가 최근 공개한 영상에 따르면, 이번 대회 공인구 ‘트리온다(Trionda)’는 단순한 축구공이 아닌 첨단 전자 기기에 가까운 것으로 알려졌다. 공의 표면 아래에는 경기 중 발생하는 모든 충격을 견딜 수 있도록 특수 설계된 첨단 센서가 탑재됐다.이 스마트 공은 1초에 무려 500회(500Hz)에 달하는 속도로 공의 가속도와 회전, 3차원 공간에서의 움직임을 실시간으로 측정한다. 니콜라스 에반스 FIFA 연구 책임자는 \"공 내부",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "0d40785d0fc8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "거장 마틴 스코세지 \"AI로 창의적 자유 얻어\"…할리우드 논쟁 격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211432",
+      "date": "2026-06-07",
+      "summary": "세계적인 거장 마틴 스콜세지 감독이 영화 사전 제작 과정에 AI 도구 사용을 지지했다가 논쟁에 휘말렸다.스콜세지 감독은 2일(현지시간) 뉴욕타임스를 통해 이미지 생성 스타트업 블랙 포레스트 랩스의 파트너 겸 고문으로 합류했다고 발표했다.이와 함께 블랙 포레스트 랩스가 공개한 영상에서 그는 AI로 스토리보드 이미지를 즉시 생성하는 모습을 선보였다. 이처럼 사전 제작 단계에서 AI를 활용하는 것은 영화 본편에 특수 효과를 AI로 일부 대체하는 다른 감독들의 시도와 비교해 제작 효율성에 초점을 맞춘 차별화된 접근 방식이다.그동안 '택시",
+      "keywords": [
+        "Image AI"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "d92b60db6cd3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "김형준 스퀴즈비츠 대표 “AI 경량화 넘어 '피지컬 AI' 솔루션으로 확장”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211415",
+      "date": "2026-06-07",
+      "summary": "“기존에 운영하던 AI 최적화 서비스와 기술을 바탕으로 피지컬 AI까지 영역을 넓혀 나가고 있습니다. AI가 더 많은 과업을 수행하게 될수록, 경량화 기술의 수요는 더 늘어날 것입니다.”AI 최적화 전문 스퀴즈비츠(대표 김형준)가 언어모델과 멀티모달모델을 넘어 월드모델로 사업 영역 확장에 나선다고 밝혔다.지난 2022년 설립된 스퀴즈비츠는 국내 대표 딥테크 스타트업으로, 임직원의 70%가 엔지니어로 구성됐다. 국내 AI 도입 초기부터 다양한 기업들과 현장 경험을 축적해 왔다. 지난해 12월에는 차세대 미세조정 기법 ‘그래롤라(Gra",
+      "keywords": [
+        "Fine-tuning"
+      ],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "8afdd64444b3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "EU, 반도체·AI ‘기술 주권’ 전략 공개...\"미국 빅테크 의존 줄인다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211430",
+      "date": "2026-06-07",
+      "summary": "유럽연합(EU)이 미국과 아시아 기술 기업 의존도를 줄이기 위해 반도체와 AI, 클라우드 컴퓨팅 분야의 공급망 자립을 목표로 하는 대규모 '기술 주권(Tech Sovereignty)' 전략을 발표했다.EU 집행위원회는 3일(현지시간) 유럽의 기술 자립성을 높이기 위한 종합 전략 패키지를 공개했다. 이번 계획은 반도체와 AI, 클라우드 인프라 등 핵심 디지털 산업에서 해외 의존도를 낮추고 유럽 내 기술 역량을 강화하는 데 초점을 맞추고 있다.최근 미국과 유럽 간 관계 변화도 이러한 움직임의 배경으로 꼽힌다. 특히 도널드 트럼프 미국",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "9d3829d3f3b2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "화웨이·선전 연구진 \"중국산 AI 칩으로 ‘딥시크 V4-프로’ 사후학습 성공\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211428",
+      "date": "2026-06-07",
+      "summary": "화웨이와 중국 연구 기관들이 1000개 이상의 화웨이 AI 가속기를 활용해 딥시크의 AI 모델 'V4-프로(V4-Pro)'에 대한 사후학습을 완료했다고 밝혔다. 중국산 AI 칩이 그동안 약점으로 지적됐던 학습 단계에서도 성과를 냈다는 주장으로 주목받고 있지만, 구체적인 성능 지표가 공개되지 않아 실제 경쟁력을 평가하기에는 이르다는 지적도 나온다.5일(현지시간) 사우스차이나모닝포스트에 따르면, 중국 연구진은 화웨이의 AI 가속기 '어센드(Ascend) 910C'를 활용해 딥시크의 1조6000억개 매개변수 모델 '딥시크 V4-프로'의",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "72af63115dcb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 음악 스타트업 수노, 저작권 분쟁 속  8조 가치로 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211429",
+      "date": "2026-06-07",
+      "summary": "AI 음악 플랫폼 수노가 4억달러(약 6200억원) 규모의 시리즈D 투자를 유치하며 기업 가치 54억달러(약 8조원)를 인정받았다. 저작권 침해 소송이 이어지는 가운데서도 불과 7개월 만에 몸값을 2배 이상 끌어올리며 AI 음악 시장 대표 자리를 지켰다.노는 3일(현지시간) 4억달러 규모의 시리즈D 투자 유치를 완료했다고 발표했다. 이번 투자로 기업 가치는 54억달러로 평가됐다.이번 투자 라운드는 본드 캐피털이 주도했으며, IVP, 포어러너 벤처스, 유니언 스퀘어 벤처스 등이 참여했다. 기존 투자자인 라이트스피드 벤처 파트너스와 멘",
+      "keywords": [],
+      "first_seen": "2026-06-08"
+    },
+    {
+      "id": "d305471cc402",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 프롬프트 인젝션 막는 ‘잠금 모드' 공개...\"외부  연결 제한\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211425",
+      "date": "2026-06-07",
+      "summary": "오픈AI가 프롬프트 인젝션(prompt injection) 공격으로 인한 민감 정보 유출 위험을 줄이기 위한 새로운 보안 기능 '잠금 모드(Lockdown Mode)'를 공개했다. 웹 브라우징과 딥 리서치(Deep Research), 에이전트 모드(Agent Mode) 등 외부 네트워크와 연결되는 기능을 제한하는 대신, 보안성을 높인 것이 특징이다.오픈AI는 4일(현지시간) 기업과 보안 민감 조직을 주요 대상으로 프롬프트 인젝션 공격에 대응하기 위한 고급 보안 기능 '잠금 모드'를 출시했다고 발표했다.이 기능은 악성 명령어가 숨겨진",
+      "keywords": [
+        "AI Agent",
+        "Prompt",
+        "Security"
+      ],
+      "first_seen": "2026-06-08"
     },
     {
       "id": "02c862b055df",
@@ -10978,26 +11337,15 @@
       "date": "2026-06-07",
       "added": 20,
       "total": 812
+    },
+    {
+      "date": "2026-06-08",
+      "added": 28,
+      "total": 840
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W16",
-      "keywords": {
-        "AI Agent": 4,
-        "Reasoning": 2,
-        "Automation": 1,
-        "Coding": 1,
-        "RAG": 1,
-        "Framework": 1,
-        "Embeddings": 1,
-        "Multimodal": 1,
-        "Speech/Audio": 1,
-        "Cloud/DevOps": 1,
-        "Robotics": 1
-      }
-    },
     {
       "week": "2026-W17",
       "keywords": {
@@ -11104,39 +11452,47 @@
     {
       "week": "2026-W23",
       "keywords": {
-        "AI Agent": 57,
+        "AI Agent": 60,
         "Automation": 28,
-        "Security": 20,
+        "Security": 22,
         "Coding": 14,
+        "GPT": 13,
         "LLM": 12,
-        "GPT": 12,
         "Open Source": 11,
         "SDK/API": 10,
         "Deployment": 9,
         "Claude": 9,
         "Enterprise AI": 9,
-        "Robotics": 7,
-        "Chatbot": 6,
+        "Robotics": 8,
+        "Chatbot": 7,
         "AI Safety": 6,
-        "Optimization": 5
+        "Fine-tuning": 6
+      }
+    },
+    {
+      "week": "2026-W24",
+      "keywords": {
+        "Cloud/DevOps": 1,
+        "Robotics": 1,
+        "Claude": 1
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 276,
-      "recent_7d": 173,
-      "recent_30d": 173
+      "total": 294,
+      "recent_7d": 191,
+      "recent_30d": 191
     },
     "techcrunch": {
-      "total": 168,
-      "recent_7d": 105,
-      "recent_30d": 105
+      "total": 173,
+      "recent_7d": 110,
+      "recent_30d": 110
     },
     "toss": {
-      "total": 21,
-      "recent_7d": 1,
-      "recent_30d": 1
+      "total": 22,
+      "recent_7d": 2,
+      "recent_30d": 2
     },
     "google_ai": {
       "total": 27,
@@ -11144,14 +11500,14 @@
       "recent_30d": 3
     },
     "huggingface": {
-      "total": 44,
-      "recent_7d": 10,
-      "recent_30d": 10
+      "total": 45,
+      "recent_7d": 11,
+      "recent_30d": 11
     },
     "nvidia_ai": {
-      "total": 34,
-      "recent_7d": 13,
-      "recent_30d": 13
+      "total": 37,
+      "recent_7d": 16,
+      "recent_30d": 16
     },
     "openai": {
       "total": 55,
@@ -11194,6 +11550,6 @@
       "recent_30d": 8
     }
   },
-  "last_updated": "2026-06-07",
-  "total_articles": 812
+  "last_updated": "2026-06-08",
+  "total_articles": 840
 }
