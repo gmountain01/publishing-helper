@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "fc12c862cec5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "date": "2026-06-14",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "keywords": [],
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "38c70bbff9aa",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "date": "2026-06-14",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "keywords": [],
+      "first_seen": "2026-06-14"
+    },
+    {
       "id": "debd8a7ac5d0",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -163,6 +187,80 @@
       "summary": "샘 알트먼 오픈AI CEO의 다음 주 방한이 연기됐다. 대신 이 기간에는 프랑스에서 열리는 G7 정상회의에 참여하는 것으로 알려졌다.블룸버그 등 외신에 따르면, 오픈AI와 앤트로픽, 구글을 비롯한 AI 분야 임원들이 15~17일(현지시간) 프랑스 에비앙에서 열리는 G7 정상회의에 참석할 예정이다.프랑스 대통령실이 공개한 명단에는 알트먼 CEO와 다리오 아모데이 앤트로픽 CEO, 데미스 허사비스 구글 딥마인드 CEO 등이 포함됐다. 해당 기업들은 G7 정상회의 참석을 확인했다.오픈AI 대변인은 G7에서 AI 기술과 잠재적 기회 및 위",
       "keywords": [],
       "first_seen": "2026-06-13"
+    },
+    {
+      "id": "2149290c64f5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "date": "2026-06-13",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "keywords": [],
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "0308281aa0fc",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "date": "2026-06-13",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "748265de56e1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "date": "2026-06-13",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "keywords": [],
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "9b1d592513d0",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+      "date": "2026-06-13",
+      "summary": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t",
+      "keywords": [],
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "6b8772b5ec86",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "date": "2026-06-13",
+      "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "keywords": [],
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "09924b25ccc2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "date": "2026-06-13",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+      "keywords": [],
+      "first_seen": "2026-06-14"
     },
     {
       "id": "857b01ba5734",
@@ -15555,6 +15653,11 @@
       "date": "2026-06-13",
       "added": 61,
       "total": 1153
+    },
+    {
+      "date": "2026-06-14",
+      "added": 8,
+      "total": 1161
     }
   ],
   "sources": {},
@@ -15689,29 +15792,29 @@
         "Automation": 34,
         "Coding": 19,
         "Claude": 15,
+        "Security": 14,
         "Generative AI": 13,
-        "Security": 13,
         "GPT": 11,
         "Enterprise AI": 9,
         "Open Source": 9,
         "Developer Tools": 8,
-        "Cloud/DevOps": 7,
-        "SDK/API": 7,
-        "LLM": 7,
         "Gemini": 7,
+        "LLM": 7,
+        "SDK/API": 7,
+        "Cloud/DevOps": 7,
         "Robotics": 6
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 264,
-      "recent_7d": 116,
-      "recent_30d": 201
+      "total": 272,
+      "recent_7d": 109,
+      "recent_30d": 209
     },
     "aitimes": {
       "total": 444,
-      "recent_7d": 213,
+      "recent_7d": 183,
       "recent_30d": 341
     },
     "openai": {
@@ -15719,25 +15822,25 @@
       "recent_7d": 15,
       "recent_30d": 29
     },
+    "huggingface": {
+      "total": 52,
+      "recent_7d": 8,
+      "recent_30d": 18
+    },
     "aws_ml": {
       "total": 72,
       "recent_7d": 21,
       "recent_30d": 39
     },
-    "google_ai": {
-      "total": 28,
-      "recent_7d": 2,
-      "recent_30d": 4
-    },
-    "huggingface": {
-      "total": 52,
-      "recent_7d": 9,
-      "recent_30d": 18
-    },
     "nvidia_ai": {
       "total": 43,
-      "recent_7d": 10,
+      "recent_7d": 9,
       "recent_30d": 22
+    },
+    "google_ai": {
+      "total": 28,
+      "recent_7d": 1,
+      "recent_30d": 4
     },
     "lycorp": {
       "total": 33,
@@ -15771,10 +15874,10 @@
     },
     "yozm": {
       "total": 56,
-      "recent_7d": 14,
+      "recent_7d": 13,
       "recent_30d": 21
     }
   },
-  "last_updated": "2026-06-13",
-  "total_articles": 1153
+  "last_updated": "2026-06-14",
+  "total_articles": 1161
 }
