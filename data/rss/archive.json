@@ -1,6 +1,106 @@
 {
   "articles": [
     {
+      "id": "71dde732b3a1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"기억할 건 기억하고 잊을 건 잊는다\"…뇌 닮은 초저전력 AI 소자 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211951",
+      "date": "2026-06-21",
+      "summary": "인간 뇌처럼 정보의 중요도에 따라 기억을 유지하거나 잊을 수 있는 차세대 AI 하드웨어가 등장했다. 미국 오리건주립대학 연구진은 최근 센서와 메모리, 연산 기능을 하나의 소자에 통합한 광전자 소자를 개발해 초저전력 뉴로모픽(neuromorphic) 컴퓨팅과 인-센서(in-sensor) AI 구현 가능성을 제시했다.‘신경 조절기에서 영감받은 게이트 조절 가능 테트라센-금속 산화물 광트랜지스터를 이용한 적응형 광전자 메모리 및 뉴로모픽 컴퓨팅’ 논문을 통해 연구진은 이 소자가 도파민과 세로토닌 같은 인간 뇌의 신경전달물질의 역할을 전기",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "8afe406a5ddc",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, '제미나이' 탑재한 AI 스피커 5년 만에 출시…한국은 미정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211950",
+      "date": "2026-06-21",
+      "summary": "구글이 '제미나이'를 탑재한 새로운 스마트 스피커 '구글 홈 스피커(Google Home Speaker)'를 공개했다. 단순 음성 명령을 수행하던 기존 스마트 스피커에서 벗어나 사람과 자연스럽게 대화하고 복합적인 작업을 수행할 수 있는 AI 비서로 진화했다는 점이 특징이다.구글은 17일(현지시간) 미국의 사전 주문을 시작했으며, 정식 출시는 오는 25일로 예정됐다고 밝혔다. 가격은 99.99달러(약 15만3300원)다.추가 국가의 출시 일정은 명시되지 않았다. 그러나 구글의 스마트홈 AI 서비스인 '가정용 제미나이(Gemini fo",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "e199c80051a3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한은의 '반도체 보너스발 인플레 경고'...CNBC \"유례없는 규모\" 조명",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211952",
+      "date": "2026-06-21",
+      "summary": "국내 반도체 대기업들의 파격적인 성과급 지급 소식이 글로벌 업계의 이슈로 떠올랐다. 단순한 기업 차원의 보상을 넘어, 국가 중앙은행이 물가 상승을 우려하는 요인으로 이 현상을 꼽았다는 점에 주목하며 이를 이례적인 거시경제적 현상으로 비중 있게 다루기 시작했다CNBC는 20일(현지시간) \"한국 반도체 공장 노동자들의 거액 보너스 지급으로 중앙은행이 인플레이션 경고에 나섰다\"라고 보도하며, 성과급 규모와 파급 효과를 집중 조명했다.로이터와 소식통을 인용, 기본급이 8000만원인 메모리 반도체 생산직은 올해 총 성과급으로만 6억2600만",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "9ff6d9a4d282",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 이번 주 'GPT-5.6' 출시 전망…앤트로픽 규제 틈타나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211949",
+      "date": "2026-06-21",
+      "summary": "오픈AI의 차세대 모델 'GPT-5.6'이 이번 주 공개될 것으로 전망됐다. 앤트로픽의 최신 모델 '페이블 5'가 정부 규제에 묶인 사이에 첨단 모델 출시로 사징을 선점하겠다는 의도로 분석됐다.18일(현지시간) AI 전문 매체 테스팅카탈로그 등이 포착한 바에 따르면, 일부 챗GPT 프로 구독자는 이미 'GPT-5.6 프로' 빌드를 테스트 중인 것으로 나타났다.이를 바탕으로 각종 커뮤니티에서는 23일 GPT-5.6가 출시될 것으로 내다봤다. 일부에서는 '미니'와 '프로' 버전까지 한꺼번에 서비스를 시작할 것으로도 예측됐다. 이는 일부",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "871885fabd24",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "네덜란드 전력망 병목에 주택 전기화·기업 투자 지연",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211921",
+      "date": "2026-06-21",
+      "summary": "네덜란드 전력망 혼잡이 기업 투자와 주택 전기화, 데이터센터 입지까지 좌우하는 인프라 병목으로 번지고 있다.16일(현지시간) 로이터에 따르면, 네덜란드 일부 지역에서는 신규 전력 접속과 증설 접속이 지연되고 있다. 또 송배전망 운영사들은 전기차 충전기와 히트펌프, 태양광, 배터리, 산업 전기화 수요가 동시에 늘어난 데 따른 계통 부담을 받고 있다.위트레흐트 일부 지역에서는 신규 및 증설 전력 접속이 사실상 제한된 상태다. 가정과 기업은 필요한 전력 용량을 확보하기까지 수년을 기다릴 수 있다는 안내를 받고 있다.전력망 접속은 이제 발",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "5f7edfc6b9a6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남, 정부양곡 보관·가공·공급 품질관리 교육",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211906",
+      "date": "2026-06-21",
+      "summary": "AI 생성 영상전라남도가 정부양곡 품질관리 역량 강화에 나섰다고 밝혔다.전남은 19일 나주 뉴나주시티호텔에서 정부양곡 관리 효율화 워크숍을 열고, 시군 공무원과 정부양곡 도정공장 대표 등 60여명을 대상으로 보관·가공·공급, 품질 감정 등 현장 실무 교육을 진행했다.이번 워크숍은 정부양곡의 안정적 공급과 품질 신뢰도 향상을 위해 마련됐다. 참석자들은 정부양곡 정책 추진 방향과 쌀 수급관리 방안을 공유하고, 업무 현장의 주요 현안과 애로사항을 함께 다뤘다.교육은 양곡가공기술 도정 이론, 쌀 품질 감정 방법, 양곡 도정 관리 요령을 중",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "917f2bd2aad0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주 광산구, 임방울거리·첨단지구 골목상권 육성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211907",
+      "date": "2026-06-21",
+      "summary": "AI 생성 영상광주 광산구가 임방울거리와 첨단지구 골목상권 육성에 들어간다고 19일 밝혔다.광산구는 중소벤처기업부의 2026년 지역상권 육성사업 유망골목상권 공모에 임방울거리1구역 골목형상점가와 첨단지구 골목형상점가가 선정돼 국비 3억9000만원을 확보했다.이번 사업은 지역자원을 활용한 특색 있는 상권 육성과 지속 가능한 골목경제 생태계 조성을 목표로 한 신규 사업이다. 중소벤처기업부는 해당 사업을 통해 최대 5억원까지 지원하며, 광산구는 두 상권의 특성을 반영한 맞춤형 육성 전략을 추진한다.임방울거리1구역 골목형상점가는 소리와 맛",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "d20ab3846b0f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양, 어린이집·유치원 아동 구강 인형극 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211912",
+      "date": "2026-06-21",
+      "summary": "AI 생성 영상광양시가 어린이집·유치원 아동을 대상으로 구강 인형극을 진행했다고 19일 밝혔다.광양 보건소는 17일부터 18일까지 광양읍 문화예술회관에서 어린이집과 유치원 23개소 아동 614명을 대상으로 구강 인형극을 운영했다.이번 공연은 구강보건의 날을 기념해 어린이들이 올바른 칫솔질 습관과 충치 예방의 중요성을 쉽게 익힐 수 있도록 마련됐다. 공연은 총 4회 진행됐으며, 아이들의 눈높이에 맞춘 이야기와 친근한 캐릭터를 활용했다.인형극은 올바른 양치 방법, 충치 예방을 위한 생활습관, 건강한 식습관, 정기적인 구강검진의 중요성을",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
       "id": "cdf93af6a8fe",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -183,6 +283,189 @@
       "summary": "AI 생성 영상전라남도가 여수 성두마을과 성두치, 기포마을의 잘못된 한자 표기를 바로잡았다고 19일 밝혔다.일제강점기 이후 지역 유래와 다르게 쓰인 일본식 지명을 정비하고, 화순 동면~순천 주암 도로시설개량공사로 새로 생기는 교차로와 터널 등 11곳에도 이름을 붙였다.이번 지명 정비 대상은 여수 성두마을, 성두치, 기포마을 등 3건이다. 성두마을은 조선왕조실록에 돌산읍 제일 남단에서 성이 시작되는 곳이라는 뜻의 성두(城頭)로 기록됐다. 그러나 일제강점기 이후 별 성(星), 말 두(斗)를 쓴 성두(星斗)로 잘못 표기돼 지역 유래에 맞",
       "keywords": [],
       "first_seen": "2026-06-20"
+    },
+    {
+      "id": "7ddc78b7ede2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "date": "2026-06-20",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "keywords": [
+        "Chatbot"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "5cab6cb8b0ba",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "date": "2026-06-20",
+      "summary": "So ... what's your In the Weights score?",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "e4eb1d06a421",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This startup built a fish-killing robot and chefs love the results",
+      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "date": "2026-06-20",
+      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+      "keywords": [
+        "Automation",
+        "Robotics"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "232b0ce5ea49",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "date": "2026-06-20",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "b3c99415eb5d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "date": "2026-06-20",
+      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "373aa5993a52",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "박준우 베슬AI 리더 \"분산 GPU 최적화, 토큰 시대의 해답\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211798",
+      "date": "2026-06-20",
+      "summary": "지구촌 전체가 극심한 GPU 공급 부족(Shortage) 상태에 빠졌다. 단기간에 공급량을 늘릴 수 없는 구조적 한계 속에서 인프라 시장에는 기존 자원을 아껴 나눠 쓰는 일종의 ‘아나바다’ 바람이 불고 있다.전 세계에 흩어진 유휴 GPU 자원을 발굴해 실시간 연결하는 네오클라우드 기업 베슬AI의 박준우 GTM(Go-To-Market) 리더를 만나 쇼티지의 현실과 해법을 들었다.■ 쇼티지보다 무서운 건 확보한 GPU 100% 활용 못 하는 현실베슬AI는 현재의 쇼티지를 물량 자체가 부족하기도 하지만, 막상 비싼 돈을 들여 칩을 확보하",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "c7dabe026ae9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "에버퓨어 \"단순 저장 넘어 ‘데이터 인텔리전스’ 역량 강화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211942",
+      "date": "2026-06-20",
+      "summary": "에버퓨어(Everpure)가 사명 변경과 원터치(1touch) 인수를 완료하고, 미국과 한국을 중심으로 ‘데이터센트릭 스토리지’ 전략을 본격화한다.에버퓨어(전 퓨어스토리지)는 18일 강남구 아셈타워에서 사명 변경 이후 첫 국내 공식 간담회를 진행, ‘데이터 중심 구독형 스토리지’ 전략을 설명했다.AI 시대에서 ‘데이터 중심’ 스토리지를 갖추면, 데이터의 물리적 용량을 줄일 수 있는 것은 물론, 비용 효율적인 관리가 가능해진다고 강조했다. 데이터 중심 생태계란, 애플리케이션 별로 산재한 데이터의 단절성을 극복하기 위해 데이터 통합을",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "e23707258e0c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "헤르메스, 신규 기여자 수에서 오픈클로 역전...'하네스' 최적화의 승리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211931",
+      "date": "2026-06-20",
+      "summary": "누스 리서치의 오픈소스 AI 에이전트 '헤르메스(Hermes)'이 사용량에서 '오픈클로'를 앞지른 데 이어, 개발자 관심도 측면에서 1위에도 오른 것으로 확인됐다.디 인포메이션은 18일(현지시간) 오픈소스 AI 에이전트 생태계 분석 플랫폼 클로차트(ClawCharts)의 깃허브 통계를 인용, '헤르메스 에이전트'가 최근 30일 기준 신규 깃허브 기여자 수에서 오픈클로를 앞질렀다고 보도했다.신규 기여자 수는 오픈소스 프로젝트에 대한 개발자 참여도를 보여주는 주요 지표로 평가된다.이에 앞서 지난 5월에는 오픈라우터의 글로벌 트래픽 랭킹",
+      "keywords": [
+        "AI Agent",
+        "Open Source"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "7bfb382242cf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 중국 기업에 오픈AI API 판매로 수익 올려…’증류’ 위험 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211936",
+      "date": "2026-06-20",
+      "summary": "마이크로소프트(MS)가 중국 주요 기술 기업들에 오픈AI 모델을 제공하며 상당한 규모의 AI 사업을 구축한 것으로 나타났다. 그러나 이 과정에서 중국 기업들이 AI 모델을 모방·학습하는 ‘증류(distillation)’ 위험이 제기되면서 논란도 커지고 있다.18일(현지시간) 블룸버그에 따르면, 중국의 바이트댄스는 최근 수년간 MS의 최대 AI 고객으로 자리 잡았다.바이트댄스는 주로 애저(Azure) 클라우드를 통해 오픈AI 모델을 사용해 왔으며, AI 및 클라우드 서비스에 연간 10억달러(약 1조5000억원) 이상을 지출할 것으로",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "e6173fedc246",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 월드컵 열기 속 미·이란 종전 MOU와 스페이스X 상장 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211941",
+      "date": "2026-06-20",
+      "summary": "AI타임스와 이스트에이드의 6월 셋째 주(6월12일~18일) 이슈 분석 결과, 국제 정세 변화와 지방선거 후속 파장 및 금융 시장 변동 등이 상위권을 차지했다.이번 주 검색량 1위 키워드는 ‘미·이란 종전 MOU(8.53%)’이다.미국과 이란의 종전 양해각서(MOU) 체결 직후 이스라엘의 레바논 공습으로 후속 협상이 차질을 빚었으나, 미국 특사들이 스위스로 이동하면서 주말 간 협상 재개 가능성이 커졌다.한편, 트럼프 대통령은 60일 이내 최종 합의에 도달하지 않을 경우, 군사 대응을 하겠다는 강경한 입장을 밝혔다.2위는 ‘인천 다리",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "5d2d3235d022",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'GIST-Arm 스쿨' 22일까지 첫 교육생 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211945",
+      "date": "2026-06-20",
+      "summary": "광주과학기술원(GIST·총장 임기철)은 ‘GIST-Arm 스쿨 반도체 설계 교육 프로그램’을 본격 운영한다고 19일 밝혔다.이 프로그램은 GIST가 지난 2월 Arm과 체결한 MOU의 후속 사업으로, Arm의 공식 교육 콘텐츠와 설계 자산을 활용해 반도체 설계 분야의 실무형 전문 인력을 양성하는 데 목적이 있다.교육 대상은 반도체 분야 취업을 희망하는 학부 4학년 이상 학생과 졸업(예정)자, 재직자이며, 트랙별 30명을 선발한다.현재 전체 7개 트랙 중 ‘Arm 기반 컴퓨터 아키텍처 입문(1트랙)’과 ‘Arm 기반 임베디드 시스템(",
+      "keywords": [],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "3fb5898da316",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "퍼플렉시티, 밤마다 스스로 학습하는 AI 에이전트 메모리 '브레인' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211932",
+      "date": "2026-06-20",
+      "summary": "퍼플렉시티가 기존 AI 메모리 개념을 뒤집는 새로운 기억 시스템 '브레인(Brain)'을 공개했다. 사용자 취향과 선호도를 기억하는 대신, AI 에이전트가 수행한 업무 자체를 학습하고 개선하는 방식으로, AI 에이전트의 장기적인 학습 능력 향상이 목표다.퍼플렉시티는 18일(현지시간) 자체 에이전트 서비스 '컴퓨터(Computer)'를 위한 자기개선형 메모리 시스템 브레인을 연구 프리뷰 형태로 출시했다고 발표했다. 맥스와 엔터프라이즈 맥스 구독자를 대상으로 차례로 제공된다.지금까지 대부분의 AI 메모리 기능은 사용자를 중심으로 설계됐",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "e14337f52e81",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글·MS, AI 에이전트 연결 표준 'ARD' 발표…오픈AI·앤트로픽 견제 나서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211930",
+      "date": "2026-06-20",
+      "summary": "구글과 마이크로소프트(MS), 세일즈포스, 스노우플레이크, 서비스나우 등 주요 기업용 소프트웨어 업체들이 새로운 AI 표준인 '에이전틱 리소스 디스커버리(ARD)'를 공동 추진하며 AI 시장 주도권 경쟁에 나섰다. '사스포칼립스'를 유발한 앤트로픽과 오픈AI의 'AI 슈퍼에이전트' 전략에 맞선 대응으로 해석되고 있다.ARD는 18일(현지시간) 오픈소스 플랫폼인 깃허브와 데이터 플랫폼 기업 데이터브릭스에 공개됐다.ARD는 기업이 사용하는 다양한 업무용 애플리케이션과 AI 기능을 하나의 인터페이스에서 자동으로 탐색하고 활용할 수 있도록",
+      "keywords": [
+        "AI Agent",
+        "Open Source"
+      ],
+      "first_seen": "2026-06-21"
+    },
+    {
+      "id": "ea55eb77cb0c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, 자체 AI 칩 외부 공급 추진…엔비디아 독주에 '가장 실질적 도전'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211938",
+      "date": "2026-06-20",
+      "summary": "아마존이 자체 개발 AI 칩 '트레이니엄(Trainium)'을 외부 데이터센터에 직접 판매하는 방안을 추진하고 있다. 그동안 클라우드 서비스 내부에서만 활용하던 자체 AI 칩을 독립 사업으로 확대하려는 움직임으로, 엔비디아 등과의 경쟁 구도에 적지 않은 변수가 될 것으로 예상됐다.피터 드산티스 아마존웹서비스(AWS) AI 총괄은 18일(현지시간) 프랑스 파리에서 진행된 블룸버그와의 인터뷰에서 \"자체 개발 칩을 외부 기업의 데이터센터에 공급하는 방안을 논의하고 있다\"라고 밝혔다. 잠재 고객사 명단은 공개하지 않았다.그는 \"AI 인프라",
+      "keywords": [],
+      "first_seen": "2026-06-21"
     },
     {
       "id": "43dd03f73350",
@@ -20036,6 +20319,11 @@
       "date": "2026-06-20",
       "added": 55,
       "total": 1491
+    },
+    {
+      "date": "2026-06-21",
+      "added": 22,
+      "total": 1513
     }
   ],
   "sources": {},
@@ -20175,58 +20463,58 @@
     {
       "week": "2026-W25",
       "keywords": {
-        "AI Agent": 39,
-        "Automation": 24,
+        "AI Agent": 42,
+        "Automation": 25,
         "Security": 19,
-        "GPT": 12,
-        "SDK/API": 9,
-        "Robotics": 9,
+        "GPT": 13,
+        "Robotics": 10,
+        "SDK/API": 10,
+        "Gemini": 9,
         "Claude": 9,
-        "Gemini": 8,
         "Generative AI": 8,
-        "LLM": 8,
         "RAG": 8,
+        "LLM": 8,
         "Deployment": 7,
-        "Enterprise AI": 5,
-        "Optimization": 5,
-        "Chatbot": 5
+        "Open Source": 6,
+        "Chatbot": 6,
+        "Enterprise AI": 5
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 361,
-      "recent_7d": 110,
-      "recent_30d": 298
+      "total": 366,
+      "recent_7d": 102,
+      "recent_30d": 303
     },
     "aitimes": {
-      "total": 624,
-      "recent_7d": 210,
-      "recent_30d": 521
+      "total": 641,
+      "recent_7d": 197,
+      "recent_30d": 538
     },
     "toss": {
       "total": 32,
       "recent_7d": 8,
       "recent_30d": 12
     },
+    "aws_ml": {
+      "total": 86,
+      "recent_7d": 14,
+      "recent_30d": 53
+    },
     "openai": {
       "total": 77,
-      "recent_7d": 9,
+      "recent_7d": 7,
       "recent_30d": 36
     },
     "huggingface": {
       "total": 59,
-      "recent_7d": 8,
+      "recent_7d": 7,
       "recent_30d": 25
-    },
-    "aws_ml": {
-      "total": 86,
-      "recent_7d": 18,
-      "recent_30d": 53
     },
     "nvidia_ai": {
       "total": 51,
-      "recent_7d": 9,
+      "recent_7d": 8,
       "recent_30d": 30
     },
     "lycorp": {
@@ -20261,10 +20549,10 @@
     },
     "yozm": {
       "total": 68,
-      "recent_7d": 22,
+      "recent_7d": 12,
       "recent_30d": 33
     }
   },
-  "last_updated": "2026-06-20",
-  "total_articles": 1491
+  "last_updated": "2026-06-21",
+  "total_articles": 1513
 }
