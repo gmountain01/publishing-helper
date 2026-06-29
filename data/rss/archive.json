@@ -1,6 +1,160 @@
 {
   "articles": [
     {
+      "id": "244107f050c6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'램마겟돈'의 진짜 피해자는 중소기업과 소비자…\"예전 가격은 다시 없을 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212225",
+      "date": "2026-06-29",
+      "summary": "AI 데이터센터 투자 경쟁이 세계 메모리 시장을 뒤흔들면서, 이른바 '램마겟돈(RAMageddon)'의 후폭풍이 커지고 있다. 지금까지는 애플이나 마이크로소프트(MS) 같은 대형 기업의 제품 가격 상승이 주목받았지만, 실제 피해는 자금력과 협상력이 부족한 중소 제조업체와 일반 소비자에게 집중될 것이라는 경고가 잇따르고 있다. CNBC는 27일(현지시간) 현재 메모리 부족 사태가 대기업보다 중소 전자업체에 훨씬 치명적인 영향을 미치고 있다고 보도했다. 나빌라 포팔 IDC 애널리스트는 \"소규모 안드로이드 스마트폰 제조업체나 100달러",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "05874bc476ad",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 'GLM-5.2', 사이버보안서 '미소스'에 근접...\"버그 대재앙 비상\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212214",
+      "date": "2026-06-29",
+      "summary": "중국 AI 모델이 사이버보안 분야에서 앤트로픽의 '미소스'와 맞먹는 성능을 확보한 것으로 나타났다. 특히 누구나 접근할 수 있는 오픈소스 모델이라는 점에서, 미국의 AI 규제 정책이 오히려 중국을 키우는 역효과를 낳고 있다는 비판도 커지고 있다.월스트리트저널(WSJ)은 27일(현지시간) 보안 연구자들을 인용, 지푸AI가 이달 공개한 'GLM-5.2'가 소프트웨어 버그와 보안 취약점을 찾아내는 능력에서 미소스와 동등한 수준에 도달했다고 보도했다.범용 추론이나 일반 작업에서는 여전히 앤트로픽과 오픈AI의 최신 모델에 다소 뒤처지지만,",
+      "keywords": [
+        "Open Source",
+        "Security"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "83418d1e22d5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "목포, 전통연희극 '똥벼락' 오는 18일 공연",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212212",
+      "date": "2026-06-29",
+      "summary": "AI 생성 영상목포문화예술회관이 여름방학을 맞아 어린이와 가족 관객을 위한 특별공연을 연다고 29일 밝혔다.목포문화예술회관은 7월18일 오후 3시 기획공연 창작연희극 ‘똥벼락’을 선보인다. 전통연희와 연극이 어우러진 가족 공연으로, 5세 이상 관람할 수 있다.이번 공연은 문화체육관광부와 예술경영지원센터가 주관하는 ‘2026년 공연예술 지역유통 지원사업’ 선정작이다. 이 작품은 김회경 작가의 동화책 ‘똥벼락’을 원작으로 한다. 작품은 우리 농경문화에서 거름으로 활용된 똥의 의미를 유쾌하게 풀어내며, 어린이 관객이 생명의 순환과 자연의",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "790b75153537",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 미 정부와 ‘페이블 5’ 복구에 근접...이르면 이번 주 해제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212210",
+      "date": "2026-06-29",
+      "summary": "미국 트럼프 행정부가 국가안보 우려를 이유로 약 2주간 중단시켰던 앤트로픽의 최신 AI 모델 '클로드 페이블 5(Claude Fable 5)'의 서비스 재개를 허용하는 방안을 검토 중인 것으로 알려졌다. 앞서 제한이 일부 해제된 사이버보안 모델 '미소스 5'에 이어 페이블 5까지 복귀할 가능성이 커지면서, 지난 4개월간 이어진 미국 정부와 앤트로픽 간 갈등이 완화 국면에 접어들고 있다는 분석이 나온다.액시오스는 27일(현지시간) 사안에 정통한 관계자를 인용해 트럼프 행정부가 이르면 이번 주 안에 페이블 5에 대한 제한을 해제할 가능",
+      "keywords": [
+        "Claude",
+        "Security"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "111a370b776a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"네이버·다음 게 섯거라\"...줌, K-엑사원으로 'AI 검색' 전면 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212213",
+      "date": "2026-06-29",
+      "summary": "이스트에이드(대표 김남현)는 국가대표 AI 모델 'K-엑사원'을 포털 줌 AI 검색에 전면 적용했다고 29일 밝혔다.과학기술정보통신부의 독자 AI 파운데이션 모델을 포털 검색 전반에 도입한 첫 상용화 사례로, 이스트에이드는 LG AI연구원 컨소시엄에 참여 중이다. 'AI 1초 요약'과 'AI 이슈 트렌드'의 핵심 AI 모델을 K-엑사원으로 교체했다. 자체 검색 엔진과 K-엑사원의 역할 분담 체계를 적용해 효율성을 높이고, 교차 검증으로 환각을 최소화했다는 설명이다.이를 통해 기존 글로벌 모델 대비 운영 비용을 2배가량 절감했다고 강",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "a838e44c84ab",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "셀렉트스타, 과기부 에이전틱 얼라이언스 합류...AI 신뢰성 검증 맡는다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212208",
+      "date": "2026-06-29",
+      "summary": "셀렉트스타(대표 김세엽)는 과학기술정보통신부 주관 민·관 AI 전략 협의체 '에이전틱 AI 얼라이언스' 안전·신뢰분과에 참여한다고 29일 밝혔다.에이전틱 AI 얼라이언스는 250여 개 기업·기관이 참여해 에이전틱 AI 기술 발전과 산업 활성화, 제도 정비, 안전·신뢰 기반 구축을 공동으로 추진하는 협의체다.셀렉트스타는 4개 분과 중 안전·신뢰분과에 참여해 자체 AI 신뢰성 검증 플랫폼 '다투모 플랫폼'을 기반으로 에이전틱 AI의 안전·신뢰 체계 마련과 평가·검증 방향을 제시할 계획이다.다투모 플랫폼은 AI 개발·도입에 필요한 데이터",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "e65434c85d94",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남해수원, 고수온 대응 부세 종자 20만마리 여수·완도 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212209",
+      "date": "2026-06-29",
+      "summary": "AI 생성 영상전라남도해양수산과학원이 고수온 대응 양식품종으로 부세 종자 20만마리를 여수 거문도와 완도 해상가두리 양식장에 분양했다.전남해양수산과학원은 지난 26일까지 부세 종자 20만마리를 공급했다고 29일 밝혔다. 부세는 30도 이상 고수온에서도 생존할 수 있고 성장 속도가 빠른 어종으로, 조피볼락 등 기존 양식어종의 고수온 피해를 보완할 대체 품종으로 주목받고 있다.전남의 해상가두리 부세 종자 공급량은 2022년 1만5000마리에서 2023년 10만마리로 늘었고, 2024년부터는 매년 20만마리 규모로 공급되고 있다. 지난해",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "efeee9637f81",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주, 청년 취업역량 강화…드림청년 400명 선발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212207",
+      "date": "2026-06-29",
+      "summary": "AI 생성 영상광주시가 하반기 ‘광주청년 일경험드림’ 사업에 참여할 제20기 드림청년 400명을 모집한다고 29일 밝혔다.대상은 광주에 주민등록을 둔 19~39세 미취업 청년이다. 출생 기준은 1986년 8월2일부터 2007년 8월1일까지다.선발된 청년은 공공기관, 공기업, 중소·중견기업, 창업기업 등 273개 사업장에서 실무 경험을 쌓게 된다. 주요 참여기관은 한국알프스, 무등기업, KBC광주방송, 광주경영자총협회, 광주신용보증재단, 조선대학교 등이다. 참여 유형은 자기주도형과 집중참여형으로 나뉜다. 자기주도형은 주 25시간씩 5",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "477136ed9681",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 태양광 제조사들, 한국산 셀 우회조사 청원…한화큐셀 포함",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212205",
+      "date": "2026-06-29",
+      "summary": "한국산 태양전지가 미국 태양광 반덤핑·상계관세 논쟁의 새 쟁점으로 떠올랐다. 조사가 실제로 시작되면 한국산 셀을 쓰는 미국 모듈 공장과 태양광 발전소 조달 비용에도 영향을 줄 수 있다는 분석이다.로이터는 22일(현지시간) 캐네디언 솔라(Canadian Solar), SEG 솔라(SEG Solar), 헬리엔(Heliene)이 미 상무부에 한국산 태양전지 수입에 대한 우회조사를 요청하는 청원을 제출했다고 보도했다.이들은 한화큐셀 등 한국 셀 생산업체가 중국산 태양광 제품에 적용되는 기존 반덤핑·상계관세 명령을 우회하고 있는지 조사해야",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "acba48fd90ff",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "정부, 송전용 BESS에 그리드포밍 성능 요건 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212206",
+      "date": "2026-06-29",
+      "summary": "재생에너지 확대에 맞춰 송전용 에너지저장장치(BESS)의 역할이 전력 저장에서 계통 안정화로 넓어진다. 태양광과 풍력 등 인버터 기반 발전설비가 늘어나면서 전력망의 전압과 주파수를 안정적으로 유지하는 기능이 중요해졌기 때문이다.기후에너지환경부는 최근 그리드포밍 성능 요건을 마련하고, 2027년 12월부터 상업운전에 들어가는 중앙계약시장 장주기 BESS 설비부터 적용한다고 밝혔다.그리드포밍은 인버터 기반 설비가 전력망의 전압과 주파수를 스스로 만들고 유지하도록 제어하는 기술이다.기존 그리드팔로잉 방식은 이미 형성된 전력망 신호를 따라",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "c90bf9260445",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "FCEDA to Support Korean Tech Firms Entering U.S. Market",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212201",
+      "date": "2026-06-29",
+      "summary": "The Fairfax County Economic Development Authority (FCEDA) is a public, non-profit agency of the Fairfax County government that operates a wide range of support programs for local businesses.Fairfax County, Virginia, in particular, is a strategic location often referred to as a gateway to Washington,",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "ba1ac03e05fb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212203",
+      "date": "2026-06-29",
+      "summary": "최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다. GPU 가격 상승과 추론 수요 확대로 기업들의 AI 인프라 복잡성이 커진 데다, 저전력 NPU 등 하드웨어 선택지도 다양해졌기 때문이다.이러한 상황 속에서 2015년 설립 이후 ‘GPU 가상화’ 시장을 개척해 온 래블업(대표 신정규)이 기존 '모델 개발 및 사전 훈련' 중심에서 최근 수요가 급증한 '추론과 에이전트' 영역으로 비즈니스를 본격 확장하고 나섰다.그 중심에는 래블업의 ‘백엔드닷에이아이(Backend.AI)’가 있다. 이종 GPU·N",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
       "id": "ea2c265a3189",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -98,6 +252,195 @@
       "summary": "네덜란드의 태양광과 풍력 발전이 국제 가스 가격 충격을 줄이는 완충장치 역할을 하고 있다는 분석이 나왔다.네덜란드 재생에너지 산업단체 홀란드솔라와 네드제로가 3월 초부터 6월 초까지 분석한 결과에 따르면 태양광·풍력 발전이 3월 이후 20억유로(약 3조5000억원) 규모의 천연가스 구매 비용을 대체한 것으로 추산했다.국제 가스 가격 변동성이 커진 상황에서 재생에너지가 전력 생산뿐 아니라 연료 수입비 절감 효과를 내고 있다는 의미다.태양광과 풍력이 더 많은 전력을 공급하면 전력시장에서는 상대적으로 비싼 가스발전 호출이 줄어든다. 그만",
       "keywords": [],
       "first_seen": "2026-06-28"
+    },
+    {
+      "id": "178c1d5ae377",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "date": "2026-06-28",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "keywords": [
+        "Deployment",
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "9419709926e3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "date": "2026-06-28",
+      "summary": "Streaming ads might be getting a lot quieter.",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "66a122702bc0",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "date": "2026-06-28",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "5c0c754ba2ce",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "date": "2026-06-28",
+      "summary": "Has Silicon Valley been building the wrong things?",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "0dbe3aa04b3b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "date": "2026-06-28",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "c954eb691633",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "date": "2026-06-28",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "ba50c9009e9b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "date": "2026-06-28",
+      "summary": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro.&#160;This $500 premium smart home gadget is aimed at those who crave what&#8217;s called “the",
+      "keywords": [
+        "Automation",
+        "RAG"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "1c859993eeca",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "date": "2026-06-28",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "01ec3c6e0673",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "국내 AI 업계, 마누스 외면… \"중국산 거부감보다 대체재 풍부\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212196",
+      "date": "2026-06-28",
+      "summary": "AI 에이전트 서비스 마누스(Manus)가 최근 국내 진출을 검토 중인 것으로 알려졌다. 마누스는 지난해 출시 직후 뛰어난 성능으로 주목받았으며, 최근에는 메타의 인수 추진 과정에서 중국 정부가 이례적으로 '거래 철회 명령'을 내리며 미국과의 기술 갈등의 중심에 선 바 있다. 이 때문에 시장에서는 이를 ‘중국계 AI’로 인식하는 분위기가 짙다. 마누스도 국내 진출에 가장 큰 걸림돌로 이런 점을 꼽은 것으로 알려졌다.이에 따라 국내 AI 기업 10여 곳을 대상으로 마누스와 중국산 AI 이미지에 대한 시각과 실제 도입 여부를 조사했다.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "7c8391b5125e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "저커버그, '예측 시장' 앱 개발 이어 선두주자와 협력 지시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212202",
+      "date": "2026-06-28",
+      "summary": "메타가 최근 폭발적으로 성장 중인 ‘예측 시장’에 도전하기 위해 자체 앱 개발에 나섰다는 소식에 이어, 이 분야 선두주자들과의 협력에 나선 것으로 알려졌다.26일(현지시간) 뉴욕타임스에 따르면, 마크 저커버그 CEO는 최근 참모진에게 폴리마켓(Polymarket)과 칼시(Kalshi) 등 대표 플랫폼과의 제휴 방안을 모색하라고 지시했다.이에 앞서 저커버그 CEO가 사내 소규모 팀을 통해 예측 시장 플랫폼을 모델로 한 독립형 모바일 앱 ‘아레나(Arena)’를 비밀리에 개발해 왔다는 소식이 전해졌다. 구체적인 협력 형태는 알려지지 않",
+      "keywords": [],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "fdc271398fbe",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "장시간 컴퓨터 사용 능력 벤치마크 공개…'오퍼스 4.8' 최고점",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212199",
+      "date": "2026-06-28",
+      "summary": "장시간에 걸친 실제 컴퓨터 업무 수행 능력을 평가하는 새로운 벤치마크가 공개됐다. 기존의 한계를 넘어 실제 전문가 수준의 업무 환경을 반영한 평가 도구다. AI 연구소인 X랭(XLANG)은 26일(현지시간) 장기 컴퓨터 사용(Long-horizon Computer Use) 능력을 평가하기 위해 'OS월드(OSWorld) 2.0'을 공개했다.기존 벤치마크가 수십 단계 안에 끝나는 단순 작업을 평가했다면, OS월드 2.0은 숙련된 사람이 평균 1.6시간이 걸리는 실제 업무를 기반으로 AI 에이전트의 장기 작업 수행 능력을 측정하도록 설",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "7b107040882e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, LLM 추론 속도 최대 85% 높이는 ‘D스파크’ 오픈소스 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212191",
+      "date": "2026-06-28",
+      "summary": "딥시크가 기존 모델의 응답 속도와 서비스 효율을 높이기 위한 최적화 기술을 선보였다. 여러 토큰을 먼저 생성한 뒤 문맥에 맞게 차례대로 보완하고, GPU 작업량에 따라 검증하는 토큰 수를 자동으로 조절해 추론 속도와 서비스 효율을 높였다. 딥시크는 26일(현지시간) 대형언어모델(LLM)의 추론 성능을 크게 높일 수 있는 추측형 디코딩(Speculative Decoding) 프레임워크 ‘D스파크(DSpark)’를 오픈소스로 공개했다. 기존 '딥시크-V4' 모델에 D스파크를 적용한 '딥시크-V4-프로-D스파크'와 '딥시크-V4-플래시-",
+      "keywords": [
+        "Coding",
+        "LLM",
+        "Open Source"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "406634065a4c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "에포크 AI, '장기 개발 능력' 벤치마크 공개...“코드 암기론 통과 못해”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212195",
+      "date": "2026-06-28",
+      "summary": "에포크 AI가 AI 모델의 장기간 소프트웨어 개발 능력을 평가하는 새로운 벤치마크 '미러코드(MirrorCode)'를 공개했다. 기존 소프트웨어 엔지니어링 벤치마크가 버그 수정이나 단일 기능 구현 등 단기 작업에 초점을 맞췄다면, 미러코드는 인터넷이나 원본 소스코드 없이 프로그램 전체를 처음부터 다시 구현하도록 요구해 AI의 실제 소프트웨어 개발 역량을 측정하도록 설계됐다.에포크 AI는 26일(현지시간) AI 안전성 연구기관 METR와 공동으로 미러코드를 개발했다고 밝혔다.AI가 기존 프로그램의 소스코드를 보지 않은 상태에서 프로그",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-06-29"
+    },
+    {
+      "id": "882f545a0042",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 깃허브 코파일럿에 자체 코딩 모델 출시...\"하이쿠보다 빠르고 저렴\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212192",
+      "date": "2026-06-28",
+      "summary": "마이크로소프트(MS)가 '깃허브 코파일럿(GitHub Copilot)'에 자체 AI 코딩 모델 적용을 확대하며 기업용 AI 코딩 시장 공략에 속도를 내고 있다. MS는 26일(현지시간) 자체 개발한 AI 코딩 모델 'MAI-코드-1-플래시(MAI-Code-1-Flash)'를 깃허브 코파일럿 비즈니스와 깃허브 코파일럿 엔터프라이즈 고객에게 정식 출시했다.빠른 응답 속도와 낮은 지연시간을 앞세워 대규모 개발 환경에서 반복적인 AI 코딩 작업을 지원하는 모델로, 기업용 깃허브 코파일럿에 MS의 자체 AI 기술을 본격적으로 확대 적용했다는",
+      "keywords": [
+        "AI Coding",
+        "Coding"
+      ],
+      "first_seen": "2026-06-29"
     },
     {
       "id": "b18057ca1428",
@@ -24868,6 +25211,18 @@
         "Chatbot"
       ],
       "first_seen": "2026-06-27"
+    },
+    {
+      "id": "8f4a3a4fe568",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI 쓰는데 왜 생산성은 10%밖에 늘지 않을까?",
+      "link": "https://yozm.wishket.com/magazine/detail/3824",
+      "date": "",
+      "summary": "AI의 등장 후, 많은 분들이 AI 툴을 사용하고 있습니다. 그런데 어느 날 경영진으로부터 “그래, AI 도입했으니 얼마나 생산성이 높아졌는지 보고해.” 또는 “왜 도입한 만큼 성과가 안 나오는 거야?”라는 질문을 받았을 때 어떻게 대답하실 건가요? 실제로 우리의 생산성은 향상된 게 맞을까요? 느낌으론 그런 것 같은데 데이터로 말해보라고 하면 애매할 겁니다. 그렇다면 정말 AI 툴을 쓴다고 생산성이 느는 게 아니라면, 격차는 어디서 벌어지는 걸까요? 이번 글에서는 이에 대한 통계와 사례를 살펴보고, 이 격차를 극복하는 사람들의 공통",
+      "keywords": [],
+      "first_seen": "2026-06-29"
     }
   ],
   "daily_stats": [
@@ -25050,25 +25405,15 @@
       "date": "2026-06-28",
       "added": 25,
       "total": 1866
+    },
+    {
+      "date": "2026-06-29",
+      "added": 27,
+      "total": 1893
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W19",
-      "keywords": {
-        "AI Agent": 4,
-        "Coding": 2,
-        "Cloud/DevOps": 1,
-        "RAG": 1,
-        "Vector DB": 1,
-        "LLM": 1,
-        "Deployment": 1,
-        "Vision": 1,
-        "Enterprise AI": 1,
-        "SDK/API": 1
-      }
-    },
     {
       "week": "2026-W20",
       "keywords": {
@@ -25192,34 +25537,43 @@
     {
       "week": "2026-W26",
       "keywords": {
-        "AI Agent": 58,
-        "Automation": 19,
+        "AI Agent": 60,
+        "Automation": 21,
         "Security": 17,
         "GPT": 16,
-        "LLM": 14,
-        "Open Source": 13,
+        "LLM": 15,
+        "Open Source": 14,
+        "Coding": 13,
         "Claude": 12,
         "Generative AI": 10,
-        "Coding": 10,
-        "RAG": 9,
+        "RAG": 10,
         "Robotics": 7,
+        "Enterprise AI": 6,
         "SDK/API": 6,
         "Video AI": 6,
-        "Gemini": 5,
-        "AI Safety": 5
+        "Gemini": 5
+      }
+    },
+    {
+      "week": "2026-W27",
+      "keywords": {
+        "Security": 2,
+        "AI Agent": 2,
+        "Open Source": 1,
+        "Claude": 1
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 463,
-      "recent_7d": 102,
-      "recent_30d": 400
-    },
     "aitimes": {
-      "total": 817,
-      "recent_7d": 193,
-      "recent_30d": 714
+      "total": 835,
+      "recent_7d": 194,
+      "recent_30d": 732
+    },
+    "techcrunch": {
+      "total": 470,
+      "recent_7d": 104,
+      "recent_30d": 407
     },
     "huggingface": {
       "total": 68,
@@ -25237,9 +25591,9 @@
       "recent_30d": 12
     },
     "openai": {
-      "total": 87,
-      "recent_7d": 10,
-      "recent_30d": 46
+      "total": 88,
+      "recent_7d": 11,
+      "recent_30d": 47
     },
     "aws_ml": {
       "total": 103,
@@ -25277,11 +25631,11 @@
       "recent_30d": 0
     },
     "yozm": {
-      "total": 79,
-      "recent_7d": 11,
-      "recent_30d": 44
+      "total": 80,
+      "recent_7d": 12,
+      "recent_30d": 45
     }
   },
-  "last_updated": "2026-06-28",
-  "total_articles": 1866
+  "last_updated": "2026-06-29",
+  "total_articles": 1893
 }
