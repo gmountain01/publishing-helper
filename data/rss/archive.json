@@ -1,6 +1,90 @@
 {
   "articles": [
     {
+      "id": "dbc813e0bd93",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KAIST, AI 에이전트의 전력 비용 규명...\"챗봇보다 최대 136배 에너지 사용\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212437",
+      "date": "2026-07-05",
+      "summary": "한국과학기술연구원(KAIST) 연구진이 AI 에이전트의 계산 비용과 에너지 소비를 분석한 결과, 기존 생성 AI보다 질문 한 건당 최대 136.5배 많은 에너지를 사용하는 것으로 나타났다. 이번 연구는 AI 시대의 경쟁력이 모델 성능을 넘어 데이터센터와 전력 인프라의 효율성으로 확대되고 있음을 보여준다.KAIST(총장 배충식) 전기및전자공학부 유민수 석좌교수 연구팀은 AI 에이전트가 실제 서비스 환경에서 얼마나 많은 계산 자원과 전력을 사용하는지를 체계적으로 분석했다고 5일 밝혔다.최근 대형언어모델(LLM) 기반 어플리케이션은 단순",
+      "keywords": [
+        "AI Agent",
+        "Chatbot",
+        "Generative AI",
+        "LLM"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "970d99ae5df2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "​​​​​​​[기고] 한국딥러닝 “기업 LLM 시대, AI 경쟁력은 모델이 아니라 ‘컨텍스트 관리 시스템’에 있다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212435",
+      "date": "2026-07-05",
+      "summary": "■ 삼성도, LG도 LLM을 도입했다…이제 기업 AI의 승부는 그 다음부터다국내 기업들의 생성 AI 도입이 새로운 전환점을 맞고 있습니다. 최근 삼성은 전 관계사를 대상으로 챗GPT와 제미나이 등 생성 AI 서비스를 도입하며 전사적인 AX를 추진하고 있습니다. LG그룹도 LG CNS를 중심으로 계열사 전반에 기업용 클로드를 도입하며 생성 AI를 업무 환경에 본격 적용하고 있습니다. 이제 생성 AI는 ‘도입할 것인가’를 고민하는 기술이 아니라 ‘어떻게 업무에 활용할 것인가’를 고민하는 단계로 넘어가고 있습니다.생성 AI는 문서를 검색",
+      "keywords": [
+        "Claude",
+        "GPT",
+        "Gemini",
+        "Generative AI",
+        "LLM",
+        "ML/DL"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "273360fde608",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 7월부터 남성 난임 치료비 지원…최대 100만원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212384",
+      "date": "2026-07-05",
+      "summary": "AI 생성 영상여수시가 7월부터 남성 난임 치료 시술비 지원사업을 시행한다고 3일 밝혔다.남성 요인으로 난임 진단을 받은 난임 부부의 경제적 부담을 줄이고 건강한 임신을 돕기 위한 사업으로, 고환조직 정자채취술과 정계정맥류 절제술 비용을 최대 100만원까지 지원한다.지원 대상은 신청일 기준 전남광주통합특별시에 6개월 이상 주민등록을 두고, 난임 시술 의료기관에서 남성 요인 난임 진단을 받은 남성이다. 법적 혼인 상태이거나 1년 이상 사실혼 관계를 유지하고 있는 난임 부부라면 신청할 수 있다.지원 대상 시술은 고환조직 정자채취술과 정",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "aefbfd350544",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천, 주민참여형 환경정비…생활쓰레기 5톤 수거",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212401",
+      "date": "2026-07-05",
+      "summary": "AI 생성 영상순천시는 중앙동 주민들이 원도심 골목과 빈집 주변을 직접 정비하며 생활환경 개선에 나섰다고 3일 밝혔다.중앙동행정복지센터는 지난 30일 중앙동 주민자치회, 통장협의회, 바르게살기협의회 등 직능단체 40여 명이 참여한 가운데 환경 취약지역 정비 활동을 진행하고 생활쓰레기 5톤을 수거했다.중앙동은 전통시장과 오래된 주택가가 밀집한 원도심 지역이다. 좁은 골목길과 빈집, 나대지가 곳곳에 있어 일부 구역에서는 쓰레기 무단투기와 도시미관 저해, 주민 안전 문제가 계속 제기돼 왔다. 이번 정비는 주민이 직접 마을 문제를 살피고",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "2d62d0f7cfba",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "IRENA “재생에너지, 전 세계 화석연료 비용 742조 절감”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212375",
+      "date": "2026-07-05",
+      "summary": "재생에너지 확대가 2025년 전 세계 전력 부문에서 약 4800억달러(약 742조원)의 화석연료 비용 회피 효과를 낸 것으로 분석됐다. 태양광과 풍력은 신규 발전 설비 경쟁에서 화석연료보다 낮은 비용을 유지했고, 재생에너지는 전력 생산비 절감뿐 아니라 연료 가격 변동과 에너지 안보 리스크를 줄이는 기반 전원으로 자리 잡고 있다.국제재생에너지기구(IRENA)는 2일(현지시간) 공개한 보고서에서 2025년 신규 대규모 재생에너지 발전 설비의 90% 이상이 해당 시장에서 가장 저렴한 신규 화석연료 발전보다 낮은 비용으로 전력을 생산했다고",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "1b6547d113bf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수세계섬박람회 D-50, K-팝 한류 공연 열린다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212381",
+      "date": "2026-07-05",
+      "summary": "AI 생성 영상여수시가 2026여수세계섬박람회 개막 50일을 앞두고, 박람회장 일대에 K-POP과 한류 공연 무대를 연다고 3일 밝혔다.여수는 17일부터 18일까지 이틀간 여수세계박람회장 스카이타워 특설무대에서 섬박람회 붐업 행사 ‘YEOSU with MyK FESTA’를 개최한다.이번 행사는 섬박람회 D-50 분위기를 끌어올리고 국내외 관람객의 관심을 여수로 모으기 위해 마련됐다. 문화체육관광부 공모로 대형 한류종합행사와 연계해 진행되며, K-POP 공연과 시민 참여형 프로그램을 결합한 여름 야간 축제로 운영된다.첫날인 17일에는",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
       "id": "5377c8e2aefa",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -115,6 +199,200 @@
         "AI Agent"
       ],
       "first_seen": "2026-07-04"
+    },
+    {
+      "id": "4aeb7d2c2c24",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "date": "2026-07-04",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "81db9c8e2dbc",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "date": "2026-07-04",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "ffdf2d6e4cd4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "date": "2026-07-04",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "keywords": [
+        "Claude",
+        "Coding"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "a00e4ef27862",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "date": "2026-07-04",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "keywords": [
+        "Open Source"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "a6991ddafe4e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'AI 토큰 지출' 지표 첫 하락세…AI 거품 붕괴 vs 수요 조정 의견 맞서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212434",
+      "date": "2026-07-04",
+      "summary": "AI 토큰 구매에 지출하는 총금액을 추적하는 핵심 지표가 하락세를 나타내면서, 이를 둘러싼 해석이 분분하다. 단편적인 거품론을 넘어 AI 기업들의 가격 결정력 약화, 저가 모델로의 수요 이동, 정부 규제 등 다양한 요인이 배경으로 지목됐다.3일(현지시간) 블룸버그에 따르면, 글로벌 조사기관 실리콘 데이터(Silicon Data)가 집계하는 '대형언어모델 토큰 지출 지수(LLM Token Expenditure Index)'가 지난 5월 최고점을 기록한 이후 최근에는 20% 가까이 하락한 것으로 나타났다. 지난해 12월 집계 이후 2배",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "64a902b3bd83",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황 '가죽 재킷', 소더비 경매에 등장...낙찰가 9000만원 예상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212433",
+      "date": "2026-07-04",
+      "summary": "젠슨 황 엔비디아 CEO의 상징적인 검은색 가죽 재킷이 글로벌 미술품 경매사 소더비의 자선 경매에 부쳐진다.소더비는 최근 황 CEO가 착용한 가죽 재킷의 경매를 진행하며, 예상 낙찰가를 4만~6만달러(약 6120만~9180만원)으로 책정했다.이번 경매에 출품된 의류는 톰 포드 제품으로, 황 CEO가 2023년 10월18일 타이베이에서 열린 '폭스콘 테크 데이'에서 실제 착용했던 것이다. 글로벌 인증 기관인 PSA가 사진 대조법을 통해 진품임을 확인했으며, 재킷 안쪽에 포함된 젠슨 황의 친필 서명도 전문 감정 기관의 인증을 마쳤다.소",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "fc6e5325cc54",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 앤트로픽 '클로드' 직접 서비스 추진...\"클라우드 진입 준비\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212432",
+      "date": "2026-07-04",
+      "summary": "메타가 네오클라우드 시장에 진입할 수 있다는 최근 보도에 이어, 이번에는 앤트로픽의 '클로드'를 직접 서비스할 수 있다는 예측이 제기됐다. 마이크로소프트(MS)의 'AI 파운드리'나 아마존웹서비스(AWS)의 '베드록', 구글의 '버텍스 AI'처럼 타사의 최고 모델을 자체 데이터센터 인프라에 탑재해 시장에 판매하겠다는 전략이다.IT 인프라 분석 전문 세미애널리시스(SemiAnalysis)는 3일(현지시간) 메타가 현재 앤트로픽과 클로드의 '프라이빗 인스턴스(Private Instance) 접근 권한' 확보를 위한 최종 협상 단계에 있",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "1cd1fb012e7d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔라이튼, 사내 맞춤형 AI 챗봇 '엔튼이' 도입…“연내로 단계적 AX 실행”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212431",
+      "date": "2026-07-04",
+      "summary": "에너지 IT 전문 엔라이튼(ENlighten, 대표 이영호)은 사내 업무 프로세스에 AI 챗봇 '엔튼이'를 도입했다고 4일 밝혔다.엔라이튼은 지난 2016년 설립된 에너지 IT 플랫폼 기업으로 ‘발전왕’ 플랫폼을 통해 발전소 구축, 운영, 전력거래 등 에너지 통합 솔루션을 제공하고 있다. 전국에 산재한 분산 자원을 가상발전소(VPP)로 통합하는 것이 핵심이다. 나아가, 막대한 전력을 소모하는 AI 데이터센터에 친환경 전기를 효율적으로 공급하는 핵심 AI 인프라 기업으로 도약한다는 전략이다.이번에 도입한 엔튼이는 데이터 관련 정보 조",
+      "keywords": [
+        "Chatbot"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "efc373aa83bb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미스트랄, 수학 증명·코드 검증 특화 ‘린스트랄 1.5’ 전격 공개…“퍼트넘벤치서 역대 최고 성적”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212428",
+      "date": "2026-07-04",
+      "summary": "미스트랄 AI는 3일(현지시간) 수학 증명과 코드 검증를 위한 오픈소스 AI 모델 ‘린스트랄 1.5(Leanstral 1.5)’를 출시했다고 발표했다. 린스트랄 1.5는 기존 린스트랄-2603의 후속 모델로, 미스트랄 스몰 4 계열을 기반으로 개발됐다. 수학 정리와 프로그램의 논리적 정확성을 기계적으로 검증하는 증명 보조 시스템 '린 4(Lean 4)'에 최적화된 AI 코드 에이전트로 설계됐으며, 수학 정리 증명과 코드 검증을 주요 목표로 한다.린 4은 수학 증명을 위해 개발된 프로그래밍 언어 린(Lean)을 활용한다. 이는 수학자",
+      "keywords": [
+        "AI Agent",
+        "Open Source"
+      ],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "8b3168a59639",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, 차세대 '루빈 울트라' 4칩렛 대신 2칩렛으로 선회…양산 현실 고려했나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212421",
+      "date": "2026-07-04",
+      "summary": "엔비디아가 2027년 출시를 목표로 개발 중인 차세대 AI 가속기 '루빈 울트라(Rubin Ultra)'의 설계를 기존 4개 GPU 칩렛(chiplet) 구성에서 2개 칩렛 구성으로 변경한 것으로 알려졌다. 제조 난이도와 생산성을 고려한 결정으로 전해지며, 사실일 경우 차세대 AI 반도체와 고대역폭 메모리(HBM) 시장에도 적지 않은 영향을 미칠 것으로 전망된다.지난 30일(현지시간) 세미애널리시스에 따르면, 엔비디아는 당초 루빈 울트라에 4개의 GPU 연산 칩렛을 탑재하는 방안을 추진했다. 이는 기존 루빈 GPU가 2개의 연산 칩",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "d852f3b99ddb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "인텔, 코어 울트라·제온 CPU 일부 가격 인상...\"공급망 비용·강한 수요 반영\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212422",
+      "date": "2026-07-04",
+      "summary": "인텔이 일부 소비자용 및 데이터센터용 프로세서의 권장 판매가격(RCP)을 인상했다. 공급망 비용 상승과 강한 수요 등 시장 환경 변화를 이유로 들었지만, 가격 인상이 특정 제품군에만 집중된 점을 고려하면 실제로는 수요가 높은 제품의 수익성을 높이기 위한 전략이라는 분석도 제기된다.인텔은 3일(현지시간) 일부 소비자용과 서버용 CPU의 가격을 인상했다고 공식 확인했다.\"최근 가격 조정은 공급망 비용 상승과 인텔 코어 울트라 200S 플러스(Core Ultra 200S Plus) 프로세서에 대한 강한 수요 등 현재 시장 상황을 반영한",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "4a617e8ddc1f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 월드컵 32강 탈락 속 '호남 반도체 투자' 논란 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212430",
+      "date": "2026-07-04",
+      "summary": "AI타임스와 이스트에이드의 6월 마지막 주(6월26일~7월2일) 이슈 분석 결과, 북중미 월드컵 조별리그 결과와 대규모 반도체 투자 계획 등이 상위권을 차지했다.이번 주 검색량 1~2위는 '한국 32강 진출 실패(8.48%)'와 '홍명보 사퇴 논란(8.21%)'이 차지했다. 한국 대표팀은 북중미 월드컵 조별리그 A조에서 1승2패로 32강 진출이 최종 무산됐다.홍명보 감독은 성적 부진의 책임을 지고 사퇴했다. 손흥민 선발 제외 등 논란에 대해서는 코칭 스태프와 충분한 논의를 거친 결과라고 밝힌 뒤 미국으로 출국했다.이에 '32강 대진",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "58938c14f6d3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 대기업·중동 자본까지 합세…4조 확보한 '클링 AI', 글로벌 시장 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212427",
+      "date": "2026-07-04",
+      "summary": "콰이쇼우의 동영상 생성 서비스 '클링(Kling) AI'가 알리바바와 텐센트, 바이두 등으로부터 대규모 투자 유치에 성공했다. 총 28억달러(약 4조원) 규모의 이번 투자로 180억달러(약 27조원)의 기업 가치를 인정받게 됐으며, 앞으로 홍콩 증시 상장도 추진할 것으로 알려졌다.콰이쇼우는 3일(현지시간) AI 영상 생성 사업부 클링 AI가 28억달러 규모의 신규 투자를 유치했다고 발표했다. 앞으로 두 달 동안 추가 투자를 받을 예정이며, 최종 투자 규모는 30억달러까지 확대될 수 있다고 밝혔다.이번 투자에는 알리바바, 텐센트, 바",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "a37ef2ece3fa",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, 온디바이스 AI 칩 설계...\"화면 없는 자체 AI 기기 곧 공개\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212429",
+      "date": "2026-07-04",
+      "summary": "아마존이 자체 AI 칩 개발과 차세대 AI 기기 확대에 속도를 내고 있다. 핵심 소비자 제품에 자체 설계한 AI 칩을 적용하는 동시에, 음성 기반 휴대형 AI 기기를 조만간 선보이겠다는 계획을 밝혔다. 아마존의 디바이스 및 서비스 부문을 총괄하는 파노스 파네이 수석 부사장은 1일(현지시간) CNBC 팟캐스트 '더 테크 다운로드'에 출연해 반도체 전략과 AI 하드웨어 로드맵을 공개했다.파네이 부사장은 \"우리는 출시하는 디바이스를 위해 자체적인 엔드투엔드(end-to-end) 실리콘을 설계하고 있다\"라며, 현재 자체 칩이 '에코 쇼'와",
+      "keywords": [],
+      "first_seen": "2026-07-05"
+    },
+    {
+      "id": "35f2a97ec47a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 23 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212426",
+      "date": "2026-07-04",
+      "summary": "내면 지도 그리기_하지 특집실험노트: 계절에 사는 사람으로 나를 대하기지난 칼럼에서 우리는 절기를 날짜로 외우는 것이 아니라, 그 계절을 사는 하루로 만나봤습니다.하지는 낮이 가장 긴 날입니다. 동시에, 아주 조금씩 낮이 짧아지기 시작하는 날이기도 합니다. 가장 환한 순간 안에 이미 저물어감이 들어 있다는 것. 그래서 하지는 밝기에, 어둠을 배우는 날이기도 합니다.이 실험은 찰나를 온몸으로 느껴보는 시간입니다.내가 어떤 빛 아래 있고, 어떤 그늘에서 쉬고 싶은지 천천히 알아차려보는 작은 노트입니다.■ 소요시간15–20분■ 준비물노트",
+      "keywords": [],
+      "first_seen": "2026-07-05"
     },
     {
       "id": "77ac52eac655",
@@ -29309,6 +29587,11 @@
       "date": "2026-07-04",
       "added": 36,
       "total": 2182
+    },
+    {
+      "date": "2026-07-05",
+      "added": 21,
+      "total": 2203
     }
   ],
   "sources": {},
@@ -29456,34 +29739,39 @@
     {
       "week": "2026-W27",
       "keywords": {
-        "AI Agent": 44,
+        "AI Agent": 46,
+        "Claude": 24,
         "Automation": 21,
-        "Claude": 21,
         "Security": 17,
-        "Gemini": 13,
-        "Open Source": 11,
+        "Gemini": 14,
+        "Open Source": 13,
+        "Coding": 11,
+        "LLM": 10,
         "SDK/API": 10,
-        "Coding": 10,
-        "LLM": 7,
+        "GPT": 7,
         "Deployment": 6,
         "Robotics": 6,
-        "GPT": 6,
-        "Optimization": 5,
-        "Video AI": 5,
-        "Cloud/DevOps": 5
+        "Generative AI": 6,
+        "Chatbot": 6,
+        "Video AI": 5
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 550,
-      "recent_7d": 62,
-      "recent_30d": 62
-    },
     "aitimes": {
-      "total": 984,
-      "recent_7d": 120,
-      "recent_30d": 120
+      "total": 1001,
+      "recent_7d": 137,
+      "recent_30d": 137
+    },
+    "techcrunch": {
+      "total": 554,
+      "recent_7d": 66,
+      "recent_30d": 66
+    },
+    "deepmind": {
+      "total": 41,
+      "recent_7d": 2,
+      "recent_30d": 2
     },
     "nvidia_ai": {
       "total": 72,
@@ -29520,11 +29808,6 @@
       "recent_7d": 4,
       "recent_30d": 4
     },
-    "deepmind": {
-      "total": 41,
-      "recent_7d": 2,
-      "recent_30d": 2
-    },
     "toss": {
       "total": 39,
       "recent_7d": 0,
@@ -29546,6 +29829,6 @@
       "recent_30d": 7
     }
   },
-  "last_updated": "2026-07-04",
-  "total_articles": 2182
+  "last_updated": "2026-07-05",
+  "total_articles": 2203
 }
