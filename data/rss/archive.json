@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "7cea3cb676e1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메모리 가격 급등세 둔화…소비자 구매력 한계에 기업용과 ‘양극화’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212454",
+      "date": "2026-07-06",
+      "summary": "AI 서버 시장의 폭발적인 수요에 힘입어 메모리 반도체 가격 상승세가 3분기에도 이어질 전망이다. 다만, 지난 2분기 60%에 달했던 가파른 가격 급등은 한풀 꺾일 것으로 보인다. 소비자용 IT 제품 시장에서 가격 인상 수용 능력이 한계에 도달하면서 기업용과 소비자용 메모리 시장의 양극화가 더욱 뚜렷해지고 있다는 분석이다.시장조사 전문 트렌드포스는 3일(현지시간) 최신 메모리 가격 전망 보고서를 통해 2026년 3분기 D램(DRAM) 고정거래가격은 전분기 대비 13~18%, 낸드플래시는 10~15% 상승할 것으로 예상했다.가격은 여",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "d9fa0db0cce4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "이스트소프트, AX 사업 성장으로 올해 수주 100억 돌파 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212450",
+      "date": "2026-07-06",
+      "summary": "이스트소프트(대표 정상원)는 AX 사업 부문의 가파른 성장으로 올해 누적 수주 규모가 100억원을 넘어설 것으로 전망된다고 6일 밝혔다.이스트소프트의 AX 사업은 지난해 사업본부가 공식 출범하며 하반기에만 11억원의 매출을 기록했으며, 올해 상반기에는 63억원의 수주를 달성했다. 하반기에도 비슷한 규모의 수주가 예상되면서 올해 총 100억원을 돌파할 것이라는 전망이다.이스트소프트는 ▲AI 에이전트 ‘앨런’ ▲실시간 대화형 서비스 ‘페르소 인터랙티브’ ▲영상 제작툴 ‘페르소 스튜디오’ ▲‘페르소 더빙’ 등을 결합한 통합 AI 솔루션을",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "89eea1c2ab64",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT, 블랙웰 AI 클러스터 ‘해인’ 국내 최초 CSAP 인증 취득",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212453",
+      "date": "2026-07-06",
+      "summary": "SK텔레콤(대표 정재헌)은 엔비디아 블랙웰 GPU 기반 AI 데이터센터 인프라 '해인' 클러스터가 클라우드 서비스 보안 인증(CSAP)을 취득했다고 6일 밝혔다.CSAP는 한국인터넷진흥원(KISA)이 주관하는 인증 제도로, 공공기관이 이용하는 클라우드 서비스의 보안성을 정부가 검증하는 제도다.해인 클러스터는 서비스형 인프라(IaaS) 부문 인증을 취득했으며, 블랙웰 GPU 기반 AI 클라우드 사업자로는 국내 최초로 CSAP 인증을 받았다. 블랙웰 GPU 1000개 이상을 단일 클러스터로 구성한 인프라로 망 분리와 데이터 격리 등 공",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "4ef297a23884",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, AI 안경 한국어 실시간 번역 지원...통신 3사 판매 돌입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212449",
+      "date": "2026-07-06",
+      "summary": "메타가 지난 5월 말 국내 출시한 AI 안경 '레이밴 메타'와 '오클리 메타'의 실시간 번역 기능에 한국어 지원을 시작했다고 6일 밝혔다.두 제품은 1200만 화소 초광각 카메라와 3K 울트라 HD 촬영 기능을 갖춰 사진·영상 촬영은 물론, 내장된 블루투스 스피커로 오디오를 즐기고 음성 명령으로 메타 AI와 상호작용할 수 있다.이번에 한국어를 포함한 14개 언어가 실시간 번역 기능에 추가되면서 지원 언어는 총 20개로 확대됐다. 번역된 내용은 안경에 탑재된 오픈이어 스피커로 음성 전달되며, 메타 AI 앱에서는 텍스트로도 확인할 수",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "6a008e532b61",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천, 친환경 블루베리 108kg 복지시설 4곳에 기부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212403",
+      "date": "2026-07-06",
+      "summary": "AI 생성 영상순천시가 농업기술센터 새기술 실증단지에서 시범 재배한 친환경 블루베리를 지역 사회복지시설에 전달했다고 3일 밝혔다.순천은 2일 원예과학원에서 자체 재배한 블루베리 108팩, 총 108kg을 관내 사회복지시설 4곳에 기부했고, 금액으로는 약 300만원 상당이다.이번 기부는 여름철을 앞두고 취약계층 아동과 노년층의 건강한 식생활을 돕고, 지역사회 안에서 나눔 문화를 확산하기 위해 마련됐다. 전달 대상은 순천종합사회복지관, 순천조례종합사회복지관, 순천SOS어린이마을, 평화로운집 등 4곳이다. 순천종합사회복지관과 순천조례종합",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "ef8095315d22",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국 뉴저지, 콘센트형 태양광 법안 통과…아파트도 전기 절감 길 열리나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212405",
+      "date": "2026-07-06",
+      "summary": "미국 뉴저지주가 콘센트형 태양광과 발코니 태양광을 제도권에 들이는 법안을 통과시켰다. 지붕이 없는 아파트와 임대주택 거주자도 소형 태양광 장치를 통해 전기요금 절감에 참여할 수 있는 길을 열었다는 평이다.지난 30일(현지시간) 뉴저지 주의회가 ‘가든스테이트 발코니 태양광법’을 통과시켰다. 법안은 상원에서 찬성 40표, 반대 0표로 통과됐고, 하원에서도 찬성 79표, 기권 1표로 처리되어 주지사 서명 단계로 넘어갔다.법안의 핵심은 최대 1200와트(W) 규모의 휴대형 태양광 발전장치를 표준 120볼트(V) 교류 콘센트에 연결해 사용할",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "747defbe17f7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 불법 이륜자동차 합동단속…구조변경 등 31건 적발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212391",
+      "date": "2026-07-06",
+      "summary": "AI 생성 영상여수시가 시민 안전과 생활 소음 불편을 줄이기 위해 이륜자동차 합동단속을 실시해 위반 행위 31건을 적발했다고 3일 밝혔다.단속은 1일 여수경찰서, 한국교통안전공단 광주전남본부와 함께 여서동 해양경찰서 앞 등 2개소에서 진행됐다.이번 단속은 이륜자동차 배기·경적소음 허용기준 초과 여부와 불법 구조변경, 무등록 운행 등을 중심으로 이뤄졌다. 배달 수요 증가와 함께 이륜차 운행이 늘면서 도심 소음과 교통안전에 대한 시민 불편이 커진 데 따른 조치다.단속 결과 적발된 위반 행위는 모두 31건이다. 유형별로는 불법구조변경 5",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
       "id": "dbc813e0bd93",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -83,6 +171,190 @@
       "summary": "AI 생성 영상여수시가 2026여수세계섬박람회 개막 50일을 앞두고, 박람회장 일대에 K-POP과 한류 공연 무대를 연다고 3일 밝혔다.여수는 17일부터 18일까지 이틀간 여수세계박람회장 스카이타워 특설무대에서 섬박람회 붐업 행사 ‘YEOSU with MyK FESTA’를 개최한다.이번 행사는 섬박람회 D-50 분위기를 끌어올리고 국내외 관람객의 관심을 여수로 모으기 위해 마련됐다. 문화체육관광부 공모로 대형 한류종합행사와 연계해 진행되며, K-POP 공연과 시민 참여형 프로그램을 결합한 여름 야간 축제로 운영된다.첫날인 17일에는",
       "keywords": [],
       "first_seen": "2026-07-05"
+    },
+    {
+      "id": "5afb9f65c842",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "date": "2026-07-05",
+      "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "45795ceb4809",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "date": "2026-07-05",
+      "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "0600934a9010",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "date": "2026-07-05",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "7c17b3699d23",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "5 desk gadgets that can make your workday better",
+      "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "date": "2026-07-05",
+      "summary": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "5bc2038eeaa7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "date": "2026-07-05",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "eb9d1942265e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "date": "2026-07-05",
+      "summary": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "2609506cbf6c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212448",
+      "date": "2026-07-05",
+      "summary": "국내 AI 산업이 데이터, 파운데이션 모델, GPU 등 인프라 확보에 속도를 내고 있지만, 정작 이를 검증할 'AI 신뢰성' 논의와 전문 인력 양성은 뒤처져 있다는 지적이 나왔다.박지환 씽크포비엘 대표는 \"국제적으로 중요한 표현은 무조건적인 믿음을 뜻하는 ‘Trust AI’가 아니라, 안전장치를 갖췄는지 묻는 ‘Trustworthy AI(신뢰할 수 있는 AI)’\"라며 \"AI 신뢰성은 기술 고도화와 대립하는 규제가 아닌, 같은 선상에서 다뤄야 할 논의\"라고 강조했다.■ 인증은 보증이 아니다…'전 주기 관리' 필요박 대표는 현재 활발한",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "53629084e067",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"모델 다변화는 성공, 거버넌스는 낙제점\"…기업 AI '통제 격차' 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212446",
+      "date": "2026-07-05",
+      "summary": "앤트로픽의 '클로드 페이블 5' 서비스 중단 사태가 발생하기 전부터 글로벌 기업의 3분의 2는 이미 특정 모델에만 의존하지 않는 멀티 모델 전략을 채택하고 있었던 것으로 나타났다. 이는 연초부터 지적된 AI 비용 문제에 따른 선제적 조치였으나, 이와 동시에 또 다른 내부적 취약점도 함께 드러났다벤처비트 펄스 리서치가 발간한 ‘통제 격차(The Control Gap)’ 보고서에 따르면, 미국 정부의 수출 통제 명령으로 인해 페이블 5의 서비스가 예고 없이 전면 중단되었을 당시 이미 많은 기업은 유연한 모델 전략으로 타격을 최소화했다.",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "5c1c796f0568",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT, 15GW AI 데이터센터 구축 \"아시아 AI 인프라 허브 도약\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212447",
+      "date": "2026-07-05",
+      "summary": "SK텔레콤(대표 정재헌)은 최대 15기가와트(GW) 규모의 AI 데이터센터를 구축해 아시아 AI 인프라 허브로 도약하겠다고 5일 밝혔다.우선 울산에 건설 중인 1호 AI 데이터센터를 시작으로 영남권 전체에 2GW 이상 규모의 클러스터를 조성한다. 여기에 서남권 1GW를 추가해 국내에 총 5GW 규모의 AI 데이터센터를 2029년부터 단계적으로 열 계획이다.SKT는 초기 투자 부담과 사업 위험을 최소화하기 위해 2035년까지 15GW 규모로 순차 확대하며, SK 계열사들이 참여해 그룹 차원의 풀스택 AI 인프라 역량을 총결집할 계획이",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "c066cf1a419d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "바이트댄스, ‘시댄스 2.5’ 이번 주 출시 예정...최대 3분 영상 생성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212441",
+      "date": "2026-07-05",
+      "summary": "바이트댄스가 최대 3분 길이의 영상을 생성할 수 있는 차세대 AI 영상 모델 ‘시댄스 2.5(Seedance)'를 곧 공개할 것으로 알려졌다. 4일(현지시간) 테스팅카탈로그에 따르면, 바이트댄스는 이르면 오는 9일 ‘시댄스 2.5’를 출시할 것으로 예상된다.공식 출시 일정은 발표되지 않았지만, 드리미나와 캡컷의 홈페이지에는 이미 새로운 모델에 대한 내용이 등장했으며 여러 외부 정보에서도 7월 초 출시 가능성이 제기되고 있다. 새 모델은 드리미나와 캡컷은 물론 바이트댄스의 AI 영상 플랫폼과 연동되는 파트너 서비스에도 차례로 적용될",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "4365a8aa5099",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 평가 플랫폼 아레나, 상용화 8개월 만에 연매출 1500억 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212444",
+      "date": "2026-07-05",
+      "summary": "연구 프로젝트로 시작한 AI 모델 평가 플랫폼 '아레나(Arena)'가 상용 서비스 출시 8개월 만에 연 매출 1억달러(약 1500억원)를 달성했다. 새로운 AI 벤치마크로 큰 인기를 끈 아레나는 기업 대상 AI 성능 평가 서비스의 폭발적인 수요를 바탕으로 AI 사후 학습(Post-training) 시장의 핵심 기업으로 빠르게 성장하고 있다.아레나는 최근 연간 반복 매출(ARR) 1억달러를 돌파했다고 발표했다. 이는 지난해 9월 기업용 서비스를 시작한 지 불과 8개월 만에 달성한 성과다.아레나는 2023년 UC 버클리 연구 프로젝트",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "2576a52b29cd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "자체 칩 생산 속도 내는 머스크...'테라팹' 책임자로 인텔 베테랑 영입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212443",
+      "date": "2026-07-05",
+      "summary": "테슬라가 인텔에서 차세대 18A 공정의 양산 공장 구축을 이끌었던 핵심 제조 전문가를 영입하며 일론 머스크 CEO의 반도체 생산 프로젝트 '테라팹(Terafab)' 구축에 속도를 내고 있다. 톰스하드웨어에 따르면, 테슬라는 지난 6월 인텔에서 17년 이상 근무한 게리 장을 디렉터로 영입했다.그는 인텔에서 최근까지 공장 책임자(Factory Manager)를 맡아 미국 오리건주 개발 공장에서 애리조나 대량생산 공장으로 18A 첨단 공정을 이전하는 작업을 총괄한 핵심 인물이다.게리 장은 인텔 재직 당시 생산시설 건설과 반도체 장비 설치",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "98eea9ad0421",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, 차세대 원자로로 블랙웰 구동…발라와 데이터센터 파트너십",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212442",
+      "date": "2026-07-05",
+      "summary": "엔비디아가 미국 원자력 스타트업 발라 아토믹스(Valar Atomics)와 손잡고 차세대 원자로를 활용한 AI 데이터센터 구축에 나선다. 양사는 미국에서 처음으로 차세대 소형 원자로를 이용해 엔비디아의 최신 AI 칩을 구동하는 데 성공했으며, 물 사용을 최소화하는 차세대 AI 데이터센터 기술 개발도 공동 추진하기로 했다.발라는 1일(현지시간) 미국 유타주에서 열린 행사를 통해 '워드 250(Ward 250)' 마이크로 원자로를 이용해 엔비디아의 블랙웰 AI 칩에 전력을 공급하는 데 성공했다고 발표했다. 생성된 전력은 아직 소규모 수",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "e5b3eacab312",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"교류에서 직류로\"... AI 데이터센터 증설에 전력 인프라 시장 격변",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212440",
+      "date": "2026-07-05",
+      "summary": "데이터센터가 차세대 'AI 팩토리(AI Factory)'로 진화하면서 전력 인프라 시장의 판도가 빠르게 변화하고 있다. AI 서버의 전력 소비가 급증함에 따라 기존 교류(AC) 중심의 데이터센터에서 직류(DC) 기반의 새로운 전력 아키텍처로 전환이 추진되고 있다.3일(현지시간) 블룸버그에 따르면, 시장조사 업체 RBC 유럽의 마크 필딩 애널리스트는 앞으로 5년 동안 데이터센터 전력장비 시장 규모가 연평균 2200억달러(약 336조원)에 이를 것으로 전망했다.이는 2024년 예상치인 연간 600억달러에서 3배 이상 증가한 규모다. A",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "bd291ffed9af",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "네이버 \"이미지 중심 AI 검색으로 진화\"… 멀티모달 기술 고도화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212445",
+      "date": "2026-07-05",
+      "summary": "“9년간 축적해 온 멀티모달 기술력으로, 앞으로는 ‘이미지’를 중심으로 정보를 이해하는 AI 검색 서비스로 발전해 나갈 것입니다.”네이버(대표 최수연)가 정부의 독자 파운데이션 모델 프로젝트 이후 오랜만에 AI 전략을 공개했다. 핵심은 멀티모달이었다.네이버는 지난 2일 네이버 D2SF 강남에서 ‘탐색에서 실행까지, 차세대 AI 기술이 만드는 네이버 AI 검색’을 주제로 테크 딥톡 세션을 진행했다. 지난 6월26일 정식 출시한 ‘AI탭’을 중심으로, 네이버 서비스에 탑재될 핵심 기술을 전반적으로 소개하는 자리였다. 이기창 네이버클라우",
+      "keywords": [],
+      "first_seen": "2026-07-06"
     },
     {
       "id": "5377c8e2aefa",
@@ -29375,6 +29647,33 @@
         "AI Agent"
       ],
       "first_seen": "2026-07-03"
+    },
+    {
+      "id": "1a0be9bda315",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "실전 이커머스: 재고 관리 단위 설계로 품절률 10% 낮추기",
+      "link": "https://yozm.wishket.com/magazine/detail/3836",
+      "date": "",
+      "summary": "이커머스 기획자라면 '품절률'이라는 단어를 KPI 리포트에서 본 적이 있을 겁니다. 하지만 대부분의 이커머스 조직에서 품절률은 MD나 물류팀의 숙제로 취급되고, 기획자는 \"상품 옵션을 어떻게 노출할까\"라는 화면 설계 관점에서만 SKU(재고 관리 단위)를 다룹니다. 문제는 광고가 켜진 상태에서 SKU 하나가 품절되는 순간입니다. 고객은 광고를 클릭해 상세페이지까지 들어오지만, 원하는 옵션이 품절이라 구매하지 못하고 이탈합니다. 이번 글에서는 실제 서비스들의 사례를 통해 SKU 단위 재고 관리가 왜 마케팅 비용과 직결되는지, 그리고 기",
+      "keywords": [],
+      "first_seen": "2026-07-06"
+    },
+    {
+      "id": "ff17ec3750be",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "바이브 코딩으로 나만의 프로필 링크 페이지 만들기",
+      "link": "https://yozm.wishket.com/magazine/detail/3834",
+      "date": "",
+      "summary": "한창 바이브 코딩(Vibe Coding)이 열풍이었는데요. 코드를 잘 몰라도 AI에게 말만 걸면 뚝딱 앱이 만들어진다는 이야기가 여기저기서 들려왔죠. 저는 현업에서 코드를 다루는 개발자이지만, 그 모습을 보다 보니 문득 궁금해졌습니다. 정말 명령만 하면 되는 걸까요? 그리고 비전공자라면 또 어디서 막히게 될까요? 그래서 저도 한번 간단한 페이지를 만들어보기로 했습니다.",
+      "keywords": [
+        "Coding",
+        "Vibe Coding"
+      ],
+      "first_seen": "2026-07-06"
     }
   ],
   "daily_stats": [
@@ -29592,30 +29891,15 @@
       "date": "2026-07-05",
       "added": 21,
       "total": 2203
+    },
+    {
+      "date": "2026-07-06",
+      "added": 24,
+      "total": 2227
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W20",
-      "keywords": {
-        "Coding": 10,
-        "AI Agent": 9,
-        "Automation": 6,
-        "Enterprise AI": 4,
-        "Deployment": 2,
-        "Optimization": 2,
-        "RAG": 2,
-        "AI Education": 1,
-        "Benchmark": 1,
-        "MCP": 1,
-        "AI Safety": 1,
-        "Embeddings": 1,
-        "Cloud/DevOps": 1,
-        "Generative AI": 1,
-        "Framework": 1
-      }
-    },
     {
       "week": "2026-W21",
       "keywords": {
@@ -29740,8 +30024,8 @@
       "week": "2026-W27",
       "keywords": {
         "AI Agent": 46,
-        "Claude": 24,
-        "Automation": 21,
+        "Claude": 25,
+        "Automation": 22,
         "Security": 17,
         "Gemini": 14,
         "Open Source": 13,
@@ -29749,24 +30033,31 @@
         "LLM": 10,
         "SDK/API": 10,
         "GPT": 7,
+        "Chatbot": 6,
+        "Generative AI": 6,
         "Deployment": 6,
         "Robotics": 6,
-        "Generative AI": 6,
-        "Chatbot": 6,
         "Video AI": 5
+      }
+    },
+    {
+      "week": "2026-W28",
+      "keywords": {
+        "AI Agent": 1,
+        "Security": 1
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 1001,
-      "recent_7d": 137,
-      "recent_30d": 137
+      "total": 1017,
+      "recent_7d": 153,
+      "recent_30d": 153
     },
     "techcrunch": {
-      "total": 554,
-      "recent_7d": 66,
-      "recent_30d": 66
+      "total": 560,
+      "recent_7d": 72,
+      "recent_30d": 72
     },
     "deepmind": {
       "total": 41,
@@ -29824,11 +30115,11 @@
       "recent_30d": 0
     },
     "yozm": {
-      "total": 89,
-      "recent_7d": 7,
-      "recent_30d": 7
+      "total": 91,
+      "recent_7d": 9,
+      "recent_30d": 9
     }
   },
-  "last_updated": "2026-07-05",
-  "total_articles": 2203
+  "last_updated": "2026-07-06",
+  "total_articles": 2227
 }
