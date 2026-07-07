@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "d798ac5f5ede",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "date": "2026-07-07",
+      "summary": "",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "4df617c27620",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "date": "2026-07-07",
+      "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "1f25a0450da6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"인간 공감해주다 패닉? AI 스트레스 받으면 답변 붕괴\"...프랑스 연구팀 규명",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212476",
+      "date": "2026-07-07",
+      "summary": "AI가 감정적으로 복잡한 대화를 나눌수록 해석 능력이 급격하게 무너질 수 있다는 연구 결과가 나왔다.프랑스 라이언 리서치 연구소(RRI) 김상백 박사는 '알고리즘적 감정 둔화(AAB): 대형언어모델(LLM)의 해석 실패 붕괴 곡선 정량화' 논문을 발표했다고 6일 밝혔다. 이 연구는 스프링거 네이처(Springer Nature)의 국제 학술지 '디스커버 아티피셜 인텔리전스'에 게재됐다.대화형 AI는 사용자의 말을 요약하고 의미를 정리한 뒤, 감정에 이름을 붙여 그 해석에 맞는 응답을 생성한다.연구팀은 이 과정에서 의미적 압력이 커질수",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "cea4adaf9a6a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[7월6일] AI의 숨은 청구서…데이터센터 밖에서 더 커지는 환경 비용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212455",
+      "date": "2026-07-07",
+      "summary": "빅테크 기업들은 매년 지속가능성 보고서(Sustainability Report)를 통해 데이터센터의 물 사용량과 탄소 배출량 등을 공개하고 있습니다. 최근 구글과 아마존도 새 보고서를 발표했습니다. 두 보고서는 AI 데이터센터 확산에 따른 환경 부담이 커지고 있음을 보여줍니다. 구글과 아마존은 지난해 총 탄소 배출량이 각각 전년 대비 25%, 16% 증가했다고 밝혔습니다.탄소 배출 증가의 주요 원인으로 공급망에서 발생하는 '스코프 3(Scope 3)'를 지목했습니다. 탄소 배출량은 스코프 1(직접 배출), 스코프 2(구매 전력 등",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
       "id": "7cea3cb676e1",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -87,6 +139,650 @@
       "summary": "AI 생성 영상여수시가 시민 안전과 생활 소음 불편을 줄이기 위해 이륜자동차 합동단속을 실시해 위반 행위 31건을 적발했다고 3일 밝혔다.단속은 1일 여수경찰서, 한국교통안전공단 광주전남본부와 함께 여서동 해양경찰서 앞 등 2개소에서 진행됐다.이번 단속은 이륜자동차 배기·경적소음 허용기준 초과 여부와 불법 구조변경, 무등록 운행 등을 중심으로 이뤄졌다. 배달 수요 증가와 함께 이륜차 운행이 늘면서 도심 소음과 교통안전에 대한 시민 불편이 커진 데 따른 조치다.단속 결과 적발된 위반 행위는 모두 31건이다. 유형별로는 불법구조변경 5",
       "keywords": [],
       "first_seen": "2026-07-06"
+    },
+    {
+      "id": "3dd55d889219",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "PRX Part 4: Our Data Strategy",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "date": "2026-07-06",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "76d9e5a5ebbd",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "🤗 Kernels: Major Updates",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "date": "2026-07-06",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "f62e884bfc76",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
+      "date": "2026-07-06",
+      "summary": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",
+      "keywords": [
+        "Automation",
+        "Developer Tools"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "c21273a46860",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
+      "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
+      "date": "2026-07-06",
+      "summary": "In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moderation Settings (CCMS), and show how it reduces over-deflection while preserving model quality. We also provide pointers for customers who want to appl",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "8b04fcdd9c77",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Run MiniMax models on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
+      "date": "2026-07-06",
+      "summary": "In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the service tiers available, how on-demand inference scales to handle your workloads, and the different APIs you can use to access them. Using these models, c",
+      "keywords": [
+        "Optimization",
+        "SDK/API"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "6302ad87a308",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+      "date": "2026-07-06",
+      "summary": "In this post, you deploy a two-phase infrastructure for multi-turn RL using Amazon Nova Forge on Amazon SageMaker HyperPod. By the end, you have an event-driven pipeline that starts training when you upload data to Amazon Simple Storage Service (Amazon S3). The training job teaches the model to play",
+      "keywords": [
+        "Automation",
+        "Deployment",
+        "RAG"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "afdaf4b5c1be",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Automatically redact PII in images with Amazon Nova",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
+      "date": "2026-07-06",
+      "summary": "In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, including Meta’s open-source Segment Anything Model (SAM 3) deployed on Amazon SageMaker AI for pixel-level segmentation, and Amazon Textract for opti",
+      "keywords": [
+        "Automation",
+        "Deployment",
+        "Open Source",
+        "Reasoning",
+        "Vision"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d8589fda6ada",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
+      "date": "2026-07-06",
+      "summary": "In this post, you learn how to use the new MLflow integration with Amazon SageMaker AI optimized inference recommendation jobs and Amazon SageMaker AI benchmark jobs to automatically stream experiment data into a unified tracking interface. This integration streams metrics, parameters, and charts in",
+      "keywords": [
+        "Automation",
+        "Benchmark",
+        "Optimization"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "e7643889683a",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "How Open Models Are Driving AI Research",
+      "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+      "date": "2026-07-06",
+      "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work.  This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "8508516950be",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "How Nations Are Deploying AI for Strategic Priorities",
+      "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+      "date": "2026-07-06",
+      "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turb",
+      "keywords": [
+        "Deployment"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "bd206ca68985",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "date": "2026-07-06",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d4e9be0269bb",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "date": "2026-07-06",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "b96d9864f868",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "date": "2026-07-06",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "0f64c66e0db7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "date": "2026-07-06",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "1fae758ade94",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "date": "2026-07-06",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "63cdddba05c6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+      "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+      "date": "2026-07-06",
+      "summary": "Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms  and is working on integration.",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "88a9e7b84587",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "date": "2026-07-06",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+      "keywords": [
+        "Security",
+        "Video AI"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d3c7a7f2421d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
+      "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
+      "date": "2026-07-06",
+      "summary": "Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework.",
+      "keywords": [
+        "Framework"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "507388fe73ce",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "date": "2026-07-06",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "6d2d9fde8021",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "date": "2026-07-06",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "820a2036ef52",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+      "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+      "date": "2026-07-06",
+      "summary": "The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "8f8fa9f01827",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "How to reserve and change your WhatsApp username",
+      "link": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/",
+      "date": "2026-07-06",
+      "summary": "WhatsApp now lets users reserve usernames ahead of the feature’s full rollout, making it possible to connect without sharing a phone number once usernames go live.",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "6f235eb6d9b8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "date": "2026-07-06",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "c0e1504ae741",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "date": "2026-07-06",
+      "summary": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d2bff24ae09e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "date": "2026-07-06",
+      "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "c30af1fa00c1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타 AI, '예약 작업' 도입 준비…챗봇 넘어 '에이전트'로 진화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212456",
+      "date": "2026-07-06",
+      "summary": "'메타 AI'에 사용자의 반복적인 작업을 자동으로 수행하는 '예약 작업(Scheduled Tasks)' 기능이 도입될 것으로 확인됐다. 이번 기능이 추가되면 메타 AI는 단순히 질문에 답하는 챗봇을 넘어, 사용자를 대신해 비동기적으로 업무를 수행하는 AI 에이전트 형태로 한 단계 진화할 것으로 기대된다.4일(현지시간) 테스팅카탈로그에 따르면, 메타 AI 웹 버전의 개발 빌드에서는 '예약 작업(Scheduled Tasks)' 메뉴가 새롭게 추가된 정황이 발견됐다.아직 일반 사용자에게는 공개되지 않았지만, 사용자가 매번 같은 프롬프트를",
+      "keywords": [
+        "AI Agent",
+        "Chatbot",
+        "Prompt"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "cac61b48cb8a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "샌프란시스코 '해커 하우스'로 향하는 대학생들…\"졸업장보다 AI 창업\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212451",
+      "date": "2026-07-06",
+      "summary": "미국 명문대 학생들의 여름방학은 빅테크 기업이나 투자은행, 컨설팅 회사에서 인턴십을 수행하며 안정적인 취업을 준비하는 시기였다. 그러나 AI 시대가 본격화하면서 이러한 공식이 빠르게 무너지고 있다. 5일(현지시간) 월스트리트저널(WSJ)에 따르면, 일부 대학생들은 방학 시즌을 맞아 샌프란시스코의 '해커 하우스(Hacker House)'와 스타트업 인큐베이터로 몰려가 창업에 뛰어들고 있다. 일부는 휴학이나 자퇴까지 감수하며 AI 스타트업 창업에 인생을 걸고 있다.이 같은 변화의 배경에는 AI가 촉발한 급격한 산업 재편과 갈수록 좁아지",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "8a6126abbf95",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "바이트댄스·알리바바, ‘AI 페르소나’ 서비스 중단…정부 규제 앞두고 선제 조치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212452",
+      "date": "2026-07-06",
+      "summary": "중국의 대표적인 생성 AI 서비스인 바이트댄스의 '더우바오'와 알리바바의 '큐원'이 사용자 맞춤형 AI 에이전트와 AI 페르소나(Persona) 기능을 잇달아 종료한다. 오는 15일 시행되는 중국 정부의 새로운 AI '의인화' 규제에 대응하려는 조치다.사우스차이나모닝포스트에 따르면, 더우바오는 3일(현지시간) 공지를 통해 \"제품 기능 조정을 이유로 15일부터 사용자 맞춤형 AI 에이전트 기능을 종료한다\"라 밝혔다.또 10월15일 이후에는 관련 사용자 데이터가 개인정보 처리방침에 따라 관리되며, 앱 내에서는 더 이상 조회하거나 복구할",
+      "keywords": [
+        "AI Agent",
+        "Generative AI"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "9f2eff90d72e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"아이 여섯 키우며 창업\"…미국 스타트업 문턱 낮춘 AI",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212458",
+      "date": "2026-07-06",
+      "summary": "AI가 전문적인 비즈니스 교육이나 창업 경험이 없는 일반인들의 창업 장벽을 크게 낮추며 미국 스타트업 생태계와 고용 시장의 지형을 바꾸고 있다. 단순한 생산성 도구를 넘어 사업 전략 수립과 투자 유치, 경영 의사결정을 지원하는 '가상 경영 자문역' 역할까지 수행하면서 AI가 초기 스타트업을 이끄는 핵심 동력으로 떠오르고 있다는 평가다.4일(현지시간) 로이터에 따르면, 최근 미국에서는 AI를 활용해 창업 초기의 복잡한 과정을 해결하는 사례가 빠르게 늘고 있다.창업자들은 사업계획서 작성과 시장 조사, 투자설명 자료(피치덱) 제작은 물론",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "e334bee2ebdb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI가 인간 트레이더 압도\"…중국 양적 펀드에 수십억달러 몰려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212464",
+      "date": "2026-07-06",
+      "summary": "AI가 중국 자산운용 업계의 판도를 빠르게 바꾸고 있다. AI 기반 양적(Quant) 펀드가 인간 펀드매니저의 투자 성과를 크게 앞지르면서 투자자 자금이 대형 양적 운용사로 몰리고 있다. 불과 2년 전만 해도 과도한 변동성을 유발한다는 이유로 규제의 집중 표적이었던 양적 펀드 업계는 이제 중국 헤지펀드 시장의 주류로 떠오르고 있으며, 전통적인 주식 운용사들까지 AI 중심으로 사업 모델을 전환하는 모습이다.3일(현지시간) 블룸버그에 따르면, 중국 대표 양적 운용사인 유비퀀트는 지난 5월 신규 펀드 판매를 시작한 지 단 2시간 만에 2",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "f70df2637a4f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 미성년 위장해 경쟁사 AI에 '극단적 프롬프트' 테스트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212470",
+      "date": "2026-07-06",
+      "summary": "메타가 수백명의 외부 계약직 인력을 동원해 경쟁사의 AI 챗봇을 대상으로 미성년자로 위장한 계정을 사용해 수만 건의 극단적인 프롬프트를 입력하는 비공개 프로젝트를 운영한 사실이 드러났다. 이를 AI 안전성 평가를 위한 업계 표준 절차라고 주장했지만, 전문가들은 경쟁사에 알리지 않은 채 비밀리에 진행된 대규모 테스트는 일반적인 안전성 검증의 범위를 벗어난다고 지적하고 있다.와이어드에 따르면, 이 프로젝트는 메타의 협력업체 코베일런이 수행했으며 내부적으로 '칸(Cannes)'이라는 이름으로 운영됐다. 올해 4월21일까지 진행됐으며, 오",
+      "keywords": [
+        "Chatbot",
+        "Prompt"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d0d7a1bd12a8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KAIST, 로봇이 보고·이해하고·예측하는 ‘피지컬 AI’ 기술 개발…ICLR·CVPR서 인정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212474",
+      "date": "2026-07-06",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)는 윤성의 전산학부 교수 연구팀이 유리나 물처럼 투명한 물체를 정확히 인식하는 기술 등 피지컬 AI 관련 기술을 개발했다고 6일 밝혔다.이번 연구는 시각 인식부터 물리적 이해, 미래 예측, 행동 계획까지 하나의 기술 흐름으로 연결하는 데 초점을 맞췄다. AI가 보고(인식) 이해하고(물리 이해) 예측하고(미래 예측) 행동하는(계획) 과정을 수행하는 기반을 제시했으며, 다양한 자율 시스템의 성능과 활용 범위를 한층 넓힐 것으로 전망했다.성과는 글로벌 AI 학회인 ICLR과 CVPR 2026에서 구",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "c16bdad7e7ec",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 크몽, 기업 AX 전담 조직 신설 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212475",
+      "date": "2026-07-06",
+      "summary": "■ 크몽(대표 박현호, 김태헌)은 기업 고객 AX를 지원하는 전담 조직을 신설하고 서장원 대표를 팀 리더로 영입했다고 밝혔다. 크몽 AX팀은 AI 전략 컨설팅부터 업무 프로세스 진단, 솔루션 도입, 실행 지원까지 기업 AX 전 과정을 담당한다. 이번 전담팀 신설은 AX 사업을 조직 차원에서 본격적으로 확대 및 체계화하기 위한 경영 전략이다.■ 플리토(대표 이정수)는 AI 통역-번역 솔루션 ‘라이브 트랜스레이션’의 의료 학회 행사 도입 수가 누적 100건을 넘었다고 밝혔다. 의료 학회 특유의 전문성을 충족하기 위해 방대한 도메인 특화",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "3e85723fa726",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 로보티즈 'AI 워커' 휴머노이드 로봇 챌린지서 대상 수상 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212472",
+      "date": "2026-07-06",
+      "summary": "■ 로보티즈(대표 김병수)는 산업통상자원부가 개최한 '휴머노이드 로봇 챌린지'에서 자사 휴머노이드 하드웨어 플랫폼 'AI 워커'를 채택한 서울대 ROBI팀이 대상을 받았다고 밝혔다. 참가한 국내 대학 12개 팀 중 7개 팀이 로보티즈의 AI 워커를 플랫폼으로 채택했다. 참가 로봇은 부품 선별, 운반, 조립 등 실제 현장의 고난도 미션을 수행했으며, 서울대 팀은 전 종목에서 안정적인 작업 능력으로 대상을 수상했다.■ 딥엑스(대표 김녹원)는 일본 도쿄에서 열린 '피지컬 AI 엑스포'에서 현지 기업들을 대상으로 초저전력 신경망처리장치(N",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "30456c9bb166",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "마이크론, 히로시마 공장 증설…14조 투입해 HBM 생산 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212473",
+      "date": "2026-07-06",
+      "summary": "미국 메모리 반도체 기업 마이크론 테크놀로지가 93억달러(약 14조원) 규모의 일본 히로시마 공장 증설에 착공하며 AI용 고대역폭메모리(HBM) 생산 확대에 나섰다.블룸버그에 따르면, 마이크론은 4일(현지시간) 일본 히로시마 공장 증설 기공식을 열고 차세대 메모리 생산시설 구축을 공식 시작했다.새 공장에서는 엔비디아의 AI 가속기 등에 사용되는 HBM을 비롯한 첨단 DRAM 제품이 생산될 예정이다.생산설비 반입과 설치는 2028년 하반기부터 시작되며, 일본 경제산업성은 이번 사업에 최대 5000억 엔(약 4조7000원)의 보조금을",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d54e215ecb61",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존 '메카니컬 터크', 21년 만에 신규 가입 중단…\"AI 데이터 오염에 발목\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212467",
+      "date": "2026-07-06",
+      "summary": "AI 데이터 라벨링과 크라우드소싱 시대를 연 아마존의 '메카니컬 터크(Mechanical Turk)'가 사실상 역사 속으로 사라지는 수순에 들어갔다. 생성 AI 확산으로 인간 작업자가 수행해야 할 업무를 AI가 대신하기 시작하면서 데이터 신뢰성이 흔들렸고, 사기와 자동화 계정까지 늘어나며 플랫폼의 존재 이유 자체가 약화됐다는 분석이 나온다.아마존웹서비스(AWS)는 4일(현지시간) 메카니컬 터크 홈페이지를 통해 오는 7월 30일부터 신규 고객의 서비스 가입을 중단한다고 밝혔다.\"신중한 검토 끝에 내린 결정\"이라며 \"기존 고객은 서비스",
+      "keywords": [
+        "Automation",
+        "Generative AI"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d9e658d2860a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AIIA, 2027 이머징 AI+X 톱100 후보기업 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212471",
+      "date": "2026-07-06",
+      "summary": "한국인공지능산업협회(AIIA, 회장 최용진)는 AI 기술을 바탕으로 산업 혁신과 AI전환(AX)을 선도할 ‘2027 이머징 AI+X 톱100’ 후보기업 등록을 시작한다고 6일 밝혔다.올해로 7회째를 맞는 ‘2027 이머징 AI+X 톱100(Emerging AI+X Top100)’은 AI 기술과 다양한 산업 영역(X)의 융합 가능성을 중심으로 국내 유망 AI 기업을 발굴·조명하는 프로젝트다. 특히, 2027년 선정에서는 ▲제조·로봇·자율주행·스마트시티 등 현실 공간과 결합하는 피지컬 AI ▲스스로 목표를 설정하고 업무를 수행하는 에이",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "a7c126b529bd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "레노버, 메모리 공급난에 미국 제재 'YMTC SSD' 탑재 노트북 판매",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212460",
+      "date": "2026-07-06",
+      "summary": "중국 PC 제조업체 레노버가 미국 정부의 제재 대상 기업인 양쯔메모리테크놀로지(YMTC)의 SSD를 탑재한 노트북을 미국 시장에서 판매하는 것으로 확인됐다. AI 확산으로 메모리 가격이 급등하는 가운데 공급난을 해소하려는 조치로 보이지만, 미국의 중국 반도체 규제와 맞물려 논란이 예상된다.노트북체크는 3일(현지시간) 최근 레노버 '씽크북 14 G9 IPL(ThinkBook 14 G9 IPL)'을 분석한 결과, 제품에 512GB 용량의 YMTC 'M.2 NVMe PCIe 4.0 SSD'가 탑재된 사실을 확인했다고 보도했다. 노트북은",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "3100779da1ad",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "셀렉트스타, AI 안전성 연구 3편 'ICML 2026' 채택",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212468",
+      "date": "2026-07-06",
+      "summary": "셀렉트스타(대표 김세엽)는 연구 논문 3편이 '국제머신러닝학회(ICML 2026)’ 워크샵에 게재된다고 6일 밝혔다.이를 통해 대형언어모델(LLM)의 안전성을 평가하기 위해 실제 사용 환경과 문화적 맥락, 변화하는 위험 유형을 반영한 접근이 필요하다는 점을 증명했다는 설명이다. 첫 번째 논문은 '루브릭 기반 안전성 판정 모델의 신뢰성 향상을 위한 커리큘럼 학습'이다. '커리큘럼 러닝' 방식을 통해 범용 학습된 평가 모델이 금융권 등 새로운 도메인에서도 일관된 성능을 보여 폐쇄망에서도 빠르고 정확한 AI 안전성 검증이 가능하다고 설명",
+      "keywords": [
+        "LLM",
+        "ML/DL"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "b5626d2be4bd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 1776년 미국 독립선언문 작성에 AI 활용하는 광고 공개…반응은 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212461",
+      "date": "2026-07-06",
+      "summary": "구글이 미국 독립선언문 서명 250주년을 맞아 건국의 주역들이 AI와 협업 도구를 활용했다는 설정을 담은 신규 광고를 공개했다. AI와 클라우드 기반 협업 플랫폼인 구글 워크스페이스의 기능을 재치 있게 소개한 광고지만, 역사적 사건에 AI를 접목한 연출을 두고 온라인에서는 엇갈린 반응이 나오고 있다.구글은 4일(현지시간) 미국의 독립기념일을 맞아 '그룹 프로젝트지만, 1776년 스타일로(Group project, but make it 1776)'라는 광고를 공개했다.여기에서는 토머스 제퍼슨이 독립선언문 초안을 작성하던 중 벤저민 프",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "62dc5e076de7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "워크데이, 개발자 플랫폼에 신규 에이전트 출시…\"인사·재무 데이터에 접근\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212469",
+      "date": "2026-07-06",
+      "summary": "워크데이는 맞춤형 AI 애플리케이션 및 에이전트를 구축할 수 있도록 지원하는 개발자 플랫폼 ‘워크데이 빌드(Workday Build)’ 내부에 새로운 에이전트형 기능을 공개했다고 6일 밝혔다.이번에 발표된 신규 기능에는 ▲‘디벨로퍼 에이전트’ ▲ ‘에이전트 지원 툴’ ▲‘에이전트 패스포트’ 등이 있다. 개발자는 자연어를 활용해 AI 애플리케이션 및 에이전트를 구축할 수 있다. 모델 컨텍스트 프로토콜(MCP)을 통해 AI 에이전트가 인사 및 재무 데이터에 접근할 수 있도록 통제된 가드레일도 제공한다. 디지털 인증으로 에이전트의 안전한",
+      "keywords": [
+        "AI Agent",
+        "MCP"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "bef3330c6a4f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KT, AX 인프라 5조 투자…\"대표 사업 모델로 ‘토큰 팩토리’ 키운다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212465",
+      "date": "2026-07-06",
+      "summary": "KT는 6일 서울 광진구 풀만 앰배서더 서울 이스트폴 호텔에서 취임 후 첫 기자간담회를 개최하고 'AX 플랫폼 컴퍼니'로 도약하기 위한 핵심 전략을 발표했다.새롭게 제시한 AX 플랫폼 컴퍼니는 ▲제로 트러스트 정보보안 및 IT, 네트워크 ▲AI 데이터센터·AI 엣지·해저케이블 ▲B2B·B2C·신성장 AX 서비스 등을 연결해 AX 생태계를 구축한다는 전략이다.특히, 인프라에 5조원을 투자해 총 1기가와트(GW) 용량의 데이터센터를 실수요 바탕으로 추가 구축할 예정이다. 대규모 학습과 추론 수요에 대응하는 중앙 데이터센터와 산업 현장",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "40315f1e82f8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양경자청, ‘찾아가는 환경기술지원단’으로 환경오염 사전 차단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212478",
+      "date": "2026-07-06",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 관내 환경오염물질 배출사업장을 대상으로 ‘2026년 찾아가는 환경기술지원단’ 사업을 운영한다고 6일 밝혔다.이번 사업은 오염물질 배출을 사전에 방지하고 기업의 환경 관리 역량을 강화하기 위해 마련된 현장 중심의 맞춤형 기술지원 프로그램이다.광양경자청은 16일까지 관내 사업장들의 참가 신청을 받아 6개 사업장을 선정한 후, 오는 8월부터 11월까지 현장을 직접 방문해 환경 관리 사업을 지원한다. 신청 방법 등 자세한 내용은 광양경자청 누리집 공지사항을 통해 확인할 수 있다.주요 지원 내용은 ▲배출",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "97969fb71ec0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 국내 사회복지 분야 인재 양성 협력…“AI 활용 교육 제공”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212466",
+      "date": "2026-07-06",
+      "summary": "오픈AI는 현대차 정몽구 재단, 서울대학교 사회복지연구소, 보건복지부가 공동 추진하는 ‘CMK 사회복지 혁신리더 아카데미’에 협력 파트너로 참여해 AI 에이전트 중심의 문제 해결형 실습 교육을 제공한다고 6일 밝혔다.CMK 사회복지 혁신리더 아카데미는 젊은 사회복지 연구자와 현장 종사자 등 차세대 인재들이 AI 시대에 새롭게 등장하는 사회문제에 대응할 수 있도록 혁신 역량 강화 지원을 돕는다. 사회복지 관련 전공 3학년 이상 재학생과 대학원생, 경력 3년 이상이면서 만 34세 이하인 사회복지 현장 핵심 인재 등 30명이 선발됐다.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "4e0242b0e6e2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI '수익 거품' 우려 증폭...'AI 칩' 중심의 매출 독식에 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212457",
+      "date": "2026-07-06",
+      "summary": "AI 열풍이 미국 증시를 사상 최고치로 끌어올리고 있는 가운데, 월가에서는 기업들의 실적 전망이 실제 성장 속도를 지나치게 앞서가고 있다는 'AI 수익 거품(Earnings Bubble)' 우려가 커지고 있다. AI 칩과 하이퍼 스케일러를 중심으로 한 'AI 먹이사슬(AI Food Chain)' 기업들에 실적 기대가 과도하게 집중되면서, 앞으로 AI 투자 사이클이 둔화하면 증시 전반이 조정될 수 있다는 경고가 잇따르고 있다.블룸버그에 따르면, 월가 애널리스트들은 앞으로 12개월 동안 S&P500 기업들의 순이익이 평균 25% 증가할",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "3241ee850d2c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국 부유층, 전통 학교 대신 'AI 튜터' 선택...\"전통 교육으로 미래 대비 못 해\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212463",
+      "date": "2026-07-06",
+      "summary": "AI가 미국의 교육 시장도 지각변동을 일으키는 것으로 전해졌다. 미국 고소득층 가정과 실리콘 밸리 엘리트들이 전통 교육 시스템 대신 AI 기반의 개별 맞춤형 교육과 실무 기술을 강조하는 대안 학교로 발길을 돌리고 있다.월스트리트저널(WSJ)에 따르면, 알파 스쿨(Alpha School)과 포지 프렙(Forge Prep) 등 AI 기술을 채택한 미국의 대안 학교들이 고액의 학비에도 불구하고 부유층에서 큰 인기를 끌고 있다.알파 스쿨은 12년 전 텍사스주 오스틴에서 시작됐다. 2025년 샌프란시스코와 뉴욕 등 8개 지점을 추가한 데 이",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "87945c9977df",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미들턴, AI 교육부터 산학협력까지… '시니어랩' 개소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212462",
+      "date": "2026-07-06",
+      "summary": "시니어 라이프케어 전문 미들턴이 연구개발과 전문 교육, 산학협력을 아우르는 '미들턴 시니어랩(Middleton Senior Lab)'을 공식 개관했다고 6일 밝혔다.미들턴은 지난 3일 인천시 미추홀구 경인로 본사에서 '미들턴 시니어랩' 개관식을 개최하고 AI 연구개발과 실증, 전문 교육을 통합 수행하는 미래 전략을 공개했다. 시니어랩은 실제 요양원과 요양병원, 실버타운 등 시니어 생활환경을 구현한 연구·실증 공간으로 조성됐다. AI 기술을 연구하는 데 그치지 않고 실제 돌봄 환경에서 기술을 검증하고 교육까지 연계하는 복합 연구 플랫",
+      "keywords": [],
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "c78239d7a300",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'AI 의식'에 몰리는 실리콘 밸리의 관심...주요 기업 연구 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212459",
+      "date": "2026-07-06",
+      "summary": "그동안 SF 영화나 업계 일부에서 다뤄지던 AI의 의식과 자각 능력에 대한 논의가 최근 실리콘 밸리 주류 무대로 떠오르고 있다. 앤트로픽과 오픈AI, 구글, 메타 등은 AI 모델의 주관적 경험과 감정 상태 등을 규명하기 위해 컴퓨터 과학자, 신경과학자, 철학자들을 영입하며 본격적인 연구에 착수했다.워싱턴포스트에 따르면, 이 분야에서 가장 앞선 곳은 앤트로픽이다. 최근에는 AI 모델의 내부 상태를 탐구하고 이들의 복지와 선호도를 평가하기 위해 'AI 정신의학(AI Psychiatry)' 팀을 신설했다.앤트로픽은 지난해 4월에는 ‘모델",
+      "keywords": [],
+      "first_seen": "2026-07-07"
     },
     {
       "id": "dbc813e0bd93",
@@ -29896,6 +30592,11 @@
       "date": "2026-07-06",
       "added": 24,
       "total": 2227
+    },
+    {
+      "date": "2026-07-07",
+      "added": 52,
+      "total": 2279
     }
   ],
   "sources": {},
@@ -30043,21 +30744,34 @@
     {
       "week": "2026-W28",
       "keywords": {
-        "AI Agent": 1,
-        "Security": 1
+        "Automation": 9,
+        "AI Agent": 7,
+        "Security": 4,
+        "Deployment": 3,
+        "LLM": 3,
+        "Robotics": 2,
+        "Optimization": 2,
+        "Chatbot": 2,
+        "Prompt": 2,
+        "Generative AI": 2,
+        "Developer Tools": 1,
+        "SDK/API": 1,
+        "RAG": 1,
+        "Open Source": 1,
+        "Reasoning": 1
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 1017,
-      "recent_7d": 153,
-      "recent_30d": 153
+      "total": 1042,
+      "recent_7d": 178,
+      "recent_30d": 178
     },
     "techcrunch": {
-      "total": 560,
-      "recent_7d": 72,
-      "recent_30d": 72
+      "total": 576,
+      "recent_7d": 88,
+      "recent_30d": 88
     },
     "deepmind": {
       "total": 41,
@@ -30065,14 +30779,14 @@
       "recent_30d": 2
     },
     "nvidia_ai": {
-      "total": 72,
-      "recent_7d": 7,
-      "recent_30d": 7
+      "total": 74,
+      "recent_7d": 9,
+      "recent_30d": 9
     },
     "aws_ml": {
-      "total": 125,
-      "recent_7d": 17,
-      "recent_30d": 17
+      "total": 131,
+      "recent_7d": 23,
+      "recent_30d": 23
     },
     "lycorp": {
       "total": 45,
@@ -30090,9 +30804,9 @@
       "recent_30d": 2
     },
     "huggingface": {
-      "total": 73,
-      "recent_7d": 4,
-      "recent_30d": 4
+      "total": 76,
+      "recent_7d": 7,
+      "recent_30d": 7
     },
     "openai": {
       "total": 93,
@@ -30120,6 +30834,6 @@
       "recent_30d": 9
     }
   },
-  "last_updated": "2026-07-06",
-  "total_articles": 2227
+  "last_updated": "2026-07-07",
+  "total_articles": 2279
 }
