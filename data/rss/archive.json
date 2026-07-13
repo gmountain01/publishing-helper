@@ -117,6 +117,121 @@
       "first_seen": "2026-07-12"
     },
     {
+      "id": "d28529a52146",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "date": "2026-07-12",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "30ac67b4b921",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"오픈AI 의존도 낮춘다더니\"...MS, 권장 모델로 'GPT-5.6' 채택",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212678",
+      "date": "2026-07-12",
+      "summary": "마이크로소프트(MS)가 오픈AI나 앤트로픽 모델의 의존도를 줄이기 위해 자체 MAI 모델을 제품군에 투입했다는 소식이 전해진 가운데, 오픈AI가 최신 모델 'GPT-5.6'이 MS 365 코파일럿의 권장 모델(Preferred Model) 로 채택됐다고 발표했다. 언뜻 상반되는 이야기처럼 보이지만, 이는 작업의 성격에 따라 서로 다른 AI 모델을 활용하는 '멀티모델 라우팅' 전략으로 해석되고 있다.오픈AI는 9일(현지시간) GPT-5.6 정식 서비스를 시작하며 별도로 \"GPT-5.6은 이제 MS 365 코파일럿에서 권장되는 모델\"이",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "413c541abda8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프 행정부, 중국산 오픈소스 AI 규제 '행정명령' 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212674",
+      "date": "2026-07-12",
+      "summary": "미국 트럼프 행정부가 중국산 오픈소스 AI 모델의 급속한 성장에 대응하기 위한 정책 검토에 착수한 것으로 알려졌다. 아직 초기 논의 단계이지만, 중국 기업이 개발한 오픈소스 AI 모델의 정부 사용을 제한하는 행정명령 가능성까지 거론되고 있다.폴리티코는 10일(현지시간) 복수 관계자를 인용, 트럼프 행정부 관계자들이 기존 미국 정책으로는 충분히 대응하기 어려운 보안 위험을 초래할 수 있는 오픈소스 AI를 어떻게 규제할지 논의를 진행하고 있다고 보도했다.이는 중국 오픈소스 AI 모델이 가격 경쟁력과 성능 향상을 앞세워 미국에서도 점유율",
+      "keywords": [
+        "Open Source",
+        "Security"
+      ],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "d8898ed15eca",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 안전 책임자 퇴사…조직 개편 속 핵심 임원 연쇄 이탈",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212670",
+      "date": "2026-07-12",
+      "summary": "오픈AI의 안전 책임자가 조직 개편에 따라 회사를 떠난다. 최고 미래학자의 퇴사 소식까지 더해지며 핵심 임원들의 연쇄 이탈이 주목되고 있다.11일(현지시간) 와이어드에 따르면, 요하네스 하이데케 안전 부분 책임자는 이번 주 직원들에게 회사를 떠난다고 통보했다. 이번 퇴사는 오픈AI가 AI 안전 조직을 연구 조직과 긴밀하게 통합하는 조직 개편을 단행한 직후 이뤄졌다.조직 개편에 따라 기존 안전팀은 연구 담당 부사장이자 정렬 책임자인 미아 글레이즈 산하로 편입된다. 글레이즈는 앞으로 연구와 안전 조직을 모두 총괄하게 되며, 안전 시스템",
+      "keywords": [],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "8accfeeed298",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, '인스타 사진 AI 활용' 반발에 사흘 만에 자동 연동 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212666",
+      "date": "2026-07-12",
+      "summary": "메타가 공개 인스타그램 계정을 기반으로 AI 이미지를 생성할 수 있도록 한 신규 기능을 출시한 지 사흘 만에 중단했다. 이용자 동의 없이 공개 계정이 자동으로 AI 생성에 활용될 수 있도록 설계된 점이 프라이버시와 저작권 논란을 불러일으키자 서비스를 철회한 것이다.메타는 10일(현지시간) 성명을 통해 \"사람들에게 유용한 창작 도구를 제공하고, 자신의 공개 콘텐츠가 이러한 방식으로 활용되는지 선택할 수 있도록 하는 것이 의도였다\"면서도 \"이 기능이 기대에 미치지 못했다는 이용자들의 의견을 들었으며, 현재는 더 이상 제공되지 않는다\"라",
+      "keywords": [],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "8c8eda322489",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KAIST, '96.5%' 정확도로 뇌혈관 질환 위험 신호 미리 찾는 AI 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212671",
+      "date": "2026-07-12",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)은 임리사 건설및환경공학과 교수 연구팀이 정조운 성균관대학교 전자전기공학부 교수, 조경희 고려대학교 안암병원 신경과 교수 연구팀과 공동으로 뇌혈관질환 진단 전 위험 단계를 식별, 진단 임박 위험 상태까지 평가하는 AI 프레임워크를 개발했다고 12일 밝혔다. 이번 연구는 리본케어가 실제 주거환경에서 장기간 수집한 고령자 1224명의 라이프로그 데이터를 바탕으로 수행됐다.연구팀은 14일 단위로 구성한 총 1만3362개의 생활 데이터 표본을 분석해, 일상 생활 속 미세한 변화만으로 위험 신호를 조기",
+      "keywords": [],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "11c807b3efc5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈서베이, '합성 소비자' 기능 도입...“비용 줄이고 정밀 타깃 분석”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212677",
+      "date": "2026-07-12",
+      "summary": "AI 리서치 테크 전문 오픈서베이(대표 황희영)는 컨슈머 인텔리전스 플랫폼 ‘데이터스페이스(Dataspace)’에 AI 기술로 구현한 ‘합성 소비자와 대화 기능’을 도입했다고 12일 밝혔다.실제 소비자의 디지털 트윈을 구축하고 이를 통해 설문을 진행하려는 시도는 미국에서 몇년 전부터 시작됐다. 이에 대해 오픈서베이 관계자는 \"국내에도 합성 응답을 활용하려는 시도는 있지만, 자체적으로 보유한 대규모 소비자 응답 데이터를 바탕으로 합성 소비자를 생성하고 대화까지 지원하는 형태까지는 아직 없는 것으로 파악하고 있다\"라고 전했다.이제 데이",
+      "keywords": [],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "79d02368b09b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "곽노정 SK하이닉스 사장 \"2027년 사상 최악의 메모리 공급난 올 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212667",
+      "date": "2026-07-12",
+      "summary": "나스닥에 상장한 SK하이닉스가 메모리 반도체 수요 급증으로 공급 부족 현상이 앞으로도 장기간 지속될 것이라는 전망을 내놨다. 특히 2027년에는 업계 역사상 가장 심각한 공급난이 발생하고, 2030년 이후에도 수요가 공급 능력을 넘어설 것으로 예상했다.곽노정 SK하이닉스 사장은 10일(현지시간) 로이터와의 인터뷰에서 \"내년은 공급 측면에서 업계 역사상 가장 어려운 해가 될 것으로 예상한다\"라며 \"고객 수요는 계속 증가하는 반면 생산 능력에는 한계가 있다\"라고 밝혔다.그는 \"2030년 이후에도 고객 수요가 회사의 공급 능력을 웃도는",
+      "keywords": [],
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "47a1bf58ce80",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KT, 교육 플랫폼 ‘AI 스테이션’으로 WSIS 프라이즈 챔피언상 수상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212672",
+      "date": "2026-07-12",
+      "summary": "KT(대표 박윤영)는 10일(현지시간) 스위스 제네바에서 열린 '정보사회세계정상회의(WSIS) 프라이즈 2026' 시상식에서 'KT AI 스테이션'으로 정보·지식 접근 부문 챔피언상을 수상했다고 밝혔다.WSIS 프라이즈는 국제전기통신연합(ITU)이 주관하는 정보사회 분야 최고 권위의 시상식이다. 전 세계에서 출품된 1595개 프로젝트를 대상으로 온라인 투표와 전문가 심사를 거쳐 수상작을 선정한다. 올해 국내에서는 KT가 유일하게 수상자로 선정됐다.KT AI 스테이션은 디지털 격차 해소와 미래 세대의 AI 역량 강화를 위해 운영하는",
+      "keywords": [],
+      "first_seen": "2026-07-13"
+    },
+    {
       "id": "62b0eb139c5e",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -33794,6 +33909,18 @@
         "Vibe Coding"
       ],
       "first_seen": "2026-07-11"
+    },
+    {
+      "id": "1df1b5f49fa3",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI 답변 복붙이 우리 팀을 피곤하게 만드는 이유",
+      "link": "https://yozm.wishket.com/magazine/detail/3845",
+      "date": "",
+      "summary": "AI 도구가 일상적인 업무 곳곳에 자리를 잡으면서, 직장 내 소통의 방식도 조용히 달라지고 있습니다. 짧은 질문 하나에도 AI가 생성한 장문의 답변이 돌아오는 일이 점점 흔해졌지만, 그 과정에서 정작 필요했던 판단과 맥락은 빠져 있는 경우가 많습니다. 이 글은 AI가 생성한 콘텐츠가 직장 내 커뮤니케이션에 드리우는 보이지 않는 비용, 즉 구성원 모두가 치르게 되는 '소음의 세금'으로서 AI 슬롭 문제를 살펴봅니다.",
+      "keywords": [],
+      "first_seen": "2026-07-13"
     }
   ],
   "daily_stats": [
@@ -34046,6 +34173,11 @@
       "date": "2026-07-12",
       "added": 34,
       "total": 2533
+    },
+    {
+      "date": "2026-07-13",
+      "added": 10,
+      "total": 2543
     }
   ],
   "sources": {},
@@ -34195,10 +34327,10 @@
       "keywords": {
         "AI Agent": 42,
         "Automation": 29,
-        "GPT": 21,
-        "Security": 15,
+        "GPT": 22,
+        "Security": 16,
+        "Open Source": 14,
         "LLM": 14,
-        "Open Source": 13,
         "Claude": 11,
         "Deployment": 10,
         "Video AI": 9,
@@ -34213,14 +34345,14 @@
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 654,
-      "recent_7d": 104,
-      "recent_30d": 166
+      "total": 655,
+      "recent_7d": 101,
+      "recent_30d": 167
     },
     "aitimes": {
-      "total": 1162,
-      "recent_7d": 178,
-      "recent_30d": 298
+      "total": 1170,
+      "recent_7d": 169,
+      "recent_30d": 306
     },
     "lycorp": {
       "total": 46,
@@ -34278,11 +34410,11 @@
       "recent_30d": 0
     },
     "yozm": {
-      "total": 101,
-      "recent_7d": 12,
-      "recent_30d": 19
+      "total": 102,
+      "recent_7d": 13,
+      "recent_30d": 20
     }
   },
-  "last_updated": "2026-07-12",
-  "total_articles": 2533
+  "last_updated": "2026-07-13",
+  "total_articles": 2543
 }
