@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": "4116a4359b29",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천, ‘탄소모아 탄탄e’ 운영...연 최대 20만원 포인트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212861",
+      "date": "2026-07-19",
+      "summary": "AI 생성 영상순천시가 걷기와 자전거 이용, 다회용컵 사용 등 일상 속 탄소중립 활동을 인증한 시민에게 연 최대 20만원의 포인트를 지급한다고 16일 밝혔다. 적립한 포인트는 예산 범위 안에서 지역사랑상품권으로 전환해 사용할 수 있다.순천은 시민참여형 탄소중립포인트제 플랫폼 ‘탄소모아 탄탄e’를 본격적으로 운영한다고 16일 밝혔다. 시민이 녹색생활 활동에 참여한 뒤 앱에서 QR코드나 영수증, 사진을 제출하면 실적에 따라 포인트를 적립하는 방식이다.포인트 지급 대상은 대중교통과 자전거 이용, 걷기, 배달음식 주문 시 일회용품 미사용,",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "5b2f7daef99a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, '페이블 5' 정식 요금제 편입...프로모션 종료하고 '50% 제한'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212908",
+      "date": "2026-07-19",
+      "summary": "앤트로픽이 '페이블 5'의 한시적 무료 프로모션을 종료하고, 정식 유료 플랜 정책으로 전환한다. 최근까지 'GPT-5.6'의 공세를 막아내기 위해 연장해 왔던 전면 개방을 마무리하고, 인프라 비용 부담과 수요 예측 한계를 감안해 본격적인 수익화 및 사용량 통제 전략으로 선회한 것으로 분석된다.앤트로픽은 18일(현지시간) X를 통해 20일부터 페이블 5를 모든 '맥스' 및 '팀 프리미엄' 요금제에 정식 포함하며, 주간 사용량의 50% 제한을 적용한다고 발표했다.이에 따라 기존의 '프로'와 '팀 스탠다드' 이용자들은 정기 구독 범위 내",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "5cab8faa16d9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양, 전남 중·고생 SW코딩캠프 모집…20개 팀 선착순",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212860",
+      "date": "2026-07-19",
+      "summary": "AI 생성 영상광양시가 전남지역 중·고등학생을 대상으로 ‘2026년 SCNU 전남청소년 SW코딩캠프’ 참가팀을 모집한다고 16일 밝혔다.학생들은 현장에서 공개되는 주제에 맞춰 C와 C++, 파이썬 가운데 한 가지 언어를 선택해 프로그램을 제작하고 팀별 발표와 질의응답에 참여한다.이번 캠프는 국립순천대학교 SW중심대학사업단이 주최·주관하며, 9월5일 오전 9시30분부터 오후 6시까지 광양시 커뮤니티센터에서 열린다.모집 대상은 전남 소재 중·고등학생이다. 참가팀은 2명에서 4명으로 구성해야 하며, 모두 20개 팀을 선착순으로 모집한다.",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "6e6b4916ddd8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "115년 상징의 추락...IBM 25% 폭락이 경고하는 'AI 블랙홀'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212907",
+      "date": "2026-07-19",
+      "summary": "미국 기술의 상징이었던 IBM이 AI 시대의 첫 대형 희생양이 될 수 있다는 우려가 커지고 있다. 지난주 주가 폭락은 단순한 실적 쇼크를 넘어, IBM의 사업 모델 자체가 AI 시대에도 통할 수 있는지에 대한 근본적인 의문으로 이어지고 있다는 평이다.IBM은 지난 14일(현지시간) 2분기 실적이 시장 기대에 크게 못 미칠 것이라고 이례적인 사전 경고를 발표했다. 주가는 하루 만에 25% 폭락하며 100년이 넘는 역사상 최악의 하루를 기록했다. 시가총액도 2000억달러(약 300조원) 아래로 떨어졌다.이는 한때 IBM의 소규모 공급업",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
       "id": "2c183686ad16",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -119,6 +169,180 @@
       "summary": "메타가 막대한 비용을 투자해 구축한 데이터센터의 컴퓨팅 파워를 경쟁사인 앤트로픽에 임대하는 계약을 추진 중이다. 이번 거래가 성사되면 메타는 처음으로 클라우드 시장에 진출하게 된다.뉴욕타임스(NYT)는 18일 정통한 소식통을 인용, 메타가 고성능 AI 컴퓨팅 자원을 앤트로픽에 임대하는 초기 논의를 진행 중이라고 보도했다.이에 따르면 이번 파트너십 제안은 지난 6월 앤트로픽이 먼저 메타에 제안하면서 시작됐다. 규모는 2년간 최대 100억달러(약 14조9000억원)에 달할 것으로 추산된다. 앤트로픽은 매달 분할 지급 방식으로 대금을 결",
       "keywords": [],
       "first_seen": "2026-07-18"
+    },
+    {
+      "id": "5e4afddfaae3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "date": "2026-07-18",
+      "summary": "This isn’t the first time power outages have caused issues for Waymo.",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "ee7e2eccd745",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "date": "2026-07-18",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "58ccde32528b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "date": "2026-07-18",
+      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "94e50275ee85",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Federal employees can download TikTok on their work phones again",
+      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "date": "2026-07-18",
+      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "84617263c334",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "date": "2026-07-18",
+      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "5d2b0c79af65",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "date": "2026-07-18",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "a91b67157105",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212906",
+      "date": "2026-07-18",
+      "summary": "세계에서 가장 가치 있는 기업 타이틀을 두고 애플과 엔비디아가 초박빙 경쟁을 벌이고 있다. AI 인프라 시장을 이끌어온 엔비디아와 AI 전략에 대한 기대감이 커진 애플의 시가총액 격차가 급격히 좁혀지면서, 두 기업이 시총 1위 자리를 놓고 엎치락뒤치락하는 양상이다.애플은 17일(현지시간) 장중 한때 엔비디아를 제치고 시총 1위를 탈환했으나, 마감 직전 엔비디아가 재역전에 성공하며 근소한 차이로 선두를 지켜냈다.이날 뉴욕증시 개장 초반 애플의 시가총액은 약 4조9100억달러(약 7316조원)까지 치솟으며 한때 엔비디아를 제치고 미국",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "3f11c6488bf3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212904",
+      "date": "2026-07-18",
+      "summary": "AI타임스와 이스트에이드의 7월 둘째 주(7월2~8일) 이슈 분석 결과, 반도체발 국내 증시 하락과 지정학적 리스크, 주요 사건·사고가 상위권을 차지했다.이번 주는 '코스피 코스닥 급락(6.87%)'이 검색량 1위를 차지했다. 국내 증시는 AI 설비투자(CAPEX) 및 반도체 성장세 둔화 우려, 미국 장기금리 상승, 단일종목 레버리지 상장지수펀드(ETF) 변동성으로 코스피는 6820, 코스닥은 791까지 하락했다.이에 금융당국은 삼성전자·SK하이닉스 단일종목 레버리지 ETF의 기본예탁금을 3000만원으로 상향하고 매매 단위를 20주",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "93e95c047af0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스X, 미 국방부와 수십억달러 'AI 클라우드 공급' 논의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212905",
+      "date": "2026-07-18",
+      "summary": "스페이스X가 미국 국방부에 AI 모델 구동을 위한 데이터센터 용량을 제공하기 위해 협상 중인 것으로 확인됐다. 이번 계약이 성사되면 로켓 발사와 위성 통신에 이어 군사 AI 인프라 영역까지 스페이스X의 영향력이 확대될 전망이다.월스트리트저널(WSJ)은 17일(현지시간) 국방부 관계자들을 인용해 스페이스X가 국방부의 AI 추진 계획에 맞춰 컴퓨팅 파워를 판매하는 논의를 진행 중이라고 보도했다.계약 규모는 수십억달러에 달하는 것으로 알려졌다. 양측의 협상은 현재 진행 중이며 최종 결렬될 가능성도 남아있다.스페이스X는 이미 앤트로픽, 구",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "1896d8b299a9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "영국 AISI 경고 “중국 오픈 모델, 미국과 보안 격차 4개월로 단축”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212900",
+      "date": "2026-07-18",
+      "summary": "중국의 오픈웨이트 AI 모델이 사이버 보안 능력에서 미국 선도 AI 모델을 빠르게 따라잡고 있다는 연구 결과가 나왔다. 특히 중국 AI 모델과 미국 최첨단 모델 간 성능 격차가 불과 4개월 수준으로 좁혀지면서, 저렴하면서도 강력한 AI 모델이 사이버 공격에 악용될 위험이 커지고 있다는 경고도 제기됐다.영국 AI 보안연구소(AISI)는 17일(현지시간) 공개한 보고서를 통해 중국 오픈웨이트 AI 모델의 사이버 보안 역량을 분석한 결과, 미국 최첨단 폐쇄형 AI 모델과의 성능 차이가 지난해 6~10개월에서 현재 4~7개월 수준으로 크게",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "ecc13120b97a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, 기업가치 77조 달해...공식 문서로 몸값 처음 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212901",
+      "date": "2026-07-18",
+      "summary": "딥시크가 최근 창립 후 처음으로 외부 투자를 유치하며 3509억위안(약 77조원)의 기업 가치를 인정받은 것으로 나타났다. 이는 중국 정부에 제출된 투자사의 공시를 통해 처음 확인된 수치로, 딥시크의 몸값이 공식 문서를 통해 드러난 것은 이번이 처음이다.로이터에 따르면, 중국 여행가방 제조업체 안후이 커룬은 17일 공시를 통해 자회사 닝보푸룬이 투자한 펀드가 29억위안을 투입해 딥시크 지분 0.8265%를 간접 취득했다고 밝혔다. 이를 기준으로 계산한 딥시크의 기업 가치는 3508억8000만위안 수준이다.닝보푸룬은 중국 투자사 모놀",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "bec6c5ad0d4d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "지푸, 'GLM-5.2' 흥행으로 중국 AI 최초 연매출 10억달러 눈앞",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212899",
+      "date": "2026-07-18",
+      "summary": "중국 지푸 AI(Z.ai)가 기업용 AI 시장에 집중하는 전략과 최신 모델 'GLM-5.2'의 흥행에 힘입어 연간 반복 매출(ARR) 10억달러(약 1조5000억원)를 기록하는 최초의 중국 AI 전문 기업이 될 가능성이 커지고 있다.17일(현지시간) 블룸버그에 따르면, 지푸 AI는 이미 이번 달에 올해 매출 목표를 달성한 것으로 알려졌다.정확한 액수는 알려지지 않았으나, 이를 12개월 기준으로 환산한 ARR이 10억달러에 이르는 수준인 것으로 전해졌다.이번 성과는 중국 AI 업계에서 이례적인 기록으로 평가된다. 경쟁사인 문샷 AI은",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "09571995577d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "애플, 오픈AI '하드웨어 이직자' 40명에 경고 서한 발송..\"증거 보존하라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212898",
+      "date": "2026-07-18",
+      "summary": "애플이 오픈AI의 하드웨어 사업에 대한 법적 공세를 강화하고 있다. 대규모 영업비밀 침해 소송을 제기한 데 이어, 현재 오픈AI에서 근무 중인 애플 출신 전 직원 수십명에게도 개인 명의의 법적 경고 서한을 발송하며 증거 확보에 나섰다.17일(현지시간) 파이낸셜타임스에 따르면, 애플은 현재 오픈AI에서 근무하는 애플 출신 직원 40명에게 문서와 이메일, 메신저 대화 등 관련 자료를 보존하라는 내용의 법률 서한을 보냈다.이와 함께 애플 변호인단과의 면담에도 응할 것을 요구한 것으로 알려졌다. 이는 오픈AI로 이직한 애플 출신 직원 40",
+      "keywords": [],
+      "first_seen": "2026-07-19"
+    },
+    {
+      "id": "b85b79366757",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI 연인 대신 진짜 아기를\"…중국, 'AI 페르소나' 단속 나선 속사정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212903",
+      "date": "2026-07-18",
+      "summary": "중국 정부가 AI 챗봇과의 감정적 관계를 강력하게 규제하기 시작했다. 표면적으로는 AI 중독과 정신 건강 문제를 막기 위한 조치지만, 그 배경에는 세계 최저 수준으로 떨어진 출산율을 끌어올리고 결혼을 장려하려는 중국 정부의 인구 정책이 자리하고 있다는 분석이 나온다.중국은 16일부터 AI 동반자(Companion AI) 서비스에 대한 새로운 규제를 시행했다. 새 규정은 AI 챗봇이 이용자의 감정적 의존을 유도하거나 조장하는 행위를 금지하고, 미성년자와의 가상 연애를 금지했다. 또 서비스가 이용자의 심각한 정서적 위기를 감지하면 비상",
+      "keywords": [
+        "Chatbot"
+      ],
+      "first_seen": "2026-07-19"
     },
     {
       "id": "a18bf9676578",
@@ -37973,6 +38197,11 @@
       "date": "2026-07-18",
       "added": 44,
       "total": 2826
+    },
+    {
+      "date": "2026-07-19",
+      "added": 18,
+      "total": 2844
     }
   ],
   "sources": {},
@@ -38122,8 +38351,8 @@
       "keywords": {
         "AI Agent": 43,
         "Automation": 24,
-        "Security": 18,
-        "GPT": 16,
+        "Security": 19,
+        "GPT": 17,
         "Open Source": 13,
         "Robotics": 10,
         "Gemini": 9,
@@ -38132,27 +38361,42 @@
         "LLM": 8,
         "Coding": 7,
         "Enterprise AI": 7,
+        "SDK/API": 6,
         "Claude": 6,
-        "SDK/API": 5,
-        "Speech/Audio": 5
+        "Deployment": 5
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 1310,
-      "recent_7d": 178,
-      "recent_30d": 446
-    },
-    "techcrunch": {
-      "total": 750,
-      "recent_7d": 117,
-      "recent_30d": 262
+      "total": 1322,
+      "recent_7d": 190,
+      "recent_30d": 458
     },
     "openai": {
       "total": 110,
+      "recent_7d": 7,
+      "recent_30d": 21
+    },
+    "huggingface": {
+      "total": 90,
       "recent_7d": 8,
       "recent_30d": 21
+    },
+    "aws_ml": {
+      "total": 174,
+      "recent_7d": 19,
+      "recent_30d": 66
+    },
+    "nvidia_ai": {
+      "total": 84,
+      "recent_7d": 6,
+      "recent_30d": 19
+    },
+    "techcrunch": {
+      "total": 756,
+      "recent_7d": 106,
+      "recent_30d": 268
     },
     "google_ai": {
       "total": 39,
@@ -38163,21 +38407,6 @@
       "total": 43,
       "recent_7d": 2,
       "recent_30d": 4
-    },
-    "huggingface": {
-      "total": 90,
-      "recent_7d": 9,
-      "recent_30d": 21
-    },
-    "aws_ml": {
-      "total": 174,
-      "recent_7d": 26,
-      "recent_30d": 66
-    },
-    "nvidia_ai": {
-      "total": 84,
-      "recent_7d": 6,
-      "recent_30d": 19
     },
     "lycorp": {
       "total": 47,
@@ -38206,10 +38435,10 @@
     },
     "yozm": {
       "total": 102,
-      "recent_7d": 3,
+      "recent_7d": 1,
       "recent_30d": 20
     }
   },
-  "last_updated": "2026-07-18",
-  "total_articles": 2826
+  "last_updated": "2026-07-19",
+  "total_articles": 2844
 }
