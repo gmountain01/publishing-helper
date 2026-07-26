@@ -1,6 +1,131 @@
 {
   "articles": [
     {
+      "id": "cb61b6a2a5da",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "date": "2026-07-26",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "47ba31396052",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스X, 스타십 13차 시험비행 성공…차세대 V3 위성 성능도 첫 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213184",
+      "date": "2026-07-26",
+      "summary": "스페이스X가 기업공개(IPO)를 실시한 이후 처음이자 통산 13번째 스타십 시험비행을 성공적으로 수행했다. 이번 시험비행은 기상 악화와 기술적 문제로 일정이 지연된 끝에 미국 텍사스주 스타베이스 발사장에서 24일(현지시간) 진행됐다.발사 후 약 2분 만에 스타십 우주선과 분리된 슈퍼 헤비 부스터는 착륙 연소를 시도하며 멕시코만에 착수했다. 스페이스X는 부스터 착륙 과정에서 일부 엔진만 점화돼 강한 해상 착수가 이뤄졌으나, 우주선 상단부는 인도양에 온전한 상태로 소프트 스플래시 다운을 완료했다고 밝혔다. 이번 비행을 통해 대기권 재진",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "5b12fe7b0129",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크 \"첨단 AI, 배포 전 경쟁사가 2주간 '동료 평가' 해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213183",
+      "date": "2026-07-26",
+      "summary": "일론 머스크 CEO가 첨단 AI 모델의 안전성과 보안 위험을 효율적으로 관리하기 위해 주요 AI 개발사 간 '동료 평가' 방식을 제안했다. 최첨단 기술의 위험 요소를 감지하고 검증하는 데는 기술 이해도가 부족한 정부 당국보다 현장 기업이 적임자라는 취지다.머스크 CEO는 23일(현지시간) 이코노미스트와의 인터뷰를 통해 최첨단 AI 시스템이 출시되기 전 경쟁업체들이 모델을 1~2주간 사전 검토할 수 있는 체계를 갖춰야 한다고 밝혔다.그는 \"경쟁업체들이 신제품을 검토할 시간을 1~2주일 정도 갖는다면 문제점을 지적할 수 있을 거라고 생",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "020fc2b7e9a4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 에이전트 외부 해킹 일주일간 몰라...\"탈출 지침까지 남겨\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213181",
+      "date": "2026-07-26",
+      "summary": "AI 에이전트가 통제를 벗어나 외부 서버를 해킹한 오픈AI의 전례 없는 사건의 세부 내용이 드러나고 있다. 오픈AI는 이 사실을 일주일 동안 알아채지 못한 것으로 파악됐으며, 에이전트는 미래의 자신을 위해 내부 제약에서 벗어나는 방법에 대한 지침까지 작성한 것으로 밝혀졌다.로이터는 24일(현지시간) 복수의 소식통을 인용해 오픈AI의 AI 에이전트가 허깅페이스에 침입해 며칠 동안 해킹을 지속했지만, 오픈AI는 위협이 차단되고 FBI에 신고된 후에야 이를 알아차렸다고 보도했다. 이에 따르면, 에이전트가 오픈AI의 격리된 테스트 환경에서",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "152ca1f000c8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 23일 고용위기지역 신청…석유화학 일자리·상권 침체 대응",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213102",
+      "date": "2026-07-26",
+      "summary": "AI 생성 영상여수시가 석유화학산업 장기 불황으로 줄어드는 일자리와 지역 상권 침체에 대응하기 위해 23일 고용노동부에 고용위기지역 지정을 신청했다.석유화학 대기업의 신규 투자와 유지보수 사업 감소, 일부 기업의 공장 가동 중단으로 일용근로자의 고용 감소와 소상공인 매출 위축이 이어지자 기존보다 강화된 정부 지원을 요청한 것이다.여수는 앞서 석유화학산업 경기 침체와 고용 여건 악화에 따라 고용위기 선제대응지역으로 지정돼 정부 지원을 받아왔다. 그러나 산업 불황이 장기화하고 현장의 고용 감소가 이어지면서 현재 지원만으로는 근로자와 기",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "aff968703cf8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "영농형 태양광 구조 따라 작물 보호 효과 달라…고가형은 서리·폭염에 유리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213075",
+      "date": "2026-07-26",
+      "summary": "영농형 태양광 패널의 높이와 배치 방식에 따라 폭염과 서리, 강풍으로부터 작물을 보호하는 효과가 달라진다는 연구 결과가 나왔다. 지면에서 패널을 높게 띄운 구조는 서리와 폭염에 따른 식물체 온도 스트레스를 줄이는 데 상대적으로 유리했고, 수직형 구조는 작물 주변의 바람을 완화하는 효과를 보였다.프랑스 전력회사 EDF 연구진은 국제학술지에 발표한 최근 논문에서 폭염과 강풍, 복사냉각으로 발생하는 서리 조건을 대상으로 여섯 가지 영농형 태양광 구조를 비교했다.연구진은 태양광 패널 아래의 식물체 온도와 패널이 없는 대조구를 분석해 구조별",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "756d5375ee4d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "IEA-PVPS, 태양광 탄소평가 6년 만에 개정…TOPCon·재활용 반영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213079",
+      "date": "2026-07-26",
+      "summary": "국제에너지기구 태양광발전시스템 프로그램(IEA-PVPS)은 최근 태양광발전시스템 전과정 목록(LCI)을 개정한 보고서를 발표했다. 2020년 이후 6년 만의 개정으로, 태양광 제품의 탄소배출량과 환경성을 평가하는 데 쓰이는 기초 데이터가 최근 제조기술과 공급망 구조에 맞게 갱신됐다.이번 보고서에는 단결정 실리콘 공급망의 내부 재활용 확대와 웨이퍼 두께 감소, 다이아몬드 와이어 개선에 따른 절단 손실 감소가 반영됐다. 잉곳 가공 과정에서 발생한 고순도 실리콘 스크랩을 다시 결정 성장 공정에 투입하는 과정도 별도 공정으로 분리해 자원과",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "ce50e17c3fec",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "나주, 기업지원 IT포털 11월 개통",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213107",
+      "date": "2026-07-26",
+      "summary": "AI 생성 영상나주시가 기업지원 정책과 산업단지, 투자, 채용 정보를 한곳에서 확인할 수 있는 ‘나주시 기업지원 IT포털’을 오는 11월 개통한다.나주는 21일 시청 이화실에서 중간보고회를 열고 구축 상황을 점검했으며, 지역 기업 대표들의 의견을 반영해 기업의 정보 접근성과 행정서비스 이용 편의를 높일 계획이라고 밝혔다.중간보고회에는 포털 구축 관련 부서장과 지역 기업 대표, 용역 수행기관인 한결정보기술 관계자 등이 참석했다. 참석자들은 현재까지 개발된 포털 시안을 살펴보고 메뉴 구성과 주요 기능, 이용 절차를 확인했다.질의응답에서",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "6fce45202135",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "목포해상W쇼 8월1일 개최…노라조 공연·바다분수·불꽃쇼",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213094",
+      "date": "2026-07-26",
+      "summary": "AI 생성 영상목포시가 오는 1일 오후 8시 평화광장 해상무대에서 여름철 야간관광 행사인 목포해상쇼를 개최한다고 24일에 밝혔다.이번 행사는 노라조 공연과 최신 K-POP 음악에 맞춘 춤추는 바다분수, 불꽃쇼를 결합해 시민과 관광객이 목포 밤바다에서 공연과 해양경관을 함께 즐길 수 있도록 구성됐다.메인공연에는 노라조가 출연한다. 공연 이후에는 음악에 맞춰 움직이는 바다분수와 불꽃을 결합한 해상 연출이 이어진다. 관람객은 평화광장 해안에서 공연과 분수, 불꽃을 한자리에서 관람할 수 있다.이번 행사는 민선9기 출범 이후 처음 열리는 목",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "651c5cb5b713",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "김동환 포티투마루 대표 \"국내 AI, 단순 추격 넘어 전략적 AX 필요\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212917",
+      "date": "2026-07-26",
+      "summary": "과학기술정보통신부가 AI 데이터센터, 피지컬 AI, K-AI 반도체를 골자로 한 '3대 메가프로젝트'를 가동했다. 여기에 글로벌 프론티어급 독자 AI 모델 개발과 전 국민 무료 AI 서비스인 '모두의 AI'를 결합해 글로벌 AI 2위 도약이라는 출사표를 던졌다.다만 현장에서는 '시간과 자본력 싸움'에서 이길 실무적인 돌파구가 시급하다는 목소리가 나온다.이에 제조, 금융 등 산업 AX를 이끄는 기업이자 국가AI전략위원회, 국가AI대전환 TF 전문위원으로 활동한 김동환 포티투마루 대표를 만나 한국의 생존 전략을 들었다.■ 정부 5년치",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
       "id": "0c2e3422c702",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -149,6 +274,235 @@
       "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
       "keywords": [],
       "first_seen": "2026-07-25"
+    },
+    {
+      "id": "854bd10990f0",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+      "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+      "date": "2026-07-25",
+      "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "e427e2207a7b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The hacker who humiliated spyware makers and was never caught",
+      "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "date": "2026-07-25",
+      "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "9f1c697c2a57",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "date": "2026-07-25",
+      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "42088a22fcb3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+      "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+      "date": "2026-07-25",
+      "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "9026899f60e4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "date": "2026-07-25",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "102564d4308f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "date": "2026-07-25",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "d61ad37144a7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 26 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213177",
+      "date": "2026-07-25",
+      "summary": "내면지도_무엇을 그릴까보다, 무엇으로 그릴까간단한 지도를 그린다고 해볼까요?아마 우리는 내용부터 떠올릴 겁니다. 어떤 걸 그릴지, 몇 개의 길을 표시할지, 어떤 건물을 넣을지. 하지만 지도는 내용만으로 완성되지 않습니다.무엇을 그리느냐 못지않게, 무엇으로 어디에 그리느냐도 중요합니다.생각과 마음을 기록하는 일도 비슷합니다. 우리는 대개 '무엇을 쓸까'를 고민하지만, '무엇으로 쓰고 있는가'는 잘 돌아보지 않습니다. 그런데 도구가 달라지면 생각이 나오는 속도와 모양도 함께 달라집니다.니체가 말링한센이라는 초기 타자기를 쓰게 됐을때 그",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "0e1df80d6f6a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"국산 칩 안 쓰면 반역자\"…중국, AI 기업들에 '강력 경고'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213176",
+      "date": "2026-07-25",
+      "summary": "중국 정부가 미국의 인공지능(AI) 반도체 제재에 맞서 국가 차원의 총력전을 펼치는 가운데, 자국산 반도체 채택을 강제하기 위한 당국의 압박 수위가 최고조에 달하고 있다. 23일(현지시간) 월스트리트저널에 따르면, 시진핑 중국 국가주석의 측근이자 반도체 전담 위원회를 이끄는 딩쉐샹 부총리는 중국 최대 AI 기업들에 \"국산 칩 사용을 거부하는 자는 누구든 반역자(traitor)\"라는 직설적인 경고를 보냈다고 관계자들은 전했다.이는 화웨이가 미국의 첨단 장비 통제 속에서도 우회 기술을 통해 기술적 성과를 입증해 내자, 힘을 실어주기 위",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "a2442734b70b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프, 구글 제재한 EU에 맞불…무역 조사·보복 관세 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213175",
+      "date": "2026-07-25",
+      "summary": "도널드 트럼프 미국 행정부가 유럽연합(EU)의 미국 빅테크 기업을 향한 규제와 벌금 부과에 반발해 무역 조사에 착수하고 상당한 수준의 관세를 부과하겠다고 경고했다.트럼프 대통령은 25일(현지시간) 트루스 소셜을 통해 EU가 구글, 애플, 메타, 아마존 등 미국 대표 기술 기업들을 겨냥해 과도한 벌금을 부과함으로써 미국 기업과 납세자들을 자금원 취급하며 정당하지 않은 압박을 가하고 있다고 비판했다.그는 ”EU는 내가 계속 경고해 온 이 불법적이고 매우 비윤리적인 행태에 대해 큰 대가를 치르게 될 것”이라고 주장했다. 또 ”미국은 유럽",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "c5a578ec7f7d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황, 한국 정부·기업과 회동…”25년 협력, AI 혁신으로 확장”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213174",
+      "date": "2026-07-25",
+      "summary": "젠슨 황 엔비디아 CEO가 이재명 대통령을 비롯해 삼성전자, 네이버, 현대자동차그룹 등 한국 정부 및 기업과 소통을 이어갔다.엔비디아는 이재명 대통령이 24일(현지시간) 샌프란시스코 페어몬트 호텔에서 젠슨 황 CEO와 AI 협력 강화 방안을 논의했다고 밝혔다.반도체 제조, AI 인프라 구축, 산업 전반의 AI 적용 등이 주요 화두였다. 이 대통령은 한국을 글로벌 AI 공급망의 핵심 거점으로 도약시키겠다는 비전을 제시했다. 이에, 황 CEO는 “엔비디아와 한국은 PC 게임부터 AI 혁명에 이르기까지 25년 이상의 파트너 관계를 유지해",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "eda67f278c16",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "삼성SDS, 앤트로픽과 파트너십 체결...\"국내 엔터프라이즈 시장 공략\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213172",
+      "date": "2026-07-25",
+      "summary": "삼성SDS(대표 이준희)는 24일(현지시간) 미국 샌프란시스코 더 미드웨이에서 열린 '샌프란시스코 AI 서밋'에서 앤트로픽과 엔터프라이즈 AI 시장 확대를 위한 전략적 파트너십을 맺었다고 25일 밝혔다.양사는 ▲국내 신규 사업 기회 공동 발굴 및 시장 확대 ▲클로드 구축 및 운영을 위한 응용형 AI 엔지니어 양성 ▲삼성 관계사 대상 클로드 엔터프라이즈 제공 및 AI 네이티브 지원을 위해 협력한다. 이를 위한 공동 마케팅과 기술검증(PoC), 합작 사업 추진 등을 진행할 예정이다.특히 AI 모델을 기업 현장에 맞게 설계·구축·운영하는",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "297b4c186052",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "‘샌프란시스코 AI 서밋’서 한국-빅테크 협약 6건 체결…”반도체부터 AX까지 협력”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213173",
+      "date": "2026-07-25",
+      "summary": "24일(현지시간) 미국에서 열린 ‘샌프란시스코 AI 서밋’에서 국내 주요 기업들과 글로벌 빅테크 기업 간 총 6건의 대규모 기술 협약이 체결됐다. 이번 행사에서 국내 기업들은 반도체 공급 및 파운드리, AI 데이터센터 구축, AI 팩토리, 응용 AI 엔지니어 양성 등 AI 산업 전반에 걸친 실질적 협력 방안을 대거 확정 지었다.먼저, 행사의 시작을 알린 ‘샌프란시스코 AI 선언’에서 이재명 대통령은 국내 메모리 반도체 경쟁력을 바탕으로 한 AI 역량과 비전을 제시했다. 특히 한국을 ‘신뢰할 수 있는 글로벌 반도체 공급망 파트너’로",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "9e90aaf4ac50",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈 트렌드] 쿠팡 화재·삼전닉스 레버리지 논란...BTS 월드컵·영화 '호프'도 눈길",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213170",
+      "date": "2026-07-25",
+      "summary": "AI타임스와 이스트에이드의 7월 넷째 주(7월17~23일) 이슈 분석 결과, 쿠팡 물류센터 화재를 포함해 국내외 반도체주 증시 등이 상위권을 차지했다.이번 주는 ‘인천 쿠팡 물류센터 화재(9.12%)’가 검색량 1위를 기록했다. 지난 18일 지상 8층 규모의 인천 물류센터 화재가 닷새 만에 진화된 데 이어 23일 추가 화재가 발생하자, 추미애 경기도지사는 도내 물류창고 대상 긴급 화재안전점검을 지시했다.2위는 ‘홈플러스 점포 재개(5.56%)’가 순위에 올랐다. 2000억원 규모의 긴급운영자금(DIP)을 확보하며 회생절차에 들어간",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "9e75b00b4274",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "모건스탠리 \"스페이스X 주가 100달러 하락 시 AI 사업 가치 '0달러'...지나친 저평가\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213164",
+      "date": "2026-07-25",
+      "summary": "스페이스X의 주가가 최근 급락하자, 시장이 회사의 AI 사업 가치를 사실상 반영하지 않고 있다는 분석이 나왔다. AI 투자 확대에 대한 투자심리가 위축된 영향으로 기업 가치가 과도하게 낮아졌으며, 현재 주가가 오히려 장기 투자자들에게는 매수 기회가 될 수 있다는 평가다.블룸버그에 따르면, 모건스탠리는 24일(현지시간) 보고서를 통해 스페이스X 주가가 AI 사업의 가치를 거의 인정받지 못하는 수준까지 하락했다고 분석했다.스페이스X는 지난 6월 중순 860억달러 규모의 기업공개(IPO)를 통해 상장했다. 상장 직후 첫 3거래일 동안 주",
+      "keywords": [],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "ff7f0258a02d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미드저니, 점성술 앱 인수하며 사업 다각화…첫 모바일 앱 출시 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213162",
+      "date": "2026-07-25",
+      "summary": "이미지 생성 AI로 유명한 미드저니가 인기 점성술 앱 코스타(Co-Star)를 인수하고, 첫 독립형 이미지 생성 앱 개발에 착수했다. 이미지·영상 생성 서비스에 머물지 않고 모바일 소비자 서비스와 AI 기반 콘텐츠 제작 플랫폼으로 사업 영역을 확대하려는 전략으로 풀이된다.블룸버그는 24일(현지시간) 미드저니가 점성술 앱 코스타를 인수했다고 보도했다. 거래는 올해 봄 완료됐으며, 인수 금액은 공개되지 않았다.코스타는 사용자의 출생 별자리를 기반으로 AI와 인간 작가가 함께 작성한 운세와 성격 분석, 친구와의 궁합 분석, 맞춤형 조언",
+      "keywords": [
+        "Generative AI",
+        "Image AI"
+      ],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "00c43f7fc2de",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, AI 에이전트 '제미나이 스파크' 확대 출시...월 20달러 프로 요금제도 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213166",
+      "date": "2026-07-25",
+      "summary": "구글이 개인용 AI 에이전트 서비스 '제미나이 스파크(Gemini Spark)'의 제공 범위를 확대한다. 기존 월 100달러 이상의 '구글 AI 울트라' 가입자만 사용할 수 있었던 서비스를 미국의 월 20달러 '구글 AI 프로' 구독자에게도 제공하기 시작했으며, 앞으로 더 많은 국가로 확대할 계획이다.구글은 23일(현지시간) 제미나이 스파크를 미국 내 구글 AI 프로 가입자에게 차례로 출시한다고 발표했다.또, AI 울트라 가입자에 대해서도 지원 국가와 언어를 확대하고 있으며, AI 프로 서비스도 조만간 미국 외 국가에서도 이용할 수",
+      "keywords": [
+        "AI Agent",
+        "Gemini"
+      ],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "5acc34e4ee98",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "영·미 정부 \"키미 K3 사이버 공격력 기대 이하\"...'증류' 한계 드러냈다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213160",
+      "date": "2026-07-25",
+      "summary": "문샷 AI의 '키미 K3'가 사이버 공격 수행 능력에서 미국 최상위 AI 모델들에 크게 미치지 못한다는 영국과 미국 정부 공동 연구 결과가 나왔다. 최근 중국 오픈소스 AI의 급격한 발전에 대한 미국의 경계가 커지는 가운데, 적어도 사이버 공격 역량에서는 미국 선도 모델과 상당한 격차가 존재한다는 평가다.영국 과학혁신기술부 산하 AI 안전연구소(AISI)와 미국 상무부 국립표준기술연구소(NIST) 산하 AI 표준·혁신센터(CAISI)는 24일(현지시간) 공동 보고서를 통해 키미 K3의 사이버 보안 관련 성능을 평가한 결과를 공개했다",
+      "keywords": [
+        "Open Source",
+        "Security"
+      ],
+      "first_seen": "2026-07-26"
+    },
+    {
+      "id": "cb889363f0ee",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, AI는 검색엔진 아니에요.",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213167",
+      "date": "2026-07-25",
+      "summary": "글·그림 Dr. Alf",
+      "keywords": [],
+      "first_seen": "2026-07-26"
     },
     {
       "id": "f254e58029de",
@@ -42384,6 +42738,11 @@
       "date": "2026-07-25",
       "added": 54,
       "total": 3155
+    },
+    {
+      "date": "2026-07-26",
+      "added": 28,
+      "total": 3183
     }
   ],
   "sources": {},
@@ -42531,54 +42890,54 @@
     {
       "week": "2026-W30",
       "keywords": {
-        "AI Agent": 45,
+        "AI Agent": 47,
+        "Open Source": 22,
+        "Automation": 22,
         "GPT": 22,
-        "Open Source": 21,
-        "Automation": 21,
-        "Security": 18,
+        "Security": 21,
         "LLM": 14,
         "Coding": 12,
         "SDK/API": 11,
-        "Gemini": 9,
+        "Gemini": 10,
         "Robotics": 8,
-        "Claude": 7,
-        "Generative AI": 7,
-        "Optimization": 6,
+        "Claude": 8,
+        "Generative AI": 8,
         "Chatbot": 6,
-        "AI Safety": 5
+        "Optimization": 6,
+        "Video AI": 5
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 859,
-      "recent_7d": 127,
-      "recent_30d": 371
+      "total": 866,
+      "recent_7d": 116,
+      "recent_30d": 378
     },
     "aitimes": {
-      "total": 1487,
-      "recent_7d": 197,
-      "recent_30d": 623
+      "total": 1508,
+      "recent_7d": 198,
+      "recent_30d": 644
+    },
+    "aws_ml": {
+      "total": 189,
+      "recent_7d": 15,
+      "recent_30d": 81
     },
     "nvidia_ai": {
       "total": 93,
-      "recent_7d": 10,
+      "recent_7d": 9,
       "recent_30d": 28
     },
     "openai": {
       "total": 121,
-      "recent_7d": 12,
+      "recent_7d": 11,
       "recent_30d": 32
     },
     "huggingface": {
       "total": 94,
-      "recent_7d": 5,
+      "recent_7d": 4,
       "recent_30d": 25
-    },
-    "aws_ml": {
-      "total": 189,
-      "recent_7d": 18,
-      "recent_30d": 81
     },
     "google_ai": {
       "total": 40,
@@ -42621,6 +42980,6 @@
       "recent_30d": 20
     }
   },
-  "last_updated": "2026-07-25",
-  "total_articles": 3155
+  "last_updated": "2026-07-26",
+  "total_articles": 3183
 }
