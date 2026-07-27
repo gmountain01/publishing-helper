@@ -1,6 +1,184 @@
 {
   "articles": [
     {
+      "id": "4fb09e85c1b8",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "date": "2026-07-27",
+      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) ap",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "5d2ba47b7c6e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "date": "2026-07-27",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "keywords": [
+        "Video AI"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "e9521b720490",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 인도 저작권 침해 소송서 승소...“LLM 학습은 공정사용”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213201",
+      "date": "2026-07-27",
+      "summary": "인도 법원이 AI 모델 학습 과정에서 저작권이 있는 뉴스 콘텐츠를 사용하는 것은 연구 목적의 '공정사용'에 해당할 수 있다며 현지 언론사의 임시 금지 가처분 신청을 기각했다. 대형언어모델(LLM) 학습에 저작물을 활용하는 행위의 적법성을 다룬 인도 법원의 첫 예비적 판단이다.로이터에 따르면, 인도 델리 고등법원의 아미트 반살 판사는 24일(현지시간) 현지 뉴스통신사 아시안뉴스인터내셔널(ANI)이 오픈AI를 상대로 제기한 임시 금지 가처분 신청을 기각하며, 오픈AI의 행위가 인도 저작권법을 위반했다고 보기 어렵다고 판단했다.이번 소송",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "cf9e1ee64598",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "더벤처스, AI 심사역 '비키' 도입...\"투자 검토 하루 만에 끝낸다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213204",
+      "date": "2026-07-27",
+      "summary": "벤처캐피털 더벤처스(대표 김철우)는 AI로 투자 희망 기업의 사업계획서 검토 결과를 접수한 뒤 24시간 안에 전달하도록 프로세스를 개선했다고 27일 밝혔다.더벤처스는 지난 10여 년간 축적한 투자 데이터와 사후 관리 사례를 학습한 자체 AI 심사역 시스템 '비키(Vicky)'를 도입했다. 지난해 도입 이후 누적 1500건 이상의 사업계획서를 검토했으며, 비키와 인간 심사역의 최종 판단 일치율은 90% 수준으로 높은 정확도를 보였다.비키는 1차 서류 검토를 담당해 비즈니스 모델 분석과 데이터 검증, 내부 심사 보고서 생성 등을 수행한",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "c4d1cb567b8a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타 AI에 ‘뮤즈 스파크 1.1’ 탑재…질의응답 넘어 ‘자율 에이전트’로 진화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213197",
+      "date": "2026-07-27",
+      "summary": "메타가 최신 AI 모델 '뮤즈 스파크(Muse Spark) 1.1'을 기반으로 한 자율 작업 자동화 기능을 '메타 AI'에 도입, AI 비서를 질문에 답하는 챗봇에서 스스로 업무를 수행하는 에이전트(Agent)로 진화시켰다. 메타는 24일(현지시간) 메타 AI 앱과 웹 서비스에 자율 작업(Autonomous Tasks) 기능을 차례로 적용한다고 발표했다.이번 기능은 일부 국가와 지역에서 먼저 제공되며, 앞으로 왓츠앱을 비롯한 메타의 다른 서비스로도 확대될 예정이다. 구체적인 일정은 밝히지 않았다.새로운 기능은 이달 초 공개된 차세대",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Chatbot"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "3cd03b34b0e2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KAIST, ICML서 최우수논문상…‘세상 원리 이론화’하는 AI 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213205",
+      "date": "2026-07-27",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)은 안성진 전산학부 교수 연구팀이 AI 관측 정보만으로 세계의 작동 원리를 스스로 이론화하도록 하는 새로운 학습 패러다임 ‘이론화 학습(L2T)’을 제안하고, 이를 구현한 신경망 이론 생성 모델 ‘네오(NEO)’를 개발했다고 27일 밝혔다.이번 연구는 지난 7월9일 서울에서 열린 ‘제43회 국제기계학습학회(ICML 2026)’에서 구두발표 논문으로 선정됐다. 전체 투고 논문 2만3918편 가운데 상위 0.7%(168편)에 해당하는 성과다. ‘구성적 학습 워크숍’에서도 최우수 논문상을 수상했다.",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "95fcc5910ff5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, 오픈AI '10GW 데이터센터' 구축에 365조 금융 보증 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213196",
+      "date": "2026-07-27",
+      "summary": "엔비디아가 오픈AI의 초대형 AI 데이터센터 구축을 지원하기 위해 약 2500억달러(약 365조원) 규모의 금융 보증을 제공하는 방안을 추진하고 있다. 오픈AI가 미국 오하이오주에 들어설 10기가와트(GW) 규모의 AI 데이터센터를 임대할 수 있도록 신용을 보강하는 것이 핵심으로, 총사업비가 5000억달러(약 730 원)를 웃도는 사상 최대 규모의 AI 컴퓨팅 인프라 프로젝트가 될 전망이다.26일(현지시간) 월스트리트저널(WSJ)에 따르면, 엔비디아는 오픈AI와 소프트뱅크가 추진 중인 오하이오 데이터센터 프로젝트와 관련해 2500억",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "55cb2330c2ac",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "LG CNS, 엔비디아·메타 참여한 '글로벌  AI 신소재 개발 연합' 합류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213199",
+      "date": "2026-07-27",
+      "summary": "LG CNS(대표 현신균)는 글로벌 AI 신소재 개발 협력체 'AI 머티리얼즈 파운드리'에 한국 IT 분야 대표 창립 멤버로 선정됐다고 27일 밝혔다.해당 협력체는 AI와 소재 과학을 결합해 신물질을 설계·탐색하는 플랫폼을 개발한 영국 AI 스타트업 '커스프AI'가 주도하는 글로벌 연합이다. 엔비디아, 메타, AMD 등 AI·화학·컴퓨팅 인프라 분야 기업 48곳이 참여 중이다.AI 머티리얼즈 파운드리는 신소재 설계부터 발굴, 검증, 상용화까지 전 과정을 아우르는 인프라를 제공한다. 이를 통해 신소재 개발 비용과 시간을 획기적으로 단",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "9c4246e91376",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AXZ, ‘주식회사 다음’으로 새출발…”차세대 AI 포털에 집중”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213198",
+      "date": "2026-07-27",
+      "summary": "포털 ‘다음(Daum)’ 서비스를 운영하는 주식회사 에이엑스지(AXZ, 대표 이건수)가 ‘주식회사 다음’으로 사명을 변경한다고 27일 밝혔다.에이엑스지는 지난 20일 개최한 임시주주총회에서 ‘주식회사 다음’으로의 사명 변경을 의결했다. 회사와 대표 서비스의 브랜드를 일치시켜 기업 정체성을 명확히 하는 데 목표를 둔다. 다음은 이번 사명 변경을 계기로 기업 홈페이지와 공식 채널을 개편하고, 검색·콘텐츠·커뮤니티 분야에서 축적한 서비스 역량에 AI 기술을 결합한 차세대 포털 구축에 나선다. 기존 키워드 중심 검색에서 나아가 이용자의 질",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "5883c2c41b17",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "크로아티아, 1GW AI 데이터센터 송전망 구축안 승인…500MW 태양광 연계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213195",
+      "date": "2026-07-27",
+      "summary": "미국 투자그룹 판테온 아틀라스(Pantheon Atlas)는 23일(현지시간) 크로아티아 송전계통 운영자 HOPS가 토푸스코에 추진 중인 1기가와트(GW)급 ‘판테온 AI’ 데이터센터의 송전망 구축안을 승인했다고 밝혔다.데이터센터 부지는 크로아티아 수도 자그레브에서 남쪽으로 약 90km 떨어진 토푸스코에 있으며, 초기 면적은 310에이커다. 향후 450에이커까지 확장할 수 있도록 설계됐다.HOPS가 승인한 송전 인프라 사업 규모는 5억유로(약 8361억원) 이상이다. 판테온 아틀라스는 약 280km의 신규 송전선과 광섬유 통신망,",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "4d4034721cef",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국, 태양광 신규 설치 72GW 그쳐…상반기 증가량 66% 급감",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213193",
+      "date": "2026-07-27",
+      "summary": "중국의 올해 상반기 태양광 신규 설치량이 72.07기가와트(GW)로 전년 동기보다 66.04% 감소했다. 지난해 전력가격 제도 개편을 앞두고 태양광 사업 준공이 집중된 데 따른 기저효과가 크게 작용했지만, 신규 설치 속도가 둔화하면서 공급과잉을 겪는 중국 태양광 제조업계의 수익성 부담도 이어질 전망이다.중국 국가에너지국은 22일(현지시간) 발표한 전력산업 통계에서 올해 1월부터 6월까지 태양광 발전설비가 72.07GW 증가했다고 밝혔다. 지난해 같은 기간 신규 설치량은 212.21GW였다.6월 한 달 동안 새로 설치된 태양광 설비는",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "dc0821818a98",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "태양광 패널 나노코팅, 먼지 쌓인 모듈보다 출력 16% 높였다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213192",
+      "date": "2026-07-27",
+      "summary": "인도 연구진이 태양광 패널 표면에 물과 먼지가 잘 달라붙지 않는 초소수성 나노복합 코팅을 적용해 출력 손실을 줄이는 데 성공했다. 6개월간 진행한 실외 실험에서 코팅 패널은 먼지가 자연적으로 쌓인 패널보다 출력이 약 16% 높았고, 매일 수동으로 청소한 패널보다도 약 7% 높은 성능을 보였다.연구 결과는 16일(현지시간) 국제학술지 ‘넥스트 에너지(Next Energy)’에 게재됐다. 연구에는 인도 PSN Institute of Technology and Science와 Vaigai College of Engineering 연구진이",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "4181ece27742",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국, 재생에너지 5개년 계획 발표…2030년 설비 35억kW 목표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213189",
+      "date": "2026-07-27",
+      "summary": "중국이 2030년까지 재생에너지 발전설비를 35억 킬로와트(kW)로 확대하고 연간 발전량을 6조 킬로와트시(kWh)까지 끌어올린다. 태양광과 풍력 설비를 늘리는 데 그치지 않고 전력망과 저장장치, 수요반응, 전력시장 제도를 함께 정비해 재생에너지를 안정적으로 전력을 공급하는 주력 전원으로 육성한다는 계획이다.중국 국가발전개혁위원회와 국가에너지국은 23일(현지시간) 이 같은 내용을 담은 ‘재생에너지 발전 제15차 5개년 계획’을 공개했다. 계획은 2026년부터 2030년까지 적용된다.이에 따르면 중국은 2030년 재생에너지 소비총량을",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "41713c0207b8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "양현상 박사, 한국노벨과학포럼 과학전문위원 위촉",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213190",
+      "date": "2026-07-27",
+      "summary": "양현상 국방융합기술연구소장 겸 노바엑스 대표가 사단법인 한국노벨과학포럼 과학전문위원으로 위촉됐다.한국노벨과학포럼은 지난 25일 서울 강남 앙트레블에서 과학전문위원 위촉식을 열고 양 박사를 과학전문위원으로 위촉했다. 양 박사는 앞으로 AI와 우주항공, 방위산업 융합 분야의 정책 자문과 기술 전략 수립 활동에 참여할 예정이다.양 박사는 방위산업을 단순한 무기 생산 분야가 아니라 AI와 반도체, 센서, 통신, 소프트웨어, 정밀가공, 우주기술 등이 결합된 기술집약 산업으로 설명했다. 미래 전장이 데이터와 알고리즘 중심으로 변화하면서 방산기",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
       "id": "cb61b6a2a5da",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -124,6 +302,163 @@
       "summary": "과학기술정보통신부가 AI 데이터센터, 피지컬 AI, K-AI 반도체를 골자로 한 '3대 메가프로젝트'를 가동했다. 여기에 글로벌 프론티어급 독자 AI 모델 개발과 전 국민 무료 AI 서비스인 '모두의 AI'를 결합해 글로벌 AI 2위 도약이라는 출사표를 던졌다.다만 현장에서는 '시간과 자본력 싸움'에서 이길 실무적인 돌파구가 시급하다는 목소리가 나온다.이에 제조, 금융 등 산업 AX를 이끄는 기업이자 국가AI전략위원회, 국가AI대전환 TF 전문위원으로 활동한 김동환 포티투마루 대표를 만나 한국의 생존 전략을 들었다.■ 정부 5년치",
       "keywords": [],
       "first_seen": "2026-07-26"
+    },
+    {
+      "id": "7d96daf2c192",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "date": "2026-07-26",
+      "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+      "keywords": [
+        "Automation",
+        "Security"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "216b0412425a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "date": "2026-07-26",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "7fb8a23f82f9",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Inside one London founder house rewriting the founder-house rules",
+      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "date": "2026-07-26",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "355626f29c21",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "date": "2026-07-26",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "307c03d7676c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "date": "2026-07-26",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "22bd93979c3c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "안두릴, 146조 몸값으로 투자 추진…방산 공룡 '록히드 마틴' 턱밑 추격",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213188",
+      "date": "2026-07-26",
+      "summary": "안두릴 인더스트리가 기업 가치 1000억달러(약 146조원)를 목표로 새로운 자금 조달을 추진 중인 것으로 알려졌다. 이는 불과 1년 전 평가액의 3배가 넘는 수준으로, 지난 5월 610억달러 가치로 자금을 조달한 지 두 달 만에 추진되는 파격적인 행보다.로이터는 24일(현지시간) 소식통을 인용, 안두릴이 현재 투자자들과 신규 자금 조달을 위한 초기 협상을 진행 중이라고 보도했다.이번 투자 라운드는 안두릴이 특정 재무적 성과 지표를 달성하는 조건에 따라 투자자들이 1년 이내에 더 높은 가치로 추가 참여하는 2단계 프로세스 구조로 논",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "76f6156dcbff",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "클로드 5 ‘컨텍스트 엔지니어링’ 공개...“규칙 줄여야 성능 올라간다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213178",
+      "date": "2026-07-26",
+      "summary": "AI의 성능을 높이는 핵심이 '프롬프트를 얼마나 정교하게 작성하느냐'에서 '모델이 필요한 정보를 적절한 시점에 활용할 수 있도록 컨텍스트를 설계하느냐'로 이동하고 있다. 앤트로픽도 최신 '클로드 5' 계열 모델이 과도한 규칙보다 자율적인 판단을 더 효과적으로 활용한다고 밝히며 AI 활용 전략에 새로운 변화를 예고했다.앤트로픽은 24일(현지시간) 클로드 5 계열 모델을 위한 새로운 컨텍스트 엔지니어링 원칙을 공개했다. 핵심은 과거처럼 세부 규칙을 촘촘히 나열하기보다 모델의 자체 판단 능력을 적극 활용하는 것이다. 실제로 클로드 코드의",
+      "keywords": [
+        "Claude",
+        "Prompt"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "7f64fa6ac90c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, 2차 투자 유치 돌연 중단...\"IPO 준비하며 AI 연구 집중\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213180",
+      "date": "2026-07-26",
+      "summary": "딥시크가 수조원 규모의 2차 투자 유치 절차를 돌연 중단했다. 량원펑 창립자의 미·중 AI 경쟁 관련 발언이 온라인에서 퍼진 직후 내려진 결정으로, 딥시크는 당분간 투자 계약 체결을 보류하는 한편 기업공개(IPO) 준비를 병행하며 장기적인 AI 연구 개발에 집중할 것으로 알려졌다.블룸버그는 25일(현지시간) 복수의 소식통을 인용, 중국의 대표 AI 기업 딥시크가 진행 중이던 두 번째 투자 유치 라운드를 일시 중단했다고 보도했다.딥시크는 일부 투자자들에게 당초 예정됐던 투자 계약이 당분간 체결되지 않을 것이라고 구두로 통보했으며, 앞",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "6fbc128cba0e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립…파운데이션 모델 공동 연구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213187",
+      "date": "2026-07-26",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)은 엔비디아와 피지컬 AI 공동연구 추진을 위해 ‘엔비디아 AI 테크놀로지 센터(NVAITC)’를 설립한다고 26일 밝혔다.KAIST가 축적해 온 인간 중심 로봇 기술과 실제 동작 데이터에, 엔비디아의 AI 기술과 글로벌 연구 네트워크를 결합해 차세대 피지컬 AI 원천기술을 확보하기 위한 것이다.‘인간물리지능 테크놀로지 센터’에서 공동연구를 추진하게 된다. KAIST 기계공학과 인간물리지능연구센터가 공동 연구 핵심 거점 역할을 맡는다. 기계공학과 인간물리지능연구센터는 웨어러블 로봇 분야를 전문",
+      "keywords": [],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "37f40add223b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, LLM 배포 가속 '모델익스프레스' 발표...\"서버 대기 8분에서 1분대로 단축\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213179",
+      "date": "2026-07-26",
+      "summary": "대형언어모델(LLM)의 규모가 테라바이트(TB)에 이르면서 모델 가중치를 이동하는 시간이 AI 서비스의 새로운 병목으로 떠오르고 있다. 엔비디아가 이러한 문제를 해결하기 위해 GPU 간 직접 전송 기술을 활용한 새로운 모델 배포 인프라를 공개했다. 엔비디아는 24일(현지시간) LLM의 배포와 확장, 강화학습(RL) 사후학습 과정에서 발생하는 모델 가중치 이동을 최적화하는 소프트웨어 인프라 ‘모델익스프레스(ModelExPress)’를 발표했다.AI 모델의 규모가 테라바이트(TB) 수준으로 커지면서, 새로운 AI 서버를 켤 때마다 모델",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "866396e6812c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT, 스타트업 3곳에 독자 AI 모델 'A.X K1' API 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213185",
+      "date": "2026-07-26",
+      "summary": "SK텔레콤(대표 정재헌)은 국내 스타트업을 대상으로 독자 파운데이션 모델 '에이닷엑스 케이원(A.X K1)'의 API를 지원한다고 26일 밝혔다.SKT는 중소벤처기업부 주관 '2026년 모두의 챌린지 AX-LLM'의 일환으로 개발한 자체 모델이 스타트업·개발자 생태계에서 폭넓게 활용될 수 있도록 지원하고 있다.이 사업에는 SKT를 포함해 업스테이지, LG AI연구원, NC AI, KT, 네이버클라우드, 오라클 등 7개사가 참여 중이다. SKT는 심사를 거쳐 팀리미티드, 퍼셀리, 데브올컴퍼니 3개사를 선정했다.팀리미티드는 영수증 플랫",
+      "keywords": [
+        "LLM",
+        "SDK/API"
+      ],
+      "first_seen": "2026-07-27"
+    },
+    {
+      "id": "81b18468de2d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프, 애플-마이크론 '중국산 메모리' 갈등에 샌드위치 신세",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213182",
+      "date": "2026-07-26",
+      "summary": "미국의 메모리 반도체 공급난이 심화되면서 애플과 마이크론이 중국산 메모리 반도체 사용 여부를 놓고 정면으로 충돌하고 있다. 애플은 제품 가격 안정을 위해 중국 메모리 업체의 반도체 사용을 허용해 달라고 요구하지만, 마이크론은 미국 반도체 산업과 국가 안보를 위협할 수 있다며 강하게 반대하고 있다.월스트리트저널(WSJ)은 24일(현지시간) 도널드 트럼프 행정부는 소비자 물가 안정과 반도체 제조업 육성이라는 두 핵심 정책 사이에서 어려운 선택을 강요받는 상황에 놓였다고 보도했다.애플은 중국 메모리 반도체 업체 창신메모리(CXMT)와 양",
+      "keywords": [],
+      "first_seen": "2026-07-27"
     },
     {
       "id": "0c2e3422c702",
@@ -42743,30 +43078,15 @@
       "date": "2026-07-26",
       "added": 28,
       "total": 3183
+    },
+    {
+      "date": "2026-07-27",
+      "added": 26,
+      "total": 3209
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W23",
-      "keywords": {
-        "AI Agent": 60,
-        "Automation": 29,
-        "Security": 22,
-        "Coding": 14,
-        "GPT": 13,
-        "LLM": 12,
-        "Open Source": 11,
-        "SDK/API": 10,
-        "Deployment": 9,
-        "Claude": 9,
-        "Enterprise AI": 9,
-        "Robotics": 8,
-        "Chatbot": 7,
-        "Fine-tuning": 6,
-        "AI Safety": 6
-      }
-    },
     {
       "week": "2026-W24",
       "keywords": {
@@ -42890,34 +43210,44 @@
     {
       "week": "2026-W30",
       "keywords": {
-        "AI Agent": 47,
+        "AI Agent": 48,
+        "Automation": 23,
+        "Security": 22,
         "Open Source": 22,
-        "Automation": 22,
         "GPT": 22,
-        "Security": 21,
-        "LLM": 14,
+        "LLM": 16,
         "Coding": 12,
-        "SDK/API": 11,
+        "SDK/API": 12,
         "Gemini": 10,
+        "Claude": 9,
         "Robotics": 8,
-        "Claude": 8,
         "Generative AI": 8,
         "Chatbot": 6,
         "Optimization": 6,
         "Video AI": 5
       }
+    },
+    {
+      "week": "2026-W31",
+      "keywords": {
+        "Automation": 2,
+        "Video AI": 1,
+        "LLM": 1,
+        "AI Agent": 1,
+        "Chatbot": 1
+      }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 866,
+      "total": 872,
       "recent_7d": 116,
-      "recent_30d": 378
+      "recent_30d": 384
     },
     "aitimes": {
-      "total": 1508,
-      "recent_7d": 198,
-      "recent_30d": 644
+      "total": 1527,
+      "recent_7d": 205,
+      "recent_30d": 663
     },
     "aws_ml": {
       "total": 189,
@@ -42925,9 +43255,9 @@
       "recent_30d": 81
     },
     "nvidia_ai": {
-      "total": 93,
-      "recent_7d": 9,
-      "recent_30d": 28
+      "total": 94,
+      "recent_7d": 10,
+      "recent_30d": 29
     },
     "openai": {
       "total": 121,
@@ -42980,6 +43310,6 @@
       "recent_30d": 20
     }
   },
-  "last_updated": "2026-07-26",
-  "total_articles": 3183
+  "last_updated": "2026-07-27",
+  "total_articles": 3209
 }
