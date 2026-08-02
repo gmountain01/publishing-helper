@@ -1,6 +1,118 @@
 {
   "articles": [
     {
+      "id": "c34466d278be",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "세계 첫 '10대 SNS 금지법' 효과 미미… 호주 청소년 80% 여전히 이용 중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213446",
+      "date": "2026-08-02",
+      "summary": "호주 정부가 세계 최초로 시행한 16세 미만 청소년 소셜미디어 이용 금지 정책이 시행 3개월 동안 기대에 못 미치는 효과를 거둔 것으로 나타났다. 호주 온라인 안전규제기관(eSafety)은 31일(현지시간) 발표한 첫 평가 보고서를 통해 올해 3월 기준 16세 미만 청소년 가운데 최소 한 개 이상의 소셜미디어 플랫폼을 이용한다고 답한 비율은 81.5%였다고 보도했다.이는 법 시행 전인 지난해 12월의 85.9%에서 4.4%포인트 감소한 수치로, 규제 시행에도 불구하고 여전히 10명 중 8명 이상이 소셜미디어를 이용하는 것으로 나타났",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "98fc1699fff2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"오픈AI·앤트로픽 모델로 학습\"…중국, '증류'로 군사용 AI 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213441",
+      "date": "2026-08-02",
+      "summary": "중국 군사 연구 기관들이 오픈AI와 앤트로픽의 최첨단 AI 모델 출력을 활용해 자국 군사용 AI 시스템을 개발하고 있는 것으로 나타났다. 미국의 첨단 반도체 및 AI 기술 수출 통제에도 불구하고 중국이 '증류(Distillation)' 기법을 통해 미국 선도 AI 기술을 흡수하며 국방 AI 역량을 강화하고 있다는 분석이 제기된다.로이터는 31일(현지시간) 중국 인민해방군(PLA)과 군 관련 연구 기관들이 오픈AI와 앤트로픽의 AI 모델을 활용해 자체 AI 시스템을 개발한 사례가 광범위하게 확인됐다고 보도했다. 이는 워싱턴의 싱크탱크",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "5eb515b8422a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미네소타, 미국 최초 'AI 누드 이미지 금지법' 효력 유지...xAI 가처분 기각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213445",
+      "date": "2026-08-02",
+      "summary": "미국 연방법원이 일론 머스크 CEO의 xAI가 제기한 미네소타주의 '누디파이(nudify)' 기술 금지법 시행 중단 요청을 기각했다. 이에 따라 미국 최초로 AI를 이용한 누드 이미지 생성 기술을 금지하는 주법이 예정대로 시행될 전망이다.NBC에 따르면, 미네소타 연방지방법원의 도너번 프랭크 판사는 31일(현지시간) xAI가 제기한 임시 효력정지 명령(Temporary Restraining Order) 신청을 받아들이지 않았다.판사는 xAI가 법 시행을 불과 사흘 앞두고 소송을 제기한 점을 지적하며 \"소송 제기가 지나치게 늦었다는",
+      "keywords": [
+        "Image AI"
+      ],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "0f81bb7cf971",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천, 중·장년 남성 요리교실 모집…은퇴 후 식생활 자립 돕는다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213411",
+      "date": "2026-08-02",
+      "summary": "AI 생성 영상순천시가 은퇴 이후 건강한 식생활과 생활 자립을 준비하는 중·장년 남성을 대상으로 ‘2026년 하반기 중·장년 남성 요리교실’ 수강생을 모집한다.칼과 도마 사용이 낯선 요리 초보자도 기본 찌개와 반찬을 직접 만들어 볼 수 있도록 기초부터 실습 중심으로 교육한다.순천은 인생이모작지원센터에서 중년 남성 요리교실을 9월부터 11월까지 약 3개월간 모두 10회 과정으로 진행한다고 지난 31일 밝혔다. 신청 기간은 8월 6일부터 19일까지다. 대상은 순천시에 거주하는 46세부터 64세까지의 중·장년 남성이다.교육은 일상에서 활",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "c14799fa582b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "고순도 폴리실리콘 강자 바커, 태양광 부진에 이익 68% 감소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213378",
+      "date": "2026-08-02",
+      "summary": "고순도 폴리실리콘을 생산하는 주요 기업인 독일 바커케미(Wacker Chemie)의 폴리실리콘 사업 수익성이 태양광용 제품의 수요 부진과 가격 하락으로 크게 악화했다.바커케미는 30일(현지시간) 발표한 2026년 2분기 실적에서 폴리실리콘 사업부의 상각 전 영업이익(EBITDA)이 1100만유로(약 182억원)로 집계됐다고 밝혔다.지난해 같은 기간 3400만유로(약 562억원)보다 67.6% 감소한 수치다. 사업부 EBITDA 마진도 15.6%에서 4.9%로 떨어졌다.같은 기간 사업부 매출은 반도체용 고순도 폴리실리콘 생산과 판매가",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "9081403d136d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "목포, 폭염경보 대응…무더위쉼터 223곳 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213377",
+      "date": "2026-08-02",
+      "summary": "AI 생성 영상목포시가 폭염주의보와 열대야주의보가 이어지자 폭염경보 수준의 대응체계를 선제적으로 가동했다고 31일 밝혔다. 취약계층 건강 확인과 폭염 저감시설 운영을 강화하고, 열대야에 대비해 무더위쉼터 이용시간도 연장한다.목포는 폭염에 취약한 시민에게 휴대용 선풍기와 쿨토시, 식염포도당캔디, 생수 등을 지원하고 있다. 노인맞춤돌봄서비스 생활지원사 등은 대상 가정을 방문하거나 전화해 건강 상태와 생활 불편 여부를 확인한다.지역 통장과 동 자생조직을 통한 폭염 행동요령 안내도 진행한다. 목포는 한낮 야외활동을 줄이고 충분한 수분을 섭",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "0c11f70b3f27",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "콜롬비아, 태양광 995MW 낙찰…장기계약에 배터리 첫 포함",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213387",
+      "date": "2026-08-02",
+      "summary": "콜롬비아 정부가 태양광발전 995메가와트(MW)와 배터리 100MW를 장기 전력계약 경매를 통해 확보했다. 콜롬비아의 청정에너지 장기계약 경매에 배터리 저장장치가 포함된 것은 이번이 처음이다.콜롬비아 광산에너지부는 지난 29일(현지시간) 청정에너지 장기계약 경매를 마감하고 태양광 995MW와 배터리 약 100MW를 낙찰했다고 밝혔다. 낙찰 사업은 태양광 단독 발전소와 태양광·배터리를 결합한 발전소로 구성됐다.계약 기간은 15년이며 전력 공급은 2030년부터 시작된다. 첫날 낙찰 물량은 하루 390메가와트시(MWh)로, 태양광 270",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "42a28ff777b2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 여름 휴가철 물놀이 안전수칙 홍보 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213402",
+      "date": "2026-08-02",
+      "summary": "AI 생성 영상여수시가 본격적인 여름 휴가철을 맞아 해수욕장과 수영장 이용객을 대상으로 물놀이 안전수칙 준수를 당부했다. 구명조끼 착용과 음주 후 입수 금지, 어린이 보호자 동반 등 기본 수칙을 집중 홍보해 여름철 물놀이 안전사고를 줄이겠다는 계획이다.지난 31일 여수는 해수욕장 편의시설과 안전시설을 점검하고, 운영 기간에는 안전요원을 배치해 시설 상태를 상시 확인하고 있다고 밝혔다. 피서객이 늘어나는 시기에 안전관리 공백을 줄이고 현장에서 사고 위험을 조기에 발견하기 위한 조치다.여수는 전광판과 사회관계망서비스(SNS), 시 누리",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "df2068a1ec89",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 차세대 모델 '아스트라', 수학·컴퓨터 과학 10대 난제 해결",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213443",
+      "date": "2026-08-02",
+      "summary": "오픈AI가 차세대 모델 제품군인 '아스트라(Astra)'의 내부 버전으로 수학과 이론 컴퓨터 과학 분야의 장기 미해결 문제 10개를 해결했다고 발표했다. 이를 과학적 추론의 중요한 진전으로 평가하며, AI가 기존의 문제 풀이를 넘어 새로운 수학적 발견을 만들어내는 단계에 접어들었다고 강조했다.오픈AI는 1일(현지시간) 공개한 '수학 및 이론 컴퓨터 과학 분야의 10대 발전' 보고서를 통해 차세대 모델의 성능을 공개했다. 또, 아스트라를 '차세대 주요 모델 제품군'이라고 처음 공식적으로 소개했다.이번 연구를 통해 해결된 난제들은 고차",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
       "id": "6e481ed8bc45",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -209,6 +321,233 @@
         "SDK/API"
       ],
       "first_seen": "2026-08-01"
+    },
+    {
+      "id": "e1503b988206",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "date": "2026-08-01",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "0bb15545c738",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "date": "2026-08-01",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "88ab0b7f770b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "date": "2026-08-01",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "c3a681b52914",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "date": "2026-08-01",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "0c877079e7c5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "date": "2026-08-01",
+      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "46b49e93011a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "date": "2026-08-01",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "cafcb1a9de8c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This $9 key physically locks your most addictive apps",
+      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "date": "2026-08-01",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "6321efd8c58e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "date": "2026-08-01",
+      "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "cd011687faf2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Apps that help you break free from doomscrolling and get active",
+      "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "date": "2026-08-01",
+      "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "e4fc5f196f52",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What’s the best handheld mini fan?",
+      "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "date": "2026-08-01",
+      "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "dee705ce49ba",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213438",
+      "date": "2026-08-01",
+      "summary": "문샷 AI가 알리바바 그룹으로부터 2만개의 엔비디아 GPU로 구성된 컴퓨팅 클러스터를 제공받아 '키미 K3' 개발에 활용한 것으로 알려졌다. 블룸버그는 31일(현지시간) 복수의 관계자를 인용, 문샷이 알리바바와 컴퓨팅 파워 공급 계약을 맺고 2만개 규모의 엔비디아 GPU 클러스터를 사용하고 있다고 보도했다.이 인프라는 문샷이 키미 시리즈를 개발하는 데 사용하는 전체 연산 능력 가운데 상당 부분을 차지하는 것으로 전해졌다.이번 사실은 미국의 반도체 수출 규제에도 불구하고 중국 AI 기업들이 여전히 엔비디아의 고성능 GPU를 기반으로",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "018c89e073a0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213439",
+      "date": "2026-08-01",
+      "summary": "오픈AI가 'GPT-5.6' 시리즈의 대규모 가격 인하를 단행한 데 이어 AI 서비스 이용자가 10억명을 넘어섰다고 공식 발표했다. 저렴한 AI가 더 많은 사용자를 끌어들이고, 늘어난 수요와 수익이 다시 차세대 모델과 인프라 투자로 이어지는 'AI 선순환' 전략이 본격적으로 작동하고 있다고 강조했다.오픈AI는 31일(현지시간) 공식 블로그를 통해 현재 자사 모델이 10억명 이상의 활성 사용자와 200만개 이상의 기업 고객에게 제공되고 있다고 밝혔다. 이는 개인 사용자뿐 아니라 기업 시장에서도 AI 도입이 빠르게 확대되고 있음을 보여",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "674afd2addc0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "테슬라, 지정학 리스크에 중국 사업 분리 추진설… 머스크 \"터무니 없는 가짜 뉴스\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213440",
+      "date": "2026-08-01",
+      "summary": "일론 머스크 CEO의 테슬라가 스페이스X와의 합병 가능성에 대비해 중국 사업부를 분리하는 방안을 내부적으로 검토했다는 보도가 나왔다. 분리 방식으로는 사업부 분사와 매각, 심지어 폐쇄까지 거론된 것으로 알려졌지만, 머스크 CEO는 이를 \"터무니없는 가짜 뉴스\"라고 전면 부인했다.월스트리트저널(WSJ)은 31일(현지시간) 복수의 관계자를 인용, 머스크 CEO가 수년간 테슬라 경영진에게 미국과 중국 사업을 '레이저(laser)'처럼 명확하게 분리하는 조직 체계를 구축하도록 지시했다고 보도했다.미·중 지정학적 갈등이 커지더라도 미국 사업",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "edf0e358ce1e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI 'H3' 공개... \"오픈웨이트로 시댄스에 도전\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213433",
+      "date": "2026-08-01",
+      "summary": "미니맥스가 텍스트와 이미지, 영상, 오디오를 하나의 모델에서 처리하는 차세대 멀티모달 영상 생성 모델 'H3'를 공개했다. 이 모델은 아티피셜 애널리시스의 각종 벤치마크에서 최상위권을 기록, 바이트댄스의 '시댄스(Seedance)'와 경쟁할 만하다는 평가를 받았다.미니맥스는 31일 범용 멀티모달 생성 모델 H3를 공식 발표하고 '하이루오(Hailuo)' AI 플랫폼과 개발자 API를 통해 서비스를 시작했다.또 며칠 안에 H3의 모델 가중치를 미니맥스 커뮤니티 라이선스로 공개할 계획이다. 이를 통해 연 매출 2000만달러(약 29억원",
+      "keywords": [
+        "SDK/API",
+        "Video AI"
+      ],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "66937f5508a7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 반도체 '역대급 실적'에도 요동친 코스피...빅테크 협력속 재난·정치 이슈 부각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213437",
+      "date": "2026-08-01",
+      "summary": "AI타임스와 이스트에이드의 7월 마지막 주(7월24~30일) 이슈 분석 결과, 반도체 대장주들의 실적 발표와 국내외 증시 변동이 상위권을 차지했다.이번 주 검색량 1위는 'SK하이닉스 실적(8.93%)'이 차지했다. 연결 기준 올해 2분기 매출 79조 3187억원, 영업이익 60조 5426억원으로 고대역폭메모리(HBM) 매출 확대와 D램·낸드 가격 상승을 통해 역대 최대 실적을 달성했다.'삼성전자 2분기 실적(2.45%)'도 매출 171조5000억원, 영업이익 89조5000억원의 역대 최대 실적으로, 전체 영업이익의 99.7%가 반",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "cc49b9f4296a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "단일 30초·최대 3분 확장...바이트댄스, '시댄스 2.5'로 장편 영상 시대 연다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213435",
+      "date": "2026-08-01",
+      "summary": "바이트댄스가 짧은 영상을 생성하는 수준을 넘어 아이디어 구상부터 장편 영상 제작까지 지원하는 '창작 워크플로' 중심의 모델 '시댄스 2.5(Seedance 2.5)'를 공개했다.바이트댄스는 31일(현지시간) 시댄스 2.5를 공개하며 기존 시댄스 2.0의 통합 멀티모달 오디오·비디오 공동 생성 아키텍처를 기반으로 장편 스토리텔링과 멀티모달 참조, 영상 편집 기능을 대폭 강화했다고 밝혔다.사용자들의 요구가 단순한 영상 생성에서 하나의 완성된 창작물을 만드는 방향으로 변화하고 있다는 점을 반영해 이번 모델을 개발했다고 설명했다.가장 큰",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "798cdcbd069c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "싱킹 머신즈, '잉클링-스몰' 공개…4분의 1 크기로 동급 최고 성능 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213436",
+      "date": "2026-08-01",
+      "summary": "싱킹 머신즈 랩(TML)이 두 번째 오픈웨이트 모델 '잉클링-스몰(Inkling-Small)'을 공개했다. 플래그십 '잉클링(Inkling)' 대비 규모를 4분의 1 수준으로 줄였지만, 추론과 코딩, 멀티모달 성능은 대부분 유지하거나 일부 벤치마크에서 오히려 앞서는 결과를 기록했다. TML은 31일(현지시간) 잉클링-스몰을 허깅페이스에 출시하며 \"잉클링과 비슷한 성능을 훨씬 적은 연산 자원으로 구현한 효율적인 오픈웨이트 모델\"이라고 소개했다.총 2760억개(276B)의 매개변수를 갖는 전문가 혼합(MoE) 구조를 채택했으며, 실제",
+      "keywords": [],
+      "first_seen": "2026-08-02"
+    },
+    {
+      "id": "d714ace60a02",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "독일 법원 \"수노, 음원 저작권 침해\"…글로벌 판례 기준 될까",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213434",
+      "date": "2026-08-01",
+      "summary": "독일 법원이 미국의 음악 생성 플랫폼 수노 AI가 저작권을 침해했다는 판결을 내렸다. 독일의 국가 지정 저작권 관리 기관인 GEMA가 2025년 1월에 제기한 소송에 따른 이번 판결은 AI 생성 음악 및 모델 학습 과정에 대한 저작권법 적용의 세계적 기준을 제시하는 첫 주요 사례로 꼽히게 됐다.DW에 따르면, 뮌헨 지방법원은 31일(현지시간) 수노가 GEMA가 대표하는 저작권자들의 동의 없이 음악 작품을 학습에 활용하고 이를 복제 및 유통할 권리가 없다고 판단했다. 이에 따라 수노는 불법으로 취득한 수익 정보를 상세히 공개하고 향후",
+      "keywords": [],
+      "first_seen": "2026-08-02"
     },
     {
       "id": "ac80cd240e82",
@@ -47030,6 +47369,11 @@
       "date": "2026-08-01",
       "added": 55,
       "total": 3501
+    },
+    {
+      "date": "2026-08-02",
+      "added": 27,
+      "total": 3528
     }
   ],
   "sources": {},
@@ -47178,48 +47522,53 @@
       "week": "2026-W31",
       "keywords": {
         "AI Agent": 49,
-        "Automation": 27,
+        "Automation": 28,
         "Security": 26,
-        "GPT": 20,
-        "SDK/API": 14,
-        "LLM": 11,
-        "Robotics": 11,
+        "GPT": 22,
+        "SDK/API": 15,
+        "LLM": 12,
         "Cloud/DevOps": 11,
+        "Robotics": 11,
         "Claude": 10,
         "Open Source": 9,
+        "AI Safety": 7,
         "Enterprise AI": 7,
-        "Gemini": 7,
+        "Video AI": 7,
         "Speech/Audio": 7,
-        "Video AI": 6,
-        "MCP": 6
+        "Gemini": 7
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 968,
-      "recent_7d": 18,
-      "recent_30d": 18
-    },
     "aitimes": {
-      "total": 1677,
-      "recent_7d": 30,
-      "recent_30d": 30
+      "total": 1694,
+      "recent_7d": 47,
+      "recent_30d": 47
+    },
+    "techcrunch": {
+      "total": 977,
+      "recent_7d": 27,
+      "recent_30d": 27
     },
     "lycorp": {
       "total": 49,
       "recent_7d": 0,
       "recent_30d": 0
     },
+    "openai": {
+      "total": 133,
+      "recent_7d": 5,
+      "recent_30d": 5
+    },
+    "aws_ml": {
+      "total": 205,
+      "recent_7d": 3,
+      "recent_30d": 3
+    },
     "toss": {
       "total": 41,
       "recent_7d": 0,
       "recent_30d": 0
-    },
-    "openai": {
-      "total": 132,
-      "recent_7d": 4,
-      "recent_30d": 4
     },
     "deepmind": {
       "total": 50,
@@ -47230,11 +47579,6 @@
       "total": 99,
       "recent_7d": 0,
       "recent_30d": 0
-    },
-    "aws_ml": {
-      "total": 205,
-      "recent_7d": 3,
-      "recent_30d": 3
     },
     "nvidia_ai": {
       "total": 97,
@@ -47267,6 +47611,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-08-01",
-  "total_articles": 3501
+  "last_updated": "2026-08-02",
+  "total_articles": 3528
 }
