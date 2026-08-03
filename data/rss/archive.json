@@ -1,6 +1,92 @@
 {
   "articles": [
     {
+      "id": "32436a596020",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "셀렉트스타, AI 신뢰성 기업 최초 코스닥 기술성 평가 통과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213457",
+      "date": "2026-08-03",
+      "summary": "셀렉트스타(대표 김세엽)는 코스닥 기술특례상장을 위한 기술성 평가를 통과했다고 3일 밝혔다.AI 신뢰성 평가 기술로 국내 기업이 기술특례상장 기술성 평가를 통과한 것은 이번이 처음이다. 셀렉트스타는 주관사인 대신증권과 올해 안에 코스닥 상장예비심사를 진행할 예정이다.셀렉트스타는 기업의 AI 개발·도입 목적에 맞춰 학습·평가 데이터를 설계하고 구축하는 '다투모 서비스'와 평가 데이터 생성부터 성능·안전성 평가까지 하나의 환경에서 수행할 수 있는 '다투모 플랫폼'을 제공하고 있다.이를 통해 AI 학습 데이터 구축부터 평가 기준 수립,",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "10edb0c2884d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"읽어도 무슨 뜻인지 몰라요\"...SKT, AI로 문해력 교육 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213461",
+      "date": "2026-08-03",
+      "summary": "SK텔레콤(대표 정재헌)은 교육부가 추진하는 '디지털새싹 사업'에 자체 AI 에듀테크 솔루션 'AI 그림일기'를 제공해 교육 현장의 AX를 돕는다고 3일 밝혔다.SKT는 주관기관인 순천향대학교와 지난 5월부터 강원·충청권 초·중·고교생 4200여명을 대상으로 AI·소프트웨어(SW) 교육 프로그램을 운영하고 있다.AI 그림일기는 읽기·쓰기 등 문해력과 표현력 향상을 돕는 교육 솔루션으로 ▲글쓰기와 창작 ▲결과물 공유 ▲교사의 수업 운영 등의 기능을 제공한다.학생이 자신의 생각과 감정을 글로 입력하면 AI가 내용을 분석해 4개의 장면으",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "2888d136257d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "비드래프트, 구글의 추론 최적화 경연 '패스트 젬마 챌린지' 세계 1위 올라",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213466",
+      "date": "2026-08-03",
+      "summary": "AI 전문 비드래프트(대표 김민식)는 구글 젬마(Gemma)팀과 허깅페이스가 공동 운영한 글로벌 추론 최적화 경연 '패스트 젬마 챌린지(The Fast Gemma Challenge)'에서 검증 기록 기준 세계 1위에 올랐다고 2일 밝혔다. 전 세계 개발자들이 겨루는 이 대회는 같은 모델을 같은 조건에서 누가 가장 구동하게 만드는가를 겨루는 AI 미세조정 경연이다.참가자 전원이 구글의 공개 멀티모달 모델 '젬마-4-E4B-it'와 엔비디아 'A10G' GPU를 받아, 소프트웨어 최적화 실력만으로 속도를 끌어올려야 한다. 모델을 바꾸거",
+      "keywords": [
+        "Fine-tuning"
+      ],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "ff5193bd5c4d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "독일, 신규 소형 태양광 고정가격 지원 종료 추진…2027년 시장판매 전환",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213455",
+      "date": "2026-08-03",
+      "summary": "독일 정부가 2027년부터 신규 소형 태양광 설비에 제공하던 장기 고정가격 매입 지원을 종료하고 시장 직접판매 방식으로 전환하는 방안을 추진한다. 기존 설비의 지원은 유지하되 신규 설비가 전력가격과 계통 상황에 맞춰 전력을 생산·판매하도록 유도한다는 평가다.독일 연방 내각은 지난 29일(현지시간) 재생에너지법 개정안인 ‘EEG 2027’과 전력망 접속 개선 법안을 승인했다. 개정안은 정부 법안 단계로 연방의회 심의 과정에서 내용이 달라질 수 있다.개정안에 따르면, 2027년부터 가동하는 설비용량 25킬로와트(kW) 미만 태양광에는",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "eabeceab846a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "이탈리아, 남부 전력가격 88시간 ‘0유로’…태양광·풍력 급증 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213454",
+      "date": "2026-08-03",
+      "summary": "이탈리아 남부 전력시장에서 올해 상반기 도매 전력가격이 0유로까지 떨어진 시간이 88시간을 기록했다. 지난해 같은 기간 20시간에서 4배 이상 늘어난 것으로, 태양광과 풍력발전 증가로 낮 시간대 전력 공급이 수요를 넘어서는 현상이 잦아진 영향이라는 분석이다.이탈리아 국립에너지연구기관(ENEA)은 지난 30일(현지시간) 발표한 보고서에서 남부 전력시장 가격구역의 0유로 이하 가격 시간이 88시간으로 집계됐다고 밝혔다. 이탈리아의 상반기 태양광 발전량은 지난해 같은 기간보다 19.2%, 풍력은 16.4% 증가했다. 특히 지난 5월 태양",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "e6f953170b5d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "영국 태양광, 7월 전력 14.4% 공급…월간 비중 역대 최고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213451",
+      "date": "2026-08-03",
+      "summary": "영국에서 태양광발전이 7월 한 달간 전체 전력의 14.4%를 공급하며 월간 기준 역대 최고 비중을 기록했다. 신규 태양광 설비가 빠르게 늘어난 데다 맑은 날씨가 이어지면서 기존 기록을 두 달 만에 넘어섰다.가디언은 2일(현지시간) 영국 국가에너지시스템운영기관(NESO) 자료를 인용해 태양광발전소와 건물 옥상 설비가 7월 그레이트브리튼 전력의 14.4%를 생산했다고 보도했다. 그레이트브리튼 전력망은 잉글랜드와 스코틀랜드, 웨일스를 포함하며 북아일랜드는 제외한다.영국 국가에너지시스템운영기관(NESO)의 최근 보고서에 따르면 7월 태양광",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "9449d96eff6b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "양현상 노바엑스 대표, 한국인공지능기술산업협회 이사 위촉",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213456",
+      "date": "2026-08-03",
+      "summary": "한국인공지능기술산업협회는 양현상 노바엑스 대표를 이사로 위촉했다고 8일 밝혔다.한국인공지능기술산업협회는 AI 기술의 산업화와 기업 경쟁력 강화를 지원하고 산·학·연·관 협력과 정책 제안, 전문인력 양성 등을 추진하는 단체다.양 대표는 홍익대학교 국방AI학과 초빙교수로도 활동하고 있다. 또 로봇과 자율시스템, 우주항공·방위산업, 첨단소재와 제조 분야를 AI 기술과 연계하는 사업에 참여했다. 양 대표는 “협회와 함께 기업의 AI 도입을 지원하고 산업 경쟁력을 높일 수 있도록 산학연 협력과 정책 발굴에 기여하겠다”고 말했다.주영효 기자",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
       "id": "c34466d278be",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -111,6 +197,166 @@
       "summary": "오픈AI가 차세대 모델 제품군인 '아스트라(Astra)'의 내부 버전으로 수학과 이론 컴퓨터 과학 분야의 장기 미해결 문제 10개를 해결했다고 발표했다. 이를 과학적 추론의 중요한 진전으로 평가하며, AI가 기존의 문제 풀이를 넘어 새로운 수학적 발견을 만들어내는 단계에 접어들었다고 강조했다.오픈AI는 1일(현지시간) 공개한 '수학 및 이론 컴퓨터 과학 분야의 10대 발전' 보고서를 통해 차세대 모델의 성능을 공개했다. 또, 아스트라를 '차세대 주요 모델 제품군'이라고 처음 공식적으로 소개했다.이번 연구를 통해 해결된 난제들은 고차",
       "keywords": [],
       "first_seen": "2026-08-02"
+    },
+    {
+      "id": "97319d1fc46e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The global memory shortage hits the MacBook Air",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "date": "2026-08-02",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "80e7e83282c8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "date": "2026-08-02",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "dad54bb61460",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "date": "2026-08-02",
+      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "657b386943d1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "date": "2026-08-02",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "bfcc85078217",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "date": "2026-08-02",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Developer Tools"
+      ],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "d3ea74049027",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…'AI 라벨링' 규제 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213450",
+      "date": "2026-08-02",
+      "summary": "유럽연합(EU)의 AI 규제법(AI Act)에 따른 첫 소비자 대상 투명성 규제가 본격 시행되면서 기업들이 대응책 마련에 분주해졌다. 파이낸셜타임스(FT) 등에 따르면, EU의 규정에 따라 2일(현지시간)부터 유럽 내 기업들은 사용자가 AI 시스템과 상호작용할 때 이를 명확히 알리고, AI가 생성한 이미지, 오디오, 비디오 및 마케팅 자료에 라벨을 부착해야 한다.규정을 위반하는 기업은 전 세계 연간 매출의 최대 3% 또는 1500만유로(약 250억원) 중 높은 금액의 벌금을 부과받을 수 있다.이번 규제는 소비자 보호와 투명성을 강화",
+      "keywords": [
+        "Chatbot"
+      ],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "bdb37a723225",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "월가를 흔든 20대 'AI 천재'의 몰락… 3조달러 대폭락 사태의 내막",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213449",
+      "date": "2026-08-02",
+      "summary": "AI 업계에서 ‘천재 소년’이자 ‘AI 노스트라다무스’로 불리던 레오폴드 아셴브레너의 200억달러(약 28조9200억원) 규모 헤지펀드가 급격한 위기를 맞으며 월가와 실리콘밸리에 커다란 충격을 안겼다. 이는 지난달 전 세계 반도체 주식 시장의 폭락을 유발한 계기로 꼽혔다. 파이낸셜타임스(FT)는 31일 과도한 부채와 주가 폭락으로 파산 위기에 처했던 아셴브레너의 헤지펀드 시튜에이셔널 어웨어니스(Situational Awareness)의 상장 주식 포트폴리오를 대형 헤지펀드 시타델이 전격 인수하면서 글로벌 AI 기술주 시장의 3조달러",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "bf9b765a8574",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아크릴 “GPUBASE로 GPU 활용률 90% 달성…소버린 AI 완성”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213425",
+      "date": "2026-08-02",
+      "summary": "“GPU를 확보하는 것만으로 AI 경쟁력이 자동으로 생기는 것은 아닙니다. 앞으로 더 중요한 문제는 확보한 GPU를 얼마나 효율적으로 운영하고, 안정적으로 활용할 수 있게 만드느냐입니다.”아크릴(대표 박외진)이 독자 개발한 GPU 클러스터 최적화 소프트웨어 ‘GPU베이스(GPUBASE)’를 앞세워 대규모 AI 인프라 시장 공략에 나선다.아크릴은 GPU베이스의 기술력을 입증하기 위해 해외 주요 클라우드 기업들과 협업해 성능 입증에 성공했다. 500~1000장 규모의 GPU를 한번에 구동하는 조건을 충족한 뒤 GPU베이스의 성능·확장성",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "2260f18c4b68",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213447",
+      "date": "2026-08-02",
+      "summary": "구글이 AI 에이전트 '제미나이 스파크(Gemini Spark)'를 웹 브라우저 크롬(Chrome)과 통합하고, 서비스 제공 국가도 대폭 확대했다. 이번 업데이트는 제미나이 스파크를 웹 브라우저를 조작하고 다양한 온라인 작업을 수행하는 AI 에이전트로 발전시키기 위한 전략으로 풀이된다.구글은 30일(현지시간) 제미나이 스파크의 웹 브라우징 기능을 강화하기 위해 크롬과 직접 연동하는 기능을 도입했다고 발표했다.새로운 기능을 이용하면 스파크는 사용자의 동의를 받은 뒤 크롬에 저장된 로그인 정보와 계정을 활용해 여러 단계의 웹 작업을 대",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Gemini"
+      ],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "f36b28846d30",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213448",
+      "date": "2026-08-02",
+      "summary": "아마존이 오픈AI에 500억달러(약 72조원) 규모의 투자를 모두 완료하며 지분 약 5%를 확보했다.디 인포메이션 등에 따르면, 아마존은 31일(현지시간) 공개한 증권 신고서와 실적 보고서를 통해 오픈AI에 350억달러(약 50조원)를 추가 투자하며 500억달러 투자 약정을 모두 이행했다고 밝혔다.아마존은 지난 2월 오픈AI에 500억달러를 투자하기로 합의하면서 우선 150억달러를 집행했다. 나머지 350억달러는 오픈AI가 기업공개를 하거나, AI 기술 발전과 관련한 특정 조건을 충족할 때 투자하기로 돼 있었다.그러나 이번 공시에",
+      "keywords": [],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "16cdbb87c2c2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'그록 이매진' 대규모 업그레이드...1080p 영상·음성 일관성 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213444",
+      "date": "2026-08-02",
+      "summary": "스페이스XAI가 AI 영상 생성 서비스 '그록 이매진(Grok Imagine)'을 대폭 업그레이드했다. 텍스트만으로 영상을 생성하는 기능과 최대 7개의 참조 이미지를 활용한 캐릭터 일관성 유지, 음성 일관성, 네이티브 1080p 영상 생성 등을 지원하며 영상 제작 기능을 한층 강화했다. 스페이스XAI는 1일(현지시간) 지난달 공개한 최신 영상 생성 모델 '이매진 비디오 1.5(Imagine Video 1.5)'를 기반으로 그록 이매진에 새로운 기능을 추가했다고 밝혔다.기존 버전에서 움직임과 물리 표현, 음향 품질을 개선한 데 이어",
+      "keywords": [
+        "Video AI"
+      ],
+      "first_seen": "2026-08-03"
+    },
+    {
+      "id": "e652ccb022f5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "알리바바, 음성 인식 모델 '큐원-오디오-3.0-ASR-플래시' 출시...\"전문 용어 정확도 향상\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213442",
+      "date": "2026-08-02",
+      "summary": "알리바바가 최신 음성 인식(ASR) 모델 '큐원-오디오-3.0-ASR-플래시(Qwen-Audio-3.0-ASR-Flash)'를 공개했다. 긴 음성에서도 문맥을 일관되게 유지하며 전문 용어 인식 정확도를 크게 높인 것이 특징으로, 의료와 산업 현장 등 전문 분야는 물론 실시간 회의록 작성과 글로벌 고객 지원까지 폭넓은 활용이 가능하도록 설계됐다.알리바바는 31일(현지시간) '큐원-오디오-3.0-ASR-플래시' 시리즈를 출시하고, 알리바바 클라우드 바이롄(BaiLian) 플랫폼에서 API를 사용할 수 있다고 발표했다. 이번 모델의 가장",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-08-03"
     },
     {
       "id": "6e481ed8bc45",
@@ -47374,30 +47620,15 @@
       "date": "2026-08-02",
       "added": 27,
       "total": 3528
+    },
+    {
+      "date": "2026-08-03",
+      "added": 19,
+      "total": 3547
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W24",
-      "keywords": {
-        "AI Agent": 40,
-        "Automation": 35,
-        "Coding": 22,
-        "Claude": 17,
-        "Generative AI": 14,
-        "Security": 14,
-        "Open Source": 11,
-        "GPT": 11,
-        "Enterprise AI": 10,
-        "Gemini": 8,
-        "SDK/API": 8,
-        "Developer Tools": 8,
-        "LLM": 7,
-        "Cloud/DevOps": 7,
-        "Robotics": 6
-      }
-    },
     {
       "week": "2026-W25",
       "keywords": {
@@ -47521,44 +47752,50 @@
     {
       "week": "2026-W31",
       "keywords": {
-        "AI Agent": 49,
-        "Automation": 28,
+        "AI Agent": 51,
+        "Automation": 30,
         "Security": 26,
         "GPT": 22,
-        "SDK/API": 15,
+        "SDK/API": 16,
         "LLM": 12,
+        "Robotics": 12,
         "Cloud/DevOps": 11,
-        "Robotics": 11,
         "Claude": 10,
         "Open Source": 9,
+        "Video AI": 8,
+        "Gemini": 8,
         "AI Safety": 7,
         "Enterprise AI": 7,
-        "Video AI": 7,
-        "Speech/Audio": 7,
-        "Gemini": 7
+        "Speech/Audio": 7
+      }
+    },
+    {
+      "week": "2026-W32",
+      "keywords": {
+        "Fine-tuning": 1
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 1694,
-      "recent_7d": 47,
-      "recent_30d": 47
-    },
-    "techcrunch": {
-      "total": 977,
-      "recent_7d": 27,
-      "recent_30d": 27
-    },
-    "lycorp": {
-      "total": 49,
-      "recent_7d": 0,
-      "recent_30d": 0
+      "total": 1708,
+      "recent_7d": 61,
+      "recent_30d": 61
     },
     "openai": {
       "total": 133,
       "recent_7d": 5,
       "recent_30d": 5
+    },
+    "techcrunch": {
+      "total": 982,
+      "recent_7d": 32,
+      "recent_30d": 32
+    },
+    "lycorp": {
+      "total": 49,
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "aws_ml": {
       "total": 205,
@@ -47611,6 +47848,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-08-02",
-  "total_articles": 3528
+  "last_updated": "2026-08-03",
+  "total_articles": 3547
 }
