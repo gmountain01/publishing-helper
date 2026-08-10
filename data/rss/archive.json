@@ -101,6 +101,193 @@
       "first_seen": "2026-08-09"
     },
     {
+      "id": "f893fb1dc932",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "date": "2026-08-09",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "keywords": [],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "700247b13669",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "date": "2026-08-09",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "keywords": [
+        "Claude",
+        "Coding"
+      ],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "aa0367c27bfd",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "date": "2026-08-09",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "d2ac7303d625",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "date": "2026-08-09",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "keywords": [],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "35f6bb826f1d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The AI safety test is becoming a safety risk",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "date": "2026-08-09",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "keywords": [
+        "AI Agent",
+        "AI Safety",
+        "SDK/API",
+        "Security"
+      ],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "b90cd0f3486f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "date": "2026-08-09",
+      "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "e28a1bafae9f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "date": "2026-08-09",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "keywords": [],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "383cfb991dd5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213719",
+      "date": "2026-08-09",
+      "summary": "중국 AI 모델이 강력한 가성비와 기술력을 앞세워 2027년 전 세계 기업 도입률 50%를 기록할 것이라는 전망이 나왔다. 그러나 지정학적 갈등에 따라 반도체에 이어 AI 모델도 수출 통제 대상으로 꼽히며, 글로벌 기업들이 특정 국가나 기술에 지나치게 의존하면 심각한 공급망 리스크에 직면할 수 있다는 경고가 제기됐다.가트너는 3일(현지시간) 발표한 '2026년 중국 AI 주요 트렌드' 보고서를 통해 전 세계 기업의 중국산 AI 모델 도입률은 2025년 5%에서 2027년 50%로 폭발적으로 증가할 것으로 예측했다. 오픈웨이트 기반의",
+      "keywords": [],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "1b6b4f9fa380",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213713",
+      "date": "2026-08-09",
+      "summary": "스페이스XAI가 단순히 한 장의 이미지를 만드는 데 그치지 않고 복잡한 레이아웃과 정확한 텍스트 표현, 반복적인 이미지 편집, 캐릭터와 배경의 시각적 일관성 유지 등에 초점을 맞춘 이미지 모델을 공개했다.스페이스XAI는 8일(현지시간) 이미지 생성·편집 모델 ‘이매진 이미지 2.0(Imagine Image 2.0)’을 출시했다. 이매진 이미지 2.0은 스페이스XAI의 웹 기반 이미지 생성 서비스와 그록(Grok)의 iOS·안드로이드 앱에서 새로운 ‘퀄리티 모드(Quality Mode)’로 제공된다. API는 앞으로 제공될 예정이다.",
+      "keywords": [
+        "Image AI",
+        "SDK/API"
+      ],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "405c5ae8aba6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 인터넷 없이 작동하는 AI 번역기 ‘젬마 트랜슬레이터’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213717",
+      "date": "2026-08-09",
+      "summary": "구글이 소형 오픈 모델과 저가형 컴퓨터를 결합해 인터넷이 없는 환경에서도 작동하는 온디바이스 AI 번역기를 선보였다.구글은 6일(현지시간) 인터넷 연결 없이도 음성을 실시간으로 번역할 수 있는 소형 AI 번역기 ‘젬마 트랜슬레이터(Gemma Translator)’를 공개했다.라즈베리파이5와 소형 오픈웨이트 AI 모델을 결합해 음성 인식부터 번역, 음성 합성까지 모든 과정을 기기에서 처리하는 것이 특징이다. 특히 설계도와 소스코드, 3D 프린터용 케이스까지 오픈소스로 공개해 누구나 직접 제작할 수 있도록 했다.구글 크리에이티브 랩의",
+      "keywords": [
+        "Open Source"
+      ],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "69af075aed71",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"음성 대화하며 문서 분석까지\"...오픈AI, GPT-라이브 기능 대폭 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213716",
+      "date": "2026-08-09",
+      "summary": "오픈AI가 음성 기반 AI 모델 ‘GPT-라이브(GPT-Live)’에 파일 첨부와 프로젝트 워크스페이스 기능을 추가했다. 이제 사용자는 음성으로 챗GPT와 대화하면서 문서나 파일을 직접 첨부해 내용을 질문할 수 있으며, 여행 계획이나 구직 활동 관리 등 장기적인 작업을 프로젝트 단위로 이어갈 수 있게 됐다. 오픈AI는 7일(현지시간) GPT-라이브가 이제 파일을 첨부하고 해당 파일에 대해 질문할 수 있다고 밝혔다.또 GPT-라이브를 챗GPT의 ‘프로젝트(Projects)’ 안에서 사용할 수 있어 구직 활동 정리, 여행 계획, 운동",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "aeeff6ed3d3b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 맥용 '메타 AI' 데스크톱 앱 개발 정황 포착...'슈퍼 앱' 경쟁 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213714",
+      "date": "2026-08-09",
+      "summary": "메타가 애플 맥(Mac)에서 사용할 수 있는 자체 AI 데스크톱 앱을 개발 중인 정황이 포착됐다. 테스팅카탈로그는 7일(현지시간) 메타 AI 웹 서비스에 새롭게 추가된 설정 메뉴에서 ‘메타 AI 다운로드(Download Meta AI)’라는 맥OS 전용 버튼이 발견됐다고 전했다.버튼 주변에는 데스크톱 어디에서든 AI와 대화하고, 콘텐츠를 만들고, 협업할 수 있는 앱이라는 취지의 설명이 표시됐다. 다만 현재 다운로드 링크는 연결되지 않으며, 구체적인 출시 일정이나 이용 가능 여부도 공개되지 않았다.현재 공개된 설명만으로는 이 앱이 어",
+      "keywords": [],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "9872547280ee",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213711",
+      "date": "2026-08-09",
+      "summary": "엔비디아가 오픈AI와 오라클의 데이터센터 프로젝트 ‘스타게이트’ 개발을 지원하는 전력 인프라 기업 랜시엄(Lancium)에 최대 30억달러(약 4조원)를 투자할 것으로 알려졌다. 7일(현지시간) 디 인포메이션에 따르면, 엔비디아는 랜시엄에 우선 20억달러를 투자해 약 20%의 지분을 확보하고, 추가 전력 공급을 확보해 일정 기준을 충족하면 10억달러를 추가 투자할 예정이다.추가 투자까지 이뤄지면 엔비디아의 지분율은 30%까지 높아질 수 있다. 이번 거래를 반영한 랜시엄의 기업 가치는 부채와 투자금을 포함해 100억달러(약 14조11",
+      "keywords": [],
+      "first_seen": "2026-08-10"
+    },
+    {
+      "id": "615e917b3f12",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'커서' 이름 사라지나...스페이스X 인수 후 '그록'으로 브랜드 개편 예정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213718",
+      "date": "2026-08-09",
+      "summary": "스페이스X가 600억달러(약 84조6600억원) 규모 인수를 앞둔 AI 코딩 스타트업 애니스피어의 기존의 대표 브랜드 '커서'를 폐지하고 '그록' 브랜드로 통합하려는 것으로 알려졌다.디 인포메이션에 따르면, 커서는 6일(현지시간) 전 직원회의에서 다음 주말까지 인수 작업이 완료될 수 있다고 밝히며 몇달 안에 신제품에서 커서 브랜드명을 단계적으로 없앨 가능성이 높다고 밝혔다.이에 따르면, 첫 단계는 커서가 내부 코드명 '샌드(Sand)'로 개발해 온 차세대 범용 에이전트를 '그록 봇(Grok Bot)'이라는 이름으로 출시하는 것이다.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-10"
+    },
+    {
       "id": "f9a43e53007f",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -51702,6 +51889,11 @@
       "date": "2026-08-09",
       "added": 20,
       "total": 3853
+    },
+    {
+      "date": "2026-08-10",
+      "added": 14,
+      "total": 3867
     }
   ],
   "sources": {},
@@ -51849,33 +52041,43 @@
     {
       "week": "2026-W32",
       "keywords": {
-        "AI Agent": 43,
+        "AI Agent": 45,
+        "Security": 27,
         "Automation": 26,
-        "Security": 25,
-        "GPT": 20,
-        "Open Source": 14,
-        "Coding": 12,
+        "GPT": 21,
+        "Open Source": 15,
+        "Coding": 13,
+        "SDK/API": 11,
         "Cloud/DevOps": 10,
         "Robotics": 10,
-        "SDK/API": 9,
-        "Claude": 7,
+        "Claude": 8,
         "Deployment": 7,
         "Generative AI": 6,
+        "AI Safety": 4,
         "Developer Tools": 4,
-        "Optimization": 4,
-        "LLM": 4
+        "Optimization": 4
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 1872,
-      "recent_7d": 195,
-      "recent_30d": 225
+      "total": 1879,
+      "recent_7d": 185,
+      "recent_30d": 232
+    },
+    "nvidia_ai": {
+      "total": 104,
+      "recent_7d": 7,
+      "recent_30d": 7
+    },
+    "techcrunch": {
+      "total": 1085,
+      "recent_7d": 108,
+      "recent_30d": 135
     },
     "openai": {
       "total": 143,
-      "recent_7d": 11,
+      "recent_7d": 10,
       "recent_30d": 15
     },
     "huggingface": {
@@ -51888,11 +52090,6 @@
       "recent_7d": 19,
       "recent_30d": 22
     },
-    "techcrunch": {
-      "total": 1078,
-      "recent_7d": 110,
-      "recent_30d": 128
-    },
     "lycorp": {
       "total": 50,
       "recent_7d": 1,
@@ -51902,11 +52099,6 @@
       "total": 51,
       "recent_7d": 1,
       "recent_30d": 1
-    },
-    "nvidia_ai": {
-      "total": 104,
-      "recent_7d": 7,
-      "recent_30d": 7
     },
     "meta_eng": {
       "total": 20,
@@ -51939,6 +52131,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-08-09",
-  "total_articles": 3853
+  "last_updated": "2026-08-10",
+  "total_articles": 3867
 }
