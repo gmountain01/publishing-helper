@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "a9d160d5ca34",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "프리윌린, 피어슨과 협력으로 콘텐츠 강화…“국내 100개 대학이 선택한 에듀테크”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214269",
+      "date": "2026-08-24",
+      "summary": "글로벌 교육 전문 피어슨(Pearson)이 국내 에듀테크 기업 프리윌린과 파트너십을 체결했다. 양사의 공통 비전은 AI 시대에 맞는 ‘맞춤형 교육’이다.AI 교육 솔루션 전문 프리윌린(대표 권기성)은 글로벌 교육 전문 피어슨과 전략적 파트너십을 체결, 피어슨의 고등교육 콘텐츠를 AI 코스웨어 ‘풀리캠퍼스(PulleyCampus)’에 접목한다고 24일 밝혔다.피어슨은 디지털 콘텐츠와 평가, 자격 인증, 데이터 솔루션 등을 통해 전 세계 약 200개 국가의 고객을 지원하는 글로벌 대표 교육 기업이다.이번 파트너십은 프리윌린의 강점인 수",
+      "keywords": [],
+      "first_seen": "2026-08-24"
+    },
+    {
       "id": "2e0f7fb6d43c",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -127,6 +139,240 @@
       "summary": "AI타임스와 이스트에이드의 8월 셋째 주(8월14일~20일) 이슈 분석 결과, 경남 거제 호우를 포함해 을지연습과 정치권 주요 이슈들이 상위권을 차지했다.이번 주 검색량 1위는 '경남 거제 호우(12.27%)'가 압도적인 검색량을 기록했다. 남부지방에 이례적인 집중호우가 쏟아진 가운데 정부는 경남 거제시 전역과 통영시 산양읍·봉평동을 특별재난지역으로 우선 선포하며 신속한 피해 복구에 나섰다.전남 해남에서는 2점대 지진이 6차례 잇따르며 '해남 지진(2.32%)'이, 사망자가 47명으로 늘어난 '인도네시아 7.7 강진 사망(2.22%",
       "keywords": [],
       "first_seen": "2026-08-23"
+    },
+    {
+      "id": "be28f1428bf3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "date": "2026-08-23",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "keywords": [],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "38092a5bb168",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "date": "2026-08-23",
+      "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "fc3e349b3942",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "date": "2026-08-23",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "keywords": [],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "caeae8aba479",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "date": "2026-08-23",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "d26899ffdb40",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "date": "2026-08-23",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "c058daa1dd11",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "date": "2026-08-23",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "keywords": [],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "6ce2b1d23580",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "date": "2026-08-23",
+      "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "keywords": [],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "a2c872f1397e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한국딥러닝 “문서 에이전트, 인식률 넘어 ‘오답 찾는 능력’이 더 중요해”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214266",
+      "date": "2026-08-23",
+      "summary": "\"AI를 도입했는데도 직원의 일이 줄지 않았다면, 아직 AI가 실제 업무를 맡은 것은 아닙니다. 결과 검수와 오류 수정 작업을 여전히 사람이 맡고 있다면, AI 도입은 완료된 것이 아닙니다.\"김지현 한국딥러닝 대표는 단순히 글자를 읽어내는 광학문자인식(OCR)의 시대가 저물고, 실질적으로 사람의 업무를 줄여주는 '문서 AI 에이전트'로 전환해야 한다고 강조한다. 많은 기업이 기존 OCR과 RPA, 생성 AI를 도입했지만, 현장에서는 여전히 사람이 결과를 전부 확인하고 잘못된 값을 수정하는 등 가장 많은 시간과 비용이 드는 '마지막",
+      "keywords": [
+        "AI Agent",
+        "Generative AI",
+        "ML/DL"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "734d1b271bfe",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "샤오미 '미모-V3-프로' 유출 스크린샷 논란…\"코딩·에이전트 최상위권\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214264",
+      "date": "2026-08-23",
+      "summary": "샤오미의 차세대 모델 '미모-V3-프로(MiMo-V3-Pro)'의 벤치마크 테스트 결과가 담긴 스크린샷이 온라인 커뮤니티와 소셜미디어에서 급속히 유포되며 업계의 관심을 모으고 있다. 진위는 아직 가려지지 않은 상태다. 이번 소식은 중국의 테크 전문 소식통인 맥스 포 AI(Max For AI)가 21일 X에 처음 소개하며 빠르게 퍼져 나갔다. 일부 매체들도 이를 비중 있게 다루며 유출된 데이터와 논란의 정황을 전했다.유출된 벤치마크 차트에 따르면, 샤오미의 미공개 신형 플래그십 모델인 미모-V3-프로는 코딩 에이전트와 일반 에이전트",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "4ab558b3877a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, '뮤즈 스파크 1.2' 오픈라우터에 현존 최저가로 할인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214263",
+      "date": "2026-08-23",
+      "summary": "오픈AI가 모델 중개 플랫폼 오픈라우터(OpenRouter)에서 최신 모델을 반값에 제공하며 주도권 잡기에 나선 데 이어, 메타도 같은 플랫폼을 통해 파격적인 저가 요금제를 내놓았다. 개발자와 기업 고객을 확보하기 위한 가격 경쟁이 뜨거워지고 있다.메타는 22일(현지시간) 플래그십 모델인 '뮤즈 스파크 1.2(Muse Spark 1.2)'의 '컨트리뷰터(Contributor)' 요금제를 오픈라우터에 공식 출시했다고 밝혔다. 이번 요금제의 가격은 입력 100만 토큰당 0.10달러, 출력 100만 토큰당 0.20달러, 캐시 입력은 0.",
+      "keywords": [],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "bde478c47206",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽서 유행하는 클로드 코드 ‘/eli5’ 스킬...\"코드를 그림으로 설명\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214260",
+      "date": "2026-08-23",
+      "summary": "앤트로픽 직원들 사이에서 복잡한 기술 개념이나 코드 구조를 시각적으로 쉽게 이해하도록 돕는 클로드 코드(Claude Code)용 ‘/eli5’ 스킬이 주목받고 있다. 질문 뒤에 ‘/eli5’를 붙이면 클로드가 해당 주제를 마치 아무것도 모르는 사람에게 설명하듯 간결한 문장과 큰 그림, 단순한 다이어그램을 활용한 HTML 자료로 만들어준다.타리크 시히파르 앤트로픽 엔지니어 22일(현지시간) X를 통해 최근 앤트로픽 내부에서 이 스킬을 많이 사용하고 있다고 소개했다.사용법은 간단하다. ‘/eli5 ’ 형식으로 입력",
+      "keywords": [
+        "Claude",
+        "Coding"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "eb87aabc87bf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, '안티그래비티' 원격 제어 출시...\"이동 중에도 AI 개발 계속\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214259",
+      "date": "2026-08-23",
+      "summary": "AI 코딩 에이전트가 단순한 코드 생성 도구를 넘어 전체 시스템 리팩터링과 대규모 테스트, 빌드 오류 진단까지 수행하면서 개발자의 작업 방식도 바뀌고 있다. 하지만 작업 범위가 커질수록 에이전트의 실행 시간도 길어져 개발자가 작업이 끝날 때까지 컴퓨터 앞에서 기다리거나, 자리를 비운 뒤 진행 상황을 알 수 없는 문제가 발생한다. 구글은 21일(현지간) 이러한 문제를 해결하기 위해 AI 개발 환경 ‘안티그래비티(Antigravity)’에 웹브라우저를 통한 에이전트 원격 제어 기능을 도입했다.개발자가 물리적으로 작업 중인 컴퓨터를 떠나",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "0a6bc9e2889b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214258",
+      "date": "2026-08-23",
+      "summary": "대형언어모델(LLM)의 성능 경쟁이 모델 규모와 정확도를 넘어 실제 추론 속도와 비용 효율성을 높이는 방향으로 확대되고 있다. 특히 AI 에이전트와 온디바이스 AI의 활용이 늘면서 매 토큰 생성 과정에서 발생하는 메모리 병목을 줄이는 기술이 주목받는 가운데, 리퀴드AI가 새로운 추론 가속 기술을 선보였다.리퀴드 AI는 20일(현지시간) LLM의 추론 과정에서 발생하는 병목을 줄이기 위한 ‘디스파크(DSpark)’ 추론 기술을 공개했다.약 3억개 매개변수의 경량 모델이 생성한 토큰을 대형 모델이 한꺼번에 검증하는 방식으로, 모델의 출",
+      "keywords": [
+        "AI Agent",
+        "LLM"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "82f16f1a7308",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 자동화’ 시동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214083",
+      "date": "2026-08-23",
+      "summary": "“아이벡스의 딥러닝 리서치 그룹은 ‘3차 엔지니어’에 해당합니다. 현장팀과 양산팀에서 해결하지 못한 기술적 난제를 학술적으로 풀어내고, 현장에서의 성능 향상도 동시에 달성하는 것이 목표입니다.”지난 2020년 설립된 아이벡스(대표 성민수)는 ‘산업 특화 AI’에 집중하고 있다. AI 비전 검사에서 출발해 ML옵스 플랫폼과 로보틱스까지 사업 영역을 확대하며, 데이터·AI·로봇이 통합된 ‘피지컬 AI’ 기술 생태계를 구축 중이다.기술적 난제를 해결하는 것은 물론, 제조 및 산업 현장에서 실질적 가치를 창출하는 데 초점을 맞추고 있다.",
+      "keywords": [
+        "Automation",
+        "ML/DL"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "58c54034e9b7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 에이전트 가능성 입증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214256",
+      "date": "2026-08-23",
+      "summary": "엔비디아가 단순히 한 번 질문에 답하고 끝나는 AI를 넘어, 오랜 시간 스스로 계획을 세우고 실행하며 시행착오를 거쳐 문제를 해결하는 범용 AI 에이전트 기술의 뛰어난 성능을 입증했다. 이번 성과의 핵심은 단순한 모델 차원의 성능이 아니라, AI를 지속적으로 제어하고 관리하는 ‘하네스(Harness)’ 시스템 구조에 있었다.엔비디아는 21일(현지시간) 지난 3월 공개한 범용 AI 에이전트 기술 ‘에이전틱 베리에이션 오퍼레이터(AVO)’가 규칙이나 목표가 주어지지 않은 낯선 환경을 탐색해 문제를 해결하는 ‘ARC-AGI-3’ 공개 벤",
+      "keywords": [
+        "AI Agent",
+        "LLM"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "7ff1f55be719",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"중소형 모델로 빅테크 압도\"...인히어런트, '연구 감각' 갖춘 AI 과학자 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214255",
+      "date": "2026-08-23",
+      "summary": "AI가 단순한 지시 수행을 넘어 스스로 가설을 세우고 실험하며 과학적 통찰을 찾아내는 'AI 과학자' 시대가 다가오고 있다. 영국의 한 AI 스타트업이 중소형 AI 모델만으로 초대형 프런티어 모델을 뛰어넘는 연구 역량을 증명해 관심이 쏠린다.영국 AI 스타트업 인히어런트(Inherent)는 최근 270억개 매개변수 규모의 AI 에이전트 '패러데이(Faraday)'를 공개했다. 패러데이는 과학 논문의 실험 결과를 스스로 재현하는 평가에서 앤트로픽의 '클로드 오퍼스 4.8'과 오픈AI의 'GPT-5.5' 등 거대 모델들을 제치고 우수한",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "GPT"
+      ],
+      "first_seen": "2026-08-24"
+    },
+    {
+      "id": "c58de9847c3e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KT-서울시, 초등학생 대상 'AI 미래 캠프' 진행...”윤리 소양 갖춘 인재 육성”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214262",
+      "date": "2026-08-23",
+      "summary": "KT(대표 박윤영)가 서울시, 서울로봇인공지능과학관, 서울도봉경찰서와 함께 22일 서울 도봉구 서울로봇인공지능과학관에서 초등학생 100명을 대상으로 'KT-서울시와 함께하는 AI 미래 캠프'를 개최했다고 밝혔다.이번 캠프는 서울 지역 초등학생 100명을 대상으로 진행됐다. 참가 학생들은 25명씩 4개 조로 나뉘어 AI 기술과 윤리를 아우르는 5개 프로그램을 순환 활동을 했다.학생들은 KT가 운영하는 이동식 AI 체험교육관 'AI 스테이션'에서 AI 기술과 윤리를 체험하고, AI 자격검정 AICE와 연계한 블록 코딩교육 'AICE 퓨",
+      "keywords": [],
+      "first_seen": "2026-08-24"
     },
     {
       "id": "9596b975c197",
@@ -60340,11 +60586,6 @@
   "daily_stats": [
     {
       "date": "2026-05-29",
-      "added": 77,
-      "total": 386
-    },
-    {
-      "date": "2026-05-29",
       "added": 0,
       "total": 386
     },
@@ -60787,6 +61028,11 @@
       "date": "2026-08-23",
       "added": 30,
       "total": 4531
+    },
+    {
+      "date": "2026-08-24",
+      "added": 18,
+      "total": 4549
     }
   ],
   "sources": {},
@@ -60934,34 +61180,34 @@
     {
       "week": "2026-W34",
       "keywords": {
-        "AI Agent": 44,
-        "Automation": 26,
+        "AI Agent": 50,
+        "Automation": 28,
         "Security": 25,
         "SDK/API": 20,
-        "GPT": 17,
-        "Coding": 13,
-        "Claude": 9,
-        "LLM": 9,
+        "GPT": 18,
+        "Coding": 14,
+        "Claude": 11,
+        "LLM": 11,
         "Gemini": 7,
+        "AI Safety": 7,
         "Enterprise AI": 6,
-        "AI Safety": 6,
         "Video AI": 6,
         "Vision": 5,
-        "Developer Tools": 5,
-        "Cloud/DevOps": 5
+        "Robotics": 5,
+        "Developer Tools": 5
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 1288,
-      "recent_7d": 114,
-      "recent_30d": 338
-    },
     "aitimes": {
-      "total": 2227,
-      "recent_7d": 198,
-      "recent_30d": 580
+      "total": 2238,
+      "recent_7d": 186,
+      "recent_30d": 591
+    },
+    "techcrunch": {
+      "total": 1295,
+      "recent_7d": 116,
+      "recent_30d": 345
     },
     "toss": {
       "total": 48,
@@ -61024,6 +61270,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-08-23",
-  "total_articles": 4531
+  "last_updated": "2026-08-24",
+  "total_articles": 4549
 }
