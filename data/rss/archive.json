@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "32cda19d8db8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "date": "2026-08-25",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "c41c93e5a6d9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[8월24일] 중국 로봇, 1년 만에 100m 기록 절반 단축…“두뇌는 'GPT-2' 수준”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214278",
+      "date": "2026-08-25",
+      "summary": "지난 주말 중국 베이징에서는 로봇 관련 대형 행사가 잇따라 열렸습니다. 하나는 세계로봇컨퍼런스(World Robot Conference)였고, 다른 하나는 세계휴머노이드로봇체육대회(World Humanoid Robot Games)였습니다.두 행사는 서로 다른 모습을 보여줬습니다. 로봇 체육대회에서는 휴머노이드의 신체 능력이 1년 사이 얼마나 빠르게 발전했는지가 드러났고, 로봇 컨퍼런스에서는 이 하드웨어를 실제로 움직이게 할 '두뇌'가 언제쯤 획기적으로 발전할지를 놓고 전망이 나왔습니다.먼저 눈에 띄는 것은 하드웨어의 발전입니다.올해",
+      "keywords": [
+        "GPT",
+        "Robotics"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
       "id": "a9d160d5ca34",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -11,6 +38,715 @@
       "summary": "글로벌 교육 전문 피어슨(Pearson)이 국내 에듀테크 기업 프리윌린과 파트너십을 체결했다. 양사의 공통 비전은 AI 시대에 맞는 ‘맞춤형 교육’이다.AI 교육 솔루션 전문 프리윌린(대표 권기성)은 글로벌 교육 전문 피어슨과 전략적 파트너십을 체결, 피어슨의 고등교육 콘텐츠를 AI 코스웨어 ‘풀리캠퍼스(PulleyCampus)’에 접목한다고 24일 밝혔다.피어슨은 디지털 콘텐츠와 평가, 자격 인증, 데이터 솔루션 등을 통해 전 세계 약 200개 국가의 고객을 지원하는 글로벌 대표 교육 기업이다.이번 파트너십은 프리윌린의 강점인 수",
       "keywords": [],
       "first_seen": "2026-08-24"
+    },
+    {
+      "id": "b4f331f2e15c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "date": "2026-08-24",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "keywords": [
+        "Developer Tools",
+        "GPT"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "cc60a5ab574a",
+      "source": "meta_eng",
+      "source_name": "Meta Engineering",
+      "icon": "🔷",
+      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+      "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+      "date": "2026-08-24",
+      "summary": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles.  To meet this challenge at scale, Meta designed MetaRoCE – a clean-sheet RDMA transport protocol purpose-built for AI workloads on commodity Ethernet.  We&#8217;re r",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "a2ee75fb2cf7",
+      "source": "meta_eng",
+      "source_name": "Meta Engineering",
+      "icon": "🔷",
+      "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
+      "link": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+      "date": "2026-08-24",
+      "summary": "MTIA 300 is the first of Meta’s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We’re sharing how MTIA 300’s built-in NIC chiplets allow it to meet the communication needs associated with training recommendation models with superior pe",
+      "keywords": [
+        "Optimization"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "95097c565b7e",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Introducing new Ray capabilities on SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
+      "date": "2026-08-24",
+      "summary": "Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks to live clusters, get out-of-the-box observability, and run resilient distributed training and accelerated inference from SageMaker Studio, all with o",
+      "keywords": [
+        "Automation",
+        "Coding",
+        "Optimization"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "da10f978855c",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
+      "date": "2026-08-24",
+      "summary": "Learn how to build a customizable, smart-caching knowledge management system on AWS that captures and delivers institutional (tribal) knowledge through a voice-first AI avatar. The accelerator uses Amazon Bedrock Knowledge Bases for retrieval-augmented generation and deploys in hours with AWS CloudF",
+      "keywords": [
+        "Cloud/DevOps",
+        "Deployment",
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "14642e0549df",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+      "date": "2026-08-24",
+      "summary": "AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and governance at scale.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "9223c13c8acb",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Building a restaurant telephony AI host with Amazon Connect",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+      "date": "2026-08-24",
+      "summary": "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazon B",
+      "keywords": [
+        "AI Agent",
+        "Reasoning",
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "c8dcf8c5613a",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "AI-powered metadata correction and harmonization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/",
+      "date": "2026-08-24",
+      "summary": "Metadata harmonization (standardizing labels, identifiers, and formats so datasets can work together) is still largely manual. This post shows how AI-powered metadata correction works in practice, covering two approaches, human-in-the-loop validation and autonomous agent-driven workflows, plus gover",
+      "keywords": [
+        "AI Agent",
+        "Automation"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "9e421da75e07",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "How XPUs Meet a World-Class AI Factory",
+      "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+      "date": "2026-08-24",
+      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual acc",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "945677bf4a92",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "date": "2026-08-24",
+      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin",
+      "keywords": [
+        "AI Agent",
+        "Optimization"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "bd0c5e28a7ee",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+      "date": "2026-08-24",
+      "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer compa",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "588aadc507f3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "date": "2026-08-24",
+      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "894769239e7b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "date": "2026-08-24",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "76b3a6d0e237",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "date": "2026-08-24",
+      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "d14fdbf4a30e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+      "date": "2026-08-24",
+      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "86efb41a86ac",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "date": "2026-08-24",
+      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "aae956ca03d6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+      "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+      "date": "2026-08-24",
+      "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "7e3bc60a8a1a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "date": "2026-08-24",
+      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "923d416533b4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+      "date": "2026-08-24",
+      "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "a34ef28c4aef",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "date": "2026-08-24",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "0565e9e7b154",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "date": "2026-08-24",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "keywords": [
+        "AI Agent",
+        "Robotics"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "e0099f0b8b45",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "date": "2026-08-24",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "db07451bcf8b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Brake problems in GM EVs draw greater federal scrutiny",
+      "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "date": "2026-08-24",
+      "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "aa2dd08ad7da",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "date": "2026-08-24",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "3da0c65afbfd",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "date": "2026-08-24",
+      "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "423af30b47f4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214316",
+      "date": "2026-08-24",
+      "summary": "엔비디아가 AI 검색 스타트업 퍼플렉시티에 수십억달러 규모의 지분 투자를 논의 중인 것으로 확인됐다. 이번 투자가 성사되면 퍼플렉시티의 기업 가치는 300억달러(약 41조5000억원)를 넘어설 전망이다.디 인포메이션은 23일(현지시간) 복수의 관계자를 인용, 퍼플렉시티가 1년 전 마지막 투자 유치에서 기록한 몸값을 50% 이상 끌어올려 협상 중이라고 보도했다.가치가 이처럼 급등한 것은 폭발적인 매출 성장 때문이다. 올해 초 2억5000만달러 미만이던 연간 반복 매출(ARR)은 최근 7억 5000만달러(약 1조원) 이상으로 3배가량",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "206b33d02c87",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214291",
+      "date": "2026-08-24",
+      "summary": "엔비디아가 여러 AI 모델을 번갈아 사용하는 장시간 AI 에이전트 작업에서 다른 모델로 전환할 때 발생하는 막대한 연산 비용과 지연시간 등 '라우팅 병목'을 줄일 수 있는 새로운 기술을 제시했다. 엔비디아는 최근 AI 모델이 축적한 KV(Key-Value) 캐시를 다른 모델이 그대로 재활용할 수 있도록 변환하는 ‘크로스 모델 KV 캐시 전송(Cross-Model KV Cache Transfer)’ 기술을 온라인 아카이브를 통해 공개했다.기존에는 AI가 대화 도중 더 큰 모델이나 더 저렴한 모델로 전환할 때 수신 모델이 누적된 대화",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "be9aee9adda2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[8월24일] 순천 AI 영상 뉴스 - 순천 미래 신산업 30억 투입 등",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214308",
+      "date": "2026-08-24",
+      "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "3ce8eb7b1784",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "맥북에서 돌리는 '무삭제 큐원 3.8' 등장...엔비디아 GPU·클라우드 없이 구동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214299",
+      "date": "2026-08-24",
+      "summary": "알리바바의 최신 오픈소스 대형언어모델(LLM) ‘큐원 3.8 27B’를 바탕으로 안전성 제약을 대폭 줄인 변형 모델이 공개됐다. 애플 실리콘의 통합 메모리를 활용하면 별도의 CUDA 기반 GPU나 클라우드 서버를 사용하지 않고도 개인용 맥에서 직접 구동할 수 있다는 것이 특징이다. 커뮤니티 개발자 조나단 코레티는 최근 알리바바의 ‘큐원 3.8 27B’를 기반으로 안전성 정렬을 크게 낮춘, 이른바 ‘무삭제(Uncensored)’ 버전을 허깅페이스를 통해 공개했다.특히 애플 실리콘 맥에서 별도의 CUDA 환경이나 클라우드 서버 없이 직",
+      "keywords": [
+        "LLM",
+        "Open Source"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "d5f662fccbc0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 스마트 안경에 해킹 불가 ‘물리적 킬 스위치’ 도입...사생활 침해 논란 잡는다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214304",
+      "date": "2026-08-24",
+      "summary": "메타가 카메라와 마이크가 상시 작동할 수 있는 스마트 안경의 사생활 침해 우려를 해소하기 위해 소프트웨어가 아닌 하드웨어 차원의 센서 차단 기술을 개발하고 있는 것으로 나타났다. 사용자가 물리적인 스위치를 조작하면 센서와 메인 프로세서 사이의 연결을 직접 차단해, 소프트웨어가 해킹되더라도 꺼진 센서를 다시 활성화할 수 없도록 하는 방식이다.메타는 20일(현지시간) 미국 특허청(USPTO)을 통해 특허 ‘하드웨어 기반 센서 개인정보 보호 시스템 및 이를 구현하는 방법(Hardware-Enforced Sensor Privacy Syst",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "15fa4cd221be",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214306",
+      "date": "2026-08-24",
+      "summary": "미국 네바다주가 라스베이거스를 중심으로 한 자율주행차 상용화에 속도를 내고 있다. 네바다주 교통당국은 테슬라와 우버, 웨이모의 상업용 로보택시 운행을 승인하면서 앞으로 1년간 라스베이거스가 위치한 클라크 카운티에 최대 8000대의 자율주행 차량이 운행할 수 있는 길을 열었다.테크크런치에 따르면, 네바다 교통 당국(NTA)은 20일(현지시간) 열린 회의에서 테슬라와 우버, 웨이모가 신청한 자율주행차 운행 허가 안을 만장일치로 통과시켰다.이에 따라 테슬라는 앞으로 1년간 최대 5000대, 웨이모는 1000대, 우버는 1000대의 로보택",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "42d05d6d1fca",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "후지필름, AI 반도체 소재 생산 확대...'필름·사무기기 넘어 체질 개선'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214309",
+      "date": "2026-08-24",
+      "summary": "후지필름이 AI 데이터센터 확산에 따른 첨단 반도체 수요 증가에 대응해 반도체 제조용 핵심 소재 생산 능력을 대폭 확대한다. 카메라와 복사기 등으로 잘 알려진 이 회사는 반도체 소재를 차세대 성장동력으로 육성하며 전통적인 사무기기 사업의 부진을 만회한다는 전략이다.21일(현지시간) 블룸버그에 따르면, 후지필름은 최근 일본 남부 오이타현 공장에 70억엔(약 600억원)을 투자해 새로운 제조 시설을 준공했다.이를 통해 반도체 웨이퍼의 화학기계적연마(CMP) 공정 이후 사용되는 세척제 생산 능력을 기존보다 3배로 늘릴 계획이다. CMP는",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "c74aa1620e6d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'페이블 5' 주춤하는 새 오픈AI 기업 시장 맹추격...\"7월부터 성장률 추월\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214280",
+      "date": "2026-08-24",
+      "summary": "앤트로픽의 최상위 모델 ‘페이블 5(Fable 5)’가 높은 가격과 규제에 따른 데이터 보존 요건 등의 부담으로 기업 시장에서 기대만큼 빠르게 확산하지 못하는 사이 오픈AI가 다시 시장 점유율을 빠르게 끌어올리고 있다. 특히 'GPT-5.6'의 성능과 가격 경쟁력을 앞세워 7월부터 앤트로픽보다 빠른 성장세를 보이면서, 기업용 AI 시장의 주도권 경쟁이 다시 요동치고 있다.기업용 결제·지출관리 전문 램프(Ramp)가 7만개 이상의 미국 기업을 대상으로 AI 관련 지출을 분석한 결과, 앤트로픽은 지난 5월 유료 기업 고객 시장에서 41",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "64679240a2b4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 스카이인텔리전스, JTBC 피지컬AI 다큐멘터리에 소개 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214315",
+      "date": "2026-08-24",
+      "summary": "■ 스카이인텔리전스는 피지컬 AI 산업용 합성데이터 생성 기술이 지난 23일 JTBC 특집 다큐멘터리 '한국의 승부수 피지컬 AI'에서 소개됐다고 밝혔다. 피지컬 AI 발전의 병목을 해소할 핵심적인 해법으로 스카이인텔리전스의 합성데이터 생성 기술과 인프라를 비롯해 서울대학교와 공동으로 수행 중인 데이터센터 케이블 배선 과제도 소개됐다.■ 스푼랩스(대표 최혁재)가 기업공개(IPO)를 위한 입찰제안요청서(RFP)를 국내 주요 증권사에 발송하고, 상장 절차에 본격 착수했다고 밝혔다. IPO 착수 배경에는 스푼랩스의 견조한 성장세가 꼽힌다",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "3245c8ac6ea2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI에 올인한 알리바바, 투자 위해 14조 대규모 증자 단행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214284",
+      "date": "2026-08-24",
+      "summary": "알리바바가 AI 경쟁에서 주도권을 확보하기 위해 약 102억달러(약 14조원) 규모의 대규모 자금 조달에 나섰다. 알리바바는 23일(현지시간) 홍콩 증시에서 800억 홍콩달러(약 102억달러) 규모의 신주 7억1000만주를 주당 112.7홍콩달러에 매각한다고 공식 발표했다.발행가는 최근 홍콩 증시 종가보다 약 3.6% 할인된 수준이다. 이번 거래는 홍콩 상장기업의 후속 공모 가운데 사상 최대 규모이며, 2021년 텐센트 지분 매각 이후 홍콩에서 이뤄지는 최대 규모의 주식 매각으로 기록될 전망이다.이번 주식 매각으로 확보한 자금 전액",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "2bce3b13a4a2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 개발자 행사 '데브데이 익스체인지' 10월22일 서울서 연다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214310",
+      "date": "2026-08-24",
+      "summary": "오픈AI ‘데브데이 익스체인지(DevDay Exchange)’가 오는 10월22일 서울에서 열린다.개발자 행사인 데브데이는 지난 2023년 샌프란시스코에서 시작됐다. 이후 올해부터 데브데이 익스체인지로 행사를 확대, 전 세계 8곳에서 개최한다. ▲벵갈루루(10월 16일) ▲도쿄(10월 20일) ▲서울(10월 22일) ▲베를린(10월 26일) ▲파리(10월 28일) ▲런던(11월 3일) ▲상파울루(11월 6일) ▲멕시코시티(11월 11일) 순서로 진행된다. 행사에서는 오픈AI 연사의 키노트 세션은 물론, 오픈AI 제품 및 엔지니어링",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "220112def65a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스스로 문제 만들고 해결 전략까지 구축....오픈소스 '오르니스-1.5' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214261",
+      "date": "2026-08-24",
+      "summary": "사람이 제공한 학습 데이터와 문제를 푸는 단계를 넘어 스스로 새로운 문제를 만들고 해결 전략을 설계하면서 능력을 향상는 ‘자기개선형(self-improving) AI’ 개발이 본격화되고 있다.AI 스타트업 오르니스(Ornith)는 19일(현지시간) 스스로 새로운 학습 과제를 만들고 문제 해결 전략까지 설계하면서 능력을 지속적으로 향상하는 오픈소스 자기개선형 파운데이션 모델 ‘오르니스-1.5’를 공개했다.이 모델은 학습 과제 생성부터 문제 해결 방식 설계, 실제 풀이 결과를 활용한 강화학습까지 전 과정을 하나의 순환 구조로 연결해 A",
+      "keywords": [
+        "Open Source"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "3e7cfe3f9a1f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "포지큐브 DVLM, ‘OCR벤치 v2’ 국내 1위·글로벌 2위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214303",
+      "date": "2026-08-24",
+      "summary": "포지큐브(대표 오성조)는 ‘도큐먼트 비전언어모델(DVLM)’이 멀티모달 AI 국제 벤치마크인 ‘OCR벤치 v2’에서 국내 1위, 글로벌 2위를 달성했다고 24일 밝혔다.포지큐브의 멀티모달 AI 모델은 영어 부문 공식 리더보드에서 평균 69.8점을 기록하며 국내 모델 가운데 가장 높은 순위에 올랐다. 단순 문자 인식을 넘어 텍스트의 위치를 파악하고 문서와 시각 정보를 구조화·이해·추론하는 기술력을 인정받은 것이라는 설명이다.OCR벤치 v2는 멀티모달 언어모델이 이미지 속 문자와 시각 정보를 얼마나 정확하게 인식하고 이해하는지를 종합적",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "d0b3f5b01754",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천, 산업전환 시동…항공엔진 부품 R&D에 30억원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214297",
+      "date": "2026-08-24",
+      "summary": "AI 생성 영상순천시가 미래신산업 혁신성장위원회를 출범시키고 항공엔진 부품 제조기술 공동 R&D에 착수했다고 24일 밝혔다. 산업정책 컨트롤타워와 현장 기술개발을 함께 가동해 방산·첨단제조 분야의 지역 산업기반을 키운다는 구상이다.순천은 24일 시청 대회의실에서 미래신산업 혁신성장위원회 출범식을 열었다. 위원회는 방위산업, 지역주력산업, 콘텐츠·AI산업, 미래농산업, 대외협력 등 5개 분야 현장 전문가로 구성된다.위원회는 미래산업과 신규사업 발굴, 정부 R&D·공모사업 대응, 기업·투자 유치 등을 맡는다. 현장 수요를 정책과 사업으",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "616ee8d766d2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "목포시보건소, ‘노담버스’ 흡연예방교실 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214288",
+      "date": "2026-08-24",
+      "summary": "AI 생성 영상목포시보건소가 유아기부터 흡연과 간접흡연의 위험성을 알리기 위한 체험형 예방교육에 나섰다고 24일 밝혔다.목포보건소는 트윈스타 행정타운에서 관내 어린이집 유아 100명을 대상으로 ‘찾아가는 유아흡연위해예방교실’을 열었다. 이번 교육은 보건복지부와 한국건강증진개발원이 추진하는 사업의 하나로, 유아들이 흡연과 간접흡연의 위해성을 자연스럽게 이해하도록 돕기 위해 마련됐다.이날 교육에서는 전문 강사가 ‘노담밴드, 냄새의 비밀을 찾아라’를 주제로 동화 구연과 이야기 나누기, OX퀴즈, 흡연위해예방 신체놀이, 동요·율동 등을 진",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "0450e4caaf28",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "코난테크놀로지, 실사례 중심 ‘AI 서밋’ 9월9일 개최…”도구 넘어 ‘일하는’ AI”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214300",
+      "date": "2026-08-24",
+      "summary": "에이전틱 AI 전문 코난테크놀로지(대표 김영섬)는 오는 9월9일 서울 양재동 엘타워에서 ‘제4회 코난 AI 서밋 2026’을 개최한다고 밝혔다. 코난테크놀로지의 주요 AI 기술과 사업 전략을 공유하는 대표 행사다. 회차별로 다른 주제를 선보이고 있다. 이번에는 ‘에이전틱 AI 플랫폼의 새로운 미래’를 부제로, 실제 AI 에이전트를 구축한 고객사가 직접 연사로 참여하는 파트너스데이 형식으로 진행된다. 먼저, 김영섬 대표의 개회사에 이어 양승현 COO가 ‘에이전틱 엔터프라이즈: AI를 쓰는 기업에서 AI가 일하는 기업으로’를 주제로 키",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "b2cc49432179",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "과기부 “AI와 과학기술 결합해 공학 분야 한계 돌파할 것”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214312",
+      "date": "2026-08-24",
+      "summary": "과학기술정보통신부(장관 배경훈)는 차세대 AI+과학기술 기반기술 개발사업’ 착수보고회를 개최하고, 신규 선정된 4개 과제의 본격 연구 개발을 시작한다고 24일 밝혔다.AI가 데이터뿐만 아니라 물리, 수학적 원리를 활용해 과학 현상을 더 정확하고 신뢰성 있게 해석 및 예측할 수 있도록 기반기술을 확보할 예정이다. 기존 AI 모델의 한계를 뛰어넘는 새로운 AI 구조 설계에도 도전한다. AI를 단순 연구 보조도구를 넘어 ‘연구혁신 가속 핵심기술’로 발전시킨다는 구상이다.연구과제는 물리-수학 기반 AI 해석 및 예측 모델 분야와 차세대 A",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "c24a6300e963",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"누끼 제거는 옛말\"…오픈AI, API로 '배경 없는 투명 이미지' 직접 생성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214301",
+      "date": "2026-08-24",
+      "summary": "오픈AI가 이미지 생성 모델인 'gpt-image-2'의 API 업데이트를 통해 '네이티브 알파 채널(Alpha Channel)'을 공식 지원한다. 이에 따라 추가적인 배경 제거(누끼 따기) 후처리 작업 없이 투명 배경을 가진 PNG 이미지를 한 번의 요청으로 생성할 수 있게 됐다.21일(현지시간) 오픈AI의 발표에 따르면, 개발자는 API 호출 시 'background=\"transparent\"'와 'output_format=\"png\"' 매개변수를 추가하는 방식으로 해당 기능을 손쉽게 적용할 수 있다.이번 업데이트는 이미지 뒤의 불",
+      "keywords": [
+        "GPT",
+        "Image AI",
+        "SDK/API"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "4237f4a10739",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "플러스제로, AI GEO 솔루션 '보이스 인텔리전스' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214313",
+      "date": "2026-08-24",
+      "summary": "데이터 컨설팅 전문 플러스제로(대표 정성진)는 서울 코엑스에서 열린 'AI 서밋 서울 & 엑스포 2026' 현장에서 차세대 AI GEO 마케팅 솔루션 '보이스 인텔리전스 v2.0'을 처음 공개해, 마케팅 담당자들의 관심을 받았다고 24일 밝혔다.이번에 선보인 '보이스 인텔리전스 v2.0'은 온라인 커뮤니티와 소셜미디어 등 채널에 흩어진 고객 반응을 수집 및 분석해 최적화된 마케팅 콘텐츠를 자동 생성하는 획기적 솔루션이다. 통상 일주일 이상 소요되던 고객 VOC 분석, 마케팅 전략 수립 및 콘텐츠 작성 시간을 단 1시간으로 대폭 단축",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "3b9ae3804e23",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, 주말 API 할증 없앤다…토·일요일 '오프피크' 단가 단일화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214279",
+      "date": "2026-08-24",
+      "summary": "딥시크가 주말 API 요금에서 피크 시간대 할증을 없애고 토요일과 일요일에는 하루 종일 비성수기(Off-peak) 요금을 적용한다. 이달 초 이용량 급증에 대응하기 위해 도입했던 가변 요금제를 주말만 완화하면서, 대규모 데이터 처리나 비실시간 작업을 주말로 분산하려는 개발자와 기업의 비용 부담이 줄어들 전망이다.딥시크는 베이징 시간 기준 8월23일 0시부터 토요일과 일요일에 발생하는 모든 API 사용량에 대해 피크 시간대 구분 없이 비성수기 요금을 적용한다고 발표했다. 변경 시점 이전에 발생한 사용료는 기존 가격 정책에 따라 정산된",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "4cab0ddbe1e8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "그렙, 미국 웨스트클리프대학에 AI 시험감독·역량평가 솔루션 제공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214298",
+      "date": "2026-08-24",
+      "summary": "AI 온라인 테스팅 전문 그렙(대표 임성수)은 미국 캘리포니아주 어바인 소재 웨스트클리프 대학교(Westcliff University)와 AI 역량평가 및 교육 협력을 추진며 해외 대학 시장에 공식 진출했다고 24일 밝혔다. 이번 협력은 그렙이 미국 법인인 ‘그렙 USA(Grepp USA)’를 통해 추진한 AI 평가 및 교육 협력 사례다. 해외 대학 대상과의 협력은 처음이다. 그간 국내 주요 대학과 기업에서 검증 받은 그렙의 AI 테스팅 및 교육 모델이 미국 고등교육 현장에 처음으로 적용된다고 전했다.두 기관은 학생들의 AI·소프트",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "856ce6c6124b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 섬박람회 기간 타지역민 여객선·도선 운임 50% 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214294",
+      "date": "2026-08-24",
+      "summary": "AI 생성 영상여수시가 섬박람회가 개막하는 9월부터 연말까지 관내 여객선·도선 전체 항로를 대상으로 타지역민 여객운임 50% 지원사업을 추진한다고 24일 밝혔다. 차량운임은 제외되며, 예산이 소진되면 사업은 조기 종료된다.박람회 기간 여수 관내 여객선과 도선을 이용하는 타지역민은 별도 환급 절차 없이 예매·발권 단계에서 곧바로 할인을 받을 수 있다. 유류할증료와 터미널이용료를 제외한 여객운임의 50%가 적용된다.다만 일부 항로는 지원 대상에서 제외된다. 녹동~거문항을 운항하는 평화훼리11호와 은해페리호, 한국해운조합 여객선 운임지원",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "6679c5abe9c7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT, 서울대와 ‘10년 협력’ 이어가…AI 강좌로 인재 양성 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214293",
+      "date": "2026-08-24",
+      "summary": "SK텔레콤(대표 정재헌)은 서울대학교와 손잡고 미래 AI 리더를 육성하는 산학협력 강좌를 개설했다고 24일 밝혔다. SKT는 2026년 2학기 서울대학교 전기·정보공학부 대학원생을 대상으로 ‘SKT-서울대 AI 공동과정’을 개설하고, 15주간 강의를 운영한다. 해당 강좌를 통해 AI 산업을 이끌어갈 다음 세대 인재를 직접 길러낸다는 목표다.강좌 커리큘럼은 SKT가 보유한 풀스택 AI 역량에 맞춰 ▲AI 앱·서비스 ▲AI 모델링 ▲AI 인프라 등 세 영역으로 구성됐다.먼저, 정재헌 SKT 대표가 오는 9월1일에 특강의 문을 연다. 정",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "dc0588ce3b43",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 시대 부활 선언한 '인터넷 원조' 야후...\"30년 축적 데이터로 차별화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214296",
+      "date": "2026-08-24",
+      "summary": "1세대 인터넷 거물 야후(Yahoo)가 수십년간 축적한 자체 데이터와 브랜드 신뢰도를 무기로 AI 시장에 본격적인 출사표를 던졌다. 단순한 기존 검색 시장에서의 후발 주자 추격이 아닌, 빅테크 모델과의 차별화를 통한 재도약 선언이다.짐 란존 야후 CEO는 23일(현지시간) 파이낸셜타임스(FT)와의 인터뷰에서 \"인터넷의 '원조(Original Gangster)'로서 야후가 가진 독보적인 자산이 AI 시대의 새로운 경쟁력이 될 것\"이라고 강조했다.그동안 구글 등 거대 경쟁사들에 밀려 주춤했던 야후는 사모펀드 아폴로 글로벌 매니지먼트에",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "8b23ef71aaa6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "디포그, 'OCP 코리아 테크 데이 '서 랙·파워·냉각 아우르는 AIDC 인프라 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214307",
+      "date": "2026-08-24",
+      "summary": "AI 데이터센터 인프라 전문 디포그는 지난 21일 서울 코엑스에서 열린 ‘2026 OCP 코리아 테크 데이’​에 참가해 ‘하나의 파트너로 OCP 인프라를 완성하세요(One Partner. Complete OCP Infrastructure)’​를 슬로건으로 OCP(Open Compute Project) 기반의 랙, 파워, 냉각(Rack·Power·Cooling) 통합 솔루션을 선보였다고 밝혔다.최근 고성능 GPU 서버가 적용되는 AI·HPC 데이터센터에서는 기존 데이터센터 대비 랙당 전력 소비량과 발열량이 크게 증가하고 있다고 강조했",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "27dae75685a4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "롯데이노베이트, 강릉에서 제주·경주·순천까지 자율주행 셔틀 누적 10만km 주행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214292",
+      "date": "2026-08-24",
+      "summary": "롯데이노베이트가 전국 주요 지자체에서 자율주행 셔틀을 운행하며 누적 주행거리 10만km, 탑승객 4만명을 돌파했다고 24일 밝혔다.이번 성과는 강릉을 시작으로 제주, 경주, 순천 등 전국 각지에서 도입·운용 중인 자율주행 셔틀 ‘MUVU(Move Us to Valuable Utopia)’의 운행 데이터다.MUVU는 운전석이 없는 B형 자율주행차로, 2021년 국내 최초 임시운행허가를 취득한 뒤 강릉, 경주, 제주, 순천, 세종, 내포신도시 등 전국 지자체와 협업해 운행했다.셔틀에는 라이다(LiDAR)와 V2X 등 멀티 센서를 융합해",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "717ec02386ec",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KT, ‘AX 컴퍼니’ 전환 속도…플랫폼·인프라·업무방식 3대 전략 발표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214311",
+      "date": "2026-08-24",
+      "summary": "KT(대표 박윤영)가 사내 클라우드부터 일하는 방식까지 전반을 AI 중심으로 전환하는 'AX 컴퍼니' 3대 핵심 전략을 추진한다고 24일 밝혔다.그간 축적한 IT 구축·운영 역량을 바탕으로 ‘넥스트 IT 플랫폼’, ‘넥스트 IT 인프라’, ‘넥스트 IT 웍스’ 3대 축을 정해 업무 플랫폼 현대화와 AX를 강화한다는 설명이다.먼저, ‘넥스트 IT 플랫폼’ 전략을 통해 ERP(Enterprise Resource Planning), BSS(Business Support System), OSS(Operations Support System",
+      "keywords": [
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "bdb74b99e79e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "파두, ‘OCP 코리아 테크 데이’서 AI 데이터센터 특화 비전 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214305",
+      "date": "2026-08-24",
+      "summary": "데이터센터 반도체 전문 파두(대표 남이현)는 21일 서울 코엑스에서 열린 ‘2026 OCP 코리아 테크 데이’에 참가해 AI 데이터센터 특화 비전을 선보였다고 밝혔다.OCP 코리아 테크 데이는 오픈 컴퓨트 프로젝트(OCP) 재단과 OCP 코리아 커뮤니티가 2019년부터 개최해 온 행사다. 전 세계의 하이퍼스케일러, 반도체 선도기업, 인프라 공급업체, 스타트업 등이 한자리에 모이는 공식 연례 컨퍼런스다. 올해로 8회차를 맞이했으며, 1500명의 참관객을 대상으로 진행됐다.올해 행사에서 파두 김승민 박사는 ‘AI 데이터센터 안의 플래시",
+      "keywords": [],
+      "first_seen": "2026-08-25"
+    },
+    {
+      "id": "c823d8d1a4a5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"10년 내 암 정복\" 빅테크 호언장담에 과학계 \"근거 없는 과장\" 일침",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214286",
+      "date": "2026-08-24",
+      "summary": "AI가 신약 개발과 질병 치료의 판도를 바꿀 것이라는 실리콘밸리의 낙관론이 확산하는 가운데, 과학계에서 이를 두고 “근거 없는 과장”이라는 비판이 거세지고 있다. 21일(현지시간) 디 인포메이션에 따르면, AI가 암을 비롯한 난치병을 수년 안에 치료할 수 있다는 빅테크 경영진의 잇따른 선언이 과학의 핵심 원칙인 검증과 재현성을 무시한 채 기대를 지나치게 부풀리고 있다는 지적이 나온다.대표적인 비판자는 미국의 저명한 심장 전문의 에릭 토폴이다. 그는 데미스 허사비스 구글 딥마인드 회장이 최근 “앞으로 10년 안에 모든 질병을 치료할",
+      "keywords": [],
+      "first_seen": "2026-08-25"
     },
     {
       "id": "2e0f7fb6d43c",
@@ -60586,11 +61322,6 @@
   "daily_stats": [
     {
       "date": "2026-05-29",
-      "added": 0,
-      "total": 386
-    },
-    {
-      "date": "2026-05-29",
       "added": 11,
       "total": 397
     },
@@ -61033,30 +61764,15 @@
       "date": "2026-08-24",
       "added": 18,
       "total": 4549
+    },
+    {
+      "date": "2026-08-25",
+      "added": 56,
+      "total": 4605
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W27",
-      "keywords": {
-        "AI Agent": 46,
-        "Claude": 25,
-        "Automation": 22,
-        "Security": 17,
-        "Gemini": 14,
-        "Open Source": 13,
-        "Coding": 11,
-        "LLM": 10,
-        "SDK/API": 10,
-        "GPT": 7,
-        "Chatbot": 6,
-        "Generative AI": 6,
-        "Deployment": 6,
-        "Robotics": 6,
-        "Video AI": 5
-      }
-    },
     {
       "week": "2026-W28",
       "keywords": {
@@ -61192,22 +61908,42 @@
         "AI Safety": 7,
         "Enterprise AI": 6,
         "Video AI": 6,
-        "Vision": 5,
         "Robotics": 5,
+        "Vision": 5,
         "Developer Tools": 5
+      }
+    },
+    {
+      "week": "2026-W35",
+      "keywords": {
+        "AI Agent": 9,
+        "GPT": 4,
+        "Automation": 4,
+        "Optimization": 3,
+        "Security": 3,
+        "Speech/Audio": 2,
+        "Robotics": 2,
+        "Open Source": 2,
+        "SDK/API": 2,
+        "Developer Tools": 1,
+        "Coding": 1,
+        "Cloud/DevOps": 1,
+        "Deployment": 1,
+        "Reasoning": 1,
+        "LLM": 1
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 2238,
-      "recent_7d": 186,
-      "recent_30d": 591
+      "total": 2268,
+      "recent_7d": 203,
+      "recent_30d": 621
     },
     "techcrunch": {
-      "total": 1295,
-      "recent_7d": 116,
-      "recent_30d": 345
+      "total": 1310,
+      "recent_7d": 127,
+      "recent_30d": 360
     },
     "toss": {
       "total": 48,
@@ -61225,9 +61961,9 @@
       "recent_30d": 18
     },
     "aws_ml": {
-      "total": 267,
-      "recent_7d": 26,
-      "recent_30d": 65
+      "total": 272,
+      "recent_7d": 31,
+      "recent_30d": 70
     },
     "lycorp": {
       "total": 52,
@@ -61235,14 +61971,14 @@
       "recent_30d": 3
     },
     "openai": {
-      "total": 172,
-      "recent_7d": 14,
-      "recent_30d": 44
+      "total": 173,
+      "recent_7d": 15,
+      "recent_30d": 45
     },
     "nvidia_ai": {
-      "total": 113,
-      "recent_7d": 2,
-      "recent_30d": 16
+      "total": 116,
+      "recent_7d": 5,
+      "recent_30d": 19
     },
     "google_ai": {
       "total": 50,
@@ -61250,9 +61986,9 @@
       "recent_30d": 7
     },
     "meta_eng": {
-      "total": 21,
-      "recent_7d": 0,
-      "recent_30d": 3
+      "total": 23,
+      "recent_7d": 2,
+      "recent_30d": 5
     },
     "woowahan": {
       "total": 10,
@@ -61270,6 +62006,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-08-24",
-  "total_articles": 4549
+  "last_updated": "2026-08-25",
+  "total_articles": 4605
 }
