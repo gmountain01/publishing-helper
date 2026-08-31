@@ -1,6 +1,170 @@
 {
   "articles": [
     {
+      "id": "c053743dc5a1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "date": "2026-08-31",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "5e9fce5dde5a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "date": "2026-08-31",
+      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been pr",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "7303ec6b227a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'맥', 애플 최고 인기 제품으로 떠올라...\"오픈AI·앤트로픽도 사들였다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214645",
+      "date": "2026-08-31",
+      "summary": "오픈AI와 앤트로픽 등 주요 AI 기업과 네오클라우드 기업들이 애플의 '맥 미니'와 '맥 스튜디오'를 대량으로 사들이면서, 맥 제품군이 애플 내에서 가장 빠르게 성장하는 사업 부문으로 떠올랐다. 그동안 비즈니스 시장에서 비교적 외면받아온 데스크톱 라인업이 예상을 깨고 핵심 하드웨어로 재조명받는 모습이다.애플은 지난 7월30일(현지시간) 분기 실적 발표를 통해 맥 매출이 전년 동기 대비 29% 급증한 104억달러(약 14조2875억원)를 기록하며 회사 내 다른 어떤 제품군보다 높은 성장세를 보였다고 밝혔다. 디 인포메이션에 따르면,",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "08b354405160",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214644",
+      "date": "2026-08-31",
+      "summary": "스페이스X가 AI 데이터센터의 극심한 전력난을 돌파하기 위해 대형 가스 터빈 부품 직접 생산에 나선다. 세계적인 전력 인프라 병목 현상의 핵심 원인으로 꼽히는 터빈 블레이드 공급 부족을 자체 주조 공장 설립을 통해 직접 해결하겠다는 구상이다. 디인포메이션은 29일(현지시간) 스페이스X가 텍사스주 오스틴 인근 바스트롭에 위치한 사업장에 대형 산업용 가스 터빈(IGT) 부품 생산을 위한 주조 공장을 신설하기로 하고 엔지니어 및 프로그래머 채용에 나섰다고 보도했다.일론 머스크 CEO도 X를 통해 사실을 인정했다. \"스페이스X와 테슬라가",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "c82d8345086e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "‘K-폴드’ 하나로 단백질·약물·핵산 예측…“한국판 신약 설계 모델 나와”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214628",
+      "date": "2026-08-31",
+      "summary": "국내에서 자체 설계, 학습한 차세대 바이오 AI 모델이 등장했다. 연구자들이 손쉽게 사용할 수 있도록 웹서비스 형태로도 공개됐다. 한국과학기술원(KAIST, 총장 배충식)은 과학기술정보통신부의 ‘AI 특화 파운데이션 모델 프로젝트’ 주관기관으로서 ‘팀 KAIST’를 구성하고, 차세대 바이오 AI 모델 ‘케이폴드(K-Fold)’를 공개했다고 28일 밝혔다.이번 연구는 김우연 화학과 교수가 총괄했으며, 김우연 교수 연구팀을 비롯해 황성주·안성수 김재철AI대학원 교수팀이 AI 모델 개발을 맡았다. 오병하, 김호민, 이규리 생명과학과 교수",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "2f549ea25fe8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "채널코퍼레이션, 업스테이지·프렌들리AI와 'AI 실무 토론회' 연다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214635",
+      "date": "2026-08-31",
+      "summary": "기업용 AI 플랫폼 ‘채널톡’ 운영사 채널코퍼레이션(대표 최시원)은 오는 9월18일 서울 본사에서 업스테이지, 프렌들리AI와 AI 제품 개발 실무 토론회 ‘AI 프로덕트 프론티어’를 개최한다고 밝혔다.이번 행사는 ‘AI 시대, 최전선에서 방향을 만드는 사람들’을 주제로 AI 업계 리더들과 국내 AI 업계가 나아갈 방향을 모색하기 위해 마련됐다.행사는 오프닝 세션을 시작으로 ▲국내 AI 스타트업 3사 대표가 참여하는 패널토크 ▲현장 질의응답 ▲참가자 네트워킹 순으로 진행된다.패널토크는 이경훈 채널코퍼레이션 최고 전략책임자(CSO)가",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "9863075b0871",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아스테로모프 AI 모델, 국제물리올림피아드서 금메달 성적 기록",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214639",
+      "date": "2026-08-31",
+      "summary": "국내 AI 스타트업 아스테로모프가 국제물리올림피아드(IPhO)에서 금메달에 해당하는 성적을 거뒀다.아스테로모프(대표 이민형)는 지난 7월 열린 제56회 IPhO 이론시험에 참가, 자체 개발 AI 모델로 30점 만점에 28.6점을 획득했다고 31일 밝혔다.IPhO는 전세계 고등학생들을 대상으로 매년 열리는 국제 물리 경시대회로, 고난도의 이론 및 실험 물리 문제를 겨루는 자리다. 올해 대회는 콜롬비아 부카라망가에서 개최됐다.고동현 부사장을 포함한 아스테로모프 엔지니어팀은 AI 모델의 현장 평가를 위해 콜롬비아로 이동해 시험에 참여했다",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "b42b1ffa62c9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "원티드랩, 최대 상금 1000만원 ‘AI 챔피언십’ 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214636",
+      "date": "2026-08-31",
+      "summary": "원티드랩(대표 이복기)은 아이디어를 현실로 만드는 해커톤 '원티드 AI 챔피언십 - AI 해커톤, 한계 밖으로'를 개최한다고 31일 밝혔다. 참가 대상은 만 19세 이상 대학(원)생 및 일반인으로, 개인 또는 최대 5인 팀 단위로 지원할 수 있다. AI를 활용해 실제 문제를 해결하거나 새로운 가치를 만드는 프로젝트라면 주제 제한 없이 자유롭게 지원 가능하며, 오는 9월18일까지 접수를 마친 참가자는 20일까지 과제를 제출하면 된다. 이후 예선 심사(원티드랩 심사위원단 평가 80%, 온라인 투표 20%)를 거쳐 10월7일 본선 진출팀",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "daedd41d3b00",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KT, 우리은행 ‘AI 챗봇·상담봇’ 구축...\"에이전트로 막힘 없는 금융 상담\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214634",
+      "date": "2026-08-31",
+      "summary": "KT(대표 박윤영)가 우리은행(은행장 정진완)이 발주한 ‘AI 챗봇 및 상담봇 재구축’ 사업자로 선정돼 AI 고객 상담 시스템 구축에 착수한다고 31일 밝혔다.이번 사업은 우리은행에서 운영하는 비대면 고객 상담 채널인 '챗봇'과 '상담봇'의 인프라를 고도화하는 데 목표를 둔다. AI를 토대로 금융상담을 제공하는 ‘AI 뱅커’와 AI 에이전트를 연계해 챗봇의 상담 범위와 업무 처리 기능을 확대하는 것이 핵심이다. 상담 시 고객 의도를 정확하게 파악하고 인바운드 상담 완결성을 높인다는 계획이다. 아웃바운드 상담과 영업점 상담까지 AI",
+      "keywords": [
+        "AI Agent",
+        "Chatbot"
+      ],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "cc43357a108d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "이스트소프트, 대국민 AI '알비서' 하반기 선보인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214638",
+      "date": "2026-08-31",
+      "summary": "이스트소프트(대표 정상원)는 AI 비서 '알비서'를 하반기 중 선보인다고 31일 밝혔다.알비서는 가장 쓰기 편한 설치형 AI 에이전트를 목표로 ▲스스로 과업을 완결하는 개인형 에이전트 ▲개인의 파일 시스템을 이해하는 PC 설치형·앱·웹 지원 ▲소형언어모델(SLM) 기반 서비스 지속가능성 ▲알툴즈 기반 운영망을 확보할 전망이다.특히 AI 챗봇 기능은 근거 기반 답변을 찾아주는 '딥리서치'와 외부 앱을 연동해 결과물 완성도를 높이는 '스킬 위시스토어'를 함께 탑재한다.이 외에도 행정을 돕는 공공 서비스, 개인 정보를 학습해 일상을 편리",
+      "keywords": [
+        "AI Agent",
+        "Chatbot"
+      ],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "f4ee5c1ee302",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "세계 태양광·ESS 동시 투자 상반기 37.5조…1년 새 3배로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214630",
+      "date": "2026-08-31",
+      "summary": "태양광발전소와 에너지저장장치(ESS)를 함께 구축하는 사업에 대한 글로벌 투자가 올해 상반기 역대 최대를 기록했다. 태양광 발전 확대에 따른 출력제한과 전력가격 하락 등으로 단독 태양광 사업의 수익 불확실성이 커지면서 ESS를 결합한 사업으로 투자금이 이동하는 모습이다.글로벌 에너지시장조사업체 블룸버그NEF(BNEF)는 지난 26일(현지시간) 발표한 자료에서 올해 상반기 태양광·ESS 병설 프로젝트 투자액이 250억달러(약 34조4500억원)를 기록했다고 밝혔다. 지난해 하반기의 약 2배, 지난해 상반기의 3배 수준으로 미국과 호주",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "e0e55c6fa06d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 데이터센터, 폐열로 '냉각'…연산용 전력 최대 97MW 더 쓴다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214631",
+      "date": "2026-08-31",
+      "summary": "AI 데이터센터의 자가발전 과정에서 버려지는 열을 냉각에 활용해 연산에 사용할 수 있는 전력을 늘리는 설계가 나왔다. 1기가와트(GW) 규모 데이터센터의 경우 냉각용 전력 소비를 줄여 최대 97메가와트(MW)를 AI 연산에 추가로 사용할 수 있다는 분석이다.미국 냉난방·빌딩설비 기업 존슨콘트롤즈는 지난 7월 28일(현지시간) 이 같은 내용을 담은 ‘흡수식 냉동기 설계 가이드’를 발표했다.이에 따르면, 데이터센터가 현장에서 전력을 생산할 경우 투입 에너지의 약 57%가 열 형태로 버려질 수 있다.핵심은 폐열을 다시 전기로 만드는 것이",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "1dada3460c9e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중남미 에너지 저장장치, 2035년 34GW 전망…10년 새 13배 성장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214629",
+      "date": "2026-08-31",
+      "summary": "중남미 에너지저장장치(ESS) 시장이 2035년까지 34기가와트(GW) 규모로 성장할 것이라는 전망이 나왔다. 재생에너지 발전 확대에 따른 출력제한과 송전망 부족, 각국의 ESS 입찰 확대가 시장 성장을 이끌 것으로 예상된다.글로벌 에너지시장조사 전문 우드맥킨지는 지난 27일(현지시간) 발표한 ‘중남미 에너지저장 전망 2026’에서 역내 누적 저장설비 용량이 2025년 2.5GW에서 2035년 34GW로 약 13배 증가할 것으로 내다봤다. 연평균 성장률은 30%로 전망했다.이는 지난해 전망보다 높아진 수치다. 우드맥킨지는 2025년",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
       "id": "cfd8b9303811",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -189,6 +353,111 @@
       "summary": "오픈AI가 일론 머스크 CEO의 스페이스X에 인수된 AI 코딩 스타트업 커서에 대한 AI 모델 제공을 중단하기로 했다. 샘 알트먼 오픈AI CEO와 머스크 CEO 간의 오랜 갈등이 기술 파트너십 영역으로까지 확대되는 양상이다. 오픈AI는 28일(현지시간) 공식 발표를 통해 스페이스X에 커서에 대한 모델 공급 계약을 단계적으로 종료하겠다는 뜻을 통보했으며, 차단 예정일은 2026년 11월12일이라고 밝혔다. 계약상 허용되는 최대 통지 기간을 적용해 개발자들이 대비할 수 있는 시간을 제공한다는 방침이지만, 향후 차세대 모델인 '아스트라",
       "keywords": [],
       "first_seen": "2026-08-30"
+    },
+    {
+      "id": "378833979da6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "date": "2026-08-30",
+      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "d5dafdd78fb6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "date": "2026-08-30",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "67389318ad3f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "date": "2026-08-30",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "e4de3653e651",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "date": "2026-08-30",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "keywords": [
+        "Automation",
+        "Deployment"
+      ],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "85598307d40b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI가 AI 칩을 만든다\"...'핫칩스 2026'서 확인된 반도체 설계의 대변혁",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214627",
+      "date": "2026-08-30",
+      "summary": "AI가 스스로를 구동할 반도체를 직접 설계하는 'AI를 만드는 AI' 시대가 마침내 현실로 다가왔다. 지난 8월 23일(현지시간)부터 25일까지 미국 캘리포니아주 팔로알토의 스탠포드대학교 메모리얼 오디토리엄에서는 세계 최대 반도체 학술행사 '핫칩스 2026(Hot Chips 38)' 컨퍼런스가 개최됐다. 디 인포메이션 등에 따르면, 이번 행사에는 엔비디아, 구글, 오픈AI, 인텔, AMD, 메타, 미크론, 삼성전자 등 20여개 이상의 세계 주요 빅테크 기업과 전문 스타트업들이 발표자로 참가해 AI 기반 반도체 설계 자동화 솔루션을",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "748b9afee14c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "웨이모, 테슬라 향해 직격탄… “2억마일 뛰어보니 카메라만으론 한계”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214626",
+      "date": "2026-08-30",
+      "summary": "자율주행 선두 주자인 웨이모가 카메라 센서만으로 자율주행을 구현하려는 테슬라의 기술 전략에 대해 “카메라만으로는 완전 자율주행의 안전성을 담보할 수 없다”며 직격탄을 날렸다.스리칸스 티루말라이 웨이모 부사장은 26일(현지시간) 웨이모는 공식 블로그를 통해 2억마일(3억2000만km)이 넘는 실제 완전 무인 자율주행 데이터를 기반으로 도출한 ‘자율주행 AI 개발의 10가지 교훈’을 공개했다. 첫 번째 항목으로 ‘멀티모달 센서의 필수성’을 꼽으며, 테슬라와 일론 머스크 CEO의 '비전-온리(Vision-only)' 전략을 정면으로 반박",
+      "keywords": [
+        "Vision"
+      ],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "3b47a82d0daf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214624",
+      "date": "2026-08-30",
+      "summary": "국가AI전략위원회 부위원장의 공석을 하정우 전 AI수석이 채우게 됐다. 이해민 AI수석의 합류까지 결정되며 정부의 ‘AI 컨트롤타워’ 라인업이 진용을 갖췄다.30일 청와대 브리핑에 따르면, AI 전략을 총괄하는 국가인공지능전략위원회 부위원장을 비롯해 대통령비서실 AI미래기획수석비서관과 메가프로젝트(가칭) 보좌관의 내정이 결정됐다.임문영 전 국가 AI전략위 상근 부위원장이 보궐선거 출마를 위해 사의 및 해촉됨에 따라, 배경훈 부총리 겸 과학기술정보통신부 장관은 업무 공백을 최소화하기 위해 일시적으로 상근 부위원장 역할을 겸임해 왔다.",
+      "keywords": [],
+      "first_seen": "2026-08-31"
+    },
+    {
+      "id": "b195a90b9a06",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KAIST, AI로 몰카 찾는 LED장치 개발…‘1만원’ 스마트폰 케이스에 부착",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214622",
+      "date": "2026-08-30",
+      "summary": "스마트폰에 ‘1만원 수준’ 발광다이오드(LED) 장치를 부착하는 것만으로 불법 촬영 카메라(몰래 카메라)를 찾아낼 수 있는 AI 기술이 등장했다. 한국과학기술원(KAIST, 총장 배충식)은 한준 전산학부 교수 연구팀이 싱가포르국립대학(NUS) 및 싱가포르경영대학(SMU)과 공동연구를 진행, 스마트폰에 발광다이오드(LED) 케이스를 부착해 숨겨진 카메라를 탐지하는 기술 ‘스윕LED’를 개발했다고 30일 밝혔다. 기존 휴대용 탐지기는 금속이나 유리, 광택이 있는 플라스틱까지 카메라로 오인할 가능성이 있었다는 설명이다. 이에 연구팀은 스",
+      "keywords": [],
+      "first_seen": "2026-08-31"
     },
     {
       "id": "80d7448380d8",
@@ -64716,11 +64985,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-06-02",
-      "added": 71,
-      "total": 564
-    },
-    {
       "date": "2026-06-03",
       "added": 61,
       "total": 625
@@ -65164,30 +65428,15 @@
       "date": "2026-08-30",
       "added": 33,
       "total": 4861
+    },
+    {
+      "date": "2026-08-31",
+      "added": 21,
+      "total": 4882
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W28",
-      "keywords": {
-        "AI Agent": 42,
-        "Automation": 29,
-        "GPT": 23,
-        "Security": 16,
-        "Open Source": 14,
-        "LLM": 14,
-        "Claude": 11,
-        "Deployment": 10,
-        "Video AI": 9,
-        "Generative AI": 9,
-        "RAG": 8,
-        "Cloud/DevOps": 7,
-        "Optimization": 7,
-        "Robotics": 7,
-        "Enterprise AI": 7
-      }
-    },
     {
       "week": "2026-W29",
       "keywords": {
@@ -65312,38 +65561,46 @@
       "week": "2026-W35",
       "keywords": {
         "AI Agent": 37,
-        "Automation": 32,
+        "Automation": 34,
         "Security": 20,
-        "SDK/API": 12,
         "GPT": 12,
-        "Open Source": 11,
+        "SDK/API": 12,
         "Coding": 11,
+        "Open Source": 11,
         "Claude": 10,
+        "Robotics": 10,
         "Gemini": 9,
         "Optimization": 9,
-        "Robotics": 9,
         "LLM": 6,
         "Cloud/DevOps": 6,
         "Speech/Audio": 6,
         "RAG": 5
       }
+    },
+    {
+      "week": "2026-W36",
+      "keywords": {
+        "AI Agent": 2,
+        "Chatbot": 2,
+        "Robotics": 1
+      }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 2399,
-      "recent_7d": 194,
-      "recent_30d": 752
+      "total": 2414,
+      "recent_7d": 187,
+      "recent_30d": 767
+    },
+    "techcrunch": {
+      "total": 1395,
+      "recent_7d": 107,
+      "recent_30d": 445
     },
     "openai": {
       "total": 186,
       "recent_7d": 14,
       "recent_30d": 58
-    },
-    "techcrunch": {
-      "total": 1389,
-      "recent_7d": 109,
-      "recent_30d": 439
     },
     "toss": {
       "total": 50,
@@ -65401,6 +65658,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-08-30",
-  "total_articles": 4861
+  "last_updated": "2026-08-31",
+  "total_articles": 4882
 }
