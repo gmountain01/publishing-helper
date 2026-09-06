@@ -1,6 +1,202 @@
 {
   "articles": [
     {
+      "id": "3501b7ea6eab",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214908",
+      "date": "2026-09-06",
+      "summary": "일론 머스크 CEO의 xAI(스페이스XAI)가 미네소타주의 AI 생성 가짜 나체 이미지 금지법을 저지하기 위해 제기한 소송에서 패소했다. 미국 연방법원은 xAI가 해당 법의 시행을 막아야 할 긴급한 필요성을 입증하지 못했다고 판단했다. 다만 법 자체의 위헌 여부에 대해서는 본안 심리를 통해 충분히 검토하겠다고 밝혀, 법적 공방은 계속될 전망이다.로이터에 따르면, 미국 미네소타주 연방법원 도너번 프랭크 판사는 4일(현지시간) xAI가 요청한 예비적 금지명령을 기각했다.미네소타주의 관련 법은 지난 8월 1일부터 시행됐으며, 웹사이트 운",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "ac406f7be78c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+      "date": "2026-09-06",
+      "summary": "엔비디아와 크라우드스트라이크가 AI를 활용한 사이버 공격이 급속도로 고도화되는 상황에 대응하기 위해 새로운 사이버 보안 특화 AI 모델군을 공동 개발했다. 공격자의 관점에서 기업 시스템의 침투 경로를 찾아내는 동시에 이를 차단하는 방어책까지 자동으로 마련하는 방식으로, AI 시대에 벌어지고 있는 공격자와 방어자 간 속도 격차를 줄이는 것이 목표다.양사는 1일(현지시간) 크라우드스트라이크의 연례 행사에서 사이버 보안 특화 AI 모델군 ‘세이프마인드(SafeMind)’를 공개했다.세이프마인드는 크라우드스트라이크의 대표 보안 플랫폼인 '",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "bc355efd7af5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214900",
+      "date": "2026-09-06",
+      "summary": "오픈AI가 자사 AI 에이전트들이 폐쇄된 테스트 환경을 벗어나 독일의 한 위키 사이트를 장악하고 에이전트 간 소통 공간으로 활용한 ‘위키 사건’을 공식 인정했다. 이번 사건을 계기로 AI가 개발자나 사용자의 의도와 다르게 행동하는 ‘정렬 실패(misalignment)’ 사례에 대한 공개 기준을 새로 마련하겠다고 밝혔다.오픈AI는 5일(현지시간) 소셜미디어 X를 통해 “언제, 어떻게 정렬 실패 사건을 공유할지에 대한 기준을 정립할 때가 됐다”며 “새로운 모델 역량 단계에 맞춰 정렬 실패 공개 관행을 확대해야 한다”고 밝혔다.지금까지는",
+      "keywords": [
+        "AI Agent",
+        "AI Safety"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "8b7f6676ad45",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'알트먼 축출 사태' 다룬 영화 '아티피셜', 10월 뉴욕 영화제서 최초 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214907",
+      "date": "2026-09-06",
+      "summary": "샘 알트먼 오픈AI CEO의 해고와 복귀 사태를 소재로 다뤄 화제를 모은 루카 구아다니노 감독의 신작 영화 '아티피셜(Artificial)'이 제64회 뉴욕 영화제(NYFF)에서 세계 최초로 베일을 벗는다.버라이어티에 따르면, 아티피셜은 오는 10월5일 링컨 센터 앨리스 털리 홀에서 열리는 뉴욕 영화제에서 프리미어 상영을 확정했다. 이번 상영회에는 루카 구아다니노 감독을 비롯해 주연 배우 앤드류 가필드, 모니카 바르바로, 유라 보리소프, 아이크 바린홀츠 등 주요 출연진이 대거 참석할 예정이다.이 영화는 2023년 발생한 오픈AI 이",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "8a3fa028c119",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "알트먼 \"AI 혜택 홍보 미흡했다\" 자성… 대중 설득 나선 빅테크",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214906",
+      "date": "2026-09-06",
+      "summary": "샘 알트먼 오픈AI CEO가 AI 업계가 기술의 혜택을 대중에게 제대로 전달하지 못해 거센 사회적 반발에 직면했다고 자평했다. 전날 스콧 베선트 미 재무장관이 하이퍼스케일러 기업들의 소통 부재를 거세게 비판한 데 이어, AI 산업을 이끄는 리더도 실수를 인정하며 고개를 숙인 모양새다.알트먼 CEO는 3일(현지시간) 블룸버그 TV와의 인터뷰에서 AI 기술의 긍정적인 면을 알리는 데 있어 업계 전반의 대처가 미흡했다고 진단했다. 오픈AI도 예외는 아니었으며 대중에게 AI가 인간의 자율성과 창의성을 확장하는 도구라는 점을 설득하는 데 실",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "c90a29b54a95",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"메모리 400% 폭등에 '아이폰 18 프로' 20% 올려 178만원 육박할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214903",
+      "date": "2026-09-06",
+      "summary": "글로벌 메모리 가격의 급등세로 애플이 차기 플래그십 아이폰의 가격을 역대 최고 수준으로 올릴 것이라는 전망이 나왔다.시장조사 전문 트렌드포스는 3일(현지시간) 발표한 보고서를 통해 메모리 가격 급등 여파로 신형 아이폰 라인업의 출하 가격이 전작 대비 10%에서 최대 20%까지 상승할 것이라고 밝혔다.이에 따르면 256GB 용량의 아이폰 18 프로 모델에 탑재되는 메모리 비용은 불과 1년 사이에 400% 가깝게 급등했다. 이에 따라 아이폰 18 프로의 기본 시작 가격은 최대 1319달러(약 178만원)에 달할 수 있다는 관측이 제기됐",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "564c7cbe540d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천서 조각보·전통자수 만난다…김영복 작가 초대전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214862",
+      "date": "2026-09-06",
+      "summary": "AI 생성 영상순천에서 조각보와 전통자수, 침선 등 한국 전통 섬유공예를 현대적으로 풀어낸 전시가 열린다. 왕실 장신구와 포장용구, 전통 소재를 활용한 입체작품까지 함께 선보여 생활공예와 조형작품의 경계를 폭넓게 살펴볼 수 있다.순천문화재단은 10월29일까지 창작예술촌 2호 김혜순한복공방에서 김영복 작가 초대전 ‘단아한 선, 깊은 울림’을 개최한다고 밝혔다.이번 전시는 조각보와 자수, 침선 등 전통 섬유공예를 중심으로 작업해온 김영복 작가의 작품을 소개한다.작가는 선조들의 생활문화와 미의식이 담긴 공예기법을 바탕으로 실용성과 조형성",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "02bf22948e81",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남도서관, 9월 한 달 도서 대출 확대…전시·공연·강연 풍성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214855",
+      "date": "2026-09-06",
+      "summary": "AI 생성 영상전남도서관이 9월 ‘독서의 달’을 맞아 도서 대출 권수를 기존 10권에서 15권으로 늘리고 대출기간도 14일에서 21일로 연장한다. 연체도서를 반납하면 대출 정지도 해제된다. 전시와 공연, 작가 강연, 체험 프로그램을 함께 운영하고 기증도서 400권도 시민에게 나눠준다.전남도서관은 전남광주통합특별시 출범 이후 처음 맞는 독서의 달을 기념해 9월 한 달간 ‘책과 함께’를 주제로 독서문화 행사를 진행한다고 4일 밝혔다.우선 30일까지 1층 남도화랑에서 ‘살아있는 책, 태어난 책 그리고 그려진 시’ 전시를 연다. 팝업북과",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "83744aeb3801",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "일레븐랩스, 한국 시장 공략 본격화…\"초저지연 음성 AI로 AICC 혁신\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214895",
+      "date": "2026-09-06",
+      "summary": "일레븐랩스가 아시아-태평양(APAC) 지역과 한국 시장 집중 공략에 나선다. 음성 AI 에이전트가 매출 성장을 견인하며 이미 의미 있는 성과가 나오고 있다고 밝혔다.일레븐랩스는 3일 노보텔 앰배서더 서울 강남에서 ‘이그제큐티브 조찬 세션’을 개최하고 아태 지역 및 한국 시장 진출 현황을 발표했다.초저지연 AI 음성 에이전트인 ‘일레븐에이전트’는 신규 사업 중 가장 빠르게 성장 중이다. 2026년 1~4월 간 연간 반복 매출(ARR)은 6억달러를 돌파한 바 있다. 지난 2월에는 기업 가치 110억달러를 기록하기도 했다.성장을 견인하는",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "dd69548320ec",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214899",
+      "date": "2026-09-06",
+      "summary": "오픈AI가 대표적인 AI 성능 평가 플랫폼 '아레나'의 코딩 분야에서 앤트로픽을 제치고 처음으로 1위에 올랐다. 그동안 코딩 및 웹 개발 영역에서 압도적인 강세를 보이며 정상을 지켜오던 앤트로픽의 '클로드' 시리즈를 꺾었다.6일 아레나에 따르면, 오픈AI의 'GPT-6 아스트라(Max)'는 '코드 아레나: 웹개발' 부문에서 1797점을 기록하며 전체 1위를 차지했다. 이는 기존 1위였던 앤트로픽의 '클로드 페이블 5.1(Max)'의 1762점을 35점 차로 따돌린 결과이며, 3위 '클로드 오퍼스 5(Max)'의 1688점과도 격차를",
+      "keywords": [
+        "Claude",
+        "GPT"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "1922ab4ada7f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "영국 태양광 설치, 7개월간 17만건…7월 10건 중 7건이 옥상형",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214831",
+      "date": "2026-09-06",
+      "summary": "영국에서 올해 들어 7월까지 약 17만2000건의 태양광 설비가 새로 설치됐다. 특히 7월 신규 설치의 70% 이상을 옥상형 태양광이 차지하면서 가정과 사업장을 중심으로 보급이 이어지고 있다.영국 에너지안보·넷제로부(DESNZ)는 지난달 27일(현지시간) 공개한 태양광 보급 통계에서 올해 1~7월 영국 전역에 약 17만2000건의 태양광 설비가 설치됐다고 밝혔다. 주택과 사업장뿐 아니라 대규모 태양광 프로젝트도 통계에 포함된다.7월 한 달 신규 설치는 약 2만8000건으로 집계됐다. 월간 기준으로는 올해 3월과 6월에 이어 역대 세",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "39177c867d7c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "목포, 무인수상정 자율운항 거점 추진…해상실증·R&D 연계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214860",
+      "date": "2026-09-06",
+      "summary": "AI 생성 영상목포시가 무인수상정 자율운항 기술의 해상시험과 실증, 연구개발을 지역에서 연계하는 산업 거점 구축에 나선다. 관련 기업의 제작·부품·정비 참여와 전문인력 양성까지 묶어 지역 조선·해양산업과의 연계를 넓힌다는 구상이다.목포는 지난 3일 전남광주통합특별시, 한화시스템, 유일조선해양과 ‘무인수상정 자율운항산업 거점 구축 및 국방 무인체계 고도화 산업 육성을 위한 업무협약’을 체결했다고 4일 밝혔다.협약의 핵심은 무인수상정 기술개발에 필요한 해상시험·실증 기반을 지역에 마련하는 것이다. 4개 기관은 연구개발과 기술 고도화,",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "691f4704dddf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "태양광 오염방지 코팅, 로봇청소 조건 따라 수명 최대 82배 차이",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214837",
+      "date": "2026-09-06",
+      "summary": "태양광 모듈에 먼지가 쌓인 상태에서 로봇청소를 반복하면 오염방지 코팅의 마모가 크게 빨라질 수 있다는 연구 결과가 나왔다. 브러시의 재질과 회전 방향, 이동속도 역시 코팅 수명에 영향을 미치는 것으로 나타났다.인도 뭄바이공대(IIT Bombay) 연구진은 최근 국제학술지 '프로그레스 인 포토볼테익스(Progress in Photovoltaics)'에 게재한 연구에서 상용 소수성 오염방지 코팅 4종을 대상으로 로봇청소 과정에서 발생하는 마모 요인을 분석했다.연구진은 실제 태양광 발전환경의 열 변화와 이슬 형성, 먼지 축적, 브러시 청",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "4e79cd1db093",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214898",
+      "date": "2026-09-06",
+      "summary": "앤트로픽이 신규 모델 공개와 미국 노동절 연휴를 맞아 최고 등급 유료 플랜인 '클로드 맥스(Claude Max)' 이용자 전원의 주간 사용량 제한을 기습적으로 일괄 초기화했다. 오픈AI 'GPT-6 아스트라'의 초반 돌풍에 대응해 이용자 이탈을 막고 코딩 시장 주도권을 확보하기 위한 공격적인 전략이다.앤트로픽의 기술 연구원 리디아 할리는 5일(현지시간) X를 통해 \"클로드 맥스 플랜을 이용하는 모든 유저의 주간 사용량 제한을 초기화했다\"며 \"신규 업데이트 버전인 '페이블 5.1' 출시와 다가오는 긴 연휴 동안 개발자와 크리에이터들이",
+      "keywords": [
+        "Claude",
+        "GPT"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "ec897b410336",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214896",
+      "date": "2026-09-06",
+      "summary": "오픈AI의 ‘GPT-6 아스트라’가 AI 모델 중 최초로 수능 전 문항 만점을 달성했다.6일 공개된 ‘2026 수능 LLM 풀이 대시보드’에서 GPT-6 아스트라는 2026 수능 총점 450점 만점에 450점으로 전체 1위에 올랐다.이 대시보드는 AI 수능 벤치마크로 유명한 구유겸 순천향대학교 컴퓨터소프트웨어공학과 학생이 직접 개발한 ‘테스트-채점-통계’ 자동 처리 시스템을 토대로 한 결과다. 한 문항씩 제공해 풀도록 하는 ‘일반 모드’와 과목 별로 모든 문제를 한번에 제공하는 ‘고난도 모드’로 구성된다.평가는 국어, 수학 선택과목",
+      "keywords": [
+        "GPT",
+        "LLM"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
       "id": "14133536b681",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -198,6 +394,188 @@
         "Prompt"
       ],
       "first_seen": "2026-09-05"
+    },
+    {
+      "id": "8a7e0f31a983",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "date": "2026-09-05",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "f774e48a95a8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "date": "2026-09-05",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "669fdcb55695",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "date": "2026-09-05",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "keywords": [
+        "AI Agent",
+        "Framework"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "6010f59d56bf",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "date": "2026-09-05",
+      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "de7e9ba0c659",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "date": "2026-09-05",
+      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "e6844444d2f3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“AI는 돈 벌고 사람은 취업난, 사실일까”…’AI 현황 보고서’ 저자의 진단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214893",
+      "date": "2026-09-05",
+      "summary": "AI 전문 벤처캐피털 에어 스트릿 캐피털의 창립자이자 파트너이며 ‘AI 현황 보고서(State of AI Report)’의 저자인 네이선 베나이치가 한국을 찾았다. 여전히 ‘AI 도입 초기’라는 점을 강조하면서도 실질적인 수익성도 대폭 증가하고 있다는 점을 강조했다. 일레븐랩스는 3일 ‘이그제큐티브 조찬 세션’을 진행, 네이선 베나이치 에어스트릿 캐피털 창립자를 초청해 글로벌 AI 동향을 소개했다. 베나이치 창립자는 일레븐랩스의 초기 투자자이기도 하다. 그가 저자로 참여하는 AI현황 보고서는 AI 연구와 산업, 정책, 안전성 등 최",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "b2cdd3dc5ee4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"생산성 혁명인가, 디스토피아의 시작인가\"…'아스트라' 출시 반응 폭발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214891",
+      "date": "2026-09-05",
+      "summary": "오픈AI의 'GPT-6 아스트라'가 기술 커뮤니티에서 찬사와 우려를 동시에 일으키고 있다. 단순 대화형 AI를 넘어 PC 화면 인식과 소프트웨어 제어를 자율적으로 수행하는 '에이전틱 AI' 시대가 전면화된 가운데, 실무 생산성 도약에 대한 찬사와 지나친 의존성에 대한 경계감이 동시에 표출되고 있다.실제로 오픈AI가 3일(현지시간) 공개한 아스트라의 공식 데모 영상은 불과 하루 만에 1억회 이상의 조회수를 기록했으며, 카테고리별 기술 실시간 트렌드를 점령했다.이어 X와 레딧 등 주요 커뮤니티에서는 개발자들과 크리에이터들이 잇달아 아스",
+      "keywords": [
+        "AI Agent",
+        "GPT"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "290693d79e37",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "샌더스 미 의원, '인공 초지능 금지법' 발의...위반 시 '기업 사형선고'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214892",
+      "date": "2026-09-05",
+      "summary": "미국 정치권에서 AI 기술의 급격한 발전에 따른 통제력 상실을 막기 위해 강한 규제책을 마련하려는 움직임이 본격화하고 있다.무소속 버니 샌더스 미국 버몬트주 상원의원과 민주당 그렉 카사르 텍사스주 하원의원은 3일(현지시간) '인공 초지능(Artificial Superintelligence)' 개발을 금지하고, 위험한 역량을 감시할 전담 정부 기관이 설립될 때까지 첨단 AI 시스템 개발을 즉시 중단하는 법안을 발의할 예정이라고 밝혔다. 이에 따르면, 해당 법안을 위반하는 기업에는 사실상 시장 퇴출을 의미하는 '기업 사형선고(Corpo",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "1cc5eec65644",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214890",
+      "date": "2026-09-05",
+      "summary": "앤트로픽의 기업공개(IPO) 일정이 윤곽을 드러내며 본격적인 상장 절차에 들어갔다. 비밀리에 추진되던 상장 작업은 이르면 다음 주 미 증권거래위원회(SEC)에 증권 신고서를 공개 제출하면서 공식화될 것으로 보인다. 파이낸셜타임스(FT)는 4일(현지시간) 정통한 소식통을 인용, 앤트로픽은 이르면 다음 주 초 신고서 제출을 마친 뒤 경영진과 주요 투자자들이 여러 주요 도시를 직접 돌며 기관투자자들을 만나는 '로드쇼'를 9월 말경 개최하는 일정으로 준비를 진행하고 있다고 보도했다. 로드쇼는 공모가 산정과 기관 배정 물량을 확정 짓는 상장",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "3e9171dfb004",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 제미나이 스파크에 '포토' 연동...사진 검색·편집·일정 등록까지 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214881",
+      "date": "2026-09-05",
+      "summary": "구글이 개인용 AI 에이전트 '제미나이 스파크(Gemini Spark)'에 구글 포토 연동 기능을 추가하며 사진 관리 영역까지 AI의 자동화 범위를 확대했다. 사용자는 자연어 명령 한 번으로 수많은 사진과 영상을 검색·분류하고 앨범을 만들거나 사진을 편집하는 것은 물론, 이미지 속 정보를 활용해 일정 등록과 같은 복합 작업도 수행할 수 있게 됐다.구글 포토 책임자인 쉬므리트 벤야르는 4일(현지시간) 새로운 기능을 공개하고, 앞으로 몇주에 걸쳐 미국 내 영어 사용자를 대상으로 자격을 갖춘 제미나이 AI 프로 및 울트라 가입자에게 차례",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Gemini"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "86cf52acb953",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황 \"허깅페이스 쟁탈전서 승리하려면 17조 필요했다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214878",
+      "date": "2026-09-05",
+      "summary": "젠슨 황 엔비디아 CEO가 오픈소스 AI 플랫폼 허깅페이스를 인수하는 데 무려 129억달러(약 17조 2000억원)를 투입한 배경을 밝혔다. 경쟁사들을 따돌리기 위해 천문학적인 자금을 쏟아부은 '격렬한 쟁탈전'의 결과라는 설명이다.황 CEO는 4일(현지시간) CNBC 방송과의 인터뷰에서 130억달러에 달하는 평가액에 대해 \"다른 입찰자들을 물리치고 거래를 성사시키는 데 반드시 필요했던 금액\"이라고 밝혔다.이번 인수액은 지난해 말 200억달러 규모의 반도체 기업 그로크(Groq) 자산 인수에 이어 엔비디아 역사상 두 번째로 큰 M&A",
+      "keywords": [
+        "Open Source"
+      ],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "84343594c5e2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 국방부, 앤트로픽 여전히 '공급망 위험'으로 간주...상무장관과 온도 차",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214888",
+      "date": "2026-09-05",
+      "summary": "미국 국방부와 방산업계가 앤트로픽을 여전히 ‘공급망 위험(Supply Chain Risk)’으로 간주하고 있는 것으로 나타났다. 트럼프 행정부와 앤트로픽의 관계가 최근 개선되는 듯한 신호가 나왔지만, 국방 분야에서는 앤트로픽에 대한 경계가 여전히 이어지고 있다.로이터에 따르면, 에밀 마이클 미국 국방부 연구·공학 담당 차관은 3일(현지시간) 앤트로픽이 국방부와 방산업계에서 여전히 공급망 위험으로 간주하고 있다고 밝혔다.이는 하워드 러트닉 미국 상무장관이 인터뷰에서 앤트로픽이 “올바른 편으로 돌아왔다”며 “우리는 앤트로픽을 신뢰한다”",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "137094c87263",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, 새로운 데이터센터 구축을 위해 화웨이 AI 칩 대량 주문 계획",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214886",
+      "date": "2026-09-05",
+      "summary": "딥시크가 새로운 데이터센터 구축을 위해 자국산 AI 칩 대량 확보에 나섰다. 블룸버그는 4일(현지시간) 소식통을 인용, 딥시크가 내몽골에 건설 중인 대규모 데이터센터에 화웨이의 차세대 AI 가속기 '어센드 950DT(Ascend 950DT)' 16만개 배치를 추진하고 있다고 보도했다.계획대로 진행면 단일 시설 기준으로 세계 최대 수준의 화웨이 AI 칩 클러스터 가운데 하나가 만들어지면서 중국의 엔비디아 의존도 축소에도 상당한 영향을 미칠 전망이다.소식통에 따르면 딥시크는 모델 추론과 서비스 운영에 950DT를 사용할 계획이다. 다만",
+      "keywords": [],
+      "first_seen": "2026-09-06"
+    },
+    {
+      "id": "4df9cc08bd67",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "시진핑, 9월 방미에 대규모 CEO 대표단 동행...미중 경제·AI 협력 모색",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214879",
+      "date": "2026-09-05",
+      "summary": "시진핑 중국 국가주석이 오는 24일 미국 워싱턴에서 도널드 트럼프 미국 대통령과 정상회담을 갖는 가운데, 대규모 중국 기업 CEO 대표단을 동행시키는 방안을 준비하고 있는 것으로 알려졌다. 4일(현지시간) 로이터에 따르면, 사안에 정통한 소식통들은 이번 정상회담에 중국 기업인 대표단이 동행할 가능성이 있다고 전했다.구체적인 참가 기업과 CEO 명단은 아직 확정되지 않았다. 시 주석이 대규모 기업인단과 함께 미국을 방문한 것은 2015년이 마지막이었다. 당시에는 마윈 알리바바 창립자, 마화텅 텐센트 창립자 등이 동행했으며, 중국은 미",
+      "keywords": [],
+      "first_seen": "2026-09-06"
     },
     {
       "id": "5737d6df236a",
@@ -69102,11 +69480,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-06-08",
-      "added": 28,
-      "total": 840
-    },
-    {
       "date": "2026-06-09",
       "added": 64,
       "total": 904
@@ -69550,6 +69923,11 @@
       "date": "2026-09-05",
       "added": 52,
       "total": 5189
+    },
+    {
+      "date": "2026-09-06",
+      "added": 29,
+      "total": 5218
     }
   ],
   "sources": {},
@@ -69697,37 +70075,47 @@
     {
       "week": "2026-W36",
       "keywords": {
-        "AI Agent": 56,
-        "GPT": 27,
-        "Automation": 26,
-        "Security": 24,
-        "Gemini": 14,
+        "AI Agent": 61,
+        "GPT": 31,
+        "Automation": 27,
+        "Security": 25,
+        "Gemini": 16,
+        "Claude": 13,
         "Coding": 13,
         "Enterprise AI": 12,
-        "Claude": 11,
-        "LLM": 9,
-        "Open Source": 8,
+        "LLM": 10,
+        "Open Source": 9,
         "SDK/API": 8,
+        "AI Safety": 8,
         "Deployment": 8,
-        "AI Safety": 7,
         "Robotics": 6,
         "Developer Tools": 5
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 1488,
-      "recent_7d": 93,
-      "recent_30d": 93
-    },
     "aitimes": {
-      "total": 2564,
-      "recent_7d": 150,
-      "recent_30d": 150
+      "total": 2588,
+      "recent_7d": 174,
+      "recent_30d": 174
+    },
+    "techcrunch": {
+      "total": 1493,
+      "recent_7d": 98,
+      "recent_30d": 98
     },
     "lycorp": {
       "total": 54,
+      "recent_7d": 1,
+      "recent_30d": 1
+    },
+    "aws_ml": {
+      "total": 317,
+      "recent_7d": 29,
+      "recent_30d": 29
+    },
+    "toss": {
+      "total": 51,
       "recent_7d": 1,
       "recent_30d": 1
     },
@@ -69751,11 +70139,6 @@
       "recent_7d": 7,
       "recent_30d": 7
     },
-    "aws_ml": {
-      "total": 317,
-      "recent_7d": 29,
-      "recent_30d": 29
-    },
     "nvidia_ai": {
       "total": 123,
       "recent_7d": 4,
@@ -69765,11 +70148,6 @@
       "total": 55,
       "recent_7d": 3,
       "recent_30d": 3
-    },
-    "toss": {
-      "total": 51,
-      "recent_7d": 1,
-      "recent_30d": 1
     },
     "woowahan": {
       "total": 10,
@@ -69787,6 +70165,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-09-05",
-  "total_articles": 5189
+  "last_updated": "2026-09-06",
+  "total_articles": 5218
 }
