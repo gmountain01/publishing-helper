@@ -1,6 +1,136 @@
 {
   "articles": [
     {
+      "id": "c1f681768660",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"인류 멸망 이미 시작됐다\"...'AI 종말'의 진짜 위협은 인간성 양도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214931",
+      "date": "2026-09-07",
+      "summary": "AI가 초래할 종말이 영화처럼 SF적 초지능이 나타나 인류를 물리적으로 멸망시키는 것이 아니라, 오히려 인간이 스스로 생각하고 표현하며 주체적으로 살아갈 자유를 AI에 양도하면서 사회적·정신적 기반이 무너지는 과정 형태라는 주장이 나왔다. 이런 의미에서 이미 멸망이 시작됐다는 경고다.미국 컴팩트(Compact) 매거진의 수석 편집자이자 정치학자인 그레고리 콘티 박사는 지난달 13일(현지시간) 'AI의 종말은 이미 도래했다(The AI Apocalypse Is Already Here)'라는 기고문을 게재했다.이를 통해 현행 AI 논의",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "66d7ce6b7df9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "이스트시큐리티, 네이버클라우드와 '보안 특화 AI 모델' 개발 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214927",
+      "date": "2026-09-07",
+      "summary": "이스트소프트의 보안 전문 자회사 이스트시큐리티(대표 정상원)는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 '사이버 보안 특화 AI 파운데이션 모델 개발' 사업의 최종 수행기관으로 선정됐다고 7일 밝혔다.이스트시큐리티는 네이버클라우드 컨소시엄으로 참여해 엔드포인트 위협, 사이버 위협 인텔리전스(CTI), 침해분석 노하우를 결합한다.특히 국민 백신 '알약'을 비롯한 다양한 보안 제품·서비스를 운영하며 축적한 고품질 사이버보안 빅데이터를 학습 데이터로 제공해 보안관제 및 취약점 분석에 즉시 활용 가능한 국내 AI 모델 구",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "722ac4850cf7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "카카오, 10월 ‘이프카카오 26’ 컨퍼런스 개최…“모든 연결에 지능을”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214929",
+      "date": "2026-09-07",
+      "summary": "카카오(대표 정신아)가 오는 10월13~14일 이틀간 경기도 용인시 소재 ‘카카오 AI 캠퍼스’에서 ‘이프카카오(if(kakao)26)’ 컨퍼런스를 개최한다고 밝혔다.이프카카오는 카카오그룹의 기술 비전을 공개하고 그간 축적한 기술적 성과를 개발자 커뮤니티와 공유하는 대표 컨퍼런스다. 올해로 8회를 맞이했다. 이번에는 ‘모든 연결에 지능을(Connections Meet Intelligence)’이라는 슬로건 아래, 카카오가 쌓아 온 연결의 경험에 AI 기술을 더해 이용자 개개인의 역량과 가능성을 확장하는 데 초점을 맞췄다.행사 첫날에",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "e1410d172a8b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 'GPT-6 아스트라', 사람 개입 없이 3D 게임 '포털' 공략 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214922",
+      "date": "2026-09-07",
+      "summary": "오픈AI의 'GPT-6 아스트라'가 사람의 개입 없이 고전 3차원 퍼즐 게임 '포털(Portal)'을 자율적으로 플레이하며 모든 테스트 챔버를 해결한 것으로 나타났다. 범용 AI 에이전트가 공간 추론이 필요한 포털을 자율적으로 완주한 것은 이번이 처음이다.게임 크리에이터 코지블레이즈(cozyblaze)는 5일(현지시간) X를 통해 GPT-6 아스트라가 사람의 직접적인 조작 없이 3차원 공간 퍼즐 게임인 '포털(Portal)'을 처음부터 끝까지 완주하는 데 성공했다며 영상을 공유했다. 아스트라를 게임에 연결한 뒤 별도의 인간 조작 없",
+      "keywords": [
+        "AI Agent",
+        "GPT"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "bf420b8e0399",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엑스와이지, 로봇 '빨래 개기' 속도 2배 빨라졌다...성공률 96% 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214923",
+      "date": "2026-09-07",
+      "summary": "엑스와이지(대표 황성재)는 자체 행동지능 '브레인엑스(Brain X)'를 기반으로 로봇의 의류 접기 작업 속도를 기존 대비 2배 향상시켰다고 7일 밝혔다.이번 기술은 로봇 동작을 단순히 빠르게 재생하는 것이 아니라 모델 추론부터 로봇 실행과 제어까지 함께 최적화해 속도와 안정성을 동시에 확보한 것이 특징이다.의류처럼 형태가 일정하지 않고 마찰과 미끄러짐이 발생하는 물체는 조작 속도가 빨라질수록 궤적 오차, 진동이 커져 작업 성공률이 떨어질 수 있다는 설명이다.엑스와이지는 중국 로봇 기업 갤럭시아의 'R1 프로 라이트'를 활용해 자체",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "db5788813f58",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "NIA, ‘AI 3대 강국’ 도약 위한 조직개편 단행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214926",
+      "date": "2026-09-07",
+      "summary": "한국지능정보사회진흥원(NIA, 원장 김형철)은 국가 AI 정책의 현장 실행력을 높이고 ‘AI 3대 강국’ 실현을 견인하기 위해 조직개편을 단행했다고 7일 밝혔다.그간 NIA는 AI 전문기관으로서 AI 데이터 구축, AX 확산, 포용적 AI 실현, AI 정책 지원 및 AI 인프라 구축 등 국가 AI 정책의 현장 실행을 선도해 왔다.이번 조직개편은 이러한 전문 역량을 바탕으로 ▲인공지능정부 기반 안정성 강화 ▲AX 지원 기능 강화 ▲AI 3대 메가프로젝트 대응체계 마련 등을 중점적으로 추진하기 위해서다.첫째, 인공지능정부의 안정적인 운",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "ec42daa42521",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "라이드플럭스,타타대우와 '레벨2+ 자율주행 트럭' 양산 추진한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214920",
+      "date": "2026-09-07",
+      "summary": "라이드플럭스(대표 박중희)는 타타대우모빌리티와 '상용차 레벨2+ 주행보조 시스템 및 레벨4 자율주행 개발 협력'을 위한 업무협약(MOU)을 체결했다고 7일 밝혔다.양사는 타타대우모빌리티의 대형 트럭 '맥쎈'과 '구쎈' 차량 플랫폼에 라이드플럭스의 레벨2+ 주행보조 시스템 양산을 추진한다.타타대우모빌리티가 차량 플랫폼과 차량 제어 인터페이스를 제공하면 라이드플럭스는 국제기준(UN R171)에 부합하는 운전자제어보조시스템(DCAS) 소프트웨어 선행 개발을 전담하는 방식이다.라이드플럭스는 양산 적용 이후 실제 주행 데이터를 바탕으로 레벨",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "b1ff50645fc5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] 현장에서 픽하는 AI 서비스 기획을 위한 필수 지식",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214849",
+      "date": "2026-09-07",
+      "summary": "현장에서 픽하는 AI 서비스 기획을 위한 필수 지식최진영 | 길벗2026년 8월 25일상세보기 \"우리 서비스에 AI 붙이라는데, 개발팀이랑 회의하면 RAG니 에이전트니 하는 말을 못 알아듣겠어요. 코딩 책 말고, 기획자가 읽을 책 없을까요?\"서점 AI 코너에서 요즘 가장 자주 듣는 질문 중 하나다. 질문하는 사람은 대개 서비스 기획자나 PM, 혹은 마케팅·운영 부서에서 AI 도입 TF에 갑자기 이름이 올라간 사람들이다. 이들이 곤란한 이유는 분명하다. 매대에 꽂힌 AI 기술서 대부분이 '만드는 사람'을 위해 쓰였기 때문이다.실제로",
+      "keywords": [
+        "AI Agent",
+        "RAG"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "239e160a0915",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] AI는 세상을 어떻게 바꾸는가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214848",
+      "date": "2026-09-07",
+      "summary": "AI는 세상을 어떻게 바꾸는가장동선 | 김영사2026년 8월 28일상세보기 뇌과학자 장동선 박사는 요즘 서점보다 강연장에서 더 자주 만난다. 지난 8월29일에는 경기도가 주최한 'AI 시대의 육아' 강연에 섰고, 지자체와 기업의 AI 특강 무대에도 꾸준히 오른다. 유튜브 채널 '장동선의 궁금한 뇌'를 통해 뇌과학을 대중의 언어로 옮겨 온 그가 강연장에서 받는 질문은 대체로 비슷하다고 한다. 우리 아이는 무엇을 배워야 하는가, 내 일은 어떻게 되는가. 기술이 아니라 사람에 대한 질문이다.그 질문에 답하는 책이 다시 나왔다. 『AI는",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "98d110d891a9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] AI와 일하는 기술",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214845",
+      "date": "2026-09-07",
+      "summary": "AI와 일하는 기술최정혜·김여립·이동근·뉴럴웨이브 | 한국경제신문2026년 8월 31일상세보기 서점 AI 코너 앞에 서 있는 손님의 얼굴이 달라졌다. 2~3년 전만 해도 이곳을 찾는 이들은 \"챗GPT가 뭔지 알고 싶다\"는 호기심에 가까웠다. 지금은 다르다. 노트북 가방을 멘 채 퇴근길에 들러 목차를 한참 넘겨보고, 직원에게 \"보고서 쓸 때 쓸 만한 책이 뭐냐\"고 묻는다. 질문이 '무슨 책이 좋으냐'에서 '내 일에 쓸 책이 있느냐'로 바뀐 것이다.숫자도 같은 방향을 가리킨다. 나우앤서베이가 지난 5월 전국 직장인 1,000명을 조사한",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
       "id": "3501b7ea6eab",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -195,6 +325,139 @@
         "LLM"
       ],
       "first_seen": "2026-09-06"
+    },
+    {
+      "id": "08d94691e993",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "date": "2026-09-06",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "2b36e6dbb8e7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "date": "2026-09-06",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "keywords": [
+        "AI Agent",
+        "Coding",
+        "SDK/API"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "4d1388743b58",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "date": "2026-09-06",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "3997b3420fb1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "date": "2026-09-06",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "keywords": [
+        "AI Agent",
+        "Automation"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "f33b1fcaa623",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "date": "2026-09-06",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "be19f0a9969d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "date": "2026-09-06",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "21429169154c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+      "date": "2026-09-06",
+      "summary": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서 직접 실행할 수 있도록 한 것이 핵심이다.MS는 4일(현지시간) 개발자용 윈도우 환경을 발전시키기 위해 지난 6월 ‘빌드 2026’에서 개발에 최적화된 윈도우11 경험을 소개한",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "209d849fb7d4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214901",
+      "date": "2026-09-06",
+      "summary": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오(AI Studio), 구글 비즈(Vids) 등으로 지원 범위를 확대하면서 일반 사용자와 개발자도 손쉽게 완성도 높은 음악을 제작할 수 있게 됐다.웹과 모바일에서 전 세계 사용자가",
+      "keywords": [
+        "Chatbot",
+        "Gemini",
+        "SDK/API"
+      ],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "bca9fad69577",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "LGU+, PMDC 얼라이언스 출범…AI 데이터센터 건축기간 줄인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214909",
+      "date": "2026-09-06",
+      "summary": "LG유플러스(대표 홍범식)가 GS건설, 자이C&A 등과 손잡고 사전제작형 모듈러 데이터센터(PMDC) 표준모델 확보에 나선다. 급증하는 AI 인프라 수요에 대응하기 위해 AI 데이터센터(AIDC) 구축 기간을 단축하고 품질을 표준화할 수 있는 협력체계를 마련한다는 전략이다.LGU+는 경기 안양시 평촌메가센터에서 GS건설, 자이C&A, 간삼건축, D&O CM과 ‘PMDC 얼라이언스(Alliance) 구축을 위한 업무협약’을 체결했다고 6일 밝혔다. 협약식에는 홍범식 LGU+ 대표를 비롯해 GS건설 허윤홍 대표, 자이C&A 김욱수 대표",
+      "keywords": [],
+      "first_seen": "2026-09-07"
+    },
+    {
+      "id": "3e1672f6f1fe",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "에이수스 “풀 스펙트럼 전략으로 ‘소버린 AI’ 시장 공략”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214897",
+      "date": "2026-09-06",
+      "summary": "“각 국가와 기업들이 추구하는 다양한 개념의 ‘소버린 AI’를 지원하기 위해 다양한 규모의 서버부터 스토리지, 소프트웨어부터 서비스까지 ‘풀 스펙트럼 AI’를 구현, 에이수스 AI 팩토리를 실현하겠습니다”대만의 대표적인 컴퓨팅 하드웨어 전문 에이수스는 3일 서울 여의도 콘래드 호텔에서 ‘AI 테크 2026’을 개최했다. AI 시스템을 넘어 AI 팩토리의 구축과 운영을 아우르는 AI 인프라 전략을 소개하는 자리였다.폴 주 에이수스 수석 부사장은 한국을 찾아 ‘올인 온 AI (All in on AI) 전략을 강조했다. 기존의 하드웨어",
+      "keywords": [],
+      "first_seen": "2026-09-07"
     },
     {
       "id": "14133536b681",
@@ -69480,11 +69743,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-06-09",
-      "added": 64,
-      "total": 904
-    },
-    {
       "date": "2026-06-10",
       "added": 68,
       "total": 972
@@ -69928,30 +70186,15 @@
       "date": "2026-09-06",
       "added": 29,
       "total": 5218
+    },
+    {
+      "date": "2026-09-07",
+      "added": 20,
+      "total": 5238
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W29",
-      "keywords": {
-        "AI Agent": 44,
-        "Automation": 24,
-        "Security": 20,
-        "GPT": 17,
-        "Open Source": 13,
-        "Robotics": 11,
-        "Generative AI": 10,
-        "Gemini": 10,
-        "Coding": 9,
-        "Video AI": 8,
-        "LLM": 8,
-        "Enterprise AI": 7,
-        "SDK/API": 6,
-        "Claude": 6,
-        "Chatbot": 5
-      }
-    },
     {
       "week": "2026-W30",
       "keywords": {
@@ -70075,34 +70318,43 @@
     {
       "week": "2026-W36",
       "keywords": {
-        "AI Agent": 61,
+        "AI Agent": 63,
         "GPT": 31,
-        "Automation": 27,
+        "Automation": 28,
         "Security": 25,
-        "Gemini": 16,
+        "Gemini": 17,
+        "Coding": 14,
         "Claude": 13,
-        "Coding": 13,
         "Enterprise AI": 12,
         "LLM": 10,
+        "SDK/API": 10,
         "Open Source": 9,
-        "SDK/API": 8,
         "AI Safety": 8,
         "Deployment": 8,
-        "Robotics": 6,
+        "Robotics": 7,
         "Developer Tools": 5
+      }
+    },
+    {
+      "week": "2026-W37",
+      "keywords": {
+        "AI Agent": 2,
+        "GPT": 2,
+        "Security": 1,
+        "RAG": 1
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 2588,
-      "recent_7d": 174,
-      "recent_30d": 174
+      "total": 2602,
+      "recent_7d": 188,
+      "recent_30d": 188
     },
     "techcrunch": {
-      "total": 1493,
-      "recent_7d": 98,
-      "recent_30d": 98
+      "total": 1497,
+      "recent_7d": 102,
+      "recent_30d": 102
     },
     "lycorp": {
       "total": 54,
@@ -70120,9 +70372,9 @@
       "recent_30d": 1
     },
     "openai": {
-      "total": 199,
-      "recent_7d": 13,
-      "recent_30d": 13
+      "total": 201,
+      "recent_7d": 15,
+      "recent_30d": 15
     },
     "deepmind": {
       "total": 61,
@@ -70165,6 +70417,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-09-06",
-  "total_articles": 5218
+  "last_updated": "2026-09-07",
+  "total_articles": 5238
 }
