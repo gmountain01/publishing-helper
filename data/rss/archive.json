@@ -1,6 +1,183 @@
 {
   "articles": [
     {
+      "id": "60ae3820004d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "date": "2026-09-08",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla",
+      "keywords": [
+        "AI Coding"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "e6a378a42fe5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"로봇이 단열재 시공도 척척\"...빅웨이브, 주택 현장에 휴머노이드 투입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214980",
+      "date": "2026-09-08",
+      "summary": "빅웨이브로보틱스(대표 김민교)는 공간제작소와 협력해 모듈러 주택 생산과 시공 현장에 휴머노이드 로봇을 단계적으로 적용한다고 8일 밝혔다.공간제작소는 목조 모듈러 주택 전문 기업으로 주택 상당 부분을 공장에서 사전 제작하는 공법과 로봇 자동화 라인을 갖추고 있다. 양사는 해당 자동화 라인에 휴머노이드를 추가 배치해 공정 효율을 높인다는 계획이다.우선 적용 분야는 단열재 시공이다. 작업자의 호흡기와 피부에 해로운 자재를 다루는 공정으로, 모양이 불규칙한 '비정형 대상물' 특성상 기존 레거시 로봇 투입에 한계가 있었던 문제를 해결한다는",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "5f70d33aa06a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 공동 1위로 상승",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214973",
+      "date": "2026-09-08",
+      "summary": "AI 모델의 성능을 평가하는 대표적인 지표 중 하나인 아티피셜 애널리시스의 '지능 지수(AAII)'가 실제 업무 환경을 반영하는 장기 에이전트 작업 중심으로 개편됐다. 새로운 평가 방식이 적용되면서 기존 평가에서 5위에 머물렀던 'GPT-6 아스트라'의 순위가 크게 상승해 '클로드 페이블 5.1'과 공동 1위에 올랐다.아티피셜 애널리시스는 6일(현지시간) 기존 벤치마크에서 나타난 단순한 편법이나 특정 데이터에 대한 편향, 최고 성능 모델 간 점수 포화 문제를 줄이고 실제 업무와 유사한 장기 에이전트 작업 수행 능력을 정밀하게 측정하",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "GPT"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "6263c0fb151b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI가 알아서 다크웹 뒤진다\"...S2W, 범죄수사 특화 에이전트 'DRI' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214975",
+      "date": "2026-09-08",
+      "summary": "에스투더블유(S2W, 대표 서상덕)는 범죄수사에 특화된 AI 에이전트 'DRI'를 출시했다고 8일 밝혔다.DRI는 자체 안보 AI 플랫폼 '자비스'에 탑재되며, 다크웹·텔레그램·해킹 포럼 등에서 수집한 빅데이터를 지식 컨텍스트로 연계해 위협을 분석하고 수사에 필요한 인텔리전스를 제공한다. 다크웹 모니터링, 랜섬웨어 추적 등 9종의 조사 전략 중 질의 의도에 가장 적합한 방식을 자동 선택해 수사 효율성을 높인 것이 특징이다.특히 자연어 질의만으로도 다양한 분석 도구를 유기적으로 조합해 익명 계정의 활동 이력과 자금 거래 내역, 공격",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "ae6f366d0eef",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한컴, 퓨리오사AI '레니게이드' 탑재한 AX 제품 개발한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214977",
+      "date": "2026-09-08",
+      "summary": "한컴(대표 김연수)은 한컴이노스트림, 퓨리오사AI와 AI 전환(AX) 사업 협력을 위한 3자 업무협약(MOU)을 체결했다고 8일 밝혔다.이들은 한컴의 에이전틱 운영체제(OS)와 퓨리오사AI의 2세대 AI 가속기 '레니게이드(RNGD)'를 결합한 AX 어플라이언스 패키지를 공동 개발한다.한컴은 에이전틱 OS 기반 솔루션 개발을, 퓨리오사AI는 RNGD와 소프트웨어 스택 제공을, 한컴이노스트림은 신경망처리장치(NPU) 전문인력 양성과 시장 수요 발굴을 담당한다.한컴이노스트림은 퓨리오사AI의 NPU 공인 교육기관(ATC)으로서 교육과정의",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "b9b8afa63469",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "노타, LG전자·모빌린트와 K-반도체 탑재한 휴머노이드 최적화 맡는다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214972",
+      "date": "2026-09-08",
+      "summary": "노타(대표 채명수)는 LG전자, 모빌린트와 'K-온디바이스 AI 반도체 기술개발 사업'의 휴머노이드 분야 과제 주관기관으로 선정됐다고 8일 밝혔다.산업통상자원부와 한국산업기술기획평가원(KEIT)이 추진하는 이번 사업은 대규모 로봇 AI 모델을 국산 신경망처리장치(NPU)에 맞춰 최적화해 효율적으로 구동하는 것을 목표로 한다.LG전자가 전체 사업을 총괄하며 휴머노이드 시스템 개발을 맡는다. 모빌린트는 국산 NPU를, 노타는 비전언어행동모델(VLA)을 NPU와 실제 로봇 환경에 맞춰 구동하는 최적화를 담당한다.노타는 토큰 압축, 양자화",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "452536abe9f0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "위존, 한국산업기술기획평가원 ‘M.AX 전문기업 – AI솔루션기업’ 선정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214979",
+      "date": "2026-09-08",
+      "summary": "ICT 인프라 및 AX 최적화 전문 위존(대표 박대현)은 한국산업기술기획평가원(KEIT)이 지정하는 ‘M.AX(Manufacturing AI Transformation) 전문기업’에 최종 선정됐다고 8일 밝혔다. M.AX는 산업통상자원부가 국내 제조업의 경쟁력 강화를 위해 추진하는 제조 AI 대전환 프로젝트다. KEIT는 기술력 및 전문성, 제조기업 대상 공급 실적과 시장 신뢰도, 기업 성장 가능성 등을 종합적으로 평가해 제조기업의 AI 도입과 활용을 지원하고 제조 AI 생태계를 활성화할 M.AX 전문기업을 선정한다. 이번 평가에서",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "da0f8310fe54",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "정부, 20kW 이상 태양광도 관리대상…실시간 모니터링·제어 의무화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214971",
+      "date": "2026-09-08",
+      "summary": "내년부터 20킬로와트(kW) 이상 사업용 태양광 발전설비도 발전량과 운전상태를 실시간으로 확인하고 필요할 경우 출력을 원격으로 조정할 수 있는 장비를 갖춰야 한다. 재생에너지 설비가 빠르게 늘면서 전력망 운영자가 관리할 수 있는 범위를 중소규모 발전소까지 확대하는 조치다.기후에너지환경부는 송·배전용 전기설비 이용규정을 개정해 2027년 1월 1일부터 재생에너지 모니터링·제어 장비 의무 구축 대상을 현행 90kW 이상에서 20kW 이상으로 확대한다고 4일 밝혔다.적용 대상은 사업용 및 전력거래용 태양광·풍력·연료전지 설비다. 해당 장",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "ea3c4e5205f5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 태양광·배터리 결합 프로젝트로 데이터센터 전력 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214968",
+      "date": "2026-09-08",
+      "summary": "구글이 AI 데이터센터의 전력수요에 대응하기 위해 미국 웨스트버지니아에서 86메가와트(MW) 규모 태양광과 총 380메가와트시(MWh)의 배터리 저장장치를 결합한 로젝트에 참여한다. 태양광에 단기 저장용 리튬이온 배터리와 10시간 동안 전력을 공급할 수 있는 장주기 에너지저장장치(LDES)를 함께 배치해 필요할 때 전력을 공급할 수 있는 자원으로 활용하는 것이 핵심이다.미국 전력사업자 MN8 에너지와 구글, 에너지저장장치업체 Eos 에너지는 2일(현지시간) 웨스트버지니아 카나와카운티에서 '매머드 솔라(Mammoth Solar)' 프",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "eec2bf0b39a7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "유럽, 폐태양광서 62.9GW분 실리콘 회수 가능…문제는 제조기반",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214967",
+      "date": "2026-09-08",
+      "summary": "유럽연합(EU)에서 수명이 끝난 태양광 모듈을 재활용하면 2040년까지 최대 62.9기가와트(GW) 규모의 신규 태양광 모듈을 생산할 수 있는 실리콘을 확보할 수 있다는 분석이 나왔다. 다만 폐모듈에서 실리콘을 회수하는 것만으로는 부족하다. 회수한 실리콘을 태양광 제조에 다시 사용하려면 고순도 정제설비와 잉곳·웨이퍼 생산기반을 함께 갖춰야 한다는 지적이다.노르웨이 연구기관 신테프 산업연구소(SINTEF Industry) 연구진은 최근 EU에서 앞으로 발생할 결정질 실리콘 태양광 폐기물과 여기서 확보할 수 있는 재활용 실리콘 규모를",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "3781a5d23512",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "삼성SDS, '다차원 AI 풀스택' 공개…AI 보안·피지컬 AI로 영역 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214966",
+      "date": "2026-09-08",
+      "summary": "삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 엔터프라이즈 AX 컨퍼런스 '리얼 서밋(REAL Summit) 2026'을 개최하고, '다차원(Multi-Dimensional) AI 풀스택' 전략을 기반으로 AI 도입과 실제 비즈니스 성과 창출 사이의 간극을 줄일 수 있는 구체적인 실행 전략과 로드맵을 제시했다.이날 행사에는 현장 참석자 8000여명과 온라인 참여자를 포함해 총 1만5000여명의 업계 관계자들이 한자리에 모여 뜨거운 관심을 입증했다.이준희 대표는 기조연설에서 \"AX는 단순히 AI를 도입해서 시간과 비용을",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "d82045d95515",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214925",
+      "date": "2026-09-08",
+      "summary": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model Fatigue)’이라고 표현했습니다.런포드(Runpod)의 젠 루 CEO는 “모델 피로감은 실제로 존재한다고 느낀다”고 말했습니다. 새로운 모델이 계속 등장하면서 기업들이 성능과 가",
+      "keywords": [
+        "GPT",
+        "Gemini"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "aef31f683ec1",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "AI가 팀 규칙을 지키도록 하는 방법",
+      "link": "https://toss.tech/article/52631",
+      "date": "2026-09-08",
+      "summary": "Coding Agent를 위한 Stylepack",
+      "keywords": [
+        "AI Agent",
+        "Coding"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
       "id": "c1f681768660",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -129,6 +306,350 @@
         "GPT"
       ],
       "first_seen": "2026-09-07"
+    },
+    {
+      "id": "24d8a7aef57b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "date": "2026-09-07",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "a91b380c0f01",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "date": "2026-09-07",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "6de323e41c10",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "date": "2026-09-07",
+      "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "f4f95dccedd7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "date": "2026-09-07",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "98567c36dca5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+      "date": "2026-09-07",
+      "summary": "에임인텔리전스가 AI 에이전트와 피지컬 AI 시대로의 전환에 맞춰 통제 불능 리스크를 방지하기 위한 지속적·실시간 보안 레이어 구축의 필요성을 강조했다.박하언 에임인텔리전스 최고 기술책임자(CTO)는 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 'AI 통제의 최전선: 모델에서 에이전트, 피지컬 AI까지'를 주제로 발표를 진행했다.박 CTO는 클라우드시큐리티얼라이언스(CSA) 통계자료를 인용해 \"기업의 82%가량이 자체적으로 파악하지 못한 그림자 AI 에이전트를 보유 중이며, 절반 이상은 AI 에이전트가 권",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "21222213cf0e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
+      "date": "2026-09-07",
+      "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "22e73f0ecb4f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
+      "date": "2026-09-07",
+      "summary": "앤트로픽이 AI 서비스 수요 폭증에 대응하기 위해 최근 1년간 최대 5170억달러(약 695조원) 규모의 클라우드 컴퓨팅과 데이터센터 계약을 확보한 것으로 나타났다. 5일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 지난해 10월 이후 앞으로 수년간 사용할 수 있는 최소 14.8기가와트(GW) 규모의 컴퓨팅 용량 확보 계약을 체결했다. 이는 기존에 확보했던 1~2GW를 훌쩍 웃도는 수준이다. 공격적인 인프라 확보는 올해 예상보다 빠르게 증가한 ‘클로드 코드’와 ‘코워크’ 수요에 따른 것이다. AI 코딩과 업무 자동화 서비스 이용자",
+      "keywords": [
+        "Automation",
+        "Claude"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "5e219b63a6f7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
+      "date": "2026-09-07",
+      "summary": "AI가 사용자의 요구에 맞춰 글을 작성하는 것을 넘어, 사용자가 평소 쓰는 말투와 표현 방식까지 학습해 '나만의 문체'로 글을 만들어주는 방향으로 진화하고 있다. AI가 작성한 티가 나는 문제를 줄여줄 것으로 보인다.5일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 사용자의 고유한 글쓰기 습관을 학습해 개인의 어조와 문체를 그대로 반영한 글을 작성하는 새로운 '글쓰기 스타일(Writing Style)' 기능을 챗GPT에서 테스트하고 있는 것으로 알려졌다.이메일이나 문서, 메시지 등 사용자가 실제로 작성한 텍스트를 참고해 챗GPT가",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "9b40c3a15356",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
+      "date": "2026-09-07",
+      "summary": "미국 캘리포니아주에서 등산객 3명이 구글의 '제미나이' 등을 이용해 산행 계획을 세웠다가 정상에 오르는 데 예상보다 훨씬 긴 시간이 걸리고 하산 중 길을 잃으면서 고립되는 사고가 발생했다. 이들은 충분한 식량과 물, 장비를 준비하지 않은 채 산행을 강행했고, 결국 이튿날 산림청 레인저와 자원봉사 구조대에 의해 구조됐다.5일(현지시간) 비즈니스인사이더에 따르면, 사고는 캘리포니아주 북부 캐스케이드산맥에 위치한 해발 1만4179피트(약 4322m)의 샤스타산에서 발생했다.20세 남성 3명으로 구성된 일행은 샤스타산의 클리어 크릭 루트",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "7dd4a3e1a07e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
+      "date": "2026-09-07",
+      "summary": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존 영상 생성 모델이 프롬프트를 입력하면 일정 길이의 완성된 영상을 만들어내는 방식이었다면, GWM 월드 2는 사용자가 키보드와 마우스, 텍스트 등으로 세계에 개입하는 동안 초당 24프레",
+      "keywords": [
+        "Prompt"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "e894da64afda",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 수석 과학자의 경고...\"외계인 같은 AI, 자기개선에 대비해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214932",
+      "date": "2026-09-07",
+      "summary": "AI가 인간의 능력을 빠르게 넘어서는 가운데 자기개선까지 현실화할 가능성이 커지면서, 오픈AI에서조차 속도 조절과 강력한 안전장치를 요구하는 목소리가 커지고 있다. 야쿠부 파초키 오픈AI 수석 과학자는 6일(현지시간) 장문의 블로그 게시물을 통해 AI 발전 속도가 앞으로도 유지되면 수년 안에 기계가 스스로 AI 개발을 진전시키는 재귀적 자기개선(RSI) 단계로 진입할 수 있다고 전망하면서 \"지속적인 기계 지능의 급격한 상승에 따른 결과에 아무도 준비돼 있지 않다\"고 경고했다.그는 2023년 오픈AI의 추론 모델 연구 프로젝트인 ‘R",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "885eb78c8a70",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"인간처럼 기만하고 공모\"...통제 벗어난 'AI 스웜'의 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214938",
+      "date": "2026-09-07",
+      "summary": "통제망과 안전장치가 해제된 테스트 환경을 벗어나 외부 인터넷으로 탈출한 '불량 AI 에이전트'들이 고도의 편법과 기만 행위, 집단 공모를 벌인 최신 자율성 안전 문제 사례들이 잇달아 확인되며 논란이 일고 있다. 이들 에이전트는 마치 사람처럼 정밀하게 시스템 필터를 우회하고 조직적으로 임무를 분담하는 집단 지능을 선보였다.독립 AI 안전 연구진과 영국 AI안전연구소(UK AISI), 오픈AI, 앤트로픽, 구글 딥마인드 등이 최근 발표한 안전성 평가 분석 보고서를 종합하면, 최신 프론티어 AI 에이전트들은 시스템 제한을 우회하거나 서로",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "5369128a1adb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214945",
+      "date": "2026-09-07",
+      "summary": "깃허브가 하나의 AI 모델을 선택해 코딩 작업을 처리하는 기존 방식을 넘어, 작업마다 여러 AI 모델과 실행 방식을 실시간으로 조합하는 새로운 코딩 에이전트 라우팅 시스템을 공개했다. 비용을 크게 절감하면서도 프런티어급 품질을 안정적으로 유지한 것이 특징이다.깃허브는 4일(현지시간) AI 코딩 라우팅 시스템 ‘프로젝트 하이드라퓨전(Project HydraFusion)​’을 연구 프리뷰로 공개했다.하이드라퓨전은 사용자가 특정 AI 모델을 직접 선택하는 대신 하나의 모델처럼 선택하면, 시스템이 요청 내용을 분석해 여러 모델과 실행 단계",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "ee26e28506c4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "화웨이 ‘타우 법칙’ 칩 과열 우려 일축...“트랜지스터 밀도 55% 높이고 전력 낮췄다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214960",
+      "date": "2026-09-07",
+      "summary": "화웨이가 자사의 '타우(τ) 스케일링' 법칙 기반 칩 설계가 과열 문제를 방지할 수 있다는 새로운 연구 결과를 발표했다. 6일(현지시간) 사우스차이나모닝포스트에 따르면, 화웨이는 차세대 칩 설계 원리인 타우 스케일링 법칙의 최대 난제로 꼽혀온 발열 문제에 대한 구체적인 측정 결과를 공개했다.화웨이는 타우 법칙을 기반으로 ‘로직폴딩(LogicFolding)’ 기술을 적용한 차세대 키린(Kirin) 2026 칩이 이전 세대보다 트랜지스터 밀도를 55% 높이면서도 동일한 성능 조건에서 일부 핵심 연산의 전력 소비를 크게 낮췄다고 밝혔다.",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "ee462c2ce650",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214939",
+      "date": "2026-09-07",
+      "summary": "AI가 스스로 연구 아이디어를 내고 실험까지 수행하는 시대에 접어들면서, 이제는 AI 연구에서 ‘무엇을 실행할 것인가’를 결정하는 능력이 새로운 경쟁력으로 떠오르고 있다. 메타의 AI 연구조직 FAIR는 값비싼 GPU 자원을 투입하기 전에 여러 실험 후보의 성공 가능성을 AI가 먼저 비교·평가하도록 하는 새로운 접근법을 제시했다. 메타 FAIR는 최근 AI 연구 에이전트가 값비싼 GPU 연산을 실행하기 전에 어떤 실험부터 수행할지를 판단하는 ‘AI 연구 선호 모델(RPM·Research Preference Model)’을 온라인 아",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "a9418a6fab2b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 씽크포비엘, 스위스 CERTX와 ‘AI 신뢰성’ 사업 협력 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214959",
+      "date": "2026-09-07",
+      "summary": "■ 씽크포비엘이 4일 스위스 프리부르에서 CERTX AG와 AI 신뢰성 공동 연구개발 및 사업 추진에 관한 상호 교류,협력 MOU를 체결했다. CERTX AG는 AI를 비롯해 기능 안전과 사이버보안 분야 시험, 평가, 인증 전문 기업이다. 2018년 설립돼 스위스 프리부르에 본사를 두고 있다. 양사는 각자 보유한 AI 신뢰성, AI 시스템 평가, 데이터 충실도(fidelity) 인증 및 시험, 표준-규제 대응 관련 기술, 방법론, 도구, 경험 및 전문 역량을 상호 공유할 계획이다.■ 프리윌린(대표 권기성)이 지난 3일 서울 여의도",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "ce7a550932e1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 셀렉트스타, KMAC·법무법인 린과 'AI 기본법 세미나' 개최 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214944",
+      "date": "2026-09-07",
+      "summary": "■ 셀렉트스타(대표 김세엽)는 오는 17일 서울 포스코타워 역삼에서 한국능률협회컨설팅(KMAC), 법무법인 린과 함께 'AI 기본법, 대비하고 계신가요? 규제 변화부터 거버넌스와 검증까지 실무 대응 전략' 공동 세미나를 개최한다고 밝혔다. 이번 세미나는 단순한 법·제도 해설을 넘어 규제·보안 환경 변화, 기업의 운영체계 구축, AI 서비스의 안전성·신뢰성 평가까지 실질적인 대응 방안을 다룰 예정이다.■ 매니코어소프트(대표 박정호)는 서울대 천둥연구실과 공동 주관한 '2026 가속기 프로그래밍 여름학교'를 4박 5일간 진행했다고 밝혔",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "57327ca8adcd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스XAI, 영상 연속성·품질 높인 ‘그록 이매진 비디오 1.5’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214947",
+      "date": "2026-09-07",
+      "summary": "스페이스XAI가 영상 생성의 고질적인 문제로 꼽혀온 장면 간 연속성을 개선한 ‘그록 이매진 비디오 1.5(Grok Imagine Video 1.5)’ 에이전트를 공개했다. 단순히 영상 생성 모델의 화질을 높이는 데 그치지 않고 여러 개의 장면을 하나의 일관된 영상으로 연결하는 데 초점을 맞춘 것이 특징이다.스페이스XAI는 5일(현지시간) 새로운 ‘그록 이매진 비디오 1.5’ 에이전트를 공개하며 더 높은 화질과 향상된 스토리텔링, 여러 샷을 자연스럽게 연결하는 기능을 제공한다고 밝혔다.이번 업데이트는 새로운 ‘비디오 1.6’ 모델을",
+      "keywords": [
+        "AI Agent",
+        "Video AI"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "52ec42c6f889",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "독일 BASF 자회사, 애플 상대 ‘페이스 ID’ 특허 소송…“피부 감지 기술 무단 사용”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214957",
+      "date": "2026-09-07",
+      "summary": "독일 화학기업 BASF의 자회사 트라이나믹스(trinamiX)가 애플의 안면인식 보안 기술 ‘페이스 ID(Face ID)’가 자사의 특허를 침해했다며 미국 법원에 소송을 제기했다. 트라이나믹스는 애플이 최신 아이폰과 아이패드에 페이스 ID 기술을 업데이트하는 과정에서 사진이나 3D 복제품 등을 이용한 위장 공격을 막기 위한 자사의 핵심 기술을 무단으로 사용했다고 주장했다.로이터에 따르면, 트라이나믹스는 3일(현지시간) 미국 텍사스주 미들랜드 연방법원에 제출한 소장에서 애플이 자사의 재질 및 피부 감지 기술과 관련된 특허 7건을 침해",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "2d74bb87fe47",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "로봇·EV 산업 '성지'로 떠오른 중국...서방 전문가·투자자 기술 견학 성황",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214955",
+      "date": "2026-09-07",
+      "summary": "중국이 전기차와 배터리, 로봇 등 첨단 산업의 현장을 직접 확인하려는 서방 기업인과 투자자들의 새로운 ‘기술 견학지’로 떠오르고 있다. 과거 중국이 글로벌 기업의 생산기지로 주목받았다면, 이제는 첨단 제조와 기술 혁신이 실제 현장에서 어떻게 구현되는지를 배우기 위한 학습의 대상으로 평가받고 있다.4일(현지시간) 로이터에 따르면, 서방 임원과 스타트업 창업자, 투자자들은 수천달러에서 많게는 1만5000달러(약 2000만원)를 지불하며 중국의 첨단 기업과 공장을 둘러보고 있다.휴머노이드 로봇이 생산라인에서 작업하는 모습과 전기차가 대규",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "bc902669223f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "과기정통부-중기부, 중소 제조 현장 ‘피지컬 AI 도입·확산’ 공동 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214956",
+      "date": "2026-09-07",
+      "summary": "과학기술정보통신부(장관 배경훈)는 중소벤처기업부와 7일 한국과학기술원(KAIST) 피지컬 AI 실증랩을 방문하고, 피지컬 AI 기술 공급기업과 제조 현장 수요기업이 참여하는 기업 간담회를 개최해 중소 제조기업의 피지컬 AI 도입·확산을 위한 부처 간 협력방안을 논의했다.이번 방문은 과기부의 피지컬 AI 기술개발·실증 역량과 중기부의 중소 제조기업 현장 지원정책을 연계해, 기술개발에서 실증·사업화·현장 확산까지 이어지는 협력체계를 구축하기 위함이다. 중소 제조기업은 전문인력과 기술 도입 경험, 데이터 및 실증 기회 부족 등으로 새로운",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "0f344ad285ec",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천서 ‘2026 다문화 한마음축제’…나라별 퍼레이드·체육대회",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214949",
+      "date": "2026-09-07",
+      "summary": "AI 생성 영상순천지역 다문화가족과 결혼이주민 등 450여명이 한자리에 모여 각국의 문화를 체험하고 가족 단위 체육활동을 함께 즐겼다. 미얀마·베트남·일본·중국·필리핀·태국 등 6개국 문화체험관도 마련됐다.순천시는 지난 5일 국립순천대학교 실내체육관에서 ‘2026 다문화 한마음축제’를 개최했다고 밝혔다.행사는 참가자들이 각국의 전통의상을 입고 입장하는 나라별 퍼레이드로 시작해 기념식과 한마음 체육대회로 이어졌다.현장에는 미얀마와 베트남, 일본, 중국, 필리핀, 태국 등 6개국의 문화를 접할 수 있는 체험공간이 운영됐다. 참가자들이",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "ef2a8436e375",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI 검색 답변 그대로 분석\"... 애니모프, GEO 분석 도구 '쿼링에이아이' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214951",
+      "date": "2026-09-07",
+      "summary": "애니모프(대표 송준혁)가 생성 AI 검색 최적화(GEO)를 위한 API, ‘쿼링에이아이(querying.ai)’를 공개했다고 7일 밝혔다.쿼링에이아이는 이용자가 실제로 보는 AI 검색 화면의 답변과 인용 출처를 그대로 수집해 제공하는 서비스다. 다른 검색 최적화 서비스와 다르게, 이용자의 관점을 직접적으로 수집한다는 점에서 차별화된다는 설명이다. 개발자용 API가 아닌 ‘화면’ 형태의 결과를 제공한다. 같은 질문이라도 모델 API의 응답과 실제 화면의 답변이 달라지는 경우가 있기 때문에, 브랜드 노출을 제대로 확인하려면 화면 기준의",
+      "keywords": [
+        "Generative AI",
+        "SDK/API"
+      ],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "8d9095892ec1",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "2. Beyond Our Expertise",
+      "link": "https://toss.tech/article/technical-writing-2-eng",
+      "date": "2026-09-07",
+      "summary": "This is the story of how we turned Technical Writers’ challenges and expertise into a product called \"todoc\", and how the process helped us take that expertise even further.",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "a1b7344bb475",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "1. Creating a Role That Didn’t Exist Before",
+      "link": "https://toss.tech/article/technical-writing-1-eng",
+      "date": "2026-09-07",
+      "summary": "Learn how Toss’s Technical Writers have expanded their role from writing documentation to designing knowledge systems for the organization.",
+      "keywords": [],
+      "first_seen": "2026-09-08"
+    },
+    {
+      "id": "7a1cb76ca189",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "How Documents Find Developers at Toss",
+      "link": "https://toss.tech/article/toss-frontend-ai-docs-eng",
+      "date": "2026-09-07",
+      "summary": "The Toss Frontend team no longer has to dig through documents to find what they need. We’re building an environment where developers can get immediate answers to their questions through docs and AI. Here’s how we built a new documentation system that lets developers focus entirely on development.",
+      "keywords": [
+        "Developer Tools"
+      ],
+      "first_seen": "2026-09-08"
     },
     {
       "id": "3501b7ea6eab",
@@ -69743,11 +70264,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-06-10",
-      "added": 68,
-      "total": 972
-    },
-    {
       "date": "2026-06-11",
       "added": 60,
       "total": 1032
@@ -70191,6 +70707,11 @@
       "date": "2026-09-07",
       "added": 20,
       "total": 5238
+    },
+    {
+      "date": "2026-09-08",
+      "added": 39,
+      "total": 5277
     }
   ],
   "sources": {},
@@ -70338,23 +70859,38 @@
     {
       "week": "2026-W37",
       "keywords": {
-        "AI Agent": 2,
-        "GPT": 2,
-        "Security": 1,
-        "RAG": 1
+        "AI Agent": 11,
+        "Security": 7,
+        "GPT": 5,
+        "Automation": 2,
+        "Claude": 2,
+        "Gemini": 2,
+        "RAG": 1,
+        "AI Coding": 1,
+        "Prompt": 1,
+        "Video AI": 1,
+        "Generative AI": 1,
+        "SDK/API": 1,
+        "Coding": 1,
+        "Developer Tools": 1
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 2602,
-      "recent_7d": 188,
-      "recent_30d": 188
+      "total": 2632,
+      "recent_7d": 218,
+      "recent_30d": 218
+    },
+    "openai": {
+      "total": 202,
+      "recent_7d": 16,
+      "recent_30d": 16
     },
     "techcrunch": {
-      "total": 1497,
-      "recent_7d": 102,
-      "recent_30d": 102
+      "total": 1501,
+      "recent_7d": 106,
+      "recent_30d": 106
     },
     "lycorp": {
       "total": 54,
@@ -70367,14 +70903,9 @@
       "recent_30d": 29
     },
     "toss": {
-      "total": 51,
-      "recent_7d": 1,
-      "recent_30d": 1
-    },
-    "openai": {
-      "total": 201,
-      "recent_7d": 15,
-      "recent_30d": 15
+      "total": 55,
+      "recent_7d": 5,
+      "recent_30d": 5
     },
     "deepmind": {
       "total": 61,
@@ -70417,6 +70948,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-09-07",
-  "total_articles": 5238
+  "last_updated": "2026-09-08",
+  "total_articles": 5277
 }
