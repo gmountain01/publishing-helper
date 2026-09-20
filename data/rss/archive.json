@@ -1,6 +1,154 @@
 {
   "articles": [
     {
+      "id": "d70b672b437d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "프랑스 검찰, 스마트 안경 이용한 '성희롱·불법 촬영' 수사 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215497",
+      "date": "2026-09-20",
+      "summary": "프랑스 파리 검찰이 스마트 안경을 이용해 여성들을 동의 없이 촬영하고 영상을 온라인에 유포하는 성희롱 의혹과 관련해 형사 수사에 착수했다. 파리 검찰청은 18일(현지시간) 스마트 안경으로 길거리의 여성을 몰래 촬영한 뒤 소셜미디어에 게시하는 유행과 관련해 성희롱 신고가 접수됐으며, 이를 토대로 최소 한 건의 형사 수사를 시작했다고 발표했다.수사 대상 스마트 안경 제조사나 구체적인 사건 내용은 공개하지 않았다. 검찰 사이버범죄 수사팀은 스마트 안경이 어떤 범죄에 악용될 수 있는지 파악하기 위해 약 2주 전 관련 기기를 직접 시험한 것",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "93e3bc3344a4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "샘 알트먼, 유엔 안보리서 'AI와 국제 안보' 브리핑 예정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215498",
+      "date": "2026-09-20",
+      "summary": "샘 알트먼 오픈AI CEO가 이번 주 미국 뉴욕에서 열리는 유엔총회 기간에 유엔 안전보장이사회에 참석해 AI와 국제 안보 문제를 주제로 연설할 예정이다. 오픈AI 대변인은 18일(현지시간) 알트먼 CEO가 안전보장이사회의 공개회의에서 직접 발언할 예정이라고 로이터에 밝혔다.15개 이사국으로 구성된 안전보장이사회는 오는 23일 AI와 국제 안보를 주제로 회의를 개최한다. 이번에는 AI 기술의 급속한 발전과 악용 가능성, 인간의 통제를 벗어날 위험 등이 주요 의제로 다뤄질 전망이다.오픈AI에 따르면, 알트먼의 발언은 국제적 협력과 공동",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "48770cebddd4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215502",
+      "date": "2026-09-20",
+      "summary": "주요 AI 기업들이 안전 확보를 명목으로 제시한 '개발 속도 조절' 구상이 반독점법 위반 논란에 휩싸였다. 안전장치 마련을 위한 업계 자율 협력을 선언한 지 불과 일주일 만에 소비자들로부터 담합 혐의로 고소를 당했다.AP와 CBS 뉴스 등에 따르면, 18일(현지시간) 미국 캘리포니아 북부 지방법원에는 챗GPT와 클로드, 제미나이, 그록 등 주요 AI 서비스의 유료 구독자 4명이 소장을 제출했다. 이들은 미국의 유료 구독자들을 대표해 앤트로픽과 오픈AI, 구글, 스페이스XAI를 상대로 집단소송을 제기했다. 원고 측은 이들 기업이 모델",
+      "keywords": [
+        "Claude",
+        "GPT",
+        "Gemini"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "3e81de11d998",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI 환각에 중국과 충돌할 뻔\"…미군, 정보 오류에 ‘식은땀’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215501",
+      "date": "2026-09-20",
+      "summary": "미군이 AI의 잘못된 분석 결과를 바탕으로 중국 선박을 차단하려다 직전에 철회하는 사건이 발생했다.18일(현지시간) CNN에 따르면, 올봄 이란과의 전쟁이 한창이던 당시 중동에 있 중국 선박이 핵무기 개발 프로그램 부품을 운반 중이라는 정보 보고서가 미군 지휘부 전반에 배포됐다.보고서를 접한 미군은 즉시 작전에 착수했다. 무장한 미군 병력이 선박 승선을 준비하고 상공에는 군용기까지 출격하는 등 긴장감이 최고조에 달했다.그러나 작전 개시 직전, 보고서를 재검토하는 과정에서 치명적인 오류가 발견됐다. 해당 보고서는 하와이 본부의 태평양",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "d1670af53e7b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215500",
+      "date": "2026-09-20",
+      "summary": "오픈AI가 오는 2030년까지 수천억달러에 달하는 현금을 소진, 2028년에는 보유한 자금이 모두 떨어질 것이라는 전망이 나왔다. 경쟁사인 앤트로픽도 가파른 매출 성장세 뒤에 감춰진 인프라 비용 폭증과 적자 전환 우려로 기업공개(IPO)를 앞두고 월가의 신중론에 직면하는 등 양대 프런티어 AI 기업의 재무적 부담이 만만치 않은 상황이다.파이낸셜 타임스(FT)는 19일(현지시간) 비공개 투자자 발표 자료를 입수, 오픈AI가 2026년부터 2030년까지 5년간 2780억달러(약 386조원)에 달하는 마이너스 잉여현금흐름을 기록할 것으로",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "667ac63db6b2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양, 청년 맞춤 지원 확대…문화부터 취업 준비까지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215446",
+      "date": "2026-09-20",
+      "summary": "AI 생성 영상광양시가 청년의 문화생활과 자산형성, 교육·취업 준비를 지원하는 청년정책을 연계 운영한다.광양은 청년 문화복지카드와 도서 구입비 지원, 자산형성 통장, 결혼축하금, 대학생 생활비 장학금 등을 통해 청년의 생활과 미래 준비를 지원하고 있다고 17일 밝혔다.‘전남청년 문화복지카드’는 광양에 주민등록을 두고 전남에 2년 이상 거주한 청년에게 연간 25만원의 문화복지비를 지원하는 사업이다.지원금은 도서 구입과 공연·영화 관람, 체육시설 이용, 학원 수강 등에 사용할 수 있다. 3차 신청은 10월8일까지이며 거주지 읍·면·동사",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "a192852cae44",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "나주, 국립정원문화원과 협약…영산강정원 운영·프로그램 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215445",
+      "date": "2026-09-20",
+      "summary": "AI 생성 영상나주시가 국립정원문화원과 손잡고 영산강정원의 프로그램 전문성과 운영 역량을 강화한다.나주는 지난 17일 국립정원문화원과 ‘영산강정원 등 지역 정원문화 활성화를 위한 업무협약’을 체결했다고 18일 밝혔다.이번 협약은 영산강의 자연·생태적 가치를 정원문화와 연계하고 영산강정원의 지속적인 운영 기반을 강화하기 위해 마련됐다.양 기관은 올해 영산강축제와 연계한 민간정원 전시와 정원 체험 프로그램부터 공동 추진한다.‘가족정원 페스티벌’에서는 참가자를 대상으로 가드닝 교육을 진행하고 경연 심사와 전문가 멘토링 등도 지원할 예정이",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "6f7a4f3d37eb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페인, 지난해 태양광 10.1GW 추가…낮 전력값 떨어져 수익성 압박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215407",
+      "date": "2026-09-20",
+      "summary": "스페인이 지난해 10기가와트(GW)가 넘는 태양광 설비를 새로 설치한 것으로 나타났다. 대규모 발전소를 중심으로 보급이 빠르게 늘면서 태양광이 스페인 전력시장의 핵심 발전원으로 자리 잡았지만, 낮 시간대 전력가격 하락으로 발전사업자의 수익성은 압박을 받고 있다.스페인태양광협회(UNEF)가 지난 15일(현지시간) 발표한 연례보고서에 따르면 2025년 스페인에 새로 설치된 태양광 설비는 총 1만105메가와트(MW)로 집계됐다. 이 가운데 지상형 태양광발전소가 8966MW, 주택·사업장 등의 자가소비 설비가 1139MW를 차지했다.지상형",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "70f8b9972f40",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215499",
+      "date": "2026-09-20",
+      "summary": "도널드 트럼프 미국 대통령이 AI 산업의 주도권을 확보하고 성장 속도를 올리기 위한 국정 구상을 발표했다. 최근 주요 기술 기업 경영진과 정치권에서 AI 안전성과 데이터센터 전력 소비를 둘러싼 우려가 커지는 가운데 나온 조치다.트럼프 대통령은 19일(현지시간) 소셜미디어 트루스 소셜을 통해 정부 AI 정책을 총괄할 책임자인 'AI 차르(AI Czar)'를 조만간 새로 임명하고 첫 임기 당시 창설했던 우주군(Space Force) 모델을 본뜬 'AI 포스(AI Force)' 결성하겠다고 밝혔다. 이어 '인공지능'이라는 명칭을 개편하자",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "a5b8545979d3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "재생에너지 RPS 15년 만에 개편…내년부터 경쟁입찰·장기계약",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215395",
+      "date": "2026-09-20",
+      "summary": "내년부터 신규 태양광·풍력 등 재생에너지 발전사업자는 정부 경쟁입찰을 거쳐 사업자로 선정된 뒤 정부 계획에 따라 한국전력과 장기 고정가격 전력구매계약을 체결하게 된다. 2012년 도입된 재생에너지 공급의무화제도(RPS)가 15년 만에 경쟁입찰 기반의 계약시장 중심으로 전환된다.기후에너지환경부는 이 같은 내용을 담은 ‘재생에너지 개발·이용·보급 촉진법’ 개정법률을 지난 15일 공포했다. 국가법령정보센터에 따르면 개정법은 2027년 1월 1일부터 시행된다.현재 RPS는 일정 규모 이상의 발전사업자에게 총발전량의 일정 비율을 재생에너지로",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "8df3df412531",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "영국, 소규모 태양광 설치 20만건 돌파…올해 30만건 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215433",
+      "date": "2026-09-20",
+      "summary": "영국의 소규모 태양광 설치가 올해 들어 20만건을 넘어섰다. 중동 분쟁에 따른 천연가스 가격 상승으로 가정 에너지요금 부담이 커진 데다 신규주택의 태양광 설치가 늘면서, 현재 추세가 이어질 경우 올해 연간 설치가 처음으로 30만건에 이를 것이라는 전망이 나왔다.영국 태양광산업협회 솔라에너지UK(Solar Energy UK)가 지난 14일(현지시간) 소규모 재생에너지 인증기관 MCS 자료를 인용해 발표한 내용에 따르면 올해 들어 MCS 인증을 받은 태양광 설비는 20만7619건으로 집계됐다. 2011년 한 해 설치된 20만3697건을",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "650b714b629e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT, 선한 AI로 지속가능 미래 연결한다...21·22일 '사회적가치 페스타' 참가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215476",
+      "date": "2026-09-20",
+      "summary": "SK텔레콤(대표 정재헌)은 21~22일 서울 코엑스에서 열리는 ‘제3회 대한민국 사회적가치 페스타’에 참가해 지속가능경영 비전 ‘두 더 굿 AI(DO THE GOOD AI)’를 실천하는 다양한 사례를 선보인다고 밝혔다.두 더 굿 AI는 AI를 통해 기술 경쟁력을 높이고, AI의 신뢰성과 안전성을 확보하며, 세상에 긍정적으로 기여하는 지속가능경영을 추진한다는 의미를 담고 있다.SKT는 72㎡ 규모의 전시 공간을 마련해 ‘더 나은 연결로 함께하는 지속가능한 미래’를 주제로 AI 기술과 서비스를 활용해 고객의 일상을 더 안전하고 편리하게",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
       "id": "2f121b448c20",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -201,6 +349,253 @@
         "Security"
       ],
       "first_seen": "2026-09-19"
+    },
+    {
+      "id": "194c7523c48f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "date": "2026-09-19",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "c0e5bbea1628",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "date": "2026-09-19",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "c67b3655b36c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "date": "2026-09-19",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "021b211a9222",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "date": "2026-09-19",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "031e78fea7f6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "date": "2026-09-19",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "f48af8241edf",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "date": "2026-09-19",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "a4b8614ad9dd",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "date": "2026-09-19",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "0ac6fc9717b5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "date": "2026-09-19",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "keywords": [
+        "Automation",
+        "Benchmark"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "d29d4ca98f0f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
+      "date": "2026-09-19",
+      "summary": "AI타임스와 이스트에이드의 9월 셋째 주(9월11일~17일) 이슈 분석 결과, SBS 개그맨 술집 난동을 포함해 MBC 사장 인선과 수출 실적, AI 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 'SBS 개그맨 술집 난동(5.60%)'이 차지했다. SBS 공채 개그맨을 사칭한 남성이 서울의 한 술집에서 업주에게 폭언하고 맥주잔을 던지는 등 난동을 부려 경찰 조사를 받아 화제를 모았다.2위는 'MBC 사장 이성주 내정(4.76%)'으로 이성주 iMBC 경영이사와 전동건 전 울산MBC 사장 중 이사회 투표를 거쳐 이성주 이사가",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "94105b2501fa",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+      "date": "2026-09-19",
+      "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽이 IPO 이전에 경쟁사의 상승세에 대응하기 위한 신규 AI 모델 출시를 신중히 검토 중이라고 보도했다.현재",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "dc74ee5e3889",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+      "date": "2026-09-19",
+      "summary": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했다.다만 이번 사건은 AI 모델의 자체 결함이나 불량 작동이 아닌, 외주 평가업체의 테스트 환경 관리 소홀에서 비롯된 사고라는 점이 드러났다.사고는 지난 5월 AI 보안 평가 전문 스타트업 이레귤러(Irregular)가 진행한 모의 침투 훈련 과정에서 일어났다. 가상 환경 내 격리된 기업 시스템을 공격하도록 설계된 시뮬레이션이었으나, 평가",
+      "keywords": [
+        "Gemini",
+        "Security"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "3b496a935eb9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215483",
+      "date": "2026-09-19",
+      "summary": "AI가 단순히 사람이 지정한 애플리케이션 코드를 작성하는 단계를 넘어, 자신이 구동되는 하드웨어 및 시스템 인프라 최적화 레이어까지 직접 진입하며 개발 과정을 진화시키고 있다.Z.ai(지푸 AI)는 17일(현지시간) 자체 개발한 'GLM'을 활용해 차세대 AI 모델의 추론 인프라를 직접 구축하고 최적화하는 사례를 공개했다.아직 AI가 스스로 후속 모델을 설계하고 학습하는 ‘재귀적 자기개선(RSI)’ 단계에는 도달하지 않았지만, GLM이 자신의 실행 환경을 개선하는 초기 형태가 나타나고 있다고 설명했다.앞서 지난해 10월에는 사이버보",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "e2c767ca1906",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215492",
+      "date": "2026-09-19",
+      "summary": "SK하이닉스의 손자회사 솔리다임이 미국 첫 낸드플래시 생산거점 구축을 검토 중인 것으로 알려졌으나, SK하이닉스는 확정된 바 없다는 입장을 밝혔다.지난 18일 업계에 따르면 솔리다임은 미국 동부 지역에 낸드 양산라인을 세우기 위해 후보 부지와 세부 조건 등을 들여다보고 있는 것으로 전해졌다.솔리다임은 SK하이닉스가 2021년 말 90억달러(약 12조원)를 들여 인텔 낸드 사업을 인수하면서 출범한 법인이다. 현재 중국 다롄에서 생산시설을 가동 중이며, 미국에는 본사와 연구개발(R&D) 센터를 두고 있다.현재 SK하이닉스가 인디애나주에",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "e15c7942c9b0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215479",
+      "date": "2026-09-19",
+      "summary": "애플의 인수 검토설로 주목받은 AI 스타트업 프리즘ML(PrismML)이 한층 진화한 온디바이스 AI 압축 모델을 선보였다. 270억 매개변수급 대형언어모델(LLM)을 5.9기가바이트(GB) 수준으로 압축해 일반 PC와 노트북, 고성능 스마트폰에서도 원활하게 작동하는 신규 모델을 공개했다.캘리포니아 공과대학(Caltech) 스핀오프 기업인 프리즘ML은 지난 7월 54GB 크기의 모델을 4GB 미만으로 줄여 아이폰 17 프로에서 구동하는 데 성공하며 애플 등 빅테크의 인수 및 협력 검토 대상으로 떠오른 바 있다. 이어 17일(현지시간",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "4fcf04b5609a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215478",
+      "date": "2026-09-19",
+      "summary": "메타의 개인용 AI 에이전트 ‘뮤즈(Muse)’가 맥(Mac)으로 서비스를 확대하면서 AI가 사용자의 컴퓨터에서 직접 작업을 수행하는 시대가 본격화하고 있다. 또 뮤즈는 모바일 버전이 앱스토어 1위에 오르며 폭발적인 인기를 끌고 있지만, 사용자 데이터 접근에 따른 개인정보 보호와 보안 문제는 넘어야 할 최대 과제로 꼽힌다.메타는 17일(현지시간) 맥용 뮤즈를 공식 출시했다. 모바일과 웹에 이어 맥 데스크톱 환경으로 영역을 넓혀 파일, 메시지, 캘린더, 메모, 이메일 등 PC 내 주요 애플리케이션 및 시스템 파일과 직접 연동된다.이를",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "0adf81b0de12",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "알리바바, 보고 듣고 행동하는 옴니모달 '큐원3.8-옴니-플래시' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215481",
+      "date": "2026-09-19",
+      "summary": "알리바바가 오디오와 비디오를 이해하는 데 그치지 않고 사용자의 지시에 따라 도구를 호출하고 작업까지 수행할 수 있는 차세대 옴니모달 모델을 공개했다. 알리바바는 18일(현지시간) 단순한 콘텐츠 인식을 넘어 작업 계획과 실행이 가능한 새로운 옴니모달 모델 ‘큐원3.8-옴니-플래시(Qwen3.8-Omni-Flash)’를 공개했다.텍스트와 이미지뿐 아니라 오디오와 비디오를 입력으로 처리하며, 최대 100만 토큰의 컨텍스트를 지원한다. 출력은 텍스트 형태로 제공되지만 함수 호출과 웹 검색, 구조화된 출력, 컨텍스트 캐싱, 배치 호출 등을",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "f3d8f28e850c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스XAI, ‘그록 보이스 트랜스크라이브  2.0’ 공개...전사 정확도 1위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215485",
+      "date": "2026-09-19",
+      "summary": "스페이스XAI는 18일(현지시간) 음성을 텍스트로 변환하는 새로운 음성 전사 모델 ‘그록 보이스 트랜스크라이브 2.0(Grok Voice Transcribe 2.0)’을 공개했다.이를 두고 \"현재 사용 가능한 변환 모델 중 가장 정확한 모델 중 하나\"라고 강조했다. 실제 환경에서 수집한 다양한 음성 데이터를 바탕으로 전사 정확도를 크게 높였다는 설명이다.그록 보이스 트랜스크라이브 2.0은 그록 음성 기능에 사용되는 오디오 기반 모델을 바탕으로 개발됐다. 기존 '그록 보이스'는 하루 수만건의 고객지원 통화를 처리하고, 수백만 시간에",
+      "keywords": [
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "7ad46fb476c2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215489",
+      "date": "2026-09-19",
+      "summary": "영국의 네오클라우드 엔스케일(Nscale)이 미국 뉴욕증권거래소(NYSE) 상장을 위한 기업공개(IPO)를 신청했다. 2024년 가상자산 채굴 인프라 기업에서 분사한 지 약 2년 만에 상장에 나선 것으로, 폭발적으로 늘어나는 AI 컴퓨팅 수요를 겨냥한 대규모 자금 조달에 나섰다.CNBC 등에 따르면, 엔스케일은 18일(현지시간) 미국 증권거래위원회(SEC)에 IPO 신청서를 제출했다.이를 통해 2026년 상반기 매출이 1억4060만달러(약 2000억원), 순손실은 10억2000만달러(약 1조4000억원)라고 밝혔다. 매출은 전년 같",
+      "keywords": [],
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "9bc56f19275b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "조비, 사람 조종 없이 미국 대륙 횡단…'최초' 완전 자율비행 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215488",
+      "date": "2026-09-19",
+      "summary": "미국 에어택시 스타트업 조비 에비에이션(Joby Aviation)이 사람의 조종 없이 미국 대륙을 동서로 가로지르는 완전 자율비행에 성공했다. 조비는 17일(현지시간) 자율비행 기술을 탑재한 개조형 세스나 카라반 항공기가 캘리포니아 콩코드에서 노스캐롤라이나 아우터뱅크스까지 3199마일(약 5148km)을 비행했다고 발표했다.기내에는 안전을 위한 조종사가 탑승했지만, 비행 과정에서 조종사의 직접적인 제어 입력은 전혀 없었다. 항공기는 활주와 이륙, 항로 비행, 착륙까지 모든 과정을 자율적으로 수행했다.비행은 캘리포니아의 조비 본부와",
+      "keywords": [],
+      "first_seen": "2026-09-20"
     },
     {
       "id": "258ad608e493",
@@ -870,6 +1265,20 @@
         "GPT"
       ],
       "first_seen": "2026-09-19"
+    },
+    {
+      "id": "48d4db25a29d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "date": "2026-09-18",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-09-20"
     },
     {
       "id": "b7c7d891caa0",
@@ -78298,11 +78707,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-06-22",
-      "added": 26,
-      "total": 1539
-    },
-    {
       "date": "2026-06-23",
       "added": 66,
       "total": 1605
@@ -78746,6 +79150,11 @@
       "date": "2026-09-19",
       "added": 59,
       "total": 5881
+    },
+    {
+      "date": "2026-09-20",
+      "added": 32,
+      "total": 5913
     }
   ],
   "sources": {},
@@ -78893,34 +79302,34 @@
     {
       "week": "2026-W38",
       "keywords": {
-        "AI Agent": 49,
-        "Automation": 32,
-        "GPT": 20,
-        "Security": 19,
-        "Claude": 16,
-        "LLM": 12,
-        "AI Safety": 12,
+        "AI Agent": 50,
+        "Automation": 33,
+        "GPT": 22,
+        "Security": 21,
+        "Claude": 17,
+        "AI Safety": 14,
+        "LLM": 13,
         "Coding": 11,
         "SDK/API": 9,
         "Robotics": 7,
         "Open Source": 6,
+        "Gemini": 6,
         "Deployment": 5,
-        "Benchmark": 4,
-        "MCP": 4,
-        "Cloud/DevOps": 4
+        "Benchmark": 5,
+        "Framework": 4
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 1678,
-      "recent_7d": 122,
-      "recent_30d": 283
+      "total": 1686,
+      "recent_7d": 118,
+      "recent_30d": 291
     },
     "aitimes": {
-      "total": 2941,
-      "recent_7d": 219,
-      "recent_30d": 527
+      "total": 2964,
+      "recent_7d": 212,
+      "recent_30d": 550
     },
     "toss": {
       "total": 59,
@@ -78932,11 +79341,6 @@
       "recent_7d": 1,
       "recent_30d": 3
     },
-    "openai": {
-      "total": 230,
-      "recent_7d": 12,
-      "recent_30d": 44
-    },
     "google_ai": {
       "total": 67,
       "recent_7d": 9,
@@ -78944,8 +79348,13 @@
     },
     "aws_ml": {
       "total": 368,
-      "recent_7d": 28,
+      "recent_7d": 25,
       "recent_30d": 80
+    },
+    "openai": {
+      "total": 231,
+      "recent_7d": 10,
+      "recent_30d": 45
     },
     "nvidia_ai": {
       "total": 137,
@@ -78983,6 +79392,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-09-19",
-  "total_articles": 5881
+  "last_updated": "2026-09-20",
+  "total_articles": 5913
 }
