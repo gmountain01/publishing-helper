@@ -1,6 +1,111 @@
 {
   "articles": [
     {
+      "id": "e0c16d6f1c1d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "date": "2026-09-26",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "141053b37d68",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 35 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215660",
+      "date": "2026-09-26",
+      "summary": "내면지도_지도에 없는 시간, 지도에 없는 아침2024년 12월, 파라과이 아순시온에서 유네스코 무형문화유산보호협약 정부간위원회가 열렸다. 스물네 개 위원국이 다룬 안건 가운데 하나는 '말레이시아의 아침 식사 문화: 다민족 사회에서의 식사 경험'이었다. 말레이시아가 신청서를 낸 지 1년 8개월 만이었다.조금 이상한 유산이었다. 특정 도시나 식당, 특정 공동체에 속하지 않았기 때문이다. 신청서는 이 문화를 도시와 농촌을 가리지 않고 말레이시아 전역에서 만날 수 있다고 설명했다.유산의 핵심도 특별한 요리법이 아니었다. 나시 르막, 로티",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "f7d2b1d00062",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 새 AI 글라스 테스트 중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215659",
+      "date": "2026-09-26",
+      "summary": "글·그림 Dr. Alf",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "1d87462b0b4f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 대통령 지지율 반등...DMZ 지뢰·아시안게임·부산 상어 출몰 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215653",
+      "date": "2026-09-26",
+      "summary": "AI타임스와 이스트에이드의 9월 넷째 주(9월18일~25일) 이슈 분석 결과 대통령 지지율 반등을 포함해 DMZ 지뢰 폭발과 주요 증시 소식이 상위권을 차지했다.이번 주 검색량 1위는 '대통령 지지율 반등(14.97%)'이 압도적 비중을 차지했다. 지난 18일 기자회견을 계기로 이 대통령의 국정수행 지지도는 한 주 전보다 1.0%포인트 상승한 34.8%로 10주 만에 반등했다.향후 유엔(UN) 총회와 트럼프 미국 대통령과 회담, 멕시코 방문 등 '이재명 대통령 순방(4.61%)' 결과와 대법관 후보자 재제청, 부동산 등 민생 현안이",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "aafb0457a816",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "빌 게이츠 \"AI가 10억명 목숨 위협할 수도\"…정부 개입·규제법 제정 촉구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215669",
+      "date": "2026-09-26",
+      "summary": "빌 게이츠 마이크로소프트(MS) 창립자가 AI 기술의 오용이 대형 참사로 이어질 수 있다고 경고하며 미국 정부의 법적 감시와 연방 차원의 규제 법안 제정을 촉구했다.게이츠 창립자는 25일(현지시간) NBC 뉴스와의 인터뷰에서 \"AI는 10억명의 목숨을 앗아갈 만한 사건을 일으킬 만큼 강력하다\"라며 \"인류 전체를 대상으로 하기는 어렵겠지만, 악의를 가진 사람들이 최신 AI 도구를 사용하는 것만큼 강력한 무기는 지금까지 없었다\"라고 강조했다.AI 기업들의 자발적인 관리 체계에 한계가 있음을 지적하며 정부의 적극적인 개입을 요구했다. \"",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "8604b3e582a1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+      "date": "2026-09-26",
+      "summary": "오픈AI가 최신 사이버 보안 전용 모델 'GPT-6 사이버(Cyber)'를 몇주 안에 공개하고, 기존 모델 API 공급 방식에서 벗어나 고객이 모델을 더 안전하고 자동화된 방식으로 배포 및 운용할 수 있도록 지원하는 최초의 사이버 보안 전용 제품을 선보인다.포춘은 24일(현지시간) 소식통을 인용해 오픈AI가 오는 29일 미국 샌프란시스코에서 열리는 '데브데이 2026'에서 GPT-6 사이버를 비롯해 12개 이상의 신규 제품을 대거 발표할 예정이라고 보도했다.이번 발표의 핵심은 기존 배포 방식과의 차별화다. 그동안 오픈AI는 모델 A",
+      "keywords": [
+        "Automation",
+        "GPT",
+        "SDK/API",
+        "Security"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "b7695c3de43a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미중 정상 백악관 회담...시진핑 \"AI 통제\" vs 트럼프 \"현상 유지\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+      "date": "2026-09-26",
+      "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 백악관 국빈 만찬에서 빅테크 수장들과 자리를 함께하며 AI 패권을 둘러싼 미중 관계의 향방을 타진했다. 양국 정상은 AI 주도권을 확보하겠다는 본질적인 목표와 기술 경쟁 의지를 공유하면서도, 이를 풀어내는 화법과 접근 방식에서는 온도 차를 드러냈다.24일(현지시간) 백악관 이스트룸에서 열린 국빈 만찬에는 젠슨 황 엔비디아 CEO, 팀 쿡 애플 회장, 일론 머스크 CEO, 마크 저커버그 메타 CEO, 샘 알트먼 오픈AI CEO, 순다르 피차이 구글 CEO, 사티아 나델라 마이크로소프",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "275b2c41cd1c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+      "date": "2026-09-26",
+      "summary": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와 코드 생성, 상시 가동형 에이전트를 하나로 묶은 슈퍼 앱으로 서비스로 재편해 비즈니스 AI 시장의 주도권을 굳히겠다는 전략이다. 사티아 나델라 MS CEO는 25일(현지시간) 새로운 코파일럿을 공개하며 발표에서 \"모든 에이전트는 고유한 정체성을 가져야 하며 에이전트의 모든 행동은 관찰되어야 한다\"라며 \"과거 개별 도구가 업무 환경을 바꿨",
+      "keywords": [
+        "AI Agent",
+        "AI Coding",
+        "Chatbot"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
       "id": "ff5593a47771",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -52,6 +157,465 @@
         "Security"
       ],
       "first_seen": "2026-09-25"
+    },
+    {
+      "id": "0192a09d7c87",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "date": "2026-09-25",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "keywords": [
+        "Coding",
+        "GPT"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "2f7af1c08954",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+      "date": "2026-09-25",
+      "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and increased aggregate reinforcement learning rollout throughput by 40% for large-scale RLH",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "97c142c795c8",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+      "date": "2026-09-25",
+      "summary": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image, launching a Ray cluster from SageMaker Studio, submitting and monitoring the job, a",
+      "keywords": [
+        "Automation",
+        "Framework",
+        "LLM",
+        "Multimodal",
+        "Open Source",
+        "Vision"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "03666df24041",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+      "date": "2026-09-25",
+      "summary": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verification—that reach about 99% numerical accu",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "80b3666f79eb",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
+      "date": "2026-09-25",
+      "summary": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages.",
+      "keywords": [
+        "Automation",
+        "Deployment",
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "bf1790d5a41c",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
+      "date": "2026-09-25",
+      "summary": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an automated cross-cloud data pipeline and multi-tenant row-level security.",
+      "keywords": [
+        "Automation",
+        "Cloud/DevOps",
+        "Embeddings",
+        "Security"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "f4d3e57fd099",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/",
+      "date": "2026-09-25",
+      "summary": "Amazon SageMaker HyperPod and Cloud Native Qumulo let you place training compute in one AWS Region while keeping your dataset in another. This post shares the architecture and validation results from a cross-Region training run, where a remote cluster matched a co-located cluster's throughput after",
+      "keywords": [
+        "Automation",
+        "Cloud/DevOps"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "4dc5a9b388b9",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "date": "2026-09-25",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "270ddc73097a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "date": "2026-09-25",
+      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "9550a58b2b1b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "date": "2026-09-25",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "8de38d355790",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta opens early access program for new Muse features",
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "date": "2026-09-25",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "41845a3718a2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "date": "2026-09-25",
+      "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "4b9cd4f252fe",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "date": "2026-09-25",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "keywords": [
+        "Cloud/DevOps"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "49ebd97751d4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "date": "2026-09-25",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "38b884af5757",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "date": "2026-09-25",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+      "keywords": [
+        "Cloud/DevOps"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "6a4a022337e1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "date": "2026-09-25",
+      "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+      "keywords": [
+        "Automation",
+        "Robotics"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "137693ab52f6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "date": "2026-09-25",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "656dc5dcef2d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "date": "2026-09-25",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "a948e5c03d79",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "date": "2026-09-25",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "keywords": [
+        "AI Agent",
+        "SDK/API"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "6c6baa7010d7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "date": "2026-09-25",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "cd698a3c4ec2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+      "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "date": "2026-09-25",
+      "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "042f70b50965",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "date": "2026-09-25",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "e3cc5ff4f95d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "date": "2026-09-25",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "01b337fcbc63",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
+      "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+      "date": "2026-09-25",
+      "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "c9621711fc22",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "date": "2026-09-25",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "1c04fad4c986",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "date": "2026-09-25",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "78b13b8a7a32",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
+      "date": "2026-09-25",
+      "summary": "미국 백악관이 오픈AI와 앤트로픽 등 자국 AI 기업에 미국 정부의 검증절차가 완료될 때까지 신규 모델을 영국 AI안보연구소(AISI) 등 해외 기관에 제공하지 말라고 요청했다.폴리티코는 24일(현지시간) 정통한 소식통과 미국 행정부 고위 관계자를 인용, 미국 국가사이버국(NCC)의 요청으로 이같은 압박이 이뤄졌다고 보도했다.관계자에 따르면, 이번 조치는 미국 기업이 개발한 최첨단 AI 모델의 보안성을 자국 시스템에서 먼저 검증한 후 우방국과 공유하겠다는 방침을 확고히 한 것이다. 그는 \"이는 새롭게 출시되는 모든 미국 모델에 대해",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "3602ac206d6d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215657",
+      "date": "2026-09-25",
+      "summary": "젠슨 황 엔비디아 CEO가 통제 불가능한 AI 연구소는 규제를 넘어 폐쇄해야 한다는 파격적인 발언을 내놓았다. AI 위험성에 대한 경고가 잇따르는 가운데 브래드 스미스 마이크로소프트(MS) 사장과 피터 틸 팔란티어 공동 창립자 등 주요 기술 리더들도 기술 통제와 책임론을 두고 각자 다른 시각을 드러냈다.황 CEO는 23일(현지시간) 뉴욕타임스(NYT)의 팟캐스트 '에즈라 클라인 쇼'에 출연, 안전 검증이 불가능한 프런티어 AI 연구소에 대해 강도 높게 경고했다. 그는 \"만약 그들이 다른 대안, 즉 '우리의 실험을 막을 방법이 없다.",
+      "keywords": [],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "b063d880f304",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215652",
+      "date": "2026-09-25",
+      "summary": "오픈AI가 'GPT-6' 제품군을 장시간 작동하는 AI 에이전트 환경에서 효율적으로 구동할 수 있도록 '프롬프트 캐싱' 기능을 대폭 강화했다.오픈AI는 22일(현지시간) GPT‑6 제품군과 함께 기본 캐시 적중률을 높인 향상된 프롬프트 캐싱 시스템을 출시했다.코드베이스 리팩터링이나 대규모 조사, 문서·프레젠테이션 제작처럼 수 시간에 걸쳐 여러 차례 API 요청이 이어지는 작업에서 반복되는 컨텍스트를 재사용해 응답 속도와 비용 효율을 높이는 것이 핵심이다.지속형 에이전트는 작업 과정에서 동일한 지침과 도구 정의, 이전 대화 맥락을 반",
+      "keywords": [
+        "AI Agent",
+        "GPT",
+        "Prompt",
+        "SDK/API"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "a51ed97e1579",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215654",
+      "date": "2026-09-25",
+      "summary": "전방 배치 엔지니어(FDE)의 채용이 1년 사이 급증하며, 직무 관련 지식과 현장 경험에 대한 교육 수요도 빠르게 증가하는 것으로 나타났다. 교육 전문 데이원컴퍼니(대표 신해동, 김동혁)는 기업 AX 전 과정을 지원하는 ‘데이원 AI 디플로이먼트 컴퍼니(DAY1 AI Deployment Company)’ 사업의 인재 양성 프로그램으로 ‘FDE 아카데미’를 신설했다고 25일 밝혔다. FDE는 기존 소프트웨어 엔지니어와 달리 고객사에 상주하며 맞춤형 솔루션을 구축하는 현장 파견형 엔지니어다. 단순 개발을 넘어 프로젝트 매니저의 문제 정",
+      "keywords": [
+        "Deployment"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "e5f6abda631c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215650",
+      "date": "2026-09-25",
+      "summary": "오픈AI가 개발자 생태계 확장을 위한 플랫폼 개편에 나선 것으로 알려졌다. 단순히 AI 모델을 API로 제공하는 것을 넘어, 아이디어 구상부터 프로토타입 제작, 실제 서비스 운영까지 애플리케이션 개발 전 과정을 지원하는 방향으로 플랫폼의 역할을 확대하려는 움직임이다.23일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 개발자 API 플랫폼의 새로운 온보딩 절차를 준비 중이다. 여기에는 '오픈AI 플랫폼(OpenAI Platform)'이라는 이름이 붙었다.이 과정에서 발견된 문구를 통해 AI 애플리케이션을 아이디어 단계부터 실제 서비",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "9fbc947a6e5c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+      "date": "2026-09-25",
+      "summary": "구글과 오픈AI, 앤트로픽이 정부의 직접적인 감독 없이 최첨단 AI 모델의 안전 기준을 마련하는 업계 자율 규제기구 설립을 추진 중이다.24일(현지시간) 디 인포메이션에 따르면, 세 회사는 ‘프런티어 AI 표준기구(SAFA·Standards Authority for Frontier AI)’라는 가칭을 검토 중이며, 올해 말이나 2027년 초 출범을 목표로 하고 있다.SAFA는 최첨단 AI 모델 출시 전 제3자 안전성 평가를 지원하고 안전·보안 사고의 보고 절차를 규정하는 핵심 역할을 맡는다. 각 기업이 자발적으로 약속했던 안전 조치",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-09-26"
+    },
+    {
+      "id": "06a9069d6e4a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215649",
+      "date": "2026-09-25",
+      "summary": "앤트로픽이 안전장치를 우회해 AI 모델의 지식이나 능력을 복제하려는 ‘모델 증류 공격’에 대응하기 위해, 안전장치에 의해 차단된 일부 요청에도 요금을 부과하기로 했다. 대규모 반복 요청을 통한 증류 시도를 억제하기 위한 방어 조치다.앤트로픽은 24일(현지시간)부터 '클로드'가 응답하기 전에 안전장치에 의해 거부한 요청 가운데 주요 위험 정책 범주에 해당하는 질의에 대해 일반 요청과 동일한 방식으로 과금을 시작한다고 발표했다.최근 몇 주 동안 자사 시스템을 대상으로 한 조직적인 공격이 발생했으며, 이번 조치는 이에 대응하기 위한 여러",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-09-26"
     },
     {
       "id": "22670c81f4a6",
@@ -82302,11 +82866,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-06-28",
-      "added": 25,
-      "total": 1866
-    },
-    {
       "date": "2026-06-29",
       "added": 27,
       "total": 1893
@@ -82750,6 +83309,11 @@
       "date": "2026-09-25",
       "added": 43,
       "total": 6179
+    },
+    {
+      "date": "2026-09-26",
+      "added": 41,
+      "total": 6220
     }
   ],
   "sources": {},
@@ -82897,54 +83461,39 @@
     {
       "week": "2026-W39",
       "keywords": {
-        "AI Agent": 49,
-        "Automation": 25,
-        "GPT": 23,
-        "SDK/API": 16,
-        "Security": 16,
-        "Claude": 10,
+        "AI Agent": 54,
+        "Automation": 33,
+        "GPT": 27,
+        "Security": 20,
+        "SDK/API": 20,
+        "Claude": 11,
         "Gemini": 10,
+        "LLM": 10,
         "AI Safety": 10,
-        "Robotics": 9,
-        "LLM": 8,
-        "Coding": 7,
-        "Deployment": 6,
-        "Video AI": 5,
-        "Speech/Audio": 5,
-        "Benchmark": 5
+        "Robotics": 10,
+        "Coding": 10,
+        "Deployment": 8,
+        "Cloud/DevOps": 8,
+        "Speech/Audio": 6,
+        "Prompt": 6
       }
     }
   ],
   "source_stats": {
+    "aitimes": {
+      "total": 3096,
+      "recent_7d": 185,
+      "recent_30d": 682
+    },
     "meta_eng": {
       "total": 28,
       "recent_7d": 3,
       "recent_30d": 5
     },
     "techcrunch": {
-      "total": 1768,
+      "total": 1788,
       "recent_7d": 130,
-      "recent_30d": 373
-    },
-    "aitimes": {
-      "total": 3082,
-      "recent_7d": 201,
-      "recent_30d": 668
-    },
-    "nvidia_ai": {
-      "total": 147,
-      "recent_7d": 11,
-      "recent_30d": 28
-    },
-    "openai": {
-      "total": 250,
-      "recent_7d": 23,
-      "recent_30d": 64
-    },
-    "google_ai": {
-      "total": 68,
-      "recent_7d": 4,
-      "recent_30d": 16
+      "recent_30d": 393
     },
     "deepmind": {
       "total": 66,
@@ -82957,18 +83506,33 @@
       "recent_30d": 19
     },
     "aws_ml": {
-      "total": 387,
-      "recent_7d": 32,
-      "recent_30d": 99
+      "total": 393,
+      "recent_7d": 31,
+      "recent_30d": 105
+    },
+    "nvidia_ai": {
+      "total": 147,
+      "recent_7d": 10,
+      "recent_30d": 28
+    },
+    "openai": {
+      "total": 251,
+      "recent_7d": 22,
+      "recent_30d": 65
+    },
+    "google_ai": {
+      "total": 68,
+      "recent_7d": 3,
+      "recent_30d": 16
     },
     "toss": {
       "total": 63,
-      "recent_7d": 5,
+      "recent_7d": 4,
       "recent_30d": 13
     },
     "lycorp": {
       "total": 56,
-      "recent_7d": 1,
+      "recent_7d": 0,
       "recent_30d": 3
     },
     "woowahan": {
@@ -82987,6 +83551,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-09-25",
-  "total_articles": 6179
+  "last_updated": "2026-09-26",
+  "total_articles": 6220
 }
