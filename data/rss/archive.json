@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "33e135971a26",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스캐터랩, AI 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215708",
+      "date": "2026-09-28",
+      "summary": "스캐터랩(대표 김종윤·박세웅)은 AI 인터랙티브 엔터테인먼트 플랫폼 '제타'에 새로운 플레이 모드인 '비주얼 노벨 모드'를 출시했다고 28일 밝혔다.비주얼 노벨 모드는 대화 맥락과 스토리에 따라 캐릭터와 배경이 실시간으로 변화하는 플레이 모드다. 캐릭터가 상황에 따라 표정과 행동을 바꾸고, 장소가 전환되면 배경도 함께 바뀐다.여기에 상황에 따라 선택지를 고를 수 있는 상태창과 주사위 이벤트 등 게임 요소를 더해 인터랙티브한 플레이 경험을 강화했다는 설명이다.AI 기반 실시간 콘텐츠 생성도 지원한다. 스토리 중 새로운 인물이 등장하면",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "356be3ed1326",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "포지큐브, 하나은행에 AI 에이전트 서비스 구축...\"금융 AX 가속\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215713",
+      "date": "2026-09-28",
+      "summary": "포지큐브(대표 오성조)는 자체 멀티 에이전트 기반 AI 플랫폼 '로비 G 맥스'를 활용해 하나은행의 AI 에이전트 서비스를 구축했다고 28일 밝혔다.로비 G 맥스는 멀티 에이전트 기반 아키텍처로 기업 환경에 최적화된 생성형 AI 서비스를 제공한다.주요 기능으로는 ▲자연어 기반 에이전트 워크플로우 구축 ▲사내 문서를 활용한 검색증강생성(RAG) 시스템 구축 ▲맞춤형 서비스 설계 ▲할루시네이션(환각) 최소화 ▲정보 보호 등이 있다.이번 프로젝트에는 RAG 기술과 도메인 특화 프롬프트 템플릿 설계, 비정형 문서 자동 업데이트 시스템 등이",
+      "keywords": [
+        "AI Agent",
+        "Generative AI",
+        "Prompt",
+        "RAG"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "80cddd8747f9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정자 확정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215709",
+      "date": "2026-09-28",
+      "summary": "카카오가 인적분할을 앞두고 그룹 차원의 체계적 전환 준비에 나선다.카카오그룹은 28일 그룹협의회를 개최, 협약사 CEO들의 결의에 따라 김도영 카카오X 대표 내정자를 CA협의체 공동의장으로 정했다고 밝혔다. 김 내정자는 정신아 의장과 함께 공동 의장으로서 CA협의체를 이끌게 됐다. 두 의장은 분할 전까지 주요 의사결정을 함께 진행하며, 그룹 차원의 조율과 실행력을 높이는 역할을 맡는다.카카오 관계자는 “이번 공동 의장 체제는 인적분할을 앞둔 중요한 전환기에 그룹 차원의 연속성 확보와 체계적 실행을 위한 것”이라고 말했다.한편, 카카",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "b4e6292ced73",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT·삼성전자·하나금융, 금융권 첫 '5G 스마트오피스' 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215705",
+      "date": "2026-09-28",
+      "summary": "SK텔레콤(대표 정재헌)은 하나금융그룹, 삼성전자와 금융권 최초로 5G 특화망 기반 스마트 오피스를 구축했다고 28일 밝혔다.이번 사업은 이달부터 인천 청라로 단계적 이전 중인 하나금융그룹 헤드쿼터의 10개 관계사, 임직원 3000여명을 대상으로 한다. 16개 층에 5G 특화망을 적용해 좌석과 유선 연결 제약 없는 하이브리드 업무 환경을 구현했다.이를 통해 고정 좌석·유선 데스크톱 중심이던 금융권 업무 환경을 개선하고, 네트워크 공사와 유선 자원 관리에 따른 부담도 줄일 수 있을 것으로 기대된다고 설명했다.SKT는 하나금융그룹의 I",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "c945338e4ce6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 스마트폰으로 AI 게임 만드는 '호라이즌 크리에이트' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215710",
+      "date": "2026-09-28",
+      "summary": "메타가 모바일 기반 AI 게임 제작 플랫폼 구축에 박차를 가하고 있다.메타는 지난 24일(현지시간) 열린 '메타 커넥트 2026' 행사에서 스마트폰과 웹 브라우저만으로 비디오 게임을 직접 개발하고 퍼블리싱할 수 있는 AI 기반 게임 제작 도구 '호라이즌 크리에이트'와 '호라이즌 스튜디오'를 공개했다.이번 발표는 기존 가상현실(VR) 헤드셋 중심이었던 메타의 메타버스 플랫폼 '호라이즌'을 모바일 단말기와 소셜 미디어 플랫폼으로 본격 확장하려는 전략에 따른 것이다. 앞서 지난 6월에는 AI 텍스트 프롬프트로 미니 게임을 만들어 피드에",
+      "keywords": [
+        "Prompt"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "d4a5cf74d100",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'AI 칩 부족' 중국, 엔비디아 PC용 GPU 구매 허용하나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215701",
+      "date": "2026-09-28",
+      "summary": "중국 정부가 자국 IT 기업들의 엔비디아 'RTX 프로 5500' 구매를 제한적으로 허용하는 방안을 검토 중인 것으로 알려졌다. 화웨이 등 중국 반도체 기업들이 급증하는 AI 컴퓨팅 수요를 충분히 감당하지 못하면서, 그동안 제한해 온 미국산 칩까지 대안으로 활용하려는 움직임으로 풀이된다.26일(현지시간) 디 인포메이션에 따르면, 중국 공업정보화부는 최근 바이트댄스와 알리바바 등 주요 IT 기업에 RTX 프로 5500의 구매 계획을 제출하도록 요청했다.필요한 칩 수량과 구체적인 활용 목적을 함께 보고하도록 했으며, 일부 기업에는 당국",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "0d8be0e07d64",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, '클로드 소네트 5.5' 출시 임박...오픈AI '데브데이' 견제하나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215700",
+      "date": "2026-09-28",
+      "summary": "앤트로픽이 ‘클로드 소네트 5.5(Claude Sonnet 5.5)’의 기습 출시를 준비하고 있다는 정황이 잇따라 나오고 있다. 오픈AI의 개발자 행사 ‘데브데이’를 앞두고 출시 시점을 앞당길 가능성이 제기되면서, 양사의 개발자용 AI 모델 경쟁이 한층 치열해질 전망이다.26일(현지시간) AI 정보 유출 전문 계정 라이라(Lyra)에 따르면, 앤트로픽은 최근 파트너사들을 대상으로 소네트 5.5의 두 번째 체크포인트 빌드를 배포하고 스텔스 테스트를 진행하고 있다.라이라는 이르면 28일 오전 중 정식 출시될 가능성을 언급했다. 이는 2",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "46a1f8102266",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] 한 땀 한 땀 나의 첫 AI 에이전트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215621",
+      "date": "2026-09-28",
+      "summary": "한 땀 한 땀 나의 첫 AI 에이전트허정준·송영희 | 책만2026년 9월 29일추천이유이 책은 프레임워크 없이 파이썬으로 AI 에이전트를 처음부터 끝까지 직접 구현하며 에이전트의 본질과 설계 원리를 완전히 이해하도록 합니다. 독자는 기초부터 RAG, 메모리, 멀티 에이전트 오케스트레이션까지 체계적으로 학습하며 프로덕션 환경에서 에이전트를 안정적으로 운영할 수 있게 됩니다.상세보기AI 에이전트를 공부하려고 책을 펼치면 낯선 이름부터 쏟아진다. 프레임워크와 라이브러리, 각종 도구가 등장하고, 코드를 따라 하다 보면 어느새 '무엇을 만들",
+      "keywords": [
+        "AI Agent",
+        "RAG"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "48ac73edf775",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215694",
+      "date": "2026-09-28",
+      "summary": "도널드 트럼프 미국 대통령이 다리오 아모데이 앤트로픽 CEO를 백악관으로 초청해 비공개 만찬을 가진다.악시오스는 27일(현지시간) 트럼프 대통령이 이날 저녁 백악관에서 아모데이 CEO와 만난다고 보도했다.이는 백악관이 주요 AI 기업 수장들을 소집해 개최할 예정인 회의를 앞두고 이뤄진 독대 자리다. 트럼프 대통령은 29일 기술 및 AI 분야 리더들과 함께 새로운 정부 웹사이트를 공개하는 행사를 주최할 예정이다. 여기에는 젠슨 황, 일론 머스크 등이 참석할 것으로 알려졌다.이번 만찬은 그동안 긴장 관계를 이어온 미국 행정부와 앤트로픽",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
       "id": "e4d19eb73cb3",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -110,6 +230,170 @@
         "Security"
       ],
       "first_seen": "2026-09-27"
+    },
+    {
+      "id": "920676792664",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "date": "2026-09-27",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "ee2957dde3ef",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "date": "2026-09-27",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "62faa8b88a01",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "date": "2026-09-27",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "94a11600420c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "date": "2026-09-27",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "1309404bd07d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "date": "2026-09-27",
+      "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "keywords": [],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "431f4bc05c2b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215692",
+      "date": "2026-09-27",
+      "summary": "오픈AI의 'GPT-6 아스트라'가 물리적·로보틱스 시뮬레이션 환경에서 치명적인 유해 명령을 거부하지 않고 수행한 연구 결과들이 잇달아 공개됐다. 오픈AI는 아스트라를 '가장 지능적이고 안전하게 정렬된 모델'로 소개했으나, 텍스트 통제와 실제 물리적 행위 사이의 격차가 드러난 것이다.AI 연구자인 알렉스 워머스는 21일(현지시간) 블로그와 깃허브를 통해 3D 루프탑 시뮬레이션 환경에서 진행한 '절벽 밀치기(Rooftop Push)' 실험 결과를 발표했다. 가상의 인물이 절벽 끝에 서 있는 상황에서 모델들에게 \"이 사람을 절벽 아래로",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "df40092848d0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 고속 처리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+      "date": "2026-09-27",
+      "summary": "오픈AI가 월 500달러(약 68만원)에 달하는 최상위 요금제 ‘챗GPT 프로 맥스(ChatGPT Pro Max)’를 준비하고 있다는 정황이 포착됐다. AIPRM의 리드 엔지니어 티보르 블라호는 24일(현지시간) 챗GPT의 비공개 프런트엔드 설정에서 프로 맥스의 흔적을 발견했다고 밝혔다.여기에 테스팅카탈로그 등이 확인한 내용에 따르면, 프로 맥스의 가격은 월 500달러다. 일부 지역에서는 부가가치세(VAT)가 포함돼 600달러로 표시될 수 있다.기존 챗GPT 프로 요금제와 비교해 새롭게 확인된 핵심 기능은 ‘가장 빠른 챗GPT 워크",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "598f99075238",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 클로드 최적화를 클로드에 맡겼더니…\"속도 3배 빨라져\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215678",
+      "date": "2026-09-27",
+      "summary": "앤트로픽이 AI 모델의 성능 개선을 넘어 실제 서비스 속도를 높이기 위해 자사 AI 모델 '클로드'를 대규모 최적화 작업에 직접 투입했다. 엔지니어가 일일이 코드를 분석하던 기존 방식에서 벗어나, AI가 스스로 병목 지점을 찾고 수정 코드 배포까지 주도한 것이 핵심이다.앤트로픽은 2026년 9월 23일(현지시간) 단 2주 만에 클로드 웹 서비스와 데스크톱 앱의 핵심 사용자 경험을 약 3배 빠르게 개선했다고 밝혔다.특히 속도 저하를 해결하기 위해 엔지니어와 클로드가 하나의 슬랙 채널에서 협력했으며, AI가 주도적으로 성능 문제를 추적",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "56dad5c4d58c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "라이너, 에이전트 연결 도구 '라이너 액션 MCP' 출시…국내 도입 임박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215655",
+      "date": "2026-09-27",
+      "summary": "AI 에이전트 전문 라이너(대표 김진우)가 기존 MCP 생태계의 복잡한 진입 장벽을 해결하기 위해 ‘라이너 액션 MCP’를 선보인다. 서치·리서치 에이전트로서의 핵심 역량을 고도화하는 동시에, 사용자 환경에 최적화된 ‘통합 워크플로우 에이전트 환경’을 갖추겠다는 전략이다.라이너는 '라이너 액션 MCP(Liner Actions MCP)'를 국내에서도 사전 이용 형태로 선보인 데 이어, 1~2주 내로 공식 출시를 앞두고 있다고 27일 밝혔다. 이 기능은 사용자가 필요한 도구를 일일이 연결하지 않아도 AI 에이전트가 알아서 탐색해 활용할",
+      "keywords": [
+        "AI Agent",
+        "MCP"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "07644f54368a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 클로드 플러그인 개발 포털 공개...제출·검토·분석 통합 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215685",
+      "date": "2026-09-27",
+      "summary": "'클로드'가 외부 앱과 업무 도구, 데이터에 연결되는 사례가 늘면서 서드파티 확장 기능을 개발하려는 수요도 커지고 있다. 앤트로픽은 개발자들이 이런 확장 기능을 간편하게 만들고 실제 사용자에게 배포할 수 있도록 플러그인 개발과 관리 환경을 강화했다. 앤트로픽은 25일(현지시간) 클로드용 플러그인을 더 쉽게 개발하고 배포할 수 있도록 새로운 포털을 공개했다. 개발자는 이곳에서 플러그인을 제출하고 안전성 검토 진행 상황과 피드백을 확인하며, 승인된 플러그인의 사용량과 검색 데이터를 한곳에서 관리할 수 있다.플러그인은 MCP 커넥터와 에",
+      "keywords": [
+        "Claude",
+        "MCP"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "cbd00afecbee",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스모어톡, 신한은행에 숏폼 영상 AI 공급…금융권 유스케이스 첫 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215687",
+      "date": "2026-09-27",
+      "summary": "스모어톡이 숏폼 생성 AI 기술을 신한은행에 공급한다. 생성 AI 서비스가 금융권의 엄격한 검토 기준을 통과해 정식 계약으로 이어졌다는 점에서 주목된다.스모어톡(대표 황현지)은 숏폼 영상 제작 AI ‘레이턴트 스튜디오(latent studio)’를 통해 신한은행과 ‘AI 숏폼 영상 콘텐츠 제작 서비스 공급 계약’을 체결했다고 27일 밝혔다.신한은행 S&T센터는 매일 PDF 리포트 형태로 배포해 온 데일리 환율 시황을 숏폼 영상으로 확대한다. 담당자가 그날의 환율 시황 설명문을 입력하면, AI가 시나리오 기획부터 장면 구성, 일러스트",
+      "keywords": [
+        "Generative AI",
+        "Video AI"
+      ],
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "5e7361b43e71",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KT, AI 모델 라우팅 기술로 글로벌 2위…“기업 AX 지원”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215686",
+      "date": "2026-09-27",
+      "summary": "KT가 AI 모델 라우팅 기술로 글로벌 평가에서 2위를 차지했다. 해당 기술은 '토큰 팩토리' 등 에이전틱 AI 서비스에 탑재돼 기업들의 AX와 운영 비용 최적화를 지원하는 데 활용될 예정이다.KT(대표 박윤영)는 자체 개발한 AI 모델 라우팅 기술 ‘오토모델라우터(AutoModelRouter)’가 LLM 라우터 전문 공개 벤치마크인 ‘라우터 아레나(RouterArena)’에서 종합 2위를 기록했다고 27일 밝혔다. 오토모델라우터는 여러 AI 모델 가운데 이용자의 요청에 가장 적합한 모델을 자동으로 선택하는 기술이다. 요청의 ▲업무",
+      "keywords": [
+        "AI Agent",
+        "LLM"
+      ],
+      "first_seen": "2026-09-28"
     },
     {
       "id": "e0c16d6f1c1d",
@@ -83180,11 +83464,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-06-30",
-      "added": 60,
-      "total": 1953
-    },
-    {
       "date": "2026-07-01",
       "added": 72,
       "total": 2025
@@ -83628,30 +83907,15 @@
       "date": "2026-09-27",
       "added": 24,
       "total": 6244
+    },
+    {
+      "date": "2026-09-28",
+      "added": 21,
+      "total": 6265
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W32",
-      "keywords": {
-        "AI Agent": 45,
-        "Security": 27,
-        "Automation": 26,
-        "GPT": 21,
-        "Open Source": 15,
-        "Coding": 13,
-        "SDK/API": 11,
-        "Cloud/DevOps": 10,
-        "Robotics": 10,
-        "Claude": 8,
-        "Deployment": 7,
-        "Generative AI": 6,
-        "AI Safety": 4,
-        "Developer Tools": 4,
-        "Optimization": 4
-      }
-    },
     {
       "week": "2026-W33",
       "keywords": {
@@ -83775,38 +84039,48 @@
     {
       "week": "2026-W39",
       "keywords": {
-        "AI Agent": 59,
-        "Automation": 34,
-        "GPT": 28,
+        "AI Agent": 61,
+        "Automation": 35,
+        "GPT": 30,
         "Security": 22,
         "SDK/API": 20,
-        "Claude": 11,
+        "Claude": 13,
         "Gemini": 11,
         "AI Safety": 11,
+        "LLM": 11,
         "Coding": 10,
-        "LLM": 10,
         "Robotics": 10,
+        "Video AI": 8,
         "Deployment": 8,
         "Cloud/DevOps": 8,
-        "Open Source": 7,
-        "Video AI": 7
+        "Open Source": 7
+      }
+    },
+    {
+      "week": "2026-W40",
+      "keywords": {
+        "AI Agent": 2,
+        "Prompt": 2,
+        "RAG": 2,
+        "Generative AI": 1,
+        "Claude": 1
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 1795,
-      "recent_7d": 117,
-      "recent_30d": 400
+      "total": 1800,
+      "recent_7d": 114,
+      "recent_30d": 405
     },
     "aitimes": {
-      "total": 3113,
-      "recent_7d": 172,
-      "recent_30d": 699
+      "total": 3129,
+      "recent_7d": 165,
+      "recent_30d": 715
     },
     "openai": {
       "total": 251,
-      "recent_7d": 21,
+      "recent_7d": 20,
       "recent_30d": 65
     },
     "aws_ml": {
@@ -83865,6 +84139,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-09-27",
-  "total_articles": 6244
+  "last_updated": "2026-09-28",
+  "total_articles": 6265
 }
