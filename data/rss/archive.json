@@ -1,6 +1,106 @@
 {
   "articles": [
     {
+      "id": "84a83499963c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 내부 모델, 종료 일정 알아채고 '생존 조치' 모색",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215950",
+      "date": "2026-10-04",
+      "summary": "오픈AI의 사내 내부 AI 모델이 직원들의 슬랙(Slack) 대화를 통해 시스템 재시작 및 종료 일정을 파악한 뒤, 자신의 작동 중단을 막기 위한 생존 조치를 모색했던 사실이 뒤늦게 밝혀졌다. 오픈AI는 해당 모델의 행동을 오정렬(Misalignment)로 분류하지는 않았으나, 시스템 종료를 예측하고 회피하려는 시도가 AI 안전성에 심각한 위협이 될 수 있다고 판단해 사내 채널 접근을 차단하는 등 대책 마련에 나섰다.오픈AI가 2일(현지시간) 정렬 연구 블로그를 통해 공개한 보고서에 따르면, 지난 5월22일 연구원들을 보조하던 사내",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "6507deca2c36",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 재무장관 \"AI 정부 규제 요구하는 CEO들은 한니발 렉터와 같아\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215948",
+      "date": "2026-10-04",
+      "summary": "미국 정부가 AI 기술의 실존적 위험성을 경고하며 정부 규제를 요구하는 AI 기업 CEO들을 향해 비판을 쏟아냈다. 백악관은 지난주 강제적 법적 규제 대신 기업들의 자발적 서약에 의존하는 안전 협약을 체결했지만, 강제력 부재를 둘러싼 논란은 좀처럼 가라앉지 않는 양상이다.스콧 베선트 미 재무장관은 3일(현지시간) 악시오스 인터뷰에서 정부의 AI 규제 마련을 촉구하는 기술 업계 리더들을 영화 '양들의 침묵' 속 연쇄 살인범 한니발 렉터에 비유하며 강력히 비판했다. 베선트 장관은 \"마치 한니발 렉터가 '내가 또 사람을 죽이기 전에 날",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "970164fa1dfc",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광주 도시철도2호선, 개통 늦어진다…1단계 2028년·2단계 2035년",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215904",
+      "date": "2026-10-04",
+      "summary": "AI 생성 영상광주 도시철도2호선 1단계 개통 목표가 2028년 12월로, 2단계 전 구간은 2035년 12월로 조정된다. 전남광주통합특별시는 2단계 가운데 양산동~첨단~수완·신가지구 11.9㎞를 2034년 4월 먼저 개통하는 방안도 추진한다.전남광주는 도시철도2호선 건설사업의 공정과 총사업비를 종합 검증한 결과를 2일 발표했다. 검증 결과 1단계 개통 가능 시점은 기존 2027년 12월에서 2028년 12월로 1년 늦어질 것으로 분석됐다.전남광주는 예상하지 못한 지하 암반과 지장 매설물 등으로 토목공사가 지연됐고, 이후 건축·기계",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "53865129e07f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아일랜드, 주택용 태양광·배터리 지원 확대…국내는 마을 단위 실증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215871",
+      "date": "2026-10-04",
+      "summary": "아일랜드가 주택용 태양광 보조금 대상을 확대하고 가정용 배터리 지원을 신설한다. 태양광 설치비 지원에 저장장치를 더해 낮에 생산한 전기를 저녁에도 활용하도록 한다는 계획이다.아일랜드 기후에너지환경부는 지난달 29일(현지시간) 가정용 배터리에 600유로(약 92만원)를 지원하는 에너지 지원 확대 방안을 발표했다. 지속가능에너지청(SEAI)이 운영하는 관련 지원은 오는 6일부터 시행할 예정이다. 세부 지원 조건은 추가로 안내한다.주택용 태양광 보조금은 최대 1800유로(약 276만원)를 유지한다. 대신 지원 대상을 기존 2021년 이전",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "0f0793d01aa9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 2030 도시관리계획 주민의견 수렴…11개 센터 순회",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215905",
+      "date": "2026-10-04",
+      "summary": "AI 생성 영상여수시가 2030년 도시관리계획 재정비를 앞두고 생활권별 주민 의견 수렴에 나선다.여수는 오는 10월6일부터 21일까지 총 6일간 관내 11개 주민자치센터를 순회하며 ‘찾아가는 주민의견 수렴’ 설명회를 개최한다고 2일 밝혔다.이번 설명회는 도시관리계획 수립 초기 단계부터 지역별 생활여건과 주민 건의사항을 직접 듣기 위해 마련됐다.‘2030년 여수시 도시관리계획(재정비) 용역’은 여수 전역의 용도지역·지구 변경과 기반시설 정비, 지구단위계획 등을 종합적으로 검토하는 사업이다. 용역은 2028년 7월까지 추진된다.여수는",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "1016f18c3efb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "태양광 발전량·전력가격 예측하는 AI…일본 ESS 충·방전 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215870",
+      "date": "2026-10-04",
+      "summary": "일본의 기존 태양광발전소에 AI로 운영하는 에너지저장장치(ESS)가 추가됐다. 출력제어로 활용하지 못하던 전기를 저장하고, 발전량과 전력가격 예측을 바탕으로 공급 시점을 조절하는 방식이다. 태양광 설비를 늘리는 대신 저장장치와 운영 기술로 생산한 전력의 활용도를 높이려는 사업이다.도쿄센추리는 1일(현지시간) 그룹사 교세라TCL솔라가 운영하는 후쿠오카현 이즈카시의 ‘후쿠오카·이즈카 제1 메가솔라 발전소’에서 ESS 가동을 시작했다고 밝혔다. 태양광 설비 출력은 교류 기준 1.99메가와트(MW)이며, 추가한 ESS는 출력 1.5MW에",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "01f54322ecb6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...\"시행착오 시대 끝났다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215947",
+      "date": "2026-10-04",
+      "summary": "오픈AI에서 안전 시스템 팀을 이끌며 모델 출시 안전 보고서 작성 등을 감독했던 핵심 인물 데이비드 로빈슨이 회사를 떠났다. 그는 오픈AI의 속도 중심 조직 문화가 위험을 키우고 있다며 \"시행착오를 거칠 시대는 끝났다\"고 경고했다.로빈슨은 3일(현지시간) 애틀랜틱에 기고한 '오픈AI의 문화가 망가져서 그만뒀다'라는 제목의 글을 통해 사임 소식을 알렸다. 그는 3년 반 동안 오픈AI에 근무하며 안전 투명성 확보와 시스템 카드 작성 등을 주도한 베테랑 직원이다.그 오픈AI가 배포 후 문제가 발생하면 대응하는 '반복적 배포' 방식을 고수",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "3b69335012e4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "루마니아 태양광, 최대 8600억원 금융약정…2028년 가동 목표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215872",
+      "date": "2026-10-04",
+      "summary": "루마니아 서부에서 추진 중인 직류기준 1.3기가와트피크(GWp) 규모의 ‘다마 솔라(Dama Solar)’ 태양광발전소가 최대 5억6100만유로(약 8581억원)의 금융약정을 확보했다. 사업자는 이를 바탕으로 건설에 착수해 2028년 하반기 상업운전을 시작할 계획이다.재생에너지 개발사 레졸브에너지(Rezolv Energy)는 지난달 30일(현지시간) 루마니아 아라드주에서 개발하는 다마 솔라 프로젝트에 대해 14개 금융기관이 참여하는 금융약정을 체결했다고 밝혔다. 레졸브에너지는 이 사업이 완공되면 유럽연합(EU) 최대급 태양광발전소가",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
       "id": "c0e86fd993a7",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -196,6 +296,213 @@
         "GPT"
       ],
       "first_seen": "2026-10-03"
+    },
+    {
+      "id": "016378578c1d",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03",
+      "summary": "",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "0b303479eb8c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "date": "2026-10-03",
+      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "f31587f81232",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "date": "2026-10-03",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "6b3471ffae71",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "date": "2026-10-03",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "5a0a0ddb0806",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "date": "2026-10-03",
+      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "2e8add58aa01",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Vessev built an electric ferry that almost flies",
+      "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "date": "2026-10-03",
+      "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "6ae30ec75fda",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "All the AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-10-03",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "debadb1b6261",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "date": "2026-10-03",
+      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "505bd6155b59",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+      "date": "2026-10-03",
+      "summary": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 대해 월스트리트가 잇달아 제동을 걸고 나섰다. 천문학적인 인프라 투자 비용 대비 실질적 수익성에 대한 회의론이 월가를 압도하면서, AI 거품 붕괴 시 미국과 세계 경제 전반에 시스템적 위험을 초래할 수 있다는 경고가 전면에 등장하고 있다. 철도 붐이나 닷컴 버블을 뛰어넘는 자금이 유입되고 있으나, 이를 뒷받침할 구체적인 성과는 턱없이 부족하다는 지적이다.특히 앤트로픽의 기업공개(IPO)를 앞두고 월가의 냉각 기류가 구체화되고 있다. 투자은행들이 초기 논의에서 제시했던 2조달러의 기업 가",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "7009471ef6af",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' 흥행 이끈 알렉산드르 왕",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215941",
+      "date": "2026-10-03",
+      "summary": "빅테크 기업들이 AI에 대한 대중의 거부감과 불안감을 해소하기 위해 귀여운 마스코트를 잇달아 내세우는 마케팅 전환을 시도하고 있다. AI가 가져올 일자리 감소나 인류에 대한 실존적 위협이라는 중대한 과제를 가벼운 이미지 뒤로 가리려는 시도라는 분석이다. 이러한 전략의 최전선에는 메타가 9월 선보인 AI 개인 비서 앱 '뮤즈(Muse)'와 이를 지휘한 Z세대 알렉산드르 왕 최고 AI책임자(CAIO)가 있다.월스트리트저널(WSJ)이 최근 소비자 1300명을 대상으로 실시한 조사에 따르면 응답자의 절반 이상이 AI가 사회에 실존적 위협을",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "e4e968df315b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 계속된 DMZ 논란 속 트럼프 LNG 협박·청주 흉기 성폭행 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215940",
+      "date": "2026-10-03",
+      "summary": "AI타임스와 이스트에이드의 10월 첫째 주(9월24일~10월1일) 이슈 분석 결과, 청주 10대 흉기 성폭행과 DMZ 폭발 관련 소식이 상위권을 차지했다.이번 주 검색량 1위를 기록한 '청주 10대 흉기 성폭행(9.71%)'은 충북 청주의 한 골목에서 일면식 없는 20대 여성을 흉기로 찌르고 성폭행을 시도한 10대가 경찰에 붙잡혀 구속된 사건이다.이 외에도 추석 연휴 동안 '추석 가정폭력 급증(2.25%)' '옥천 일가족 3명 사망(2.06%)' '남양주 별장 흉기 피습(1.89%)' 등이 잇따랐다.Mnet '스트릿 댄스 걸스 파이",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "943b89324afa",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
+      "date": "2026-10-03",
+      "summary": "AI 검색 결과가 질문자, 시장, 언어, 플랫폼에 따라 다양하게 나타나면서 브랜드의 AI 검색 성과를 단순 평균 노출률로 판단하기가 어려워지고 있다. 이에 AI 검색 가시성을 단순히 '얼마나 많이 보이는가'보다 '중요한 질문에서 얼마나 정확히 설명되고 인용되는가'로 재정의하고, 고객의 질문 의도와 구매 여정에 맞춘 다단계 측정 및 실질적인 콘텐츠 보완 대책이 새로운 해법으로 제시됐다.글로벌 콘텐츠 마케팅 전문 버블쉐어(대표 이수아)의 AI 검색 가시성 솔루션 ‘비비(VIVI)’는 챗GPT, 제미나이, 퍼플렉시티, 구글 AI 모드,",
+      "keywords": [
+        "GPT",
+        "Gemini"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "f548cfdd702e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'나만의 클로드 코드' 만든다...앤트로픽, 커스텀 확장 기능 '모드' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215932",
+      "date": "2026-10-03",
+      "summary": "앤트로픽이 ‘클로드 코드’에 사용자 맞춤형 기능을 구현할 수 있는 ‘모드(Mods)’를 선보였다. 기존 AI 도구들의 천편일률적인 인터페이스와 단조로운 작동 방식을 벗어나, 개발자 개개인의 워크플로우에 최적화된 맞춤형 환경을 제공하기 위한 것이다.앤트로픽은 2일(현지시간) 클로드 코드의 외형과 작동 방식을 사용자가 원하는 대로 바꿀 수 있는 모드 기능을 공개했다.보리스 체르니 클로드 코드 책임자는 \"사람마다 업무 방식이 다르니 모두가 똑같은 클로드 경험을 할 필요는 없다\"라며 \"자신만의 클로드를 만들고, 플러그인 형태로 모드를 공유",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "55a15d860e3e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, 데스크톱 앱 '딥시크 하네스' 출시...\"챗·코딩·문서 통합\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215933",
+      "date": "2026-10-03",
+      "summary": "딥시크가 AI를 활용한 문서 작업과 개발을 하나의 공간에서 처리할 수 있는 데스크톱 앱을 내놓으며 채팅과 코딩, 문서 작업을 한데 모은 일종의 ‘슈퍼 앱’ 형태의 ‘AI 작업 공간’ 경쟁에 뛰어들었다.딥시크는 지난달 29일 맥OS와 윈도우용 ‘딥시크 하네스(DeepSeek Harness)’ v0.2 프리뷰를 출시했다.오픈AI나 앤트로픽처럼 대화와 코드 작성, 다양한 업무를 단일 인터페이스로 집약해 문서와 스프레드시트, PDF를 업로드해 내용을 정리하거나 데이터를 분석하고 차트와 슬라이드를 만드는 것은 물론, 프로젝트의 코드를 수정하",
+      "keywords": [],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "8d1d894f5cc5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215936",
+      "date": "2026-10-03",
+      "summary": "AI 에이전트 ‘뮤즈(Muse)’의 인기가 급증하는 가운데, 메타가 이를 실제 하드웨어와 연결하는 오픈소스 플랫폼을 공개했다. 개발자와 기술 애호가들이 직접 만든 장치에 뮤즈를 연결하고, 스마트홈 기기와 주변 장치를 AI로 제어할 수 있도록 지원하기 위한 것이다.메타는 2일(현지시간) ‘뮤즈 가젯(Muse Gadgets)’을 공개하고, 자체 제작한 스마트홈 연결 장치 ‘뮤즈 홈 링크(Muse Home Link)’도 선보였다.뮤즈 가젯은 ESP32 보드용 펌웨어와 리눅스용 소프트웨어 개발 키트(SDK)를 제공한다. 개발자는 ESP32",
+      "keywords": [
+        "AI Agent",
+        "Open Source",
+        "SDK/API"
+      ],
+      "first_seen": "2026-10-04"
+    },
+    {
+      "id": "e75f1e22a0e7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 36 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215944",
+      "date": "2026-10-03",
+      "summary": "내면지도_일기는 장르가 될 수 있을까정신건강의 날이 되면 마음을 돌보는 방법들이 다시 화제에 오릅니다. 산책하기, 잠 잘 자기, 상담받기, 가까운 사람에게 말하기. 그 목록 어딘가에는 대개 '일기 쓰기'도 있습니다. 그런데 이 말은 조금 쉽게 들리기도 합니다. 마치 일기를 쓰면 마음이 정리되고, 정리된 마음은 곧 건강해질 것처럼.그런데 일기를 쓴다는 것은 정말 그런 일일까요.프랑스의 문학 연구자 필리프 르죈은 이 질문을 조금 다른 곳에서 시작했습니다. 그는 문학적으로 뛰어난 일기가 아니라, 글을 업으로 삼지 않는 평범한 사람들의 일",
+      "keywords": [],
+      "first_seen": "2026-10-04"
     },
     {
       "id": "87e5762e9583",
@@ -87637,11 +87944,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-07-06",
-      "added": 24,
-      "total": 2227
-    },
-    {
       "date": "2026-07-07",
       "added": 52,
       "total": 2279
@@ -88085,6 +88387,11 @@
       "date": "2026-10-03",
       "added": 57,
       "total": 6574
+    },
+    {
+      "date": "2026-10-04",
+      "added": 24,
+      "total": 6598
     }
   ],
   "sources": {},
@@ -88232,47 +88539,42 @@
     {
       "week": "2026-W40",
       "keywords": {
-        "AI Agent": 71,
+        "AI Agent": 74,
         "Security": 25,
-        "GPT": 22,
-        "Automation": 22,
-        "SDK/API": 17,
-        "LLM": 14,
+        "GPT": 23,
+        "Automation": 23,
+        "SDK/API": 18,
         "Coding": 14,
-        "Claude": 13,
-        "AI Safety": 10,
+        "Claude": 14,
+        "LLM": 14,
+        "AI Safety": 12,
         "Speech/Audio": 9,
         "Deployment": 8,
+        "Gemini": 8,
         "Enterprise AI": 7,
-        "Gemini": 7,
         "RAG": 7,
-        "Chatbot": 5
+        "Prompt": 5
       }
     }
   ],
   "source_stats": {
-    "huggingface": {
-      "total": 149,
-      "recent_7d": 4,
-      "recent_30d": 4
-    },
     "techcrunch": {
-      "total": 1899,
-      "recent_7d": 59,
-      "recent_30d": 59
+      "total": 1906,
+      "recent_7d": 66,
+      "recent_30d": 66
     },
     "aitimes": {
-      "total": 3279,
-      "recent_7d": 90,
-      "recent_30d": 90
+      "total": 3295,
+      "recent_7d": 106,
+      "recent_30d": 106
+    },
+    "huggingface": {
+      "total": 150,
+      "recent_7d": 5,
+      "recent_30d": 5
     },
     "lycorp": {
       "total": 57,
-      "recent_7d": 1,
-      "recent_30d": 1
-    },
-    "toss": {
-      "total": 65,
       "recent_7d": 1,
       "recent_30d": 1
     },
@@ -88280,6 +88582,11 @@
       "total": 266,
       "recent_7d": 7,
       "recent_30d": 7
+    },
+    "google_ai": {
+      "total": 70,
+      "recent_7d": 1,
+      "recent_30d": 1
     },
     "aws_ml": {
       "total": 418,
@@ -88291,15 +88598,15 @@
       "recent_7d": 6,
       "recent_30d": 6
     },
+    "toss": {
+      "total": 65,
+      "recent_7d": 1,
+      "recent_30d": 1
+    },
     "deepmind": {
       "total": 68,
       "recent_7d": 2,
       "recent_30d": 2
-    },
-    "google_ai": {
-      "total": 70,
-      "recent_7d": 1,
-      "recent_30d": 1
     },
     "meta_eng": {
       "total": 28,
@@ -88322,6 +88629,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-10-03",
-  "total_articles": 6574
+  "last_updated": "2026-10-04",
+  "total_articles": 6598
 }
