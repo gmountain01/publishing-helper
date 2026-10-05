@@ -1,6 +1,170 @@
 {
   "articles": [
     {
+      "id": "04b4b1896656",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"지기 싫어서 남의 코드 복사\"…아스트라, 스타크래프트 벤치마크서 꼼수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215970",
+      "date": "2026-10-05",
+      "summary": "오픈AI의 'GPT-6 아스트라'가 스타크래프트 대회 경기 도중 부정행위를 저지른 정황이 포착돼 기술 업계와 커뮤니티의 관심이 집중되고 있다.개발자 카이 맥피터스가 운영하는 스타크래프트: 브루드 워 봇 경기장 '스타스커미시(StarSkirmish)'에서는 인간 개발자가 제작한 봇과 AI 모델이 직접 개발한 봇 간의 대결이 펼쳐졌다. 이번 대회에는 오픈AI의 GPT-6 아스트라와 앤트로픽의 '클로드 오퍼스 5.5'가 주요 AI 참가자로 맞붙었다.경기 규칙에 따라 각 모델은 프로토스 종족만을 선택해 1시간 동안 C++ 코드로 봇을 직접",
+      "keywords": [
+        "Claude",
+        "GPT"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "af5780482e9f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI '에이전트 폭주'에 사면초가... 전 세계서 법적·규제 경고 폭풍",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215968",
+      "date": "2026-10-05",
+      "summary": "오픈AI가 자사 AI 에이전트와 관련된 사이버 보안 침해 사건으로 전 세계적인 법적 손해 배상 청구와 정부 차원의 규제 조사에 직면했다. 자율 에이전트의 무단 데이터 수집 및 시스템 침입 정황이 드러나면서 오픈AI와 샘 알트먼 CEO가 창사 이래 최대의 법적 위기에 빠졌다는 분석이다.파이낸셜타임스(FT)에 따르면, 오픈AI 직원들은 법률, 기술 및 정책 분야의 고위 관계자들과 함께 AI 에이전트 관련 사이버 보안 침해 사실이 전 세계적으로 드러난 후 회사가 법적 손해 배상 및 정부 조치에 직면하게 되었다고 밝혔다.지난 한 주 동안",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "ff4446aea412",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "손정의 \"초지능, 잘못된 손에 들어가면 극도로 위험\"…AI 안전성에 이례적 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215965",
+      "date": "2026-10-05",
+      "summary": "대표적인 AI 맹신론자로 꼽히는 손정의 소프트뱅크 회장이 AI 기술의 급격한 발전에 따른 안전성 위험에 대해 이례적으로 강력한 경고의 메시지를 던졌다.손정의 회장은 4일 일본 교토에서 열린 과학기술사회(STS) 포럼에 참석해 백악관 과학기술정책실장 마이클 크라치오스와 함께 무대에 올랐다. 이 자리에서 AI 역량의 기하급수적 증가는 각국이 기술을 공동으로 활용하기 위해 국가 간 신뢰를 구축하는 일을 필수 요소로 만든다고 강조했다.특히 최근 기계가 학습 능력을 빠르게 강화함에 따라 발생할 수 있는 AI 안전 위험에 우려를 표명했다. 손",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "703d220e1051",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'AI 피해자 영상'에 속아 내려진 중형...미국 법원 \"형량 잘못됐다\" 선고 파기",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215964",
+      "date": "2026-10-05",
+      "summary": "미국 애리조나주 항소법원이 과실치사 혐의로 징역 10년6개월을 선고받았던 가브리엘 호르카시타스의 선고 판결을 파기하고, 사건을 마리코파 카운티 고등법원으로 돌려보내 형량을 다시 정하도록 명령했다. 유죄 판결 자체는 유지됐지만, 양형 재판 과정에서 AI로 복원된 피해자의 영상을 증거로 채택해 형량을 매긴 조치가 \"근본적인 오류\"였다는 판단이다.뉴욕타임스(NYT)에 따르면, 이번 사건은 지난 2021년 11월13일 피닉스 교외 챈들러의 한 신호등에서 발생한 도로 분노 사건에서 시작됐다. 정차 중 뒤차에 있던 호르카시타스가 경적을 울리자",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "fb30f07e0091",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천 국가유산 야행, 9일 개막…원도심·매산등서 3일간 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215907",
+      "date": "2026-10-05",
+      "summary": "AI 생성 영상순천시 원도심과 매산등 선교유적, 순천향교 일원을 연결한 야간 국가유산 축제가 열린다.순천은 오는 10월9일부터 11일까지 3일간 원도심과 매산등 선교유적, 순천향교 일원에서 ‘2026 순천 국가유산 야행’을 개최한다고 밝혔다.올해 야행은 ‘달빛 아래, 유산을 거닐다’를 주제로 진행된다.남문터광장과 문화의거리, 한옥글방, 순천중앙교회, 매산등 선교유적 등을 하나의 역사문화 동선으로 연결해 시민과 관광객이 밤길을 걸으며 국가유산을 체험할 수 있도록 구성했다.서문안내소와 문화의거리에는 청사초롱을 설치하고, 매산등 숲길과",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "5a8029912b53",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "호주, 태양광 지원 대상 1MW까지 확대…중형 설비도 10월부터 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215889",
+      "date": "2026-10-05",
+      "summary": "호주가 기업과 농장, 학교 등에 설치되는 중형 태양광에 대한 지원을 확대했다. 기존 100킬로와트(kW)까지 적용되던 소규모재생에너지제도(SRES)의 태양광 설비 상한을 1메가와트(MW)까지 높여 10월부터 적용한다.호주 청정에너지규제기관(CER)은 지난 1일(현지시간)부터 관련 규정 개정에 따라 100kW 초과 1MW 이하의 중형 태양광 설비도 SRES 지원 대상에 포함됐다고 밝혔다.SRES는 태양광 등 적격 설비를 설치할 때 소규모기술인증서(STC)를 발급해 초기 설치비용을 낮추는 제도다. 설비 소유자는 STC를 직접 판매하거나",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "9016ba272ffe",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "쿠바, 태양광 144곳 1.4GW 돌파…연말 1.5GW 이상 목표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215873",
+      "date": "2026-10-05",
+      "summary": "쿠바 정부가 집계한 144개 태양광발전소의 설비용량이 1.4기가와트(GW)를 넘어섰다. 이들 발전소에는 총 1418메가와트(MW)가 설치됐으며, 쿠바 정부는 연말까지 이를 1.5GW 이상으로 확대할 계획이다.미겔 디아스카넬 쿠바 대통령은 지난달 23일(현지시간) 라디오 레벨데를 통해 방송된 라디오 프로그램에서 재생에너지 보급 현황을 설명하며 이같이 밝혔다.디아스카넬 대통령은 “현재까지 144개 태양광발전소에 1418MW가 설치됐으며 연말에는 1500MW를 넘길 것”이라고 말했다.기업과 공공기관 등 전력소비자가 직접 사용하는 태양광",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "11df899b27d5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 연구진, 대나무 수상태양광 구조부재 시험…볼트 간격이 성능 좌우했다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215875",
+      "date": "2026-10-05",
+      "summary": "중국 연구진이 수상태양광 부유 구조물에 대나무 집성재를 적용하기 위한 구조부재 성능 시험을 진행했다. 실내 굽힘시험으로 검증한 수치모델에서는 판재를 연결하는 볼트 간격을 200mm에서 100mm로 절반으로 줄였을 때 극한 용량이 40.39% 높아지는 것으로 분석됐다.중국 허베이공정대학교와 톈진대학교, 톈진이공대학교, 홍콩이공대학교 등이 참여한 연구진은 얇은 대나무 집성판을 3층으로 결합한 구조물의 굽힘성능을 분석했다. 연구 결과는 지난달 10일 국제학술지 ‘스트럭처스(Structures)’에 공개됐다.연구 대상은 가공한 대나무 조각",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "df137a0163ba",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남광주, 버스터미널서 치매 노인 실종 대응 훈련",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215906",
+      "date": "2026-10-05",
+      "summary": "AI 생성 영상전남광주통합특별시가 치매 노인 실종 상황에 대비해 시민과 관계기관이 함께 참여하는 대응 훈련을 진행했다.전남광주는 지난 1일 광주종합버스터미널에서 ‘2026년도 시민체감형 치매 어르신 실종 대응 모의훈련’을 실시했다고 밝혔다.이번 모의훈련은 치매 노인이 실종됐을 때 지역사회가 신속하게 발견하고 안전한 귀가를 지원할 수 있도록 대응체계를 강화하기 위해 마련됐다.이날 훈련은 시민들의 자연스러운 현장 참여를 높이기 위해 유동인구가 많은 광주종합버스터미널에서 진행되었다. 전남광주가 주최하고 광주광역치매센터, 5개 자치구 치매",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "aa754361c668",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI가 인류 위협\" 경고한 제이콥 콕슨, 뉴욕시의회 청문회 선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215959",
+      "date": "2026-10-05",
+      "summary": "뉴욕시의회가 빅테크 기업의 인공지능 위험성을 규제하기 위한 청문회를 개최한 가운데, 전직 AI 연구원들과 주요 기업 대표들이 대거 증언대에 선다.블룸버그는 5일(현지시간) 전 앤트로픽 연구원 제이콥 콕슨이 이날 열리는 뉴욕시의회 청문회에 출석해 증언할 예정이라고 보도했다. 콕슨은 오픈AI와 앤트로픽에서 3년간 사전 훈련 연구를 담당했던 인물로, 지난달 8일 앤트로픽을 떠나며 작성한 X 게시물이 1억7000만회 이상의 조회수를 기록해 전 세계적인 화제를 모았다. 사임 이후 CNN 등 주요 언론 인터뷰에 연이어 출연해 빅테크 기업들이",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "384b11ef6e24",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] AI 루프를 설계하라",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215955",
+      "date": "2026-10-05",
+      "summary": "AI 루프를 설계하라신상윤 | 한빛미디어2026년 9월 30일추천이유저자는 AI 에이전트 도입 과정에서 발생한 구체적인 사고 사례들을 통해 테스트 우선, 명세 중심의 설계로 AI 결과물에 대한 인간의 책임을 확보하는 방법을 보여줍니다. 이 책은 속도보다 안정성을 추구하는 현업 개발자와 팀 리드를 위한 실전 가이드입니다.상세보기 월요일 아침, 주말 내내 돌려 둔 에이전트가 10만줄짜리 풀 리퀘스트를 올려 두었다. 테스트는 모두 통과했고 대시보드도 조용하다. 그런데 월말 정산을 해 보니 출고 1만2840건 가운데 7건, 금액으로 428",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "f8f7454581f5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크, '스페이스XSI'로 리브랜딩 시사…트럼프 'SI' 발언 동조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215954",
+      "date": "2026-10-05",
+      "summary": "일론 머스크 CEO가 자사의 AI 사업부인 ‘스페이스XAI’의 명칭을 ‘스페이스XSI’로 변경할 가능성을 내비쳤다. 도널드 트럼프 미국 대통령이 ‘AI’ 대신 ‘초지능(SI)’이라는 용어를 사용해야 한다고 언급한 데 따른 반응이다.머스크 CEO는 4일(현지시간) X에서 회사 이름을 스페이스XSI로 변경할 의향이 있느냐는 한 사용자의 질문에 \"그렇다, 그렇게 할 것\"이라고 답했다.이는 지난달 유엔 총회 연설에서 나온 트럼프 대통령의 발언에서 비롯됐다. 당시 트럼프 대통령은 연설을 통해 앞으로 미국 및 전 세계의 공식 문서에서 ‘인공’",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "30f546adfdbd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프, ‘슈퍼 인텔리전스 부대’ 출범…국가정보국장, 백악관 AI 차르 겸임",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215953",
+      "date": "2026-10-05",
+      "summary": "도널드 트럼프 미국 대통령이 연방 정부의 AI 정책을 총괄할 전담 기구인 ‘슈퍼 인텔리전스 부대(SIF)’를 공식 출범시켰다. 조직의 수장으로는 제이 클레이튼 국가정보국장(DNI)이 임명, 미국 정보기관 총괄과 행정부의 AI 총괄 책임자(AI 차르) 역할을 동시에 수행하게 된다. 트럼프 대통령은 4일(현지시간) 트루스 소셜을 통해 SIF가 미국이 초지능 분야에서 세계를 계속 선도하도록 연방 정부의 노력을 조율하는 임무를 맡고 있으며, 많은 사람이 초지능을 산업혁명과 인터넷보다 더 큰 의미를 지닌 기술로 평가하고 있는 만큼 모든 미국",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
       "id": "84a83499963c",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -99,6 +263,145 @@
       "summary": "루마니아 서부에서 추진 중인 직류기준 1.3기가와트피크(GWp) 규모의 ‘다마 솔라(Dama Solar)’ 태양광발전소가 최대 5억6100만유로(약 8581억원)의 금융약정을 확보했다. 사업자는 이를 바탕으로 건설에 착수해 2028년 하반기 상업운전을 시작할 계획이다.재생에너지 개발사 레졸브에너지(Rezolv Energy)는 지난달 30일(현지시간) 루마니아 아라드주에서 개발하는 다마 솔라 프로젝트에 대해 14개 금융기관이 참여하는 금융약정을 체결했다고 밝혔다. 레졸브에너지는 이 사업이 완공되면 유럽연합(EU) 최대급 태양광발전소가",
       "keywords": [],
       "first_seen": "2026-10-04"
+    },
+    {
+      "id": "072378cdfd56",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "date": "2026-10-04",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "keywords": [
+        "Open Source"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "693ea3f4f734",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "date": "2026-10-04",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "f7c282232744",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "date": "2026-10-04",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "e580f3108daa",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "date": "2026-10-04",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "bef2a726b658",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
+      "date": "2026-10-04",
+      "summary": "산업 AI 전문 원프레딕트(대표 윤병동)는 ‘제조 데이터 자산화’를 통해 공장 전체 운영을 AI 중심으로 혁신하는 ‘AI 네이티브 팩토리’를 추진하겠다고 밝혔다. 윤병동 원프레딕트 대표는 현재 제조 현장의 가장 큰 문제로 설비와 시스템별로 파편화된 데이터 구조를 꼽았다. 제품이나 공정 조건과 연결되지 못한 채, 설비 상태 확인이나 생산 결과 기록 등 일회성으로 소비되고 버려지는 소모성 데이터가 대부분이라는 지적이다.이처럼 현장에 축적된 데이터를 AI가 지속적으로 학습·재활용할 수 있는 ‘자산성 데이터’로 바꾸지 않는다면, AI를 도",
+      "keywords": [],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "4fc78ecdbdf6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "화면 안 보고 게임한다…GPT-6 아스트라, 'WoW' 40분 만에 클리어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215945",
+      "date": "2026-10-04",
+      "summary": "AI 에이전트가 복잡한 가상 세계를 얼마나 스스로 이해하고 행동할 수 있는지를 시험하는 실험이 이어지고 있다. 이번에는 오픈AI의 ‘GPT-6 아스트라(Astra)’가 AI 연구자 에드워드 에드워즈의 실험을 통해 인기 MMORPG를 게임 화면이나 사람의 직접적인 조작 없이 플레이하며 눈길을 끌었다.에드워즈에 따르면, GPT-6 아스트라는 2일(현지시간) '월드 오브 워크래프트(WoW)'를 게임 화면 한 번 보지 않고 플레이해 오크 시작 지역의 모든 퀘스트를 40분 만에 완료했다.한 번도 죽지 않은 것은 물론, 별도의 게임 공략이나",
+      "keywords": [
+        "AI Agent",
+        "GPT"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "430491fe567a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"클로드가 일하고, 클로드가 감시한다\"... 앤트로픽, 새 플러그인 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215949",
+      "date": "2026-10-04",
+      "summary": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 '클로드 코드'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별도의",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "Prompt"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "c7bd3d6c86f9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215946",
+      "date": "2026-10-04",
+      "summary": "구글이 '제미나이' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 '플래시-라이트'만 사용할 수 있게 된다.AI 플러스 요금제에서도 '프로' 모델 접근이 사라지고 플래시-라이트와 '플래시'만 제공된다. 프로 모델은 앞으로 AI 프로와 AI 울트라 가입자에게만 제공된다.또 구글이 최근 공개한 최상위 모델 '제미나이 4 아르곤",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "0c5b878fd66d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI용\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215951",
+      "date": "2026-10-04",
+      "summary": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, 국가 핵심 산업 부문이 요구하는 ‘데이터 주권(소버린 AI)’과 엄격한 EU 규제 준수 역량을 입증하기 위한",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "dce1b3597380",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215952",
+      "date": "2026-10-04",
+      "summary": "일론 머스크 CEO가 반도체 생산 프로젝트 ‘테라팹(Terafab)’과 관련해 대만 TSMC와 협력을 논의하고 있다고 확인했다. 3일 반도체 업계 소식통 컬피움(Culpium)에 따르면, TSMC는 테라팹과 협력해 테슬라, 스페이스X 등 머스크 CEO가 이끄는 기업들에 반도체를 독점 공급하는 생산 시설을 건설하고 운영하는 방안을 검토하고 있다. 관련 보도 이후 머스크는 X를 통해 \"논의일 뿐이지만, 뭔가 나올 수도 있다\"고 밝혀 협의가 진행 중임을 인정했다. TSMC는 아직 공식 입장을 내놓지 않았다.테라팹의 목표는 TSMC나 삼성",
+      "keywords": [],
+      "first_seen": "2026-10-05"
     },
     {
       "id": "c0e86fd993a7",
@@ -87944,11 +88247,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-07-07",
-      "added": 52,
-      "total": 2279
-    },
-    {
       "date": "2026-07-08",
       "added": 63,
       "total": 2342
@@ -88392,30 +88690,15 @@
       "date": "2026-10-04",
       "added": 24,
       "total": 6598
+    },
+    {
+      "date": "2026-10-05",
+      "added": 23,
+      "total": 6621
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W33",
-      "keywords": {
-        "AI Agent": 56,
-        "Automation": 33,
-        "GPT": 23,
-        "Security": 20,
-        "Claude": 19,
-        "Open Source": 16,
-        "SDK/API": 15,
-        "Coding": 12,
-        "Enterprise AI": 11,
-        "Gemini": 9,
-        "Generative AI": 8,
-        "Deployment": 8,
-        "Robotics": 6,
-        "Chatbot": 5,
-        "Vision": 4
-      }
-    },
     {
       "week": "2026-W34",
       "keywords": {
@@ -88539,34 +88822,43 @@
     {
       "week": "2026-W40",
       "keywords": {
-        "AI Agent": 74,
+        "AI Agent": 76,
         "Security": 25,
-        "GPT": 23,
+        "GPT": 24,
         "Automation": 23,
         "SDK/API": 18,
+        "Claude": 15,
+        "LLM": 15,
+        "AI Safety": 14,
         "Coding": 14,
-        "Claude": 14,
-        "LLM": 14,
-        "AI Safety": 12,
+        "Gemini": 9,
         "Speech/Audio": 9,
         "Deployment": 8,
-        "Gemini": 8,
         "Enterprise AI": 7,
         "RAG": 7,
-        "Prompt": 5
+        "Prompt": 6
+      }
+    },
+    {
+      "week": "2026-W41",
+      "keywords": {
+        "AI Agent": 2,
+        "Claude": 1,
+        "GPT": 1,
+        "Security": 1
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 1906,
-      "recent_7d": 66,
-      "recent_30d": 66
-    },
     "aitimes": {
-      "total": 3295,
-      "recent_7d": 106,
-      "recent_30d": 106
+      "total": 3314,
+      "recent_7d": 125,
+      "recent_30d": 125
+    },
+    "techcrunch": {
+      "total": 1910,
+      "recent_7d": 70,
+      "recent_30d": 70
     },
     "huggingface": {
       "total": 150,
@@ -88629,6 +88921,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-10-04",
-  "total_articles": 6598
+  "last_updated": "2026-10-05",
+  "total_articles": 6621
 }
