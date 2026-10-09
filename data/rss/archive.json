@@ -1,6 +1,163 @@
 {
   "articles": [
     {
+      "id": "7a777cf06a59",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+      "date": "2026-10-09",
+      "summary": "오픈AI에서 해고된 안전 연구원 3명이 회사에 외부 안전 평가기관과의 협력 강화와 최첨단 AI 모델의 추론 과정을 감시할 수 있는 능력 유지를 촉구했다. 이들은 이번 해고가 내부 직원들에게 불이익에 대한 공포를 심어주는 '위축 효과(Chilling Effect)'를 일으키고, AI 위험을 검증하는 외부 협력 체계에도 악영향을 미칠 수 있다고 경고했다.자스민 왕, 토멕 코르박, 미키타 발레스니는 8일(현지시간) 오픈AI 이사회와 안전 관련 위원회에 보낸 공개서한에서 이같이 주장했다. 세 사람은 오픈AI의 AI 안전 및 정렬 연구 조직",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "fd5110ee7f6a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216102",
+      "date": "2026-10-09",
+      "summary": "도널드 트럼프 미국 대통령이 실리콘밸리 기술 리더들을 백악관으로 불러 모아 최고 영예의 훈장을 수여하고 24억달러(약 3조2000억원) 규모의 AI 연구 투자를 확정 지었다. 하지만 정책 발표 직전 수혜 기업의 주식을 사들인 이해충돌 논란과 함께, 비자 발급 중단 및 AI 안전 감사를 앞세운 길들이기가 동시에 진행되고 있다.트럼프 대통령은 8일(현지시간) 워싱턴 D.C.에서 열린 정상회담에서 젠슨 황 엔비디아 CEO, 일론 머스크 CEO, 세르게이 브린 구글 공동창업자, 리사 수 AMD CEO에게 국가 과학 훈장을 수여했다. 머스크",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "adc086b9c1ce",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국, 외국인 노동자 단속 강화…MS·어도비 영주권 신청 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216097",
+      "date": "2026-10-09",
+      "summary": "도널드 트럼프 행정부가 마이크로소프트(MS)와 어도비를 비롯한 주요 기술 기업의 외국인 노동자 영주권 취득 절차를 중단했다. 미국인 일자리를 보호하고 취업 비자 제도의 부정 이용을 막겠다는 명분으로, 외국인 전문 인력의 영주권 취득 경로를 겨냥한 대대적인 단속에 나선 것이다. 로이터 등에 따르면, JD 밴스 미국 부통령은 8일(현지시간) MS가 미국 노동자를 해고하면서 외국인 노동자를 고용해 왔다고 비판했다. 그는 MS가 지난해 미국인 직원 약 6000명을 해고하면서 'H-1B' 취업 비자와 영주권을 적극적으로 활용했다며, 이민 제",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "7b04aaf6808c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 연간 매출 추정치 27조 하향…빅테크 주가 일제히 요동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216098",
+      "date": "2026-10-09",
+      "summary": "오픈AI의 연간 반복 매출(ARR)이 당초 시장에 알려진 수치보다 200억달러(약 26조8600억원)가량 적은 것으로 확인되면서 월가와 글로벌 기술 시장이 크게 요동쳤다.8일(현지시간) 파이낸셜타임스(FT)에 따르면, 오픈AI는 최근 투자자 설명회를 통해 9월 말 기준 ARR이 500억달러(약 67조1500원)에 육박했다고 공개했다. 이는 지난달 말 시장과 주요 매체를 통해 알려졌던 680억~700억달러를 크게 밑도는 수치다.이번 수치 하향은 오픈AI의 사업 성과가 악화된 것이 아니라, 경쟁사인 앤트로픽과의 실적 비교 과정에서 발생",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "f0739d88dd03",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+      "date": "2026-10-09",
+      "summary": "구글 클라우드가 기업용 AI 통합 솔루션인 '제미나이 에이전트(Gemini agent)'를 공개하며 차세대 에이전트 시장 주도권 잡기에 나섰다. 이번 발표는 단발성 질의응답을 처리하는 대화형 챗봇 단계를 넘어, 기업 내 실질적인 자율 수행 디지털 동료를 구축하려는 구글의 전략적 기조를 잘 보여준다.구글 클라우드는 8일(현지시간) 미국 샌프란시스코에서 '제미나이 앳 워크' 행사를 열고 제미나이 에이전트를 선보였다. 순다르 피차이 구글 CEO는 \"제미나이는 현재 월간 활성 사용자(MAU) 수가 10억명이 넘으며, 포춘 100대 기업의",
+      "keywords": [
+        "AI Agent",
+        "Chatbot",
+        "Claude",
+        "Gemini"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "a03b7e00fce8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "일본, 태양광 지원체계 바꾼다…공공부지·카포트·인프라에 집중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216064",
+      "date": "2026-10-09",
+      "summary": "일본이 2027년 4월부터 일반적인 지상형 사업용 태양광을 고정가격매입제도(FIT)와 시장연동형 프리미엄제도(FIP)의 신규 지원 대상에서 제외하는 대신, 공공부지와 태양광 카포트, 철도·공항 등 지역과의 충돌 가능성이 상대적으로 낮은 사업에 지원을 집중하는 방안을 추진한다.일본 경제산업성 산하 재생가능에너지 주력전원화 소위원회는 지난 9월30일(현지시간) 2027년도 이후 사업용 태양광 지원 대상과 관련해 10개 후보 유형 가운데 4개 유형을 지원 중점화 대상으로 선정하는 사무국안을 검토했다.대상은 국가·지방자치단체 소유 토지,",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "07e9796020bf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수, 23~24일 독서문화축제…야외 독서·섬 체험 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216083",
+      "date": "2026-10-09",
+      "summary": "AI 생성 영상여수시가 책과 지역의 섬을 연계한 독서문화축제를 이순신도서관에서 연다.여수는 오는 10월23일부터 24일까지 이틀간 이순신도서관 일원에서 ‘2026 독서문화축제 BOOK적BOOK적 IN 여수’를 개최한다고 8일 밝혔다.올해 축제는 ‘섬, 책과 추억을 잇다’를 주제로 독서와 공연, 어린이 체험 등을 함께 즐길 수 있도록 구성했다.대표 프로그램인 ‘텐트 밖은 도서관’은 이순신도서관 2층 야외 공간에서 진행된다. 시민과 관광객이 야외에서 책을 읽고 공연을 함께 즐길 수 있도록 마련했다.섬 관련 지정도서를 읽은 뒤 감상을 그",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "fe20885e62fd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "유럽 태양광발전소 ‘사이버 보안’ 경고…인터넷 노출 시스템 7,942개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216067",
+      "date": "2026-10-09",
+      "summary": "유럽 태양광발전소의 관리·제어 관련 시스템 7942개가 외부 인터넷에서 접근 가능한 상태로 확인됐다. 스페인에서만 전체의 35%인 2766개가 발견됐다. 다만 이번 조사는 시스템의 인터넷 노출 여부를 확인한 것으로, 해당 설비가 실제 해킹됐다는 의미는 아니다.네덜란드 인터넷 인텔리전스 업체 모닷(Modat)은 네덜란드 국가사이버보안센터(NCSC-NL) 연구자와 공동으로 진행한 조사에서 유럽 태양광·풍력 발전시설과 연결된 인터넷 노출 시스템 8547개를 확인했다고 6일(현지시간) 밝혔다. 연구 결과는 같은 날 네덜란드 헤이그에서 열린",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "fee1c6937476",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "인천 첫 ‘햇빛소득마을’ 강화 길정리…2MW 수상태양광 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216046",
+      "date": "2026-10-09",
+      "summary": "인천 강화 길정리에 주민이 직접 참여하는 2메가와트(MW) 규모 수상태양광 발전소가 들어선다. 주민과 지역 농협이 사업에 공동 출자하고 발전수익을 주민 배당과 마을 복지 등에 활용하는 방식으로, 인천에서 추진되는 첫 ‘햇빛소득마을’이다.인천광역시는 강화군 양도면 길정리의 ‘길정햇빛소득마을협동조합’이 행정안전부 주관 햇빛소득마을 공모사업에 최종 선정됐다고 7일 밝혔다. 인천에 따르면 길정리 사업은 이번 공모에서 2MW 규모의 수상태양광 사업으로 선정됐으며, 인천은 이를 전국 최대 규모의 주민주도형 수상태양광 발전시설로 설명했다.햇빛소",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "54a04581018a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한국 금융권 공격한 중국 26세 해커…'어설픈 신원 노출'로 덜미",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216092",
+      "date": "2026-10-09",
+      "summary": "국내 주요 금융기관을 겨냥해 대규모 사이버 공격을 감행한 중국 거주 26세 해커가 어설픈 보안 관리로 신원 단서를 노출했다. 이번 사건은 침투 테스트용 AI 에이전트와 대형언어모델(LLM)이 실제 사이버 범죄에 본격 악용된 사례로 확인됐다.미국 사이버보안 전문 크라우드스트라이크(CrowdStrike)는 7일(현지시간) 한국 금융기관 대상 해킹 캠페인 인프라 및 AI 코딩 도구 세션 분석 결과를 담은 보고서를 공개했다. 이에 따르면 2026년 9월 말부터 10월 초까지 최소 9개 국내 은행을 겨냥해 침입을 시도한 위협 행위자는 중국",
+      "keywords": [
+        "AI Agent",
+        "LLM",
+        "Security"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "6aeecd04ea79",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] 이너 프롬프트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215960",
+      "date": "2026-10-09",
+      "summary": "이너 프롬프트이너리드(박설영) | 건기원2026년 8월 20일추천이유이 책은 AI를 제대로 활용하기 위해 먼저 자신의 문제를 정의하고 맥락 있는 질문을 만드는 사고법을 안내합니다. 독자는 체크리스트와 워크시트, RMS 프레임워크를 통해 오랫동안 쌓아온 경험과 판단 기준을 질문으로 전환하며, 개인의 질문이 팀과 조직의 자산으로 확장되는 과정까지 학습합니다.상세보기 영풍문고 AI 활용서 매대 앞에서 자주 보이는 장면이 있다. 40~50대 직장인이 '프롬프트 모음집'을 집어 들었다가 몇 장 넘겨 보고 다시 내려놓는 모습이다. 권기원 영풍",
+      "keywords": [
+        "Prompt"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "2f5ff57087ab",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216072",
+      "date": "2026-10-09",
+      "summary": "오픈AI는 미공개 프론티어 모델에 약 4000개의 고난도 수학 연구 문제를 제시하고, 그 과정에서 나온 의미 있는 성과를 722편의 연구 원고(manuscript)로 정리해 6일(현지시간) 공개했습니다. 여기에는 정수론과 대수학, 위상수학, 이론 컴퓨터과학 등 여러 분야가 포함됐으며, 722편의 원고는 372개의 관련 결과 군(result family)으로 묶였습니다. 증명을 컴퓨터가 검증할 수 있는 프로그래밍 언어인 '린(Lean)'으로 형식화한 자료와 연구 과정에 사용한 연산량, 문제 풀이 시도에 관한 통계도 함께 공개했습니다.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
       "id": "30f98e209e90",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -95,6 +252,586 @@
         "SDK/API"
       ],
       "first_seen": "2026-10-08"
+    },
+    {
+      "id": "dfc39b54c1a7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "date": "2026-10-08",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "keywords": [
+        "Automation",
+        "Coding",
+        "GPT"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "183b50766386",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "date": "2026-10-08",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "keywords": [
+        "GPT",
+        "Video AI"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "7229588990ae",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
+      "date": "2026-10-08",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "fee7fc1eb27f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "date": "2026-10-08",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "e2b8feac4839",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "The model that didn't exist, so you made it yourself",
+      "link": "https://huggingface.co/blog/building-with-ml-intern",
+      "date": "2026-10-08",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "60e2df69e317",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "date": "2026-10-08",
+      "summary": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months t",
+      "keywords": [
+        "AI Agent",
+        "Optimization"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "92c38211c9db",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "date": "2026-10-08",
+      "summary": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for fairness, and namespace-level cost allocat",
+      "keywords": [
+        "Automation",
+        "Cloud/DevOps"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "d3870d60c1b5",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "date": "2026-10-08",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for explori",
+      "keywords": [
+        "AI Agent",
+        "Developer Tools"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "0c22a86a2f28",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+      "date": "2026-10-08",
+      "summary": "Gears of War: E-Day leads the charge on GeForce NOW this week, bringing Marcus Fenix and Dom Santiago’s first fight against the Locust Horde to the cloud with GeForce RTX-powered performance. A new way to join the action is also coming: Fire TV users will soon be able to purchase GeForce NOW members",
+      "keywords": [
+        "Cloud/DevOps"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "d428b1b15b64",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "date": "2026-10-08",
+      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "5a35081811d0",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "date": "2026-10-08",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "a682e0b0de91",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "date": "2026-10-08",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "12d0a6645f87",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "date": "2026-10-08",
+      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "d20ef6d9bc50",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "date": "2026-10-08",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "494307aa9111",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "date": "2026-10-08",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "c48d7960551d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "date": "2026-10-08",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "ceca2e2c1a06",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "date": "2026-10-08",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "keywords": [
+        "AI Agent",
+        "Gemini"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "80297d65bd41",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "date": "2026-10-08",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "81c67bededb8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "date": "2026-10-08",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "293e69019701",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+      "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+      "date": "2026-10-08",
+      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "02f01addd62e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "date": "2026-10-08",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "7db2500e1227",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "date": "2026-10-08",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "5a9c5073e7f8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+      "date": "2026-10-08",
+      "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "5f730665e0f8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+      "link": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
+      "date": "2026-10-08",
+      "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "2529b8c640de",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+      "link": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+      "date": "2026-10-08",
+      "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
+      "keywords": [
+        "AI Safety",
+        "RAG"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "95e56e2424bb",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+      "link": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+      "date": "2026-10-08",
+      "summary": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+      "keywords": [
+        "Cloud/DevOps",
+        "RAG"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "ebcd79fc8325",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "date": "2026-10-08",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "a57050fc75dc",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Spotify is getting more serious about selling enterprise software",
+      "link": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "date": "2026-10-08",
+      "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+      "keywords": [
+        "Automation",
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "08464588877e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+      "link": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+      "date": "2026-10-08",
+      "summary": "This is the first time the Alphabet-owned company has turned to debt financing.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "c9732b4cf83a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 텍스트 입력으로 게임 만드는 플랫폼 공개…유니티와 협력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216076",
+      "date": "2026-10-08",
+      "summary": "구글이 간단한 텍스트 입력만으로 비디오 게임을 만들고 플레이할 수 있는 새로운 AI 플랫폼을 선보이고, 게임 엔진 유니티(Unity)와 손을 잡았다.구글은 7일(현지시간) 자연어로 설명하면 AI가 2D 및 3D 게임을 구현해 주는 AI 게임 제작 플랫폼 '플레이그라운드(Playground)'를 출시했다고 밝혔다.이는 과거 클라우드 게임 서비스 '스타디아(Stadia)'의 실패 이후, AI 중심의 생성 플랫폼으로 게임 시장에 다시 도전장을 내민 것으로 풀이된다.미국 내 18세 이상 사용자를 대상으로 우선 제공되며, 빈 화면이나 제공되",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "86932ccb14d7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크 “테라팹 직접 운영한다”…TSMC 위탁운영설 일축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216080",
+      "date": "2026-10-08",
+      "summary": "일론 머스크 CEO가 텍사스에 추진 중인 대규모 AI 반도체 공장 ‘테라팹(Terafab)’을 직접 건설하고 운영하겠다고 밝혔다. 최근 제기된 대만 TSMC의 테라팹 운영 참여 가능성을 일축한 것이다.머스크는 7일(현지시간) X에서 관련 의문이 제기되자, “우리가 공장을 건설하고 운영할 것”이라며 “이에 대해 의심의 여지가 전혀 없게 하겠다”고 강조했다.이어 “TSMC가 원한다면 테라팹 일부를 임대할 수도 있지만, 그 이상은 아니다”라고 덧붙였다. TSMC가 테라팹의 일부 공간을 사용할 가능성은 열어뒀지만, 공장 운영이나 핵심 제조",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "b3925923d2ec",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "카카오, 국제 AI 학회서 MoE 학습 최적화·모델 경량화 성과 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216073",
+      "date": "2026-10-08",
+      "summary": "카카오가 AI 모델의 학습 효율을 높이고 모델 크기를 줄이는 경량화 연구 성과를 공개했다.카카오는 언어모델링 국제 학회 'COLM 2026'의 메인 컨퍼런스와 토크나이제이션 워크숍 'TokShop'에서 각각 연구 성과를 발표했다고 8일 밝혔다.메인 컨퍼런스에서 발표한 논문은 대규모 전문가 혼합(MoE) 모델의 사전학습에 필요한 최적 학습률을 전체 학습 비용의 약 1% 수준으로 예측하는 방법론이다.학습률은 학습의 안정성과 성능을 좌우하는 핵심 설정값으로, MoE 모델은 관련 공개 연구가 부족해 최적값 탐색 과정에서 비용 부담이 크다.",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "8aa1e6251a31",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "리퀴드 AI, 10배 큰 체급 제친 멀티모달 의사결정 모델 ‘d1-3B’ 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216087",
+      "date": "2026-10-08",
+      "summary": "리퀴드 AI가 30억개 매개변수 수준의 소형 크기로 10배 이상 큰 대형 모델을 제친 오픈웨이트 멀티모달 의사결정 모델을 공개했다.리퀴드 AI는 7일(현지시간) 의사결정 모델 ‘d1’ 제품군의 새로운 모델인 ‘d1-3B’와 ‘d1-옴니-600M’을 출시했다. 두 모델은 생성 AI처럼 답변을 토큰 단위로 순차 생성하는 대신, 입력 상태를 한 번에 연산해 즉각 판단 점수를 반환하도록 설계됐다.특히 31억2000만개 매개변수 규모의 'd1-3B'는 소형 모델임에도 압도적인 의사결정 성능을 증명했다.공개 데이터셋인 의사결정 지수(Decis",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "0526d71a6b01",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 서피스 랩톱 울트라 출시에 'MAI-코드-1.1' 온디바이스 최적화 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216071",
+      "date": "2026-10-08",
+      "summary": "마이크로소프트(MS)가 차세대 대표 하드웨어 출시 시점에 맞춰 자사의 최신 코딩 AI 모델을 클라우드가 아닌 사용자 PC에서 직접 실행할 수 있도록 온디바이스 환경을 대폭 강화했다.MS는 7일(현지시간) 엔비디아 RTX 스파크 기반 '서피스 랩톱 울트라' 등 차세대 PC 출시에 발맞추어 코딩 특화 AI 모델 'MAI-코드-1.1 플래시(MAI-Code-1.1-Flash)'의 PC 로컬 구동 최적화 버전을 공개했다.이번 조치는 이미 지난 8월 선보였던 모델의 연산 성능과 메모리 효율을 온디바이스 환경에 최적화해 고성능 PC 단말기에서",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "6dc1a7c60cc2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "누리호 올라탄 토종 AI 반도체, 우주 궤도서 성능 실증 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216085",
+      "date": "2026-10-08",
+      "summary": "AI 반도체 전문 모빌린트(대표 신동주)는 자사 AI 반도체가 지난 7일 발사된 누리호 5차의 부탑재위성 ‘BEE-1012’에 탑재됐다고 8일 밝혔다.모빌린트는 우주의약 실증 위성 BEE-1012에 AI 반도체 ‘레귤러스(REGULUS)’ 기반 신경망처리(NPU) 보드 2종(위성상태 분석용 보드, 단백질 결정 성장 관찰·이미지 분석용 보드 등)을 실었다.KAI·펀진과 협력한 위성상태 데이터 분석용 NPU 보드는 AI 모델을 통해 이상 징후감지 및 원인식별에 필요한 연산을 수행하며 위성의 자율적인 고장 대응과 운용 판단을 지원한다.스",
+      "keywords": [
+        "Data Analysis"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "e257aed8257b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "'헤르메스 에이전트' 누스 리서치, 대규모 투자 유치로 기업용 시장 진출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216082",
+      "date": "2026-10-08",
+      "summary": "오픈소스 AI 에이전트 ‘헤르메스(Hermes)’로 유명한 누스 리서치(Nous Research)가 대규모 투자를 유치하고 기업용 AI 에이전트 사업에 본격적으로 뛰어들었다. 누스 리서치는 7일(현지시간) 9000만달러(약 1200억원) 규모의 시리즈 B 투자를 유치하며 기업가치 15억달러(약 2조원)를 인정받았다고 발표했다.이번 투자 라운드는 로봇 벤처스가 주도했다. 엔비디아, 유니온 스퀘어 벤처스, 멘로 벤처스, 삼성, 도널드 트럼프 주니어가 파트너로 참여하고 있는 1789 캐피털 등이 투자자로 이름을 올렸다.창업 3년 차인 이",
+      "keywords": [
+        "AI Agent",
+        "Open Source"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "4dd1f6b24835",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI \"10대 챗GPT 평균 15분 사용\" 주장에 안전성 논란 불붙어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216074",
+      "date": "2026-10-08",
+      "summary": "오픈AI가 10대 청소년의 '챗GPT' 사용 시간이 하루 평균 15분 미만이라며 청소년 대상 안전장치가 효과를 내고 있다고 밝혔다. 하지만 같은 날 비영리단체 커먼 센스 미디어가 10대용 챗GPT의 안전 기능을 시험한 결과, 자살·자해·섭식장애 등 고위험 대화에서 부모 알림과 위기 지원 안내가 제대로 작동하지 않는 사례가 확인됐다고 발표하면서 안전성 논란이 커지고 있다.오픈AI가 7일(현지시간) 공개한 첫 청소년 이용 실태 보고서에 따르면, 10대 사용자의 챗GPT 이용 시간은 하루 평균 15분 미만이었다. 3시간 이상 연속으로 사",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "9c4557b65d30",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 온디바이스 AI '서피스 랩톱 울트라' 공개...1200억 매개변수 모델 직접 구동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216065",
+      "date": "2026-10-08",
+      "summary": "마이크로소프트(MS)가 클라우드 의존 없이 PC에서 직접 AI를 실행하는 고성능 노트북을 선보였다. 엔비디아의 최신 AI 칩을 탑재한 '서피스 랩톱 울트라(Surface Laptop Ultra)'와 AI 에이전트의 무단 접근을 막는 보안 기술을 앞세워 온디바이스 AI 시장에서 애플과의 경쟁에 나선 것이다.MS는 7일(현지시간) 미국 샌프란시스코에서 열린 '윈도우 & 서피스' 행사에서 엔비디아 'RTX 스파크' 기반의 서피스 랩톱 울트라를 공개했다. 이는 MS가 지금까지 출시한 노트북 가운데 가장 강력한 성능을 자랑하는 제품이다.최대",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "54fc70d8b006",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "나주영산강축제 개막 첫날 9만명…11일까지 공연·체험 이어져",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216084",
+      "date": "2026-10-08",
+      "summary": "AI 생성 영상‘2026 나주영산강축제’ 개막 첫날 약 9만명의 시민과 관광객이 영산강정원 일원을 찾았다.나주시는 지난 7일 영산강정원 일원에서 개막한 나주영산강축제에 첫날 약 9만명이 방문했다고 8일 밝혔다.축제장에는 약 12만평 규모로 조성한 가을꽃 단지가 마련됐다. 영산강정원과 둔치, 들섬·동섬 일원에는 코스모스와 해바라기, 백일홍, 댑싸리, 메밀 등이 펼쳐졌다.하늘잔디광장에는 영산강 수달을 형상화한 ‘영달이’ 등 토피어리와 포토존을 설치해 가족 단위 방문객들이 이용할 수 있도록 했다.축제와 함께 열린 ‘2026 나주농업페스타",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "35c26a665150",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"독파모·모두의 AI 더 안전하게\"...SKT, 업스테이지와 AI 보안 동맹 결성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216069",
+      "date": "2026-10-08",
+      "summary": "SK텔레콤이 업스테이지, 국내 주요 정보보호 기업·대학과 함께 '독자 AI 사이버보안 협의체'를 출범한다.7일 서울 중구 SKT타워에서 열린 출범식에서 참가 기관들은 AI 정보보호 기술 협력을 위한 업무협약(MOU)을 체결했다.앞서 SKT는 지난 8월 과학기술정보통신부의 '사이버보안 특화 AI 파운데이션 모델 개발' 사업 공모에 업스테이지와 컨소시엄을 구성해 참여한 바 있으며, 해당 사업은 네이버클라우드 컨소시엄이 최종 수행기관으로 선정됐다.이번 협의체 출범은 정부 사업과 별개로 민간 주도의 사이버보안 AI 개발을 이어가기 위한 행",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "9c013fd31b4c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "저커버그 부부의 바이오허브, 미 정부·구글과 2.4조 AI 생물학 데이터 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216081",
+      "date": "2026-10-08",
+      "summary": "마크 저커버그 메타 CEO와 아내 프리실라 챈 박사가 공동 설립한 비영리 연구 기관 '바이오허브(Biohub)'가 미국 정부 및 글로벌 빅테크 기업들과 손잡고 AI 기반의 생물학 예측 모델을 구축해 질병 예방과 신약 개발 기간을 획기적으로 단축하기 위한 18억달러(약 2조4000억원) 규모의 대형 프로젝트에 나선다. 연구진이 디지털 환경에서 세포 반응을 예측하는 가상 생물학 체계를 구현할 수 있도록 AI 맞춤형 표준 데이터베이스를 구축하는 것이 핵심이다.7일(현지시간) 바이오허브의 발표에 따르면, 이번 사업에는 5억달러 자체 투자금",
+      "keywords": [],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "2ab615ecfe43",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타 '뮤즈', 스마트폰 이어 아이패드용 앱 출시…업무용 도구 연동 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216078",
+      "date": "2026-10-08",
+      "summary": "메타가 개인용 AI 에이전트 서비스 '뮤즈'의 아이패드 전용 앱을 출시했다. 지난달 8일 안드로이드와 아이폰 등 모바일용 앱을 선보인 지 한 달 만의 발 빠른 행보다.7일(현지시간) 메타에 따르면, 아이패드 버전은 대화면 디스플레이 환경에 맞춰 최적화된 인터페이스를 제공한다. 태블릿 특유의 넉넉한 화면을 활용해 이메일이나 문서 정리, 일정 관리 등의 작업을 한눈에 확인하고 처리할 수 있게 했다.이와 함께 업무 생산성 향상을 위한 전문 도구와의 연동 기능 '커넥터'도 강화됐다. 기존 서비스에 더해 아사나, 캔바, 드롭박스, 피그마,",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "8f985111d122",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "태양광·풍력, 2033년 화석발전 추월…2060년 전력 77% 공급 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216063",
+      "date": "2026-10-08",
+      "summary": "태양광이 2060년 세계 전력 생산의 46%를 담당하며 단일 발전원 가운데 핵심적인 역할을 할 것이라는 전망이 나왔다. 태양광과 풍력을 합친 발전량은 2033년 전체 화석연료 발전량을 넘어설 것으로 예상됐다.글로벌 에너지·인증기관 DNV는 지난 7일(현지시간) 발표한 ‘에너지 전환 전망 2026’에서 세계 에너지 생산과 수요, 전력시장 변화를 2060년까지 예측했다. 올해 보고서는 DNV가 매년 발간하는 에너지 전환 전망의 10번째 보고서다.DNV는 세계 전력 생산량이 2025년 약 3만3000테라와트시(TWh)에서 2060년 8만",
+      "keywords": [],
+      "first_seen": "2026-10-09"
     },
     {
       "id": "bdc3445de69a",
@@ -882,6 +1619,18 @@
       "summary": "사우디아라비아의 무함마드 빈 살만 왕립보호구역이 250메가와트(MW) 규모 태양광발전소를 취약종 모래가젤(Sand Gazelle)의 번식 공간으로 활용하고 있다. 발전소 안에 암컷 33마리와 수컷 5마리 등 38마리를 들여와 개체군을 늘린 뒤 왕립보호구역의 더 넓은 자연 서식지에 재도입하는 방식이다.사우디 국영통신 SPA와 무함마드 빈 살만 왕립보호구역에 따르면 보호구역은 지난 5일 250MW 태양광발전소에서 모래가젤 번식 프로그램인 ‘리와일딩볼테익스(ReWildingVoltaics)’를 운영하고 있다고 밝혔다. 모래가젤은 국제적으",
       "keywords": [],
       "first_seen": "2026-10-08"
+    },
+    {
+      "id": "6b0f9fee5e2b",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Introducing Falcon ASR",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "date": "2026-10-07",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-10-09"
     },
     {
       "id": "b1292c909304",
@@ -90584,11 +91333,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-07-11",
-      "added": 28,
-      "total": 2499
-    },
-    {
       "date": "2026-07-12",
       "added": 34,
       "total": 2533
@@ -91032,6 +91776,11 @@
       "date": "2026-10-08",
       "added": 62,
       "total": 6793
+    },
+    {
+      "date": "2026-10-09",
+      "added": 56,
+      "total": 6849
     }
   ],
   "sources": {},
@@ -91179,38 +91928,63 @@
     {
       "week": "2026-W41",
       "keywords": {
-        "AI Agent": 38,
-        "Automation": 20,
-        "GPT": 18,
-        "Claude": 15,
-        "Security": 12,
+        "AI Agent": 48,
+        "Automation": 23,
+        "GPT": 21,
+        "Claude": 17,
+        "Security": 16,
         "SDK/API": 8,
-        "Enterprise AI": 6,
-        "LLM": 5,
-        "Coding": 5,
-        "Open Source": 4,
-        "RAG": 4,
-        "Generative AI": 3,
-        "Multimodal": 3,
-        "Benchmark": 3,
-        "Image AI": 3
+        "Coding": 8,
+        "Enterprise AI": 7,
+        "RAG": 6,
+        "Gemini": 6,
+        "LLM": 6,
+        "AI Safety": 5,
+        "Open Source": 5,
+        "Chatbot": 4,
+        "Generative AI": 4
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 3388,
-      "recent_7d": 199,
-      "recent_30d": 199
+      "total": 3414,
+      "recent_7d": 195,
+      "recent_30d": 225
     },
     "openai": {
-      "total": 276,
-      "recent_7d": 17,
-      "recent_30d": 17
+      "total": 280,
+      "recent_7d": 19,
+      "recent_30d": 21
+    },
+    "google_ai": {
+      "total": 71,
+      "recent_7d": 2,
+      "recent_30d": 2
+    },
+    "huggingface": {
+      "total": 156,
+      "recent_7d": 10,
+      "recent_30d": 11
+    },
+    "aws_ml": {
+      "total": 439,
+      "recent_7d": 31,
+      "recent_30d": 33
+    },
+    "nvidia_ai": {
+      "total": 158,
+      "recent_7d": 9,
+      "recent_30d": 11
+    },
+    "techcrunch": {
+      "total": 1989,
+      "recent_7d": 129,
+      "recent_30d": 149
     },
     "deepmind": {
       "total": 69,
-      "recent_7d": 3,
+      "recent_7d": 1,
       "recent_30d": 3
     },
     "meta_eng": {
@@ -91218,39 +91992,14 @@
       "recent_7d": 1,
       "recent_30d": 1
     },
-    "huggingface": {
-      "total": 154,
-      "recent_7d": 9,
-      "recent_30d": 9
-    },
-    "aws_ml": {
-      "total": 437,
-      "recent_7d": 31,
-      "recent_30d": 31
-    },
-    "nvidia_ai": {
-      "total": 156,
-      "recent_7d": 9,
-      "recent_30d": 9
-    },
-    "techcrunch": {
-      "total": 1969,
-      "recent_7d": 129,
-      "recent_30d": 129
-    },
     "lycorp": {
       "total": 57,
       "recent_7d": 1,
       "recent_30d": 1
     },
-    "google_ai": {
-      "total": 71,
-      "recent_7d": 2,
-      "recent_30d": 2
-    },
     "toss": {
       "total": 65,
-      "recent_7d": 1,
+      "recent_7d": 0,
       "recent_30d": 1
     },
     "woowahan": {
@@ -91269,6 +92018,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-10-08",
-  "total_articles": 6793
+  "last_updated": "2026-10-09",
+  "total_articles": 6849
 }
