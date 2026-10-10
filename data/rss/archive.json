@@ -1,6 +1,120 @@
 {
   "articles": [
     {
+      "id": "249fdcb37f52",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "date": "2026-10-10",
+      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "3fc0fe8ac680",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "date": "2026-10-10",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "24a302cda268",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "타입세이프, '제브' 출시 3주 만에 대규모 투자 유치...기업가치 10조 등극",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216111",
+      "date": "2026-10-10",
+      "summary": "의사결정 특화 모델 '제브(Jev)'를 개발한 타입세이프 AI(TypeSafe AI)가 출시 몇 주 만에 기업가치 75억달러(약 10조원)를 인정받았다. 지난 9월 공개한 제브가 개발자와 기업들 사이에서 빠르게 퍼져 나가며 대규모 투자를 유치했다. 타입세이프 AI는 9일(현지시간) 앤드리슨 호로위츠(a16z)가 주도한 투자 라운드에서 8억7000만달러(약 1조1000억원)를 유치했다고 발표했다. 세쿼이아 캐피털과 기존 투자자인 DCVC, 엔젤 투자자들도 참여했다. 2024년 설립된 타입세이프 AI는 오픈AI 출신 연구원 디오고 알메",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "5798c10c3310",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"6~12개월 내 터진다\"…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216112",
+      "date": "2026-10-10",
+      "summary": "앤트로픽과 오픈AI 등 주요 AI 기업들이 대규모 재앙적 사고 이후 닥쳐올 대중적 분노와 정치적 반란 사태를 가정해 비공개 시나리오 검토에 착수한 것으로 확인됐다. 이들은 앞으로 6개월에서 1년 안에 실제 치명적인 사고가 발생할 수 있다고 보고, 위기 발생 직후의 대응 전략을 가다듬고 있다.9일(현지시간) 악시오스에 따르면, 이번 시나리오 기획에 참여한 핵심 관계자들은 금융 서비스 마비, 인터넷 접속 중단, 전력 및 상수도 시설 차단 등 대규모 인프라 마비 사태를 예상하고 있다. 안전이 확보되지 않은 AI 시스템으로 인해 실질적인",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "65e5e0eca354",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, '제미나이 4 아르곤' 후속 '카본' 테스트 중…\"오퍼스 5.5 수준\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216109",
+      "date": "2026-10-10",
+      "summary": "구글이 차세대 플래그십 모델 '제미나이 4 아르곤(Argon)'의 정식 공개를 앞두고, 사내에서 향상된 코딩 성능을 갖춘 내부 체크포인트 모델 '카본(Carbon)'을 테스트 중인 것으로 알려졌다.비즈니스 인사이더는 10일(현지시간) 구글 직원들이 내부 전용 코딩 플랫폼인 '제트스키(Jetski)'를 통해 제미나이 4의 신규 버전인 카본을 테스트하고 있다고 전했다.구글은 9월30일 아르곤을 공식 발표하고 일부 사이버 보안 파트너를 대상으로 사전 접근권을 제공했다. 또 8일 공개한 기업용 '제미나이 에이전트'에 아르곤을 탑재하고 일부",
+      "keywords": [
+        "AI Agent",
+        "Gemini",
+        "Security"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "142dff7e0658",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 37 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216116",
+      "date": "2026-10-10",
+      "summary": "내면지도_추석의 숙제 추석이 지나간 지 보름이 되었습니다. 고속도로의 정체는 풀렸고, 냉장고에 남아 있던 전과 나물도 거의 사라졌습니다. 오랜만에 모였던 사람들은 다시 각자의 집과 일터로 돌아갔습니다. 명절을 위해 움직였던 몸과 음식과 선물은 모두 제자리로 돌아간 듯합니다.그런데 마음도 어디론가 다녀왔을까요.2024년, 유네스코는 말레이시아의 아침 식사 문화를 인류무형문화유산으로 등재했습니다. 나시 르막이나 로티 차나이처럼 특정한 음식 하나가 유산이 된 것은 아니었습니다. 서로 다른 민족적 뿌리를 지닌 음식이 경계를 넘어 만들어지고",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "144f009744c7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 마운자로효과보면…",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216114",
+      "date": "2026-10-10",
+      "summary": "글·그림 Dr. Alf",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "6e24c52dcd55",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "폴란드, 태양광·배터리 결합 지원…2027년 가정용 배터리 20만대 목표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216057",
+      "date": "2026-10-10",
+      "summary": "폴란드가 주택용 태양광과 에너지저장장치(ESS)의 결합을 확대하기 위해 10억즐로티(약 3424억원) 규모의 가정용 저장장치 지원 프로그램을 시행한다. 태양광 등 소규모 재생에너지 설비를 보유한 가구가 대상이며, 전기 배터리에는 최대 1만6000즐로티(약 548만원)를 지원한다.폴란드 기후환경부와 국가환경보호수자원관리기금(NFOŚiGW)은 지난 2일(현지시간) 가정용 에너지저장장치 지원 프로그램을 발표했다. 신청은 오는 20일부터 시작해 2027년 10월1일까지 진행되며, 예산이 조기에 소진되면 앞서 종료될 수 있다. 사업비는 EU",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "44ceb83ac42b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "일본 태양광발전소서 식물 211종…패널 아래 다양성, 초지와 비슷",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216066",
+      "date": "2026-10-10",
+      "summary": "일본의 대규모 태양광발전소에서 패널 아래 식물의 종수와 다양성이 주변 초지와 통계적으로 유의한 차이를 보이지 않은 것으로 나타났다. 2019년 가동 이후 별도의 식물 파종이나 제초제 사용 없이 연간 두 차례 풀을 베는 방식으로 관리한 발전소의 패널 아래와 주변 초지·숲 가장자리 등 5개 조사환경에서 211종의 식물이 확인됐으며, 패널 아래 식물군집은 초지보다 주변 숲 가장자리와 비슷한 특성을 보였다.도쿄도립대학교 연구진이 일본 기후현 구조시에 위치한 미나미 메가솔라 발전소의 식생을 조사한 연구 결과가 지난 9월30일(현지시간) 국제",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
       "id": "7a777cf06a59",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -156,6 +270,419 @@
       "summary": "오픈AI는 미공개 프론티어 모델에 약 4000개의 고난도 수학 연구 문제를 제시하고, 그 과정에서 나온 의미 있는 성과를 722편의 연구 원고(manuscript)로 정리해 6일(현지시간) 공개했습니다. 여기에는 정수론과 대수학, 위상수학, 이론 컴퓨터과학 등 여러 분야가 포함됐으며, 722편의 원고는 372개의 관련 결과 군(result family)으로 묶였습니다. 증명을 컴퓨터가 검증할 수 있는 프로그래밍 언어인 '린(Lean)'으로 형식화한 자료와 연구 과정에 사용한 연산량, 문제 풀이 시도에 관한 통계도 함께 공개했습니다.",
       "keywords": [],
       "first_seen": "2026-10-09"
+    },
+    {
+      "id": "38f5a2b46e3b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "date": "2026-10-09",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "dc4e32e77a50",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "date": "2026-10-09",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "keywords": [
+        "AI Agent",
+        "Coding",
+        "GPT"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "ebb9e1a46a89",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Impactful scheduling for GPU clusters",
+      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "date": "2026-10-09",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "f167a99f6f25",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "ICYMI: What landed for AI builders in September 2026",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+      "date": "2026-10-09",
+      "summary": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "655ed008086e",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+      "date": "2026-10-09",
+      "summary": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amaz",
+      "keywords": [
+        "AI Agent",
+        "Developer Tools"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "8c0180a6a501",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Long live the mechanical keyboard",
+      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "date": "2026-10-09",
+      "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "6609f1addbf3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "date": "2026-10-09",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "keywords": [
+        "Automation",
+        "LLM"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "e09bca746ce3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "date": "2026-10-09",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "72b5d1ea6f1d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+      "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "date": "2026-10-09",
+      "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "6306f19b8f02",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "date": "2026-10-09",
+      "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "4e83760599c4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "LumenUs helps automate tedious paperwork in times of grief",
+      "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+      "date": "2026-10-09",
+      "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "3819199f8639",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "date": "2026-10-09",
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "50fcb2172953",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "date": "2026-10-09",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "3b30e472897b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "date": "2026-10-09",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "328cf1d66412",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+      "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+      "date": "2026-10-09",
+      "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "c66043da233b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Remember Orkut? Its founder wants to bring it back",
+      "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+      "date": "2026-10-09",
+      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "80b34c260cbb",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "date": "2026-10-09",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "712bc6fa014c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
+      "link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+      "date": "2026-10-09",
+      "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "fa3e7e9dc86a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+      "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "date": "2026-10-09",
+      "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next fa",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "3c72aa28b5be",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "date": "2026-10-09",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "badfa5cf909e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+      "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+      "date": "2026-10-09",
+      "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "b774507972a6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Xona’s commercial GPS alternative is about to go live",
+      "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+      "date": "2026-10-09",
+      "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "a3d004cb4285",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽 '클로드 사이언스', 인류 최초 자외선 전체 하늘 지도 완성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216106",
+      "date": "2026-10-09",
+      "summary": "앤트로픽이 '클로드 사이언스(Claude Science)'를 활용해 그동안 관측 공백으로 남아있던 우주의 자외선 영역을 모두 채운 최초의 완벽한 자외선 전천(All-Sky) 지도를 8일(현지시간) 공개했다. 존스홉킨스대학교 천체물리학자이자 앤트로픽 연구원인 브리스 메나르 교수가 이끈 이번 프로젝트는 대규모 과학 데이터를 자율 처리하는 연구용 AI 에이전트 시스템의 가능성을 입증한 대표적 사례로 평가받는다.자외선은 지구 대기의 오존층에 흡수되기 때문에 우주 망원경을 통해서만 관측할 수 있다. 하지만 2003년부터 2013년까지 운용된",
+      "keywords": [
+        "AI Agent",
+        "Claude"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "c61c6c1a9de7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 연구원 해고 논란 해명...\"안전 제기 보복 아닌 보안 위반\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216105",
+      "date": "2026-10-09",
+      "summary": "오픈AI가 최근 안전 분야 연구원 3명을 해고한 조치에 대해 내부 반발이나 보복성 인사가 아닌 명확한 보안 정책 위반 때문이라는 공식 입장을 밝혔다. 해고된 연구진이 회사 측 조치의 부당함을 지적하는 공개서한을 내며 내부 분위기가 경색되자, 직접 진화에 나선 모습이다.오픈AI는 9일(현지시간) X를 통해 공식 성명을 내고 해명에 나섰다. \"이번 결정은 안전 문제 제기나 발언에 대한 반발 때문이 아니었다\"며 \"철저한 조사 결과 민감한 정보 처리와 관련된 명확한 정책을 위반한 사실이 확인돼 계약을 종료했다\"고 응수했다.오픈AI는 \"이들",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "e5ecc9064143",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스X, 무선 통신 진출…미·유럽 통신주 '직격탄'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216104",
+      "date": "2026-10-09",
+      "summary": "스페이스X가 대규모 주파수 확보에 나서며 전통적인 지상 이동통신 시장에 도전장을 던졌다. 위성 인터넷 스타링크에 이어 저궤도 위성과 지상 인프라를 결합한 모바일 네트워크 구축을 가속, 글로벌 통신 시장의 판도 변화와 함께 수익 다각화에 속도를 내는 양상이다.스페이스X는 8일(현지시간) 사모펀드 운용사 그레인 매니지먼트(Grain Management)로부터 미국 전역의 800메가헤르츠(MHz) 대역 무선 주파수 사용권 인수 계약을 체결했다고 발표했다. 거래 금액은 공개되지 않았으나, 업계에 따르면 인수 규모는 80억달러(약 10조70",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "4acad2bcb5f5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "데이터센터 전문 퍼머스, 호주 IPO 철회…'엔비디아 후광'도 안 통했다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216103",
+      "date": "2026-10-09",
+      "summary": "엔비디아의 지원을 받으며 초대형 상장으로 주목받았던 데이터센터 전문 퍼머스(Firmus)가 50억달러(약 6조7000억원) 규모의 호주 증시 기업공개(IPO)를 철회했다. 수요예측 과정에서 고평가 논란과 부채 우려가 불거지자 공모 절차를 전면 취소한 것으로, 이번 사례는 초대형 AI 인프라 기업에 대한 공모 시장의 첫 검증이자 AI 기업 가치 평가에 경고등이 켜진 상징적 사건이라는 점에서 시장의 비상한 관심을 받고 있다.9일 로이터와 월스트리트저널(WSJ) 등에 따르면, 호주 증권거래소(ASX) 상장을 추진해 온 퍼머스는 이사회 공",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "d68bd23e0a21",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, ‘클로드 대시보드·모션’ 공개…\"기업 데이터 분석·영상 제작\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216095",
+      "date": "2026-10-09",
+      "summary": "앤트로픽이 '클로드'에서 기업 데이터를 실시간 대시보드로 만들고, 차트와 보고서를 애니메이션 영상으로 바꿀 수 있는 도구를 출시했다. 코딩 없이 자연어로 데이터 분석과 시각 콘텐츠 제작을 할 수 있도록 해 업무 생산성 도구로서 클로드의 기능을 확장했다.앤트로픽은 8일(현지시간) ‘클로드 대시보드(Claude Dashboards)’와 ‘클로드 모션(Claude Motion)’을 베타 버전으로 공개했다고 밝혔다. 대시보드는 프로, 팀, 엔터프라이즈 등 유료 요금제 이용자에게 제공되며, 모션은 팀 및 엔터프라이즈 고객에게 제공된다.클로드",
+      "keywords": [
+        "Claude",
+        "Data Analysis"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "ac2661f8c4cc",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216094",
+      "date": "2026-10-09",
+      "summary": "애플이 첫 터치스크린 맥북과 OLED(유기발광다이오드) 디스플레이를 탑재한 새로운 아이패드 미니를 10월 말 공개할 전망이다. 'M6' 칩을 탑재한 맥북 프로와 아이맥도 함께 선보일 것으로 알려졌다.블룸버그는 8일(현지시간) 정통한 소식통을 인용, 애플이 오는 27일경 맥과 아이패드 신제품 공개 행사를 개최할 예정이라고 보도했다.행사는 온라인 영상 발표와 언론 대상 오프라인 행사로 구성되며, 영상 제작과 사진 편집, 음악 작업 등 창작 전문가를 겨냥할 것으로 알려졌다.이번 발표에서 가장 주목되는 제품은 애플의 첫 터치스크린 맥북 프",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "6c24edc8d3d0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, 안드로이드 태블릿 첫 출시…프리미엄 시장 도전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216099",
+      "date": "2026-10-09",
+      "summary": "아마존이 자체 운영체제인 '파이어 OS(Fire OS)'를 버리고 구글 안드로이드를 탑재한 새 태블릿 시리즈를 출시했다. AI 음성 비서 ‘알렉사+(Alexa+)’를 처음으로 태블릿에 통합하고, 알루미늄 본체와 고성능 디스플레이를 적용해 애플 아이패드와 삼성 갤럭시 탭이 주도하는 시장에 도전한다. 저가 제품 중심이던 기존 전략에서 벗어나 프리미엄 기기 시장으로 영역을 넓히려는 움직임이다.아마존은 8일(현지시간) 8인치, 11인치, 12인치 화면을 갖춘 ‘알렉사 태블릿(Alexa Tablet)’ 시리즈를 공개했다.제품 가격은 모델별로",
+      "keywords": [],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "35dc86436ca0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"오픈소스 취약점 AI가 잡는다\"...앤트로픽, 무료 보안 검사 도구 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216101",
+      "date": "2026-10-09",
+      "summary": "앤트로픽이 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 서비스를 공개했다. AI가 취약점을 발견하는 속도가 빨라지는 가운데, 오픈소스 개발자들이 보안 문제를 더 신속하게 파악하고 대응할 수 있도록 지원한다. 앤트로픽은 8일(현지시간) 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 도구 ‘OSS 스캐너(OSS Scanner)’를 출시했다. '클로드 미소스'를 포함한 앤트로픽의 최신 고성능 모델을 활용해 오픈소스 프로젝트를 정기적으로 검사하고, 발견한 취약점과 수정 방안을 제공한다.OSS 스캐너는 참여를",
+      "keywords": [
+        "Claude",
+        "Open Source",
+        "Security"
+      ],
+      "first_seen": "2026-10-10"
+    },
+    {
+      "id": "63b347f8b668",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"모델 학대도 금지\"...앤트로픽, '클로드' 오용 막기 위해 사용 정책 개정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216100",
+      "date": "2026-10-09",
+      "summary": "앤트로픽이 '클로드'의 오용을 막기 위해 사용 정책을 개정했다. 선거 개입과 허위 여론 조작, 무기 개발, 동의 없는 감시를 금지하는 규정을 구체화하고, 모델을 지속적이고 불필요하게 학대하는 행위도 명시적으로 금지했다. AI 기능 고도화에 따른 새로운 악용 사례에 대응하기 위한 조치다.앤트로픽은 8일(현지시간) 새 사용 정책을 공개했으며, 개정안은 11월12일부터 시행된다. 신규 사용자에게는 즉시 적용되며, 기존 상업용 및 API 고객에게는 30일간의 유예 기간을 거쳐 일괄 적용된다.이번 개정은 기존 규칙을 대부분 명확하게 정리한",
+      "keywords": [
+        "Claude",
+        "SDK/API"
+      ],
+      "first_seen": "2026-10-10"
     },
     {
       "id": "30f98e209e90",
@@ -91333,11 +91860,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-07-12",
-      "added": 34,
-      "total": 2533
-    },
-    {
       "date": "2026-07-13",
       "added": 10,
       "total": 2543
@@ -91781,6 +92303,11 @@
       "date": "2026-10-09",
       "added": 56,
       "total": 6849
+    },
+    {
+      "date": "2026-10-10",
+      "added": 40,
+      "total": 6889
     }
   ],
   "sources": {},
@@ -91928,59 +92455,59 @@
     {
       "week": "2026-W41",
       "keywords": {
-        "AI Agent": 48,
-        "Automation": 23,
-        "GPT": 21,
-        "Claude": 17,
-        "Security": 16,
-        "SDK/API": 8,
-        "Coding": 8,
-        "Enterprise AI": 7,
+        "AI Agent": 54,
+        "Automation": 28,
+        "GPT": 22,
+        "Claude": 21,
+        "Security": 20,
+        "SDK/API": 10,
+        "Coding": 9,
+        "Enterprise AI": 8,
+        "Gemini": 7,
+        "LLM": 7,
         "RAG": 6,
-        "Gemini": 6,
-        "LLM": 6,
+        "Open Source": 6,
         "AI Safety": 5,
-        "Open Source": 5,
-        "Chatbot": 4,
-        "Generative AI": 4
+        "Robotics": 5,
+        "Chatbot": 4
       }
     }
   ],
   "source_stats": {
     "aitimes": {
-      "total": 3414,
-      "recent_7d": 195,
-      "recent_30d": 225
+      "total": 3430,
+      "recent_7d": 181,
+      "recent_30d": 241
     },
     "openai": {
-      "total": 280,
-      "recent_7d": 19,
-      "recent_30d": 21
+      "total": 282,
+      "recent_7d": 18,
+      "recent_30d": 23
+    },
+    "huggingface": {
+      "total": 157,
+      "recent_7d": 9,
+      "recent_30d": 12
+    },
+    "aws_ml": {
+      "total": 441,
+      "recent_7d": 26,
+      "recent_30d": 35
+    },
+    "nvidia_ai": {
+      "total": 158,
+      "recent_7d": 6,
+      "recent_30d": 11
+    },
+    "techcrunch": {
+      "total": 2008,
+      "recent_7d": 128,
+      "recent_30d": 168
     },
     "google_ai": {
       "total": 71,
       "recent_7d": 2,
       "recent_30d": 2
-    },
-    "huggingface": {
-      "total": 156,
-      "recent_7d": 10,
-      "recent_30d": 11
-    },
-    "aws_ml": {
-      "total": 439,
-      "recent_7d": 31,
-      "recent_30d": 33
-    },
-    "nvidia_ai": {
-      "total": 158,
-      "recent_7d": 9,
-      "recent_30d": 11
-    },
-    "techcrunch": {
-      "total": 1989,
-      "recent_7d": 129,
-      "recent_30d": 149
     },
     "deepmind": {
       "total": 69,
@@ -91994,7 +92521,7 @@
     },
     "lycorp": {
       "total": 57,
-      "recent_7d": 1,
+      "recent_7d": 0,
       "recent_30d": 1
     },
     "toss": {
@@ -92018,6 +92545,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-10-09",
-  "total_articles": 6849
+  "last_updated": "2026-10-10",
+  "total_articles": 6889
 }
