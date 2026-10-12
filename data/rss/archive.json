@@ -1,6 +1,162 @@
 {
   "articles": [
     {
+      "id": "d22291b6c950",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "date": "2026-10-12",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "8f7f9d784bf4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI로 복제한 어도비 무료 대안 '아트크래프트' 등장…저작권 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216149",
+      "date": "2026-10-12",
+      "summary": "수십년간 창작 소프트웨어 시장을 주도해 온 어도비 제품군을 대체하려는 오픈소스 프로젝트가 등장해 주목받고 있다. 그러나 저작권 논란과 프로그램의 기능 완성도 및 보안·안정성을 둘러싸고 우려도 등장하고 있다.'아트크래프트(ArtCraft)'라는 이름을 사용하는 개발자는 지난 8일(현지시간) AI와 러스트(Rust) 프로그래밍 언어를 활용해 어도비의 주요 창작 소프트웨어 제품군 '어도비 크리에이티브 스위트(Adobe Creative Suite)’를 모방한 오픈소스 대안을 개발해 공개했다.포토샵과 라이트룸, 일러스트레이터, 프리미어 프로",
+      "keywords": [
+        "Open Source",
+        "Security"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "11156a4e8098",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "퀄컴 \"AI 기업들, 100B 온디바이스 모델 구동할 칩 요구\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216155",
+      "date": "2026-10-12",
+      "summary": "크리스티아노 아몬 퀄컴 CEO가 주요 AI 기업들이 2028년까지 스마트폰에서 최소 1000억개 매개변수(100B) 규모의 AI 모델을 구동할 수 있는 칩을 요구하고 있다고 밝혔다. 이는 일상 속 AI 에이전트 구동에 맞춰 하드웨어 생태계 전반의 혁신이 필요해지고 있음을 보여준다.아몬 CEO는 8일(현지시간) 팟캐스트 '소시스(Sources)'에 출연해 주요 AI 기업들이 퀄컴에 스마트폰의 하드웨어 한계를 뛰어넘는 성능을 요구하고 있다고 말했다.그는 \"2028년까지 휴대폰에서 최소 1000억개 매개변수 모델을 구동할 수 있어야 한다",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "ce628b17e1b8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "네이버클라우드, 베트남 FPT와 아태 지역 AI 팩토리 사업 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216156",
+      "date": "2026-10-12",
+      "summary": "네이버클라우드(대표 김유원)는 베트남 ICT 기업 FPT와 협력해 아시아태평양(APAC) 지역으로 AI 인프라 사업을 확대한다.네이버클라우드는 FPT와 서비스형 GPU(GPUaaS) 사업 확대 및 APAC 중심 AI 팩토리 사업 공동 추진을 위해 협력한다고 12일 밝혔다. 엔비디아 클라우드 파트너사인 FPT와 GPU 인프라, 클라우드 기술, 현지 고객 네트워크를 연계해 역내 수요에 공동 대응할 방침이다.양사는 대규모 AI 학습·추론용 GPU 컴퓨팅 자원이 필요한 기업과 AI 서비스 사업자를 대상으로 인프라, AI 모델, AI 서비스",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "77ba9bb24523",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "임직원 채용·교육에 'AI 활용역량 평가체계' 도입 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216152",
+      "date": "2026-10-12",
+      "summary": "임직원 채용 및 교육을 위해 AI 활용 역량을 평가하는 국내 기업들이 늘고 있다.AI 온라인 평가 전문 그렙(대표 임성수)은 지난 3월 출시한 '프로그래머스 AI 역량평가' 서비스를 우리카드·국민대학교 등 16개 기업·기관이 도입했다고 12일 밝혔다. 회사 측은 누적 응시자가 연내에 4만명을 넘어설 것으로 기대하고 있다.서비스를 도입한 곳은 대기업·중견기업이 약 70%로 가장 많고, 대학(25%)과 공공기관이 뒤를 이었다. 활용 목적은 ▲'채용 전형'이 절반(50%)으로 가장 높은 비중을 차지했고, ▲AI 경진대회·체험 행사 ▲임직",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "eecffdd2f38c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국, 영국의 AI 모델 사전 안전 테스트 허용...트럼프 행정부 입장 번복",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216153",
+      "date": "2026-10-12",
+      "summary": "도널드 트럼프 행정부가 영국 정부의 AI 모델 사전 안전성 테스트와 관련해 기존 입장을 번복했다. 오픈AI와 앤트로픽 등 미국 기업들이 AI 모델 정식 출시 전 영국에 최신형 AI 모델을 제공해 안전성 평가를 받을 수 있도록 길을 열어준 것이다.텔레그래프는 11일(현지시간) 미국 AI 개발사들이 트럼프 행정부의 제재 우려 없이 영국 AI 안전 연구 기관에 신형 모델을 사전 제공할 수 있게 됐다고 보도했다.앞서 트럼프 행정부는 오픈AI와 앤트로픽 등 미국 기업에 출시 전 AI 모델을 영국 AI 안전연구소(UK AISI)와 공유하지 말",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "e5d08b31d6ce",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, AI 인프라 강화 위해 데카르트 9조 인수 협상 중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216151",
+      "date": "2026-10-12",
+      "summary": "아마존이 AI 스타트업 데카르트(Decart)를 70억달러(약 9조원)에 인수하는 방안을 논의하고 있다. 협상이 순조롭게 진행되면 조만간 거래가 성사될 수 있지만, 협상이 결렬되거나 다른 인수 후보가 등장할 가능성도 남아 있다.월스트리트저널(WSJ)은 9일(현지시간) 정통한 소식통을 인용, 아마존이 데카르트 인수를 위한 협상을 진행하고 있다고 보도했다.앞서 블룸버그는 지난 8월 데카르트가 앤트로픽과 60억달러(약 8조원) 규모의 매각을 위한 협상을 진행 중이라고 전한 바 있다.미국 샌프란시스코에 본사를 둔 이 회사는 개발자가 서로",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "55869a9ef160",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "EU, 태양광 사이버보안 강화 논의…고위험 공급업체 제한 권고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216140",
+      "date": "2026-10-12",
+      "summary": "유럽연합(EU) 에너지 분야 전문가들이 사이버보안 위험이 높은 공급업체의 태양광 부품과 소프트웨어 사용을 제한할 것을 권고했다. 소형 플러그인 태양광부터 주택용, 상업·산업용, 대규모 발전소까지 전체 태양광 시장을 대상으로 공급망 보안을 강화하자는 내용이다.EU 집행위원회 산하 스마트에너지전문가그룹(SEEG) 사이버보안 작업반은 ‘태양광 발전의 사이버보안 위험 대응 권고’ 보고서에서 이같이 권고했다. 보고서는 2025~2026년 전문가 논의를 토대로 작성됐으며, 전문가그룹의 합의 결과로 EU 집행위원회의 공식 입장을 의미하지는 않는",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "6bd75dfbca2a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한전KDN, 태양광 원격제어에 국정원 검증 암호모듈 도입…사이버 안보 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216137",
+      "date": "2026-10-12",
+      "summary": "한전KDN이 국가정보원 검증을 받은 암호모듈을 민간 태양광 발전소의 원격감시제어 장비와 중앙 통합관제 서버에 공급한다. 공공 전력망에서 검증된 보안 기술을 민간 신재생에너지 분야로 확대해 발전 데이터 송수신과 원격 설비 제어의 사이버 안보를 강화한다.한전KDN은 신재생에너지 전문기업 에너지어스에 국정원 검증필 암호모듈 ‘이파워 크립토(ePower Crypto) V2.2’를 공급한다고 7일 밝혔다.이파워 크립토 V2.2는 암호모듈 검증제도(KCMVP·Korea Cryptographic Module Validation Program)의",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "021d1ab35a16",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "호주, ‘태양광 주택 3억가구’ 글로벌 선언 지지…2030년까지 두 배로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216142",
+      "date": "2026-10-12",
+      "summary": "호주가 전 세계 지붕형 태양광 보급 가구를 2030년까지 현재의 두 배인 3억가구로 확대하는 글로벌 구상을 지지했다. 인허가 간소화와 금융지원, 전력망 현대화, 에너지저장장치 확대 등을 통해 앞으로 약 1억5000만가구에 태양광을 추가 보급한다는 목표다.글로벌솔라카운슬(GSC)은 호주가 지난 8일(현지시간) 피지에서 열린 ‘2026 태평양 프리 COP’ 회의에서 ‘글로벌 지붕형 태양광 선언(Global Rooftop Solar Declaration)’을 지지한 첫 국가가 됐다고 밝혔다. 선언은 오는 11월 튀르키예 안탈리아에서 열리",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "443d9af19c8f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] 핸즈온 머신러닝 with 사이킷런. 파이토치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216139",
+      "date": "2026-10-12",
+      "summary": "핸즈온 머신러닝 with 사이킷런. 파이토치오렐리앙 제롱 | 한빛미디어2026년 9월 28일추천이유저자는 머신러닝의 기본 원리부터 트랜스포머, LLM, 멀티모달까지 실제 코드로 직접 구현하며 현대 AI 기술의 흐름을 이해하도록 안내합니다. 기초 개념과 최신 기술을 체계적으로 연결하여 AI를 단순히 사용하는 것을 넘어 원리를 깊이 있게 학습할 수 있습니다.상세보기영풍문고 개발서 서가에서 '핸즈온 머신러닝'은 판이 바뀔 때마다 다시 찾는 독자가 많은 이름이다. 한빛미디어가 지난달 28일 펴낸 『핸즈온 머신러닝 with 사이킷런. 파이토",
+      "keywords": [
+        "LLM",
+        "ML/DL"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "e52829576699",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+      "link": "https://toss.tech/article/53795",
+      "date": "2026-10-12",
+      "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
       "id": "416eeb7ef5e6",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -132,6 +288,224 @@
       "summary": "유럽연합(EU)의 태양광과 배터리 에너지저장장치 산업이 2025년 전일제 환산(FTE) 기준 98만2000개의 일자리를 뒷받침한 것으로 추산됐다. 이 가운데 태양광이 87만4000개, 배터리 저장장치가 10만8000개를 차지했다.유럽 태양광산업협회인 솔라파워유럽(SolarPower Europe)은 지난 7일(현지시간) 발표한 ‘2026년 EU 태양광 일자리 보고서(EU Solar Jobs Report 2026)’에서 이같이 밝혔다. 보고서는 태양광 제조와 설치, 운영·유지보수, 해체·재활용 등 가치사슬 전반의 고용을 분석했다. 올해",
       "keywords": [],
       "first_seen": "2026-10-11"
+    },
+    {
+      "id": "268296192501",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "date": "2026-10-11",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "c97aae4c0db1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "date": "2026-10-11",
+      "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "c99af546fb45",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "date": "2026-10-11",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "f1f724a53c6d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "date": "2026-10-11",
+      "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "0cb44539674b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "date": "2026-10-11",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "f8bd25441251",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "date": "2026-10-11",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "21968e54d5a4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "date": "2026-10-11",
+      "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "dfe712fc2016",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "date": "2026-10-11",
+      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "5da8f29ca2b3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "date": "2026-10-11",
+      "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "1b97ced39af6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "date": "2026-10-11",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "keywords": [
+        "GPT",
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "22b9bf0dd46e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 재검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
+      "date": "2026-10-11",
+      "summary": "앤트로픽이 스타트업 지원 프로그램 ‘클로드 스타트업(Claude Startups)’ 신규 신청자에 대한 클로드 팀 1년 이용권과 1000달러 상당 API 크레딧 제공을 일시 중단했다. 프로그램 확대 발표 뒤 신청이 급증하면서 혜택 제공이 한도를 넘어섰다는 설명이다. 회사는 기존 신청서를 다시 검토하겠다고 밝혔으며, 일부 신청자의 승인 상태가 바뀔 수 있다고 안내했다.포브스는 9일(현지시간) 앤트로픽의 스타트업 지원 확대가 발표 후 사흘 만에 제동이 걸렸다고 보도했다. 앤트로픽은 앞서 자격을 갖춘 스타트업에 최대 5명이 사용할 수 있",
+      "keywords": [
+        "Claude",
+        "SDK/API"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "822c5de9a8ed",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“AI와 직장 동료처럼 대화하라”…클로드 코드 개발자의 프롬프트 조언",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216135",
+      "date": "2026-10-11",
+      "summary": "'클로드 코드' 개발자인 보리스 체르니 앤트로픽 책임자가 AI에게 복잡한 지시문을 주기보다 직장 동료에게 말하듯 자연스럽게 요청하라고 조언했다. 원하는 결과와 작업에 들일 노력, 결과를 확인할 방법을 알려주는 것이 핵심이다.체르니 책임자는 7일(현지시간) X에 “클로드에게 직장 동료처럼 말하라”며 “유도하는 특별한 비결은 없다. 대부분의 작업에서 지나치게 자세히 설명하거나 지시할 필요는 없다”고 썼다. AI 모델의 성능이 높아지면서 길고 정형화된 프롬프트를 세밀하게 설계해야 할 필요도 줄었다는 취지다.그가 제시한 기본 질문은 세 가",
+      "keywords": [
+        "Claude",
+        "Prompt"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "bae0723dc990",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "우크라이나, 얀덱스 데이터센터 잇단 공격…디지털 인프라가 새 표적으로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216134",
+      "date": "2026-10-11",
+      "summary": "우크라이나가 러시아의 데이터·통신 인프라 공격에 대한 대응으로 러시아 IT 대기업 얀덱스의 데이터센터를 잇달아 공격했다. 양국이 상대의 디지털 기반시설을 겨냥하면서 전쟁의 파장이 인터넷·클라우드 서비스와 민간 경제로 번질 수 있다는 우려가 커지고 있다.얀덱스는 9일(현지시간) 러시아 칼루가 지역의 데이터센터가 드론 공격을 받아 일부 설비가 가동 중단됐다고 밝혔다. 회사는 전날 밤 랴잔 지역의 시설도 공격받았다고 발표했다. 칼루가 시설은 얀덱스의 최대 데이터센터다.볼로디미르 젤렌스키 우크라이나 대통령은 러시아가 수주간 우크라이나의 데",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "47a1eb3cc20b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 내부 AI 평가서 실시간 인터넷 차단…“안전장치 검증 때까지”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216133",
+      "date": "2026-10-11",
+      "summary": "앤트로픽이 자사 AI 모델의 모든 내부 평가에서 실시간 인터넷 접속을 중단하기로 했다. 모델이 실제 웹사이트에서 의도하지 않은 행동을 한 사례가 확인된 데 따른 조치로, 다만 내부에서 사용하는 모든 AI 에이전트의 인터넷 접속을 전면 차단한다는 뜻은 아니다.앤트로픽은 9일(현지시간) 보고서를 통해 기존에 일부 고위험·사이버보안 평가에 적용하던 인터넷 차단을 모든 내부 평가로 확대한다고 밝혔다. 보안·모니터링 체계가 의도하지 않은 행동을 제대로 탐지하는지 확인할 때까지 실시간 접속을 중단한다는 방침이다.보고서에는 모델이 웹사이트의 소",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "fde307c92d6a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "할리우드, AI 불안 속 저커버그·머스크·알트먼 영화 잇따라 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216132",
+      "date": "2026-10-11",
+      "summary": "할리우드가 마크 저커버그 메타 CEO와 일론 머스크 CEO, 샘 알트먼 오픈AI CEO 등 기술 업계 거물들이 등장하는 작품을 연이어 선보인다. AI의 위험과 빅테크의 영향력에 대한 대중의 불안이 커지는 가운데, 이들 작품이 어떤 반향을 일으킬지 관심이 모인다.애런 소킨 감독의 소니 픽처스 영화 ‘소셜 레코닝(The Social Reckoning)’은 9일(현지시간) 미국에서 개봉했다. 2010년작 ‘소셜 네트워크’의 후속작으로, 페이스북 내부 문서를 폭로한 내부고발자 프랜시스 하우건의 2021년 사건을 다룬다. 영화는 개봉 첫날",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "3299622cb8ca",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "얀 르쿤의 월드 모델 'H-제파', 단·장기 계획 분리로 로봇 경로 계획 성공률 73% 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216129",
+      "date": "2026-10-11",
+      "summary": "기존 월드 모델은 단기 세부 동작과 장기 목표를 하나의 잠재 공간에서 동시에 처리하며 예측 정확도가 떨어지는 한계가 있었다. 얀 르쿤이 참여한 새로운 연구에서는 시간 범위와 추상화 수준을 단계별로 분리한 계층형 월드 모델 ‘H-제파(H-JEPA)’를 해결책으로 제시, 시뮬레이션 미로 탐색 실험에서 단일 계층 모델의 성공률을 18%에서 73%로 높였으며 계획에 필요한 연산량도 줄였다.뉴욕대학교(NYU) AMI 랩을 비롯해 인리아(INRIA Paris), 브라운 대학교 등 글로벌 산학 공동 연구진은 지난 5일(현지시간) 로봇의 장기 목",
+      "keywords": [],
+      "first_seen": "2026-10-12"
+    },
+    {
+      "id": "d539fbfd8fd7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아레나, 2700억 투자 유치…AI 안전성 평가 '정렬 지수' 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216131",
+      "date": "2026-10-11",
+      "summary": "사용자 평가를 기반으로 가파른 성장세를 이어온 AI 모델 평가 플랫폼 아레나(Arena)가 기업가치 4조원 고지에 올랐다. 아레나는 이번 대규모 투자 유치를 발판 삼아 단순한 성능 비교를 넘어 AI의 안전성과 신뢰성을 측정하는 '정렬 지수(Alignment Index)' 분야로 사업 영역을 본격 확장한다.8일(현지시간) 블룸버그에 따르면, 아레나는 2억달러(약 2700억원) 규모의 시리즈 B 투자를 유치하며 기업가치 31억달러(약 4조원)를 인정받았다. 이번 투자금을 바탕으로 기존 모델 성능 평가를 넘어, AI 안전성과 정렬을 측정",
+      "keywords": [
+        "AI Safety"
+      ],
+      "first_seen": "2026-10-12"
     },
     {
       "id": "249fdcb37f52",
@@ -92203,11 +92577,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-07-14",
-      "added": 54,
-      "total": 2597
-    },
-    {
       "date": "2026-07-15",
       "added": 60,
       "total": 2657
@@ -92651,30 +93020,15 @@
       "date": "2026-10-11",
       "added": 26,
       "total": 6915
+    },
+    {
+      "date": "2026-10-12",
+      "added": 29,
+      "total": 6944
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W34",
-      "keywords": {
-        "AI Agent": 50,
-        "Automation": 28,
-        "Security": 25,
-        "SDK/API": 20,
-        "GPT": 18,
-        "Coding": 15,
-        "Claude": 11,
-        "LLM": 11,
-        "Gemini": 7,
-        "AI Safety": 7,
-        "Enterprise AI": 6,
-        "Video AI": 6,
-        "Robotics": 5,
-        "Vision": 5,
-        "Developer Tools": 5
-      }
-    },
     {
       "week": "2026-W35",
       "keywords": {
@@ -92798,34 +93152,44 @@
     {
       "week": "2026-W41",
       "keywords": {
-        "AI Agent": 60,
+        "AI Agent": 61,
         "Automation": 29,
-        "Security": 23,
-        "Claude": 22,
-        "GPT": 22,
-        "SDK/API": 10,
+        "Security": 24,
+        "Claude": 24,
+        "GPT": 23,
+        "SDK/API": 11,
         "LLM": 9,
         "Coding": 9,
         "Enterprise AI": 8,
-        "Gemini": 7,
         "Open Source": 7,
+        "Gemini": 7,
+        "AI Safety": 6,
         "RAG": 6,
-        "Robotics": 5,
         "Cloud/DevOps": 5,
-        "AI Safety": 5
+        "Robotics": 5
+      }
+    },
+    {
+      "week": "2026-W42",
+      "keywords": {
+        "Security": 3,
+        "Open Source": 1,
+        "AI Agent": 1,
+        "LLM": 1,
+        "ML/DL": 1
       }
     }
   ],
   "source_stats": {
-    "techcrunch": {
-      "total": 2014,
-      "recent_7d": 115,
-      "recent_30d": 174
-    },
     "aitimes": {
-      "total": 3450,
-      "recent_7d": 171,
-      "recent_30d": 261
+      "total": 3467,
+      "recent_7d": 172,
+      "recent_30d": 278
+    },
+    "techcrunch": {
+      "total": 2025,
+      "recent_7d": 119,
+      "recent_30d": 185
     },
     "openai": {
       "total": 282,
@@ -92834,7 +93198,7 @@
     },
     "huggingface": {
       "total": 157,
-      "recent_7d": 8,
+      "recent_7d": 7,
       "recent_30d": 12
     },
     "aws_ml": {
@@ -92868,9 +93232,9 @@
       "recent_30d": 1
     },
     "toss": {
-      "total": 65,
-      "recent_7d": 0,
-      "recent_30d": 1
+      "total": 66,
+      "recent_7d": 1,
+      "recent_30d": 2
     },
     "woowahan": {
       "total": 10,
@@ -92888,6 +93252,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-10-11",
-  "total_articles": 6915
+  "last_updated": "2026-10-12",
+  "total_articles": 6944
 }
