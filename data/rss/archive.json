@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "19d5bbb54360",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216378",
+      "date": "2026-10-18",
+      "summary": "앤트로픽이 캐나다에서 처음으로 데이터센터 임대 계약을 체결했다. 일본에서도 첫 전용 데이터센터 건설을 위한 협상을 진행하는 등 AI 모델 개발과 서비스 운영에 필요한 인프라를 전방위로 확보하고 있다.로이터와 블룸버그는 16일(현지시간) 앤트로픽이 에버윈드와 캐나다 노바스코샤주 포인트터퍼에 들어설 데이터센터의 용량을 임대하는 계약을 맺었다고 보도했다. 앤트로픽의 캐나다 첫 데이터센터 계약이다.에버윈드는 데이터센터 단지와 풍력발전 사업에 100억캐나다달러 이상을 투자한다. 데이터센터 단지 건설에 80억캐나다달러, 육상 풍력발전 사업에",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "3bdf525799d1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽 ‘미소스 5’, 양자회로 설계 개선…53시간 만에 새 계산법 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216376",
+      "date": "2026-10-18",
+      "summary": "앤트로픽이 AI를 활용해 양자컴퓨터가 같은 계산을 더 적은 자원으로 수행하는 방법을 찾아냈다. 기존 논문에 발표된 설계의 효율을 개선했으며, 특정 연산에서는 계산에 필요한 기본 연산 수를 12분의 1로 줄였다. AI가 양자컴퓨터의 계산 방식을 설계하는 연구 도구로 활용될 가능성을 보여준 결과다.앤트로픽은 16일(현지시간) ‘클로드 미소스 5’를 활용한 양자회로 설계 연구를 발표했다. 하버드대학교 연구진 등이 참여했으며, 논문은 아카이브에 공개됐다.이번 연구의 핵심은 양자컴퓨터의 성능을 높이는 데 하드웨어 개발뿐 아니라 계산 방법의",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "693b956089c0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "순천만천문대 ‘밤새워 내 별 찾기’…초등교사 2년 연속 참여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216316",
+      "date": "2026-10-18",
+      "summary": "AI 생성 영상순천만천문대의 천문관측 프로그램 ‘밤새워 내 별 찾기’에 한 초등학교 교사가 학생들과 2년 연속 참여했다.순천시는 해당 교사가 지난해 7월 동아리 학생들과 프로그램에 참여한 데 이어 올해 10월 새로운 학생들과 다시 순천만천문대를 찾았다고 16일 밝혔다.이 교사는 학생들이 교실에서 배우는 지식을 넘어 친구들과 함께 자연을 경험하고 오래 기억할 수 있는 추억을 만들 수 있도록 매년 프로그램에 참여했다고 설명했다.‘밤새워 내 별 찾기’는 순천만의 밤하늘을 배경으로 별과 우주를 관찰하는 천문체험 프로그램이다. 참가자들은 천",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "fdc2241652d6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "여수 국동항서 ‘한밤의 피크닉’…주말 버스킹·먹거리 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216317",
+      "date": "2026-10-18",
+      "summary": "AI 생성 영상여수시 국동항 수변공원에서 먹거리와 버스킹을 함께 즐길 수 있는 야간관광 프로그램이 운영되고 있다.여수는 국동항 수변공원에서 ‘국동항 한밤의 피크닉’을 운영하고 있다고 16일 밝혔다.행사장은 먹거리부스존과 피크닉존, 버스킹존으로 구성됐다. 먹거리부스에서는 카페 2개소와 어묵, 라면, 떡볶이 등을 판매하고 있으며 시민과 관광객이 밤바다를 바라보며 쉴 수 있는 피크닉 공간도 운영한다. 버스킹 공연은 10월까지 매주 금요일부터 일요일까지 진행된다.여수는 먹거리 종류를 확대하기 위해 먹거리부스 운영자 1개소도 추가 모집하고",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "bcb5714e6e2e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216373",
+      "date": "2026-10-18",
+      "summary": "미국 주요 은행들이 메타의 개인용 AI 에이전트 ‘뮤즈’ 등의 고객 계좌 접근과 자금 이체를 제한하고 있다. 고객이 맡긴 AI라도 은행 계좌에 직접 접속해 돈을 움직이도록 허용하기에는 보안과 사고 책임 문제가 해결되지 않았다는 설명이다. AI가 낮은 금리의 예금을 찾아 다른 금융상품으로 옮기면서 은행의 수익 구조를 흔들 수 있다는 관측도 나온다.블룸버그와 파이낸셜타임스(FT)는 16일(현지시간) 씨티그룹과 찰스슈와브 등 미국 금융회사들이 외부 AI 에이전트의 고객 계좌 접근을 차단하거나 제한하고 있다고 보도했다. 씨티는 외부 AI",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "0d59a23452e6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, 코딩 성능 높인 ‘V4.1 플래시’ 업데이트…검색 API도 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216370",
+      "date": "2026-10-18",
+      "summary": "딥시크가 코딩과 에이전트 성능을 높이면서 작업 시간과 출력 분량을 줄인 AI 모델을 공개했다. API 이용 단가는 유지하고 작업에 필요한 토큰을 줄여, 실제 사용 비용을 낮추는 데 초점을 맞췄다. 자체 평가에서는 일부 소프트웨어 개발·자동화 작업에서 오픈AI와 앤트로픽 모델을 앞선 결과가 나왔다.‘딥시크 V4.1-플래시-1017(DeepSeek-V4.1-Flash-1017)’이 17일 출시됐다. 지난달 선보인 V4.1 플래시의 업데이트로, 웹사이트와 앱, API에 적용했다. 회사는 “이전 버전보다 벤치마크 성능은 높이고, 작업 완료",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "SDK/API"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "2954499e668f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "카타르 재생에너지 비중 2035년 25.9% 전망…태양광이 성장 주도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216312",
+      "date": "2026-10-18",
+      "summary": "카타르의 전체 발전설비에서 재생에너지가 차지하는 비중이 2025년 12%에서 2035년 25.9%로 두 배 이상 높아질 것이라는 전망이 나왔다. 태양광이 성장을 주도하지만 천연가스 발전도 2035년 전체 설비용량의 약 74%를 차지해 전력 공급의 중심으로 남을 것으로 분석됐다.시장조사 전문 글로벌데이터는 12일(현지시간) ‘카타르 전력시장 동향 및 분석’ 보고서를 통해 카타르의 전체 발전설비용량이 2025년부터 2035년까지 연평균 4.2% 증가할 것으로 전망했다. 같은 기간 태양광 발전설비는 연평균 12.4% 성장해 재생에너지 확",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "cc90b0f95c02",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "독일 태양광, 1~9월 12.76GW 신규 가동…2026년 목표 이미 넘어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216311",
+      "date": "2026-10-18",
+      "summary": "독일에서 올해 1월부터 9월까지 12.76기가와트(GW) 규모의 태양광 설비가 새로 가동됐다. 폐쇄된 설비를 제외한 순증 용량은 약 12.63GW로, 9월 말 전체 태양광 설비용량은 130.7GW까지 늘었다. 독일 재생에너지법(EEG)이 제시한 2026년 목표 128GW도 이미 넘어섰다.독일 연방네트워크청은 지난 13일(현지시간) 시장마스터데이터등록부(MaStR)를 집계한 ‘2026년 9월 재생에너지 발전설비 통계’를 공개했다.통계는 발전사업자가 등록한 설비의 가동·폐쇄 자료를 기반으로 하며 지원 여부와 관계없이 재생에너지 설비를",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "9f9ae674bc05",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "브라질 대선, 태양광 확대 놓고 룰라·보우소나루 정책 경쟁",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216310",
+      "date": "2026-10-18",
+      "summary": "브라질 대선 결선에 오른 루이스 이나시우 룰라 다 시우바 대통령과 플라비우 보우소나루 자유당(PL) 후보가 모두 태양광을 포함한 재생에너지와 에너지저장장치 확대를 에너지 정책에 담았다. 두 후보 모두 전기요금 인하를 과제로 제시했지만 저장장치와 데이터센터, 전력시장 정책에서는 접근 방식에 차이를 보였다. 브라질 대선 결선투표는 오는 25일(현지시간) 실시된다.브라질 최고선거법원(TSE)에 등록된 플라비우 보우소나루 후보의 정부계획은 전력망을 확대·현대화해 신규 재생에너지를 계통에 통합하고 송전 혼잡을 줄이겠다는 내용을 담았다. 전기",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
       "id": "dc4c4d427c13",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -211,6 +328,180 @@
       "summary": "최근 며칠 동안 글로벌 증시에서 AI 관련 주식이 급락했습니다. 엔비디아를 비롯한 반도체 기업들이 직격탄을 맞았고, 미국 반도체 기업들의 시가총액은 최근 매도세로 최대 2조달러(약 2800조원)가 사라질 것으로 예상됐습니다. AI 투자 열풍의 최대 수혜주들이 한꺼번에 매도 대상이 된 것입니다.그런데 AI 수요가 줄어서 생긴 문제가 아니라는 것이 주목됩니다. 예를 들어 세계 최대 반도체 위탁생산업체 TSMC는 AI 칩 수요에 힘입어 6분기 연속 사상 최고 실적을 기록했습니다. AI 데이터센터 기업들도 수년 치 계약을 확보하고 있습니다",
       "keywords": [],
       "first_seen": "2026-10-17"
+    },
+    {
+      "id": "dc44a51ff91d",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "date": "2026-10-17",
+      "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and ga",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "24a6bb2519a4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "date": "2026-10-17",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "4fa3af691420",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "date": "2026-10-17",
+      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "c2a828c7429b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "date": "2026-10-17",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "5329074f8958",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "date": "2026-10-17",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "keywords": [
+        "Automation",
+        "Claude"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "6c8620aebf62",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "date": "2026-10-17",
+      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "9e26b0ce6b2a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+      "date": "2026-10-17",
+      "summary": "■ 블랙포레스트랩스, 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인’ 가중치 공개블랙포레스트랩스(BFL)가 56억개의 매개변수를 갖춘 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인(FLUX 3 Image Klein)’의 가중치를 공개했다. 최대 10장의 참조 이미지와 4K 이미지 생성을 지원하며, 특정 영역만 선택해 수정하거나 원하는 위치에 요소를 배치할 수 있다. 개인과 연 매출 500만달러 미만 기업에는 무료 상업적 이용을 허용하며, 그 이상 기업은 별도 계약이나 API를 이용해야 한다.FLUX 3 Image Klein",
+      "keywords": [
+        "Image AI",
+        "SDK/API"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "ded338c4e448",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+      "date": "2026-10-17",
+      "summary": "AI로 소프트웨어를 만드는 작업이 쉬워지면서, 결과물이 실제로 제대로 작동하는지 검증하는 문제가 부각되고 있다. AI 코딩 서비스 업체 레플릿도 외부 업체의 상용 테스트 플랫폼을 활용하는 것으로 알려졌다. 기업용 에이전트에 이어 AI 코딩 분야에서도 LLM에만 의존하지 않고 별도의 통제·검증 장치를 결합하는 움직임이 나타나고 있다.디 인포메이션은 15일(현지시간) 레플릿을 비롯한 기업들이 네트워크 장애 등 다양한 상황에서 소프트웨어의 작동을 확인하기 위해 시뮬레이션 도구를 사용하고 있다고 보도했다.루이스 차베스 레플릿 최고 기술책임",
+      "keywords": [
+        "AI Agent",
+        "LLM"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "bf5047aa6f9f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+      "date": "2026-10-17",
+      "summary": "오픈AI 직원의 회의실 도청 혐의 사건을 계기로 미국 AI 기업을 겨냥한 첩보 활동에 대한 우려가 커지고 있다. 미국 정보당국은 AI 기밀 보호를 국가 경쟁력과 안보의 문제로 강조했으며, 주요 AI 기업들은 사건 이전부터 직원들에게 금전적 제안은 물론 일상적인 대화와 연애를 통한 정보 수집까지 경계하도록 교육해 온 것으로 드러났다.CNBC는 16일(현지시간) 제이 클레이튼 미국 국가정보국장이 오픈AI 사건과 관련해 미국 기업과 정부 모두 외국의 정보 수집 활동을 경계해야 한다고 밝혔다고 보도했다.클레이튼 국장은 인터뷰에서 “기업 차",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "13e6a74e930c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+      "date": "2026-10-17",
+      "summary": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과정에서는 전문가가 작성한 기준 답안의 오류까지 확인됐다.인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대학교, 구글 딥마인드 등 연구진 35명은 지난 9일 아카이브를 통해 이론물리 평가 벤치마크 ‘시오피즈이밸(TheoPhysEval)’과 이를 활용한 평가 결과를 담은 논문을 공개했다.이 벤치마크는 AI 에이전트가 실제",
+      "keywords": [
+        "AI Agent",
+        "GPT"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "43b8382eb03e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+      "date": "2026-10-17",
+      "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때문이다. 이번 주장이 AI 안전성 연구의 판도를 바꿀 획기적인 전환점인지, 아니면 단순한 부분적 진전에 불과한지를 두고 전문가들의 평가가 엇갈리고 있다.비즈니스인사이더 등에 따르면, 15일(현지시간) 전 오픈AI 연구원 닉 카마라타가 공개한 에세이 ‘신경망은 이미 정돈돼 있다(Neural Networks Are Already Clean)’",
+      "keywords": [],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "b5037f1cf9eb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+      "date": "2026-10-17",
+      "summary": "오픈AI가 '챗GPT'와 구글 크롬 브라우저의 통합을 강화했다. 챗GPT가 사용자가 열어 둔 여러 탭의 정보를 한꺼번에 분석하는 것은 물론, 탭을 직접 제어해 양식 작성이나 자료 정리 같은 작업도 수행할 수 있게 됐다.오픈AI는 15일(현지시간) X를 통해 크롬용 챗GPT 확장 프로그램의 개선 사항을 공개했다. 업데이트된 확장 프로그램은 브라우저에서 열린 탭의 내용을 활용해 질문에 답하고, 사용자의 요청에 따라 해당 탭에서 작업을 진행할 수 있다.이 기능은 크롬에 설치하는 확장 프로그램을 통해 제공된다. 사용자는 크롬 웹 스토어에서",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-10-18"
+    },
+    {
+      "id": "7a7b28a36237",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216363",
+      "date": "2026-10-17",
+      "summary": "AI타임스와 이스트에이드의 10월 둘째 주(10월9일~15일) 이슈 분석 결과, 코스피 급락을 포함한 증시 이슈와 쿠팡 서비스 장애, 인천 흉기 난동 등이 상위권을 차지했다.이번 주 검색량 1위는 '코스피 6400선 붕괴(5.00%)'가 차지했다. 코스피는 외국인 매도와 반도체주 약세로 연속 하락했으며, 특히 지난 15일에는 장중 8% 넘게 급락해 서킷브레이커가 발동되기도 했다.이후 소폭 반등해 5668에 장을 마감했지만, 연이은 하락으로 빚을 내 주식에 투자했다가 강제 처분된 반대매매 규모는 3000억원에 육박한 것으로 집계됐다.",
+      "keywords": [],
+      "first_seen": "2026-10-18"
     },
     {
       "id": "bf51e8166946",
@@ -777,6 +1068,20 @@
       "summary": "중앙 DW Airflow를 멈추지 않고 도메인별 DW로 나눈 9개월",
       "keywords": [],
       "first_seen": "2026-10-17"
+    },
+    {
+      "id": "570b98dc3ba2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "date": "2026-10-16",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-10-18"
     },
     {
       "id": "7624c31011dc",
@@ -96499,11 +96804,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-07-20",
-      "added": 24,
-      "total": 2868
-    },
-    {
       "date": "2026-07-21",
       "added": 52,
       "total": 2920
@@ -96947,6 +97247,11 @@
       "date": "2026-10-17",
       "added": 50,
       "total": 7237
+    },
+    {
+      "date": "2026-10-18",
+      "added": 23,
+      "total": 7260
     }
   ],
   "sources": {},
@@ -97094,39 +97399,39 @@
     {
       "week": "2026-W42",
       "keywords": {
-        "AI Agent": 50,
-        "Automation": 29,
-        "Security": 26,
-        "SDK/API": 14,
-        "GPT": 14,
-        "Coding": 14,
-        "LLM": 12,
+        "AI Agent": 54,
+        "Automation": 32,
+        "Security": 27,
+        "SDK/API": 17,
+        "GPT": 16,
+        "Coding": 15,
+        "LLM": 13,
         "Deployment": 11,
-        "Gemini": 8,
         "Robotics": 8,
-        "Cloud/DevOps": 7,
+        "Gemini": 8,
+        "Claude": 8,
         "Open Source": 7,
+        "Cloud/DevOps": 7,
         "Optimization": 6,
-        "Enterprise AI": 6,
-        "Claude": 6
+        "Enterprise AI": 6
       }
     }
   ],
   "source_stats": {
-    "huggingface": {
-      "total": 164,
-      "recent_7d": 8,
-      "recent_30d": 19
-    },
     "techcrunch": {
-      "total": 2107,
-      "recent_7d": 118,
-      "recent_30d": 267
+      "total": 2112,
+      "recent_7d": 104,
+      "recent_30d": 272
     },
     "aitimes": {
-      "total": 3612,
+      "total": 3628,
       "recent_7d": 198,
-      "recent_30d": 423
+      "recent_30d": 439
+    },
+    "huggingface": {
+      "total": 164,
+      "recent_7d": 7,
+      "recent_30d": 19
     },
     "toss": {
       "total": 73,
@@ -97139,9 +97444,14 @@
       "recent_30d": 2
     },
     "openai": {
-      "total": 293,
-      "recent_7d": 13,
-      "recent_30d": 34
+      "total": 294,
+      "recent_7d": 12,
+      "recent_30d": 35
+    },
+    "aws_ml": {
+      "total": 458,
+      "recent_7d": 17,
+      "recent_30d": 52
     },
     "deepmind": {
       "total": 74,
@@ -97153,15 +97463,10 @@
       "recent_7d": 7,
       "recent_30d": 8
     },
-    "aws_ml": {
-      "total": 458,
-      "recent_7d": 19,
-      "recent_30d": 52
-    },
     "nvidia_ai": {
-      "total": 168,
-      "recent_7d": 10,
-      "recent_30d": 21
+      "total": 169,
+      "recent_7d": 11,
+      "recent_30d": 22
     },
     "google_ai": {
       "total": 72,
@@ -97184,6 +97489,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-10-17",
-  "total_articles": 7237
+  "last_updated": "2026-10-18",
+  "total_articles": 7260
 }
