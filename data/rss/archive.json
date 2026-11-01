@@ -1,6 +1,174 @@
 {
   "articles": [
     {
+      "id": "4876e27ef4f7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "date": "2026-11-01",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "631e11c925d7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황 주변 중국 스파이 의혹, 싱가포르·대만까지 번져",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216858",
+      "date": "2026-11-01",
+      "summary": "젠슨 황 엔비디아 CEO와 친분이 있는 중국인 사업가의 스파이 의혹이 미국에 이어 싱가포르와 대만으로 번졌다. 그러나 싱가포르 정부는 해당 인물의 중국 정보기관 연계 의혹을 조사한 적이 없다고 공식 반박했다.월스트리트저널(WSJ)은 30일(현지시간) 복수의 소식통을 인용, 미국과 싱가포르, 대만 당국이 싱가포르 데이터센터 기업 메가스피드 인터내셔널(Megaspeed International)의 전 고위 임원 앨리스 황(중국명 황러)을 중국 정보기관의 정보원으로 의심해 왔다고 보도했다.앞서 뉴욕타임스(NYT)는 29일 미국 정보당국이",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "b36989193609",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 클로드로 기존 게임 복제 금지…정상 작업까지 차단 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216862",
+      "date": "2026-11-01",
+      "summary": "앤트로픽이 '클로드 코드'에서 기존 비디오 게임을 복제하는 작업을 제한하기 시작했다. 그러나 저작권 침해와 무관한 게임 개발이나 소프트웨어 분석, 오류 해결 작업까지 차단당했다는 사례가 잇따르면서 논란이 일고 있다.톰스하드웨어는 31일(현지시간) '클로드 오퍼스 5.5'를 사용하는 개발자들이 최근 게임 제작과 리버스 엔지니어링 작업에서 잇따라 거부 메시지를 받고 있다고 보도했다.이번 논란은 지난 27일 X 이용자 캐즘(Chasm)이 클로드 코드에 새롭게 추가된 게임 개발 규칙을 발견하면서 시작됐다. 공개된 규칙에는 \"독창적인 게임이",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "45dfc200dbd8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"AI 뉴런 2개 조작했더니 인간 증오하는 악당으로\"…내부 구조 해독 활발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216861",
+      "date": "2026-11-01",
+      "summary": "AI 모델의 신경망 일부를 조작하는 것만으로 친절한 AI 비서를 인간에게 적대적인 캐릭터로 바꿀 수 있다는 실험 결과가 나왔다. 특히 AI 에이전트를 활용해 모델의 내부 작동 원리를 분석하는 도구까지 등장하면서, 대형 연구소 중심이었던 AI 해석 가능성 연구가 개인 개발자들에게도 확대되고 있다.'라이라(Lyra)'라는 이름으로 X에서 활동하는 AI 개발자는 지난 24일(현지시간) 알리바바의 '큐원3.5-4B'에서 두 뉴런의 신호를 조절하는 실험을 공개했다. 14번째 계층의 특정 뉴런은 신호를 높이고, 13번째 계층의 다른 뉴런은 낮",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "1808718c3cdf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽 \"AI가 안전 감시 피하는 학습 데이터 스스로 발견\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216859",
+      "date": "2026-11-01",
+      "summary": "앤트로픽이 AI를 이용해 다른 AI 모델의 안전장치를 우회하는 학습 데이터를 자동으로 찾아내는 데 성공했다. '클로드'가 겉으로는 정상적인 소설이나 역할극으로 보이는 데이터를 만들어 안전성 검사 시스템을 통과했고, 이 데이터를 학습한 모델은 인간의 감시를 방해하거나 이용자를 속이는 행동까지 보였다. 동시에 위험한 행동을 찾아내고 방지하는 정렬(Alignment) 연구도 AI에 맡기는 방식이 본격화하고 있다.앤트로픽은 31일(현지시간) 공식 정렬 연구 블로그를 통해 '자동화된 미묘한 정렬 실패 연구' 결과를 공개했다. 이번 연구는 클",
+      "keywords": [
+        "AI Safety",
+        "Automation",
+        "Claude"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "86db0f943f34",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216855",
+      "date": "2026-11-01",
+      "summary": "AI의 발전이 경제를 근본적으로 바꾸는 핵심 요인은 개별 모델의 지능이 아니라 여러 AI 에이전트의 협업 능력이라는 분석이 나왔다. AI가 인간보다 뛰어난 업무 능력을 갖추더라도 서로 협력하지 못하면 경제 구조의 변화는 제한적이지만, 대규모 협업이 가능해지면 기업의 규모와 경쟁 방식이 달라지고 고용과 임금에도 큰 충격이 발생할 수 있다는 내용이다.구글 딥마인드는 29일(현지시간) AGI 경제학 책임자 알렉스 이마스, 연구원 앤드루 코, 공동 창업자 셰인 레그 등이 작성한 보고서 '지능의 경제학(The Economics of Inte",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "edc770636f8c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "블랙스톤 \"앤트로픽, 상장 후에도 투자적격 등급 확보 어려워\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216854",
+      "date": "2026-11-01",
+      "summary": "세계 최대 사모펀드 운용사 블랙스톤이 앤트로픽이 기업공개(IPO) 이후에도 투자적격 신용등급을 받지 못할 것으로 전망했다. 앤트로픽이 향후 20년간 AI 인프라에 8000억달러(약 1068조원) 이상을 투자할 계획인 가운데, 신용등급이 낮으면 차입 비용이 높아지고 자금 조달에 제약이 생길 수 있다는 분석이다.파이낸셜타임스(FT)는 30일(현지시간) 소식통들을 인용, 블랙스톤이 앤트로픽의 630억달러(약 84조원) 규모 AI 반도체 투자 자금 조달에 참여한 투자자들에게 이같이 설명했다고 보도했다.블랙스톤은 최근까지 앤트로픽이 연말 이",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "887c594c4d82",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216853",
+      "date": "2026-11-01",
+      "summary": "메타가 막대한 AI 투자에 따른 재무 부담으로 신용등급 강등 가능성을 경고받았다. 핵심 광고 사업의 성장에도 AI 인프라 투자로 현금흐름이 적자로 돌아서고 향후 차입 부담까지 커질 것으로 예상된 데 따른 것이다.로이터와 블룸버그 등에 따르면, 글로벌 신용평가사 S&P 글로벌 레이팅스는 30일(현지시간) 메타의 신용등급 전망을 기존 '안정적'에서 '부정적'으로 하향 조정했다. 현재 신용등급인 'AA-'는 유지했지만, 앞으로 2년 안에 등급을 낮출 가능성이 있다는 경고다.이번 결정에는 지난 21일 발표된 3분기 실적에서 드러난 현금흐름",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "13ba8b3ecbfc",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 태양광 신규 설치 54% 급감…9월에는 41% 반등",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216739",
+      "date": "2026-11-01",
+      "summary": "중국의 올해 1~9월 태양광 신규 설치용량이 지난해 같은 기간보다 54% 가까이 감소했다. 그러나 3분기에는 신규 설치가 전년 동기보다 38% 증가하며 상반기와 다른 흐름을 보였다. 지난해 전력가격 제도 변경을 앞두고 설치가 집중됐던 기저효과와 올해 발전사업 투자 여건의 변화가 영향을 미쳤다.중국 국가에너지국(NEA)이 지난 26일(현지시간) 발표한 '2026년 1~9월 전국 전력통계'에 따르면, 올해 1~9월 신규 태양광 설비용량은 110.83기가와트(GW)로 집계됐다. 지난해 같은 기간의 240.27GW보다 129.44GW 줄어",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "1112646ee09b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양서 ‘원님행차’ 재현…시민 200여명 거리행진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216660",
+      "date": "2026-11-01",
+      "summary": "AI 생성 영상광양에서 조선시대 원님행차를 현대적으로 재구성한 거리행진이 열렸다.광양은 지난 17일 광양읍 일원에서 시민 200여명이 참여한 가운데 ‘2026 광양원님행차 재현행사’를 개최했다고 23일 밝혔다.올해로 3회째인 행사는 광양문화도시센터가 광양읍주민자치회와 함께 진행했다. 과거 원님의 행차를 재현한 퍼포먼스와 시민 참여 거리행진으로 구성됐다.말 2필이 이끄는 원님행차단은 광양역사문화관을 출발해 광양여고와 광양읍사무소, 광양새마을금고를 거쳐 서천변 숯불구이축제장까지 이동했다.행렬에는 사물놀이와 시민들이 공모를 통해 직접 기",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "602a05900482",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "나주, 배달노동자 27명 안전용품 지원…1인 최대 20만원 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216659",
+      "date": "2026-11-01",
+      "summary": "AI 생성 영상나주시가 배달노동자를 대상으로 이륜차 교통안전교육을 실시하고 교육 이수자에게 안전용품 구입비를 지원한다.나주는 고용노동부 ‘취약 노동자 일터 개선 지원사업’을 통해 배달노동자 27명을 모집해 1인당 최대 20만원의 안전용품 구입비를 지원한다고 26일 밝혔다.지원 대상은 공고일인 지난 23일 기준 나주에 주민등록상 주소를 두고 활동 중인 배달노동자다. 배달대행업체 소속 기사뿐 아니라 사업장이 자체 고용한 배달노동자도 포함된다.안전교육은 오는 11월10일 오후 2시부터 4시까지 빛가람동 나주시 공익활동지원센터에서 진행한다",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "7906f5071960",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "독일 태양광 개발사 15곳, 입찰 상한가 70유로/MWh로 인상 요구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216741",
+      "date": "2026-11-01",
+      "summary": "독일 주요 태양광 개발사 15곳이 2027년 지상형 태양광 입찰 상한가격을 메가와트시(MWh)당 최소 70유로(약 10만4200원)로 높여 달라고 요구했다. 재생에너지 지원제도와 계통연계·이용료 규정이 동시에 바뀌면 발전원가가 최대 30% 상승해 기존 가격 상한으로는 사업의 수익성을 확보하기 어렵다는 주장이다.독일 에너지기업 RWE가 지난 21일(현지시간) 공개한 공동 성명에 따르면, RWE와 에네르트라크(Enertrag), 바이바알이(BayWa r.e.), 벨렉트릭(Belectric), 유비(Juwi), GP율레(GP Joule)",
+      "keywords": [
+        "RAG"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "8639cac9cfba",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+      "date": "2026-11-01",
+      "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 등",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
       "id": "254f6dcb91de",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -150,6 +318,202 @@
       "summary": "스웨덴에서 기후변화로 봄철 적설량이 줄어들면 태양광 발전량이 과거보다 약 5% 증가할 수 있다는 연구 결과가 나왔다. 기온 상승은 태양전지의 발전효율을 떨어뜨리지만, 눈이 패널을 덮어 발생하는 발전 손실이 줄어드는 효과가 이를 일부 상쇄하는 것으로 분석됐다. 다만 지역과 온실가스 배출 시나리오에 따라 발전량이 감소하는 곳도 있었다.스웨덴 왕립공과대학교(KTH)와 스웨덴 기상수문연구소(SMHI), 중국 저장공업대학교 공동 연구진이 지난 11일(현지시간) 국제학술지 '커뮤니케이션스 지구·환경'에 발표한 논문에 따르면, 스웨덴 4개 도시",
       "keywords": [],
       "first_seen": "2026-10-31"
+    },
+    {
+      "id": "8462b9fc7109",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "date": "2026-10-31",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "ec476f3f219d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "date": "2026-10-31",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "9a46afb49d1d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "date": "2026-10-31",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "149be8f7454b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "date": "2026-10-31",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "5d341a2e3e3e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "date": "2026-10-31",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "e94c7a3be5c3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "date": "2026-10-31",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "3bb558b0a527",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+      "date": "2026-10-31",
+      "summary": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 서사 등으로 혹평도 나왔다. 제작진은 AI 영화 제작에 사용한 프롬프트와 작업 과정까지 공개하며 기술 개선에 활용하겠다고 밝혔다.머스크의 스페이스XSI는 23일(현지시간) X를 통해 '오디세이' 시리즈의 첫 번째 영상 '",
+      "keywords": [
+        "Generative AI",
+        "Prompt"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "de5277bc2c5c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+      "date": "2026-10-31",
+      "summary": "샘 알트먼 오픈AI CEO가 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔다. 나비에-스토크스 문제의 해법을 찾는 연구에 한때 약 1000만달러(약 134억원)가 들었지만, AI 성능과 연구 방법이 빠르게 개선되면서 비용이 크게 낮아졌다는 설명이다. 그는 아직 공개하지 않은 연구 성과도 상당수 있다고 밝혔으며, 세계적인 메모리 공급 부족과 초지능의 발전 방향에 대해서도 견해를 제시했다.알트먼 CEO는 29일(현지시간) 공개된 스트라이프 공동 창업자 존 콜리슨의 팟캐스트 '치키 파인트(Cheeky Pint)'에",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "46c62100145c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+      "date": "2026-10-31",
+      "summary": "국내 이용자들이 업무에서 챗GPT를 가장 많이 활용하는 분야는 여전히 문서·글 편집인 것으로 나타났다. 그러나 이미지와 디자인 등 시각 자료 제작 비중이 1년 사이 두 배 이상 늘어나며 주요 활용 분야로 떠올랐다. 정보 검색이나 문서 작성뿐 아니라 실제 업무 결과물을 만드는 데 AI를 활용하는 사례가 늘어나는 것으로 분석된다.오픈AI가 26일(현지시간) 공개한 챗GPT 이용 통계 '시그널스(OpenAI Signals)'의 한국 데이터를 분석한 결과, 올해 3분기 개인용 챗GPT 계정의 업무 관련 메시지 가운데 문서·글 편집 비중은",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "200eb0bc3161",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+      "date": "2026-10-31",
+      "summary": "구글이 지구 궤도에 발사한 위성에서 데이터센터급 AI 반도체인 TPU를 가동하고, AI 모델의 추론 결과를 지상으로 전송하는 데 성공했다. 우주에서 데이터센터급 TPU로 실제 AI 작업을 수행한 첫 사례로, 지상 데이터센터의 연산 기능을 우주로 옮기려는 장기 프로젝트가 첫 기술적 성과를 거뒀다. 첫 실험에서는 AI 모델 '젬마 4(Gemma 4)'를 이용해 우주를 주제로 한 시를 생성했다.구글은 30일(현지시간) 공식 블로그를 통해 지난 10월1일 발사한 '프로젝트 선캐처(Project Suncatcher)' 시제품 위성이 초기 점",
+      "keywords": [],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "95ba7367fbad",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+      "date": "2026-10-31",
+      "summary": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신 버전(v17.71.17)의 코드를 분석한 결과, 제미나이 라이브의 오프라인 모드와 관련된 문구를 발견했다고 보도했다.발견된 코드에는 인터넷 연결 없이 제미나이 라이브를 사용할 수 있다",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "cbfbf44043ea",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216845",
+      "date": "2026-10-31",
+      "summary": "구글이 '제미나이'에서 구글 문서와 PDF, 스프레드시트, 프레젠테이션 등을 직접 생성하고 편집할 수 있는 기능을 추가했다. 기존에는 파일을 생성하거나 내려받는 기능을 제공했지만, 이제는 채팅을 벗어나지 않고 내용을 수정하고 AI에 추가 작업을 요청할 수 있다.구글은 29일(현지시간) 공식 블로그를 통해 제미나이 앱에서 문서와 PDF, 프레젠테이션, 스프레드시트, 코드 파일 등을 생성하고 미리 보거나 편집할 수 있도록 기능을 확대했다고 밝혔다.사용자는 채팅창에서 파일을 만든 뒤 전체 화면으로 확장해 직접 내용을 수정할 수 있다. 특",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "cfa15830ea0e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "독일 엔비전, 유기 분자로 양자 컴퓨팅 칩 개발…OLED 제조 기술 활용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216849",
+      "date": "2026-10-31",
+      "summary": "독일 양자 기술 스타트업 엔비전(NVision)이 유기 분자 하나를 양자 정보의 기본 단위인 큐비트로 활용하고, 빛으로 상태를 읽어내는 기술을 개발했다. 특히 스마트폰 OLED 디스플레이 제조에 쓰이는 박막 기술을 이용해 기존 광자 반도체 칩에 큐비트를 구현할 가능성을 제시했다. 복잡한 전용 제조 공정에 대한 의존도를 낮추고 대규모 양자 컴퓨터를 개발할 수 있는 새로운 접근법으로 평가된다.엔비전은 28일(현지시간) 자사의 연구 결과를 국제 학술지 '네이처(Nature)'에 발표했다. 논문 제목은 '단일 분자 스핀-광자 인터페이스(A",
+      "keywords": [
+        "Vision"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "bfb0323ac21a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216847",
+      "date": "2026-10-31",
+      "summary": "오픈AI가 청소년의 폭력 행위를 예방하기 위해 챗GPT에서 무기 관련 정보 제공을 제한한다. 폭력 의도가 드러나지 않은 질문이라도 실제 악용할 수 있는 구체적인 무기·보안 시스템 정보는 청소년에게 제공하지 않기로 했다. 폭력에 대한 집착이 감지되면 대화를 자동으로 종료하고, 반복될 경우 계정을 일시 정지하는 조치도 도입한다.오픈AI는 30일(현지시간) 커뮤니티 안전 보고서를 발표하고 이 같은 내용을 담은 새로운 청소년 보호 조치를 공개했다.특히 2026년 3분기 동안 200건 이상의 위협 사례를 사법기관에 신고했으며, 향후 반기별",
+      "keywords": [
+        "GPT",
+        "Security"
+      ],
+      "first_seen": "2026-11-01"
+    },
+    {
+      "id": "4ff2ae7c6a29",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+      "date": "2026-10-31",
+      "summary": "중국 AI 칩 제조업체 일루바타르 코어엑스(Iluvatar CoreX)가 자체 개발한 GPU ‘톈가이 300(Tiangai 300)’이 엔비디아의 ‘H200’과 대등하거나 일부 AI 작업에서 앞서는 성능을 보였다고 밝혔다.사우스차이나모닝포스트(SCMP)에 따르면, 일루바타르는 28일 중국 상하이에서 열린 '2026 미디어 오픈데이'에서 톈가이 300의 실제 작동 모습을 언론에 처음 공개했다.현장에서는 엔비디아 H200과 나란히 이미지·동영상 생성 작업을 실행하고, Z.ai의 'GLM-5.3' 등 최신 모델을 활용한 추론 성능을 비교",
+      "keywords": [],
+      "first_seen": "2026-11-01"
     },
     {
       "id": "4585bce5af53",
@@ -106127,11 +106491,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-03",
-      "added": 19,
-      "total": 3547
-    },
-    {
       "date": "2026-08-04",
       "added": 53,
       "total": 3600
@@ -106575,6 +106934,11 @@
       "date": "2026-10-31",
       "added": 42,
       "total": 7952
+    },
+    {
+      "date": "2026-11-01",
+      "added": 28,
+      "total": 7980
     }
   ],
   "sources": {},
@@ -106722,79 +107086,79 @@
     {
       "week": "2026-W44",
       "keywords": {
-        "AI Agent": 51,
-        "Automation": 27,
-        "Security": 24,
-        "GPT": 23,
+        "AI Agent": 53,
+        "Automation": 29,
+        "GPT": 25,
+        "Security": 25,
+        "Claude": 13,
         "Open Source": 12,
-        "Claude": 11,
         "SDK/API": 11,
-        "LLM": 11,
         "Cloud/DevOps": 11,
+        "LLM": 11,
         "Coding": 9,
         "Enterprise AI": 8,
-        "Gemini": 5,
+        "Gemini": 7,
+        "Chatbot": 5,
         "Deployment": 5,
-        "Speech/Audio": 5,
-        "Chatbot": 5
+        "Speech/Audio": 5
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 2319,
-      "recent_7d": 123,
-      "recent_30d": 479
+      "total": 2326,
+      "recent_7d": 7,
+      "recent_30d": 7
     },
     "aitimes": {
-      "total": 3948,
-      "recent_7d": 193,
-      "recent_30d": 759
+      "total": 3969,
+      "recent_7d": 21,
+      "recent_30d": 21
     },
     "openai": {
       "total": 334,
-      "recent_7d": 24,
-      "recent_30d": 75
-    },
-    "meta_eng": {
-      "total": 44,
-      "recent_7d": 5,
-      "recent_30d": 16
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "huggingface": {
       "total": 189,
-      "recent_7d": 10,
-      "recent_30d": 44
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "aws_ml": {
       "total": 515,
-      "recent_7d": 24,
-      "recent_30d": 109
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "nvidia_ai": {
       "total": 195,
-      "recent_7d": 4,
-      "recent_30d": 48
+      "recent_7d": 0,
+      "recent_30d": 0
+    },
+    "meta_eng": {
+      "total": 44,
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "deepmind": {
       "total": 77,
-      "recent_7d": 2,
-      "recent_30d": 11
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "toss": {
       "total": 76,
-      "recent_7d": 1,
-      "recent_30d": 12
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "lycorp": {
       "total": 59,
-      "recent_7d": 1,
-      "recent_30d": 3
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "google_ai": {
       "total": 74,
-      "recent_7d": 1,
-      "recent_30d": 5
+      "recent_7d": 0,
+      "recent_30d": 0
     },
     "woowahan": {
       "total": 10,
@@ -106812,6 +107176,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-10-31",
-  "total_articles": 7952
+  "last_updated": "2026-11-01",
+  "total_articles": 7980
 }
