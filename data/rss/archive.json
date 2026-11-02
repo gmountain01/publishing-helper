@@ -1,6 +1,113 @@
 {
   "articles": [
     {
+      "id": "bd3abffa9691",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "date": "2026-11-02",
+      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "00f4dc7c56b0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, '제미나이 4 카본' 공개 사흘 만에 개선판 포착…3D 성능 호평",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216888",
+      "date": "2026-11-02",
+      "summary": "구글이 '제미나이 4 카본'의 새로운 체크포인트를 AI 모델 성능 평가 플랫폼 아레나(Arena)에서 테스트하고 있는 것으로 나타났다. 초기 버전보다 응답 속도와 코딩 성능이 개선됐으며, 특히 3D 모델링과 디자인 작업에서 두드러진 발전을 보인 것으로 평가됐다.1일(현지시간) 테스팅카탈로그에 따르면, 아레나에서는 '아르곤(Argon) 4'라는 이름으로 '카본-H(Carbon-H)' 빌드가 제공되고 있다.이는 지난달 28일 사이버 보안 전문가를 위한 제미나이 4 카본을 공개한 지 불과 사흘 만이다. 이 모델은 현재 일부 보안 전문가에",
+      "keywords": [
+        "Gemini",
+        "Security"
+      ],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "868a378770db",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "LG CNS, 국내 최초 인도네시아에 30MW급 AIDC 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216887",
+      "date": "2026-11-02",
+      "summary": "LG CNS가 국내 기업 최초로 해외 AI 데이터센터 구축을 완료하며 글로벌 시장 공략에 나섰다.LG CNS(대표 현신균)는 인도네시아 자카르타에 30메가와트(MW)급 하이퍼스케일 AI 데이터센터 구축을 완료했다고 2일 밝혔다.이번 사업은 인도네시아 시나르마스 그룹과 한국투자리얼에셋운용의 합작법인 KMG가 지난해 발주했다. LG CNS는 완공 전 전체 수용 용량에 해당하는 고객 확보도 마쳤다.데이터센터는 공랭식과 액체냉각을 함께 적용하는 하이브리드 냉각 구조로 설계됐다. 1단계에는 공랭식 냉각 시스템을 적용했으며 후속 단계에서 액체",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "c864d05c10d0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미소스 5.5·GPT-6.2 아스트라 잇달아 포착…최첨단 모델 출시설",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216894",
+      "date": "2026-11-02",
+      "summary": "앤트로픽과 오픈AI가 차세대 첨단 AI 모델 출시를 준비하고 있다는 정황이 잇따라 포착됐다. 두 회사 모두 기존 주요 모델을 공개한 지 약 두 달밖에 지나지 않은 가운데 새로운 모델의 이름이 등장하면서, 최첨단 AI 모델의 교체 주기에도 관심이 쏠리고 있다.테스팅카탈로그는 1일(현지시간) 앤트로픽의 공식 웹사이트에서 '클로드 미소스 5.5'라는 모델 이름이 발견됐다고 소개했다.모델명은 앤트로픽의 미소스 소개 페이지에 포함된 HTML 코드에서 여섯 차례 등장한 것으로 전해졌다. 일반 이용자에게 표시되는 화면에는 여전히 기존 '미소스",
+      "keywords": [
+        "Claude",
+        "GPT"
+      ],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "09f36e98538a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥브레인AI, 삼성화재에 보험설계사용 AI 실전 상담훈련 시스템 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216880",
+      "date": "2026-11-02",
+      "summary": "딥브레인AI(대표 장세영)는 삼성화재 보험설계사(RC)의 상담역량 강화를 위한 AI 휴먼 기반 실전 상담훈련 시스템을 구축했다고 2일 밝혔다.딥브레인AI는 삼성화재가 지난달 26일 도입한 AI 영업지원 시스템 ‘AI 어드바이저(AI Advisor)’에 AI 롤플레이와 화법 학습 기능을 적용했다. 이를 통해 설계사가 실제 고객을 만나기 전 다양한 상담 상황을 경험하고, 고객응대 능력을 체계적으로 갖출 수 있는 훈련 환경을 마련했다.AI 롤플레이는 딥브레인AI의 AI 휴먼 기술을 활용해 실제 고객을 응대하는 것과 유사한 상담 환경을 구",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "5b65f6d390fe",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "크래프톤, 사회적 지능 갖춘 로봇 AI ‘루디 0.2’ 공개..팔로알토 연구소 개소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216886",
+      "date": "2026-11-02",
+      "summary": "크래프톤(대표 김창한)의 로보틱스 연구법인 루도 로보틱스(Ludo Robotics)가 사람과 소통하며 협력하는 로봇용 AI 시스템 ‘루디 0.2(Ludi 0.2)’를 공개했다.최근 미국 UC 버클리에서 열린 로보틱스 학술 행사 ‘2026 베이지역 로보틱스 심포지엄’에서 공개된 루디 0.2는 지난 8월 공개한 ‘루디 0.1’의 후속 버전으로, 사람의 의도를 이해하고 상황 변화에 맞춰 반응하는 능력을 높였다.로봇의 ‘사회적 지능(Social Intelligence)’에 초점을 맞추고 있는 루도 로보틱스는 사람의 의도를 이해하고 변화하는",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "2a0a06132a42",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "위밋모빌리티, AI 물류 솔루션 ‘루티’로 과학기술혁신대상 은상 수상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216892",
+      "date": "2026-11-02",
+      "summary": "위밋모빌리티(대표 강귀선)가 AI 기반 물류 최적화 시스템 ‘루티(ROOUTY)’를 통해 제20회 과학기술혁신대상 모빌리티·물류·유통 분야 은상을 수상했다고 2일 밝혔다. 과학기술혁신대상은 한국정보과학진흥협회가 주최하고 과학기술정보통신부 등이 후원하는 시상식으로, AI와 과학기술을 활용해 성과를 낸 기업을 선정한다. 이번 2026년 행사에는 3개 부문 12개 분야에 총 93개 프로젝트가 출품돼 19개 프로젝트가 수상의 영예를 안았다.수상작인 루티는 차량 정보, 배송지, 운행 조건 등 데이터를 분석해 최적의 배차 계획과 이동 경로를",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "82bea14f11e2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+      "date": "2026-11-02",
+      "summary": "문제 해결을 위한 AI 에이전트 설계이선협 | 한빛미디어2026년 10월 30일추천이유이 책은 AI 에이전트가 정말 필요한지부터 시작해 문제를 분석하고 LLM과 코드의 역할을 나누는 설계 능력을 갖추도록 합니다. 저자는 프레임워크 없이 직접 구현한 다섯 가지 실제 예제를 통해 어떤 상황에서도 적용할 수 있는 오래가는 설계 감각을 전달합니다.상세보기 \"회사에서 AI 에이전트를 도입하자는데, 개발팀은 어디서부터 공부해야 하나요?\" 영풍문고 IT 매대 앞에서 이런 질문을 받는다면, 영풍문고 북마스터는 이번 주 한빛미디어가 오는 30일 펴",
+      "keywords": [
+        "AI Agent",
+        "LLM"
+      ],
+      "first_seen": "2026-11-02"
+    },
+    {
       "id": "4876e27ef4f7",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -167,6 +274,160 @@
       "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 등",
       "keywords": [],
       "first_seen": "2026-11-01"
+    },
+    {
+      "id": "cf5e1b5d84c4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "date": "2026-11-01",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "b3a6357c7fdd",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "date": "2026-11-01",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "164b9e817196",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "date": "2026-11-01",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "b8ce70dc3eb8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "date": "2026-11-01",
+      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "4d58d84f4f6a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "date": "2026-11-01",
+      "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "308d14e49d9d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "date": "2026-11-01",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "5458111b5837",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216865",
+      "date": "2026-11-01",
+      "summary": "딥시크가 여러 코딩 작업을 자동으로 관리하는 '슈퍼 에이전트'를 공개하며 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 추격에 나섰다. 지난 5월 전담팀 구성 이후 약 6개월 만에 자체 개발 도구와 팀 단위 업무 자동화 기술까지 선보였지만, 아직 연구용 프로토타입으로 실제 제품 경쟁력은 검증되지 않았다.딥시크 하네스 개발팀은 31일(현지시간) 공식 위챗 계정을 통해 '슈퍼 에이전트 설계 탐구: 더 자율적인 에이전트 시스템을 향해'라는 기술 문서를 발표했다. 이와 함께 새로운 구조를 구현한 'DSH 슈퍼에이전트(dsh-supera",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "Claude"
+      ],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "fc3dba68bf83",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216864",
+      "date": "2026-11-01",
+      "summary": "핀란드 경찰이 구글의 AI 데이터센터 건설 과정에서 환경영향평가를 마치기 전에 대규모 산림을 벌채한 의혹에 대해 형사 수사에 착수했다. 구글이 핀란드에 150억달러(약 21조원)를 투자하겠다고 발표한 지 두 달도 지나지 않아 대규모 산림 훼손과 전력 소비를 둘러싼 논란이 커지고 있다.로이터와 가디언 등은 29일(현지시간) 핀란드 경찰이 북부 무호스(Muhos)에 건설 중인 구글 데이터센터 부지에서 환경법 위반 혐의를 조사하기 시작했다고 보도했다. 수사 대상은 구글의 현지 자회사 투이케 핀란드(Tuike Finland)로, 경찰은 환",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "f11ba79d1672",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+      "date": "2026-11-01",
+      "summary": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 않고도 주요 출판사의 학습 자료를 활용해 시험 준비를 할 수 있게 됐다.구글은 29일(현지시간) X를 통해 오픈스택스(OpenStax), 오픈 텍스트북 라이브러리(Open Textbook Library), S 챈드 퍼블리싱(S Chand Publishing) 등이 발행한 수백 권의 교재를 노트북 서비스에 무상으로 제공한다고 밝혔다.국내 등",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "6d97ad60b184",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216856",
+      "date": "2026-11-01",
+      "summary": "오픈AI가 최근 기술주 하락과 AI 투자 열기 둔화 속에 신규 투자 유치 목표를 기존 300억달러(약 40조원)에서 200억달러(약 26조원)로 낮췄다. 목표 기업가치도 1조4000억달러(약 1866조원)에서 1조2500억달러(약 1666조원)로 하향 조정했다. 일부 투자자가 출자 규모를 줄이고 투자에 신중한 태도를 보이면서 당초 계획했던 자금 조달에 어려움을 겪는 모습이다.파이낸셜타임스(FT)는 31일(현지시간) 복수의 소식통을 인용, 오픈AI가 신규 투자 라운드의 목표액을 100억달러 줄인 200억달러로 조정했다고 보도했다. 이",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "ebffdea908ea",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MIT, AI 모델끼리 글 없이 소통하는 ‘스웜 텔레파시’ 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216860",
+      "date": "2026-11-01",
+      "summary": "MIT 연구진이 AI 모델끼리 텍스트를 주고받지 않고 내부 계산 정보를 직접 전달하는 기술을 개발했다. 서로 다른 기업이 만든 AI 모델 사이에서도 작동하며, 기존 텍스트 기반 소통보다 평균 정확도를 40% 높이고 처리 속도를 4배 단축했다. 연구진은 이 기술에 ‘스웜 텔레파시(SwaT·Swarm Telepathy)’라는 이름을 붙였다.MIT 컴퓨터과학·AI연구소(CSAIL)와 MIT-IBM 컴퓨팅 연구소 연구진은 최근 온라인 아카이브에 ‘스웜 텔레파시: 모델 계열 간 프리필 없는 KV 캐시 전송(Swarm Telepathy: Pr",
+      "keywords": [],
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "ecbc865525bb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216857",
+      "date": "2026-11-01",
+      "summary": "메타가 중국 로봇 스타트업 푸리에(Fourier)와 협력해 휴머노이드 로봇 시제품을 개발하고 2세대 모델 제작에 착수했다. 가사와 일상 업무를 돕는 가정용 로봇 시장 진출을 염두에 둔 움직임이다. 자체 AI 에이전트와 로봇 기술을 결합해 AI를 디지털 환경에서 물리적 세계로 확장하려는 전략으로 보인다.디 인포메이션은 31일(현지시간) 복수의 소식통을 인용, 메타가 푸리에와 함께 휴머노이드 로봇 시제품 '맥스(Max)'를 개발했다고 보도했다.48kg 무게의 이 로봇은 양사가 불과 3개월 만에 제작했으며, 메타는 이미 후속 모델인 '맥",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-02"
     },
     {
       "id": "254f6dcb91de",
@@ -106491,11 +106752,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-04",
-      "added": 53,
-      "total": 3600
-    },
-    {
       "date": "2026-08-05",
       "added": 62,
       "total": 3662
@@ -106939,30 +107195,15 @@
       "date": "2026-11-01",
       "added": 28,
       "total": 7980
+    },
+    {
+      "date": "2026-11-02",
+      "added": 20,
+      "total": 8000
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W37",
-      "keywords": {
-        "AI Agent": 49,
-        "Automation": 30,
-        "GPT": 26,
-        "Security": 26,
-        "SDK/API": 14,
-        "LLM": 12,
-        "Coding": 12,
-        "Claude": 10,
-        "Deployment": 10,
-        "Optimization": 9,
-        "AI Safety": 8,
-        "Robotics": 6,
-        "Chatbot": 6,
-        "RAG": 6,
-        "Gemini": 5
-      }
-    },
     {
       "week": "2026-W38",
       "keywords": {
@@ -107086,34 +107327,46 @@
     {
       "week": "2026-W44",
       "keywords": {
-        "AI Agent": 53,
-        "Automation": 29,
+        "AI Agent": 55,
+        "Automation": 31,
         "GPT": 25,
         "Security": 25,
-        "Claude": 13,
+        "Claude": 14,
         "Open Source": 12,
         "SDK/API": 11,
         "Cloud/DevOps": 11,
         "LLM": 11,
         "Coding": 9,
+        "Gemini": 8,
         "Enterprise AI": 8,
-        "Gemini": 7,
         "Chatbot": 5,
         "Deployment": 5,
         "Speech/Audio": 5
+      }
+    },
+    {
+      "week": "2026-W45",
+      "keywords": {
+        "Gemini": 1,
+        "Security": 1,
+        "Claude": 1,
+        "GPT": 1,
+        "Robotics": 1,
+        "AI Agent": 1,
+        "LLM": 1
       }
     }
   ],
   "source_stats": {
     "techcrunch": {
-      "total": 2326,
-      "recent_7d": 7,
-      "recent_30d": 7
+      "total": 2333,
+      "recent_7d": 14,
+      "recent_30d": 14
     },
     "aitimes": {
-      "total": 3969,
-      "recent_7d": 21,
-      "recent_30d": 21
+      "total": 3982,
+      "recent_7d": 34,
+      "recent_30d": 34
     },
     "openai": {
       "total": 334,
@@ -107176,6 +107429,6 @@
       "recent_30d": 0
     }
   },
-  "last_updated": "2026-11-01",
-  "total_articles": 7980
+  "last_updated": "2026-11-02",
+  "total_articles": 8000
 }
