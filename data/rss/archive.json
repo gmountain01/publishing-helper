@@ -1,6 +1,194 @@
 {
   "articles": [
     {
+      "id": "90126f8878b1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217397",
+      "date": "2026-11-14",
+      "summary": "딥시크와 문샷 AI 등 중국 주요 AI 기업들이 미국의 수출 통제를 받는 엔비디아 최신 '블랙웰' GPU를 AI 모델 개발에 사용한 정황이 발견됐다. 공개된 모델 가중치에서 블랙웰 특유의 숫자 배열을 찾아낸 것으로, 중국 기업들의 첨단 GPU 사용 의혹을 뒷받침하는 구체적인 기술적 증거가 제시됐다.비영리 연구단체 언엠플로이먼트 랩스(Unemployment Labs)의 윌 드퓌 연구원은 12일(현지시간) 연구 보고서를 통해 중국 AI 기업 4곳이 공개한 모델 6종에서 엔비디아 블랙웰 GPU와 일치하는 초기 가중치 패턴을 발견했다고 밝",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "5dd70c6bbb0f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217402",
+      "date": "2026-11-14",
+      "summary": "앤트로픽의 기업공개(IPO)에서 중국 본토와 홍콩 기관투자자들이 공모주를 배정받기 어려운 것으로 알려졌다. 미국의 방산 기술 수출 통제 규정이 제한 근거로 거론되면서, 미국과 중국의 AI 기술 경쟁이 첨단 AI 기업의 투자 시장에도 영향을 미치고 있다.블룸버그는 13일(현지시간) 소식통들을 인용해 일부 투자은행이 앤트로픽 IPO에 참여하려는 중국과 홍콩 기관투자자의 주문을 거절하거나 실제 주식을 배정받기 어려울 것이라고 안내했다고 보도했다. 미국의 국제무기거래규정(ITAR)이 이러한 제한의 근거 중 하나로 거론됐다.ITAR는 미국의",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "1883694b7e3a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+      "date": "2026-11-14",
+      "summary": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 출시했다. 실제 카드번호를 AI에 노출하지 않고 사용자의 생체인증을 거쳐 결제하는 방식으로, 기존 쇼핑몰의 결제 시스템을 그대로 활용해 AI 에이전트 기반 상거래 시장을 공략한다.오픈AI는 13일(현지시간) 공식 블로그를 통해 아메리칸 익스프레스, 마스터카드, 비자와 협력해 개발한 챗GPT 월렛을 공개했다.미국에 거주하는 18세 이상 '챗GPT 프로' 가입자 가운데 적격 미국 발행 카드와 미국 청구지",
+      "keywords": [
+        "AI Agent",
+        "GPT"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "6abea75c28af",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 젠슨 황 퇴진 쇼크 속 트럼프 행보·앤트로픽 개인정보 유출 등 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217404",
+      "date": "2026-11-14",
+      "summary": "AI타임스와 이스트에이드의 11월 둘째 주(11월6~12일) 이슈 분석 결과, 젠슨 황 엔비디아 CEO의 퇴진과 잇따른 강력 사건을 비롯해 트럼프 대통령의 중간선거 이후 행보 등이 상위권을 차지했다.이번 주 검색량 1위는 '젠슨황 불륜 조사(4.81%)'가 차지했다. 젠슨 황 엔비디아 CEO가 불륜 논란과 중국 스파이 관련 의혹 등이 불거진 끝에 사임했다. 엔비디아는 콜레트 크레스 최고재무책임자(CFO)를 임시 CEO로 임명하고 내외부 후보자를 검토해 정식 CEO를 선임할 예정이다.젠슨 황 퇴진과 유가 급등 등이 겹치며 기술주 전반",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "97c5015af2c4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스X, 영상 생성 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217399",
+      "date": "2026-11-14",
+      "summary": "스페이스X가 이미지·영상 생성 AI '그록 이매진(Grok Imagine)' 개발팀 대부분을 해고했다. 오픈AI가 영상 생성 서비스 '소라'를 종료한 데 이어 머스크의 AI 사업도 코딩과 에이전트에 자원을 집중하면서, 미국 주요 AI 기업들의 사업 우선순위가 바뀌고 있다.디 인포메이션은 13일(현지시간) 소식통들을 인용해 스페이스X가 지난주 그록 이매진 개발 인력 약 60명을 해고했다고 보도했다.현재 제품을 유지하는 인력은 소수만 남은 것으로 알려졌다. 서비스는 계속 제공되고 있지만, 전담 개발팀이 사실상 사라지면서 향후 업데이트와",
+      "keywords": [
+        "AI Agent",
+        "Generative AI"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "83b069b54de8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 뮤지엄에 가다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217396",
+      "date": "2026-11-14",
+      "summary": "글·그림 Dr. Alf",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "eab82122b47f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 42 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217393",
+      "date": "2026-11-14",
+      "summary": "간판 없는 날들의 달력지도를 열면 먼저 보이는 것들이 있습니다. 큰 가게, 불 켜진 간판, 별점과 리뷰, 사람들이 많이 찾는 길. 지도는 많은 사람이 중요하다고 표시한 것부터 보여줍니다.내 삶의 연혁을 한 장의 지도로 펼쳐봐도 비슷합니다. 입학과 졸업, 첫 직장, 승진, 결혼. 이력서에 쓰는 날, 사진첩에 남는 날, 축하 인사를 받는 날이 굵은 글씨로 적혀 있습니다. 사회가 함께 불을 밝혀주는 간판 같은 날들이지요. 그 날들은 분명 소중합니다. 다만 그 목록을 정한 것이 나였는지, 중요하다고 여겨온 순서를 따른 것인지는 한 번쯤 물",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "05eec0ca8f42",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황, 사임 직전 \"나는 쓰레기\"…두 번째 불륜 보도가 결정타",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217403",
+      "date": "2026-11-14",
+      "summary": "젠슨 황 전 엔비디아 CEO가 사임 직전 자신을 심하게 비난하며 사실상 경영권을 포기한 것으로 알려졌다. 마지막까지 CEO직을 지키려 했지만, 추가적인 사내 관계가 보도되면서 긴급 소집된 이사회에서 결국 물러났으며 평소의 적극적인 경영 방식과는 전혀 다른 무기력한 모습을 보였다는 증언이 나왔다.블룸버그와 디 인포메이션은 12일(현지시간) 엔비디아 내부 관계자들과 황 전 CEO의 주변 인물들을 인용해 지난 11일 밤 사임에 이르기까지의 과정을 상세히 보도했다.이에 따르면 황 전 CEO는 사임을 앞두고 자신을 \"쓰레기 같은 인간(pie",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "573091d14fcf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아모데이 \"컴퓨팅 수요 예측이 최대 경영 난제…과잉도 부족도 위험\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217401",
+      "date": "2026-11-14",
+      "summary": "다리오 아모데이 앤트로픽 CEO가 AI 컴퓨팅 투자 규모를 결정하는 것이 회사의 가장 어려운 경영 과제라며, 과잉 투자와 투자 부족에 따른 위험을 설명했다. 기업공개(IPO)를 추진하는 주요 이유도 막대한 컴퓨팅 투자에 필요한 자금을 확보하고 재무적 위험에 대비하기 위해서라고 밝혔다.블룸버그와 파이낸셜타임스(FT) 등에 따르면 아모데이 CEO는 13일(현지시간) 뉴욕 JP모건체이스 본사에서 열린 투자자 대상 행사에서 제이미 다이먼 JP모건 CEO와 대담하며 이같이 밝혔다.그는 \"컴퓨팅은 회사가 직면한 가장 심각한 사업적 난제\"라며",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "decc948be8a1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양 65세 이상 대상포진 예방접종, 누가 무료로 맞나…접종비 최대 31만원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217387",
+      "date": "2026-11-14",
+      "summary": "광양시가 65세 이상 시민에게 대상포진 예방접종 비용을 지원하고 있다. 백신 종류와 지원 대상에 따라 본인부담금은 무료에서 최대 31만원까지 차이가 난다. 기초생활수급자 등 취약계층도 사백신을 선택하면 접종비 일부를 내야 한다.광양시는 12일 보도자료를 통해 이 같은 내용의 대상포진 예방접종 지원사업을 안내했다. 지원 대상은 광양시에 1년 이상 주민등록을 두고 거주하는 65세 이상 시민으로, 1961년 12월31일 이전 출생자다.기초생활수급자와 차상위계층, 장애의 정도가 심한 장애인은 생백신을 무료로 접종할 수 있다. 사백신을 선택",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "0a3d84561f6e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국 최대 규모 폐광 활용 태양광 사업, 1조 규모 1차 금융 조달 완료",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217302",
+      "date": "2026-11-14",
+      "summary": "미국 텍사스주 석탄광산 복구지에 건설 중인 직류 기준 1.2기가와트(GWdc)급 태양광 발전사업이 총 18억달러(약 2조4032억원) 규모의 녹색대출(그린론) 가운데 7억6900만달러(약 1조267억원)의 1차 금융 조달을 완료했다. 기존 석탄발전소의 전력망 연결시설을 활용하는 사업으로, 나머지 자금은 2027년 1분기에 조달할 계획이다.미국 에너지 인프라 투자사 파나민트캐피털(Panamint Capital)은 지난 4일(현지시간) 텍사스주 로버트슨카운티의 '빅 루터 파워(Big Rooter Power)' 태양광 사업을 위한 1차",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "456bfddb147e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 티베트 해발 4300m에 14시간 축열 태양열발전소 첫 연결...\"세계 최고도\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217305",
+      "date": "2026-11-14",
+      "summary": "중국 티베트 해발 4300m 고원에서 태양광 전기를 열로 저장해 야간 발전과 난방에 활용하는 50메가와트(MW)급 태양열발전소의 첫 발전기가 전력망에 연결됐다. 용융염에 열을 14시간 저장하도록 설계한 시설로, 올해 안에 나머지 발전기도 계통연계를 완료할 계획이다.중국광핵그룹(CGN)은 지난 6일(현지시간) 티베트 아리 지역 가얼현의 '아리 고원 제로탄소 광저장·축열·발전 시범사업'에서 25MW 규모의 1호 발전기가 첫 계통연계에 성공했다고 발표했다. 이 시설이 전력망에 연결된 태양열발전소 가운데 세계에서 해발고도가 가장 높다는 설",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "3d77467d3ea2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "2044년 중국 폐태양광서 은 쏟아진다… 연 739톤 정점 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217306",
+      "date": "2026-11-14",
+      "summary": "중국에서 2025년까지 설치된 태양광 모듈이 폐기되면서 나오는 은의 양이 2044년 연간 약 739톤으로 정점을 찍는다는 연구 결과가 나왔다. 폐기되는 태양광 설비용량은 이보다 9년 늦은 2053년에 최대치에 이를 것으로 추산됐다.중국 난카이대학교 연구진은 지난 5일(현지시간) 국제학술지 '서스테이너빌리티(Sustainability)'를 통해 이러한 차이가 태양광 모듈 설치 시기에 따른 은 함량 차이에서 비롯된다고 밝혔다.연구진은 폐기물 급증에 대비한 실효성 있는 재활용 대책이 마련되지 않으면, 이 방대한 자원이 오히려 감당하기 힘",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "19c0a1e442e2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS, 전 세계 서비스 장애 복구 진전...\"원인은 네트워크 작업 오류\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217398",
+      "date": "2026-11-14",
+      "summary": "마이크로소프트(MS)가 전 세계 정부 기관과 기업의 업무에 차질을 빚게 한 대규모 서비스 장애의 원인을 공개하고 복구 작업에 진전을 보이고 있다고 밝혔다. 장애 발생 24시간이 지나면서 주요 서비스가 상당 부분 회복됐으며, MS는 사이버 공격이나 AI가 아닌 네트워크 작업 과정에서 발생한 기술적 문제라고 설명했다.MS는 13일(현지시간) X를 통해 \"서비스 전반에서 광범위한 복구와 안정화가 이뤄지고 있다\"라며 \"장애를 일으킨 근본적인 문제를 해결했으며, 아직 영향받는 고객과 지역의 서비스를 복구하고 있다\"라고 밝혔다.MS는 이번 장",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "657969670ac4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[11월13일] 'AI의 은행' 이끌던 젠슨 황 퇴임…AI 산업 판도 바뀌나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217364",
+      "date": "2026-11-14",
+      "summary": "젠슨 황의 퇴임이 엔비디아를 넘어 AI 산업 전체에 충격을 주고 있습니다. 세계 AI 반도체 시장을 지배하는 기업의 창업자가 물러났다는 사실보다, 지난 수년간 막대한 자금과 영향력을 동원해 AI 산업의 성장을 이끌어 온 핵심 인물이 사라졌다는 점이 주목됩니다.가장 큰 관심은 엔비디아의 공격적인 투자 전략이 유지될지입니다. 이 회사는 최근 'AI의 은행'으로 불릴 만큼 반도체 공급을 넘어 AI 산업의 주요 자금줄로 자리 잡았습니다. 오픈AI에 300억달러를 투자하고 오픈AI 관련 데이터센터 사업의 임대·개발 의무에 대해 최대 1050",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
       "id": "959f2e766180",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -186,6 +374,577 @@
         "Security"
       ],
       "first_seen": "2026-11-13"
+    },
+    {
+      "id": "79d13e040f6e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "date": "2026-11-13",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "keywords": [
+        "AI Agent",
+        "Coding",
+        "GPT"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "db3076ba786e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "date": "2026-11-13",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "552b94506e7d",
+      "source": "meta_eng",
+      "source_name": "Meta Engineering",
+      "icon": "🔷",
+      "title": "Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon",
+      "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "date": "2026-11-13",
+      "summary": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...]\nRead More...\nThe post Cuttlefish on Mac: Running Android&#8217;s Virtual Device Framework Natively on Apple Silicon appeared first on Engineering at Meta.",
+      "keywords": [
+        "Framework"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "9c47793813e0",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "date": "2026-11-13",
+      "summary": "",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "e9d93e607b69",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "XYBench: Helping with the problem behind the question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "date": "2026-11-13",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "1f76189be1ea",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "date": "2026-11-13",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "ce0287b4d17f",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+      "date": "2026-11-13",
+      "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 m",
+      "keywords": [
+        "Automation",
+        "Coding",
+        "Deployment",
+        "Optimization"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "363cffa1a2ae",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+      "date": "2026-11-13",
+      "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model",
+      "keywords": [
+        "AI Agent",
+        "Coding",
+        "Deployment",
+        "LLM"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "def9b50abc9e",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+      "date": "2026-11-13",
+      "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "9e78c7afd5b5",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "date": "2026-11-13",
+      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+      "keywords": [
+        "Automation",
+        "Deployment",
+        "Optimization",
+        "Security"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "58d36d202c10",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+      "date": "2026-11-13",
+      "summary": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+      "keywords": [
+        "Optimization",
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "50da416c2ea7",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+      "date": "2026-11-13",
+      "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and h",
+      "keywords": [
+        "Developer Tools",
+        "Optimization"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "4312152c50af",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+      "date": "2026-11-13",
+      "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod tr",
+      "keywords": [
+        "Automation",
+        "Fine-tuning",
+        "Optimization"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "19847bef1f46",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "date": "2026-11-13",
+      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.  Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "2cc6f71479ff",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "date": "2026-11-13",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "8d23e88a0f9b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "date": "2026-11-13",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "2fd1b18314fc",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "date": "2026-11-13",
+      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "3f072eacd83e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "date": "2026-11-13",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "26d265ce671c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "date": "2026-11-13",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "keywords": [
+        "AI Agent",
+        "LangChain"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "3bcb8ca81cba",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "date": "2026-11-13",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "a89e40511448",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "date": "2026-11-13",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "keywords": [
+        "AI Agent",
+        "GPT"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "9c558a7ae326",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "date": "2026-11-13",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "ec08047f3be7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "date": "2026-11-13",
+      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "keywords": [
+        "Cloud/DevOps",
+        "Security"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "c6494705d362",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "date": "2026-11-13",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "keywords": [
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "de92575e0d50",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+      "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "date": "2026-11-13",
+      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "keywords": [
+        "Cloud/DevOps"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "eac079c142ed",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "date": "2026-11-13",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "a1cf766582ed",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "date": "2026-11-13",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "e3f18527d07f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217394",
+      "date": "2026-11-13",
+      "summary": "마이크로소프트(MS)의 기업용 서비스에서 대규모 장애가 발생해 전 세계 정부 기관과 기업들이 업무에 차질을 빚었다. 이메일과 협업 도구뿐 아니라 '챗GPT'와 '클로드'의 업무 연동 기능까지 영향받았으며, MS가 복구 작업을 진행하고 있지만 일부 서비스의 장애는 하루 가까이 이어지고 있다.로이터와 AP 등에 따르면 12일(현지시간) MS의 이메일 서비스 아웃룩과 협업 도구 팀즈, AI 비서 코파일럿 등 MS 365의 여러 서비스에서 접속 장애가 발생했다. 미국에서 시작된 장애는 13일 아시아태평양 지역의 업무 시간까지 이어졌다.서비",
+      "keywords": [
+        "Claude",
+        "GPT"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "fbc04714673f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글 \"검색 역대 최대 AI 모델 업그레이드\"…최신 '하이드로젠' 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217360",
+      "date": "2026-11-13",
+      "summary": "구글이 전 세계 검색 서비스에 최신 모델 '제미나이 4 하이드로젠(Gemini 4 Hydrogen)'을 적용하고, 여러 조건이 섞인 복잡한 질문에도 정확하게 답하도록 기능을 강화했다. 이번 업데이트를 \"검색에 적용한 역대 최대 규모의 모델 업그레이드\"라고 강조하며, 이용자의 검색 의도를 파악하고 관련 웹사이트와 이미지, 비교표 등을 제공하는 능력이 크게 향상됐다고 밝혔다.구글은 12일(현지시간) 공식 블로그를 통해 하이드로젠을 전 세계 검색 이용자에게 제공하기 시작했다고 발표했다. 로비 스타인 구글 검색 제품 부문 부사장은 이번 업",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "a91861be1806",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217361",
+      "date": "2026-11-13",
+      "summary": "앤트로픽이 견적 산출과 품질 검사, 설비 고장 분석 등을 지원하는 제조업용 '클로드'를 출시했다. 의료와 금융, 법률에 이어 제조업까지 산업별 AI 제품을 확대하는 것으로, 오픈AI와의 경쟁도 고성능 파운데이션 모델 개발을 넘어 기업의 실제 업무에 AI를 적용하고 매출을 늘리는 분야로 확대되고 있다.앤트로픽은 12일(현지시간) 제조업 전용 플러그인 '클로드 포 매뉴팩처링(Claude for Manufacturing)'을 출시했다고 밝혔다. 제조업의 주요 업무를 지원하는 17개 스킬과 오토데스크 퓨전, 인포, 마이크로소프트 365,",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "af189ec5a234",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스X·테슬라 합병 협상 진전...이르면 12월 발표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217367",
+      "date": "2026-11-13",
+      "summary": "일론 머스크 CEO가 이끄는 스페이스X와 테슬라의 합병 논의가 진전을 보이며 이르면 12월 거래가 발표될 가능성이 제기됐다. 전기차와 로봇, AI, 우주항공 사업을 하나의 기업으로 통합하는 역대 최대 규모의 합병이 현실화할지 주목된다.블룸버그는 12일(현지시간) 정통한 소식통들을 인용해 양사의 이사회와 자문단이 합병 조건과 통합 기업의 지배구조 등을 구체적으로 협의하고 있다고 보도했다. 테슬라 주주들에게 지급할 스페이스X 주식의 교환 비율도 주요 협상 대상이다.협상이 순조롭게 진행되면 이르면 12월 합병 계획을 발표할 수 있지만,",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "d90ab2fa0eca",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "‘고독한 미식가’가 찾은 남도 음식…12월 일본 방송으로 만난다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217380",
+      "date": "2026-11-13",
+      "summary": "일본 드라마 ‘고독한 미식가’ 주연 배우 마츠시게 유타카가 나주 곰탕과 무안 짚불구이 등 남도 음식을 소개하는 특집 다큐멘터리를 촬영한다.전남광주통합특별시는 일본인 관광객 유치를 위해 마츠시게 유타카와 남도 음식·지역 식문화를 소개하는 특집 다큐멘터리를 제작한다고 13일 밝혔다.촬영은 오는 16일까지 일주일간 나주·담양·강진·해남·영암·무안 등 6개 시군의 전통시장과 노포, 음식 명인 공간 등을 중심으로 진행된다.나주에서는 목사고을시장과 곰탕을 촬영한다. 담양에서는 기순도 전통장과 양태수 전통주, 안복자 한과 명인을 비롯해 떡갈비와",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "6d7b0abe9935",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 아스트라 '노-CoT' 능력 향상 확인…AI 추론 감시 한계 드러나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217369",
+      "date": "2026-11-13",
+      "summary": "오픈AI가 AI 모델이 추론 과정을 외부에 드러내지 않고도 문제를 해결하는 '노-CoT(No-CoT)' 능력이 학습 과정에서 향상된다는 연구 결과를 공개했다. 특히 'GPT-6 아스트라'에서 두드러진 추론 감시 성능 저하와 관련해 모델 구조와 학습 방식이 추론 감시 관련 능력에 미치는 영향을 분석하고, 기존 안전 감시 기술의 한계를 경고했다.오픈AI는 10일(현지시간) 정렬 연구 블로그를 통해 사전학습과 모델 구조, 강화학습, AI가 생성한 학습 데이터가 '사고의 사슬(CoT·Chain of Thought)' 감시 가능성에 미치는",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "09f59e1aa240",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 모델 바꾼 기업 70% \"몇 주 이상 걸려\"…앱 수정·검증이 걸림돌",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217379",
+      "date": "2026-11-13",
+      "summary": "기업들이 더 성능이 좋거나 저렴한 AI 모델로 교체하는 데 예상보다 많은 시간과 비용을 들이는 것으로 나타났다. 모델 연결 설정만 바꾸면 교체할 수 있도록 시스템을 구축해도, 실제 서비스에서는 기존 모델에 맞춰 만든 프롬프트와 도구, 평가 체계를 다시 조정해야 하기 때문에 교체 경험이 있는 기업 담당자 10명 중 7명이 몇 주 이상의 작업이 필요했다고 답했다.벤처비트는 12일(현지시간) 자체 조사기관인 벤처비트 인텔리전스의 10월 설문 결과를 공개했다. 직원 100명 이상 기업의 AI 담당자와 컨설턴트 등 100명을 조사한 결과,",
+      "keywords": [
+        "Prompt"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "9fd528dced71",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "노타, 3분기 역대 최대 매출 달성…플랫폼·솔루션 동반 도약",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217391",
+      "date": "2026-11-13",
+      "summary": "노타(대표 채명수)는 3분기 연결 기준 매출이 전년 동기 대비 51% 늘어 올해 최대 분기 매출을 기록했다고 13일 밝혔다. 영업손실은 전분기 대비 약 42% 줄었고 영업손실률은 161.9%에서 78.8%로 개선됐다.3분기 누적 매출은 약 120억원으로 이 중 신규 고객 비중이 52.3%에 달한다. 누적 수주액은 약 263억원이며, 9월 말 기준 수주잔고는 154억원으로 누적 매출을 웃돈다는 설명이다.사업별로는 플랫폼과 솔루션 매출이 전분기 대비 각각 18.5%와 20.8% 증가했다.플랫폼 사업은 글로벌 반도체 기업 대상 최적화 기",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "4eac78dfef12",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AMD, 양자컴퓨터 오류 수정에 GPU·SW 투입…엔비디아와 경쟁",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217381",
+      "date": "2026-11-13",
+      "summary": "AMD가 양자컴퓨팅 기업 사이퀀텀(PsiQuantum)에 지분 투자를 추진하고, 양자컴퓨터의 오류를 실시간으로 탐지·수정하는 데 자사 CPU·GPU와 소프트웨어를 활용하기로 했다. 지난해부터 양자컴퓨팅 인프라 사업을 강화해 온 엔비디아와 관련 기술을 둘러싼 경쟁도 본격화할 전망이다.AMD와 사이퀀텀은 12일(현지시간) 공동 발표를 통해 지분 투자 계획과 기술 협력 확대를 공개했다. 구체적인 투자 금액은 밝히지 않았다.이번 협력의 핵심은 대규모 양자컴퓨터의 실시간 오류 수정 기술이다. 양자컴퓨터는 계산 과정에서 외부 환경의 영향 등으",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "244f1ae0bbf5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엘리스그룹, 'B300' 기반 AI 데이터센터 베타 서비스 개시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217366",
+      "date": "2026-11-13",
+      "summary": "엘리스그룹(대표 김재원)이 자체 모듈형 AI 데이터센터(AI PMDC)에 엔비디아 B300 GPU 인프라를 구축, 지난달 30일부터 베타 서비스를 개시했다고 13일 밝혔다.이번 사업은 과학기술정보통신부 '첨단 GPU 확보·구축·운용 지원 사업'의 일환으로 진행된다.엘리스그룹은 지난 6월 사업자로 선정된 이후 자체 개발한 모듈형 AI 데이터센터 'AI PMDC'를 활용해 B300 GPU 운영에 필요한 인프라를 신속하게 구축 중이다.AI PMDC는 데이터센터의 주요 설비를 모듈 단위로 사전 제작하고 현장에서 조립하는 방식으로 기존 데이",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "2bc7b8ccdd67",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "골드만삭스 \"AI 투자, 2027년 말 연간 1865조원 규모…미국 경제성장 주도\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217382",
+      "date": "2026-11-13",
+      "summary": "골드만삭스가 2027년에도 AI 관련 투자가 미국 기업 투자 증가를 주도할 것으로 전망했다. AI 관련 하드웨어와 소프트웨어 등에 대한 투자 규모가 2027년 말 연간 1조4000억달러(약 1865조원)에 달해 미국 국내총생산(GDP)의 약 4%에 해당할 것이라는 분석이다.로이터에 따르면 골드만삭스는 12일(현지시간) 보고서에서 AI 관련 투자가 2026년 말 9000억달러(약 1199조원)를 넘어선 뒤 이듬해에도 증가세를 이어갈 것으로 예상했다.두 수치는 각 연도 말의 투자 규모를 1년 기준으로 환산한 것으로, 해당 연도의 실제",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "436eeb4e935c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엘리스그룹, 대한민국 인터넷대상 대통령상수상…AI 데이터센터 구축 공로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217386",
+      "date": "2026-11-13",
+      "summary": "2026년 대한민국 인터넷대상의 최고 영예인 대통령상에 AI 인프라 솔루션 기업 '엘리스그룹'이 선정됐다.과학기술정보통신부(장관 배경훈)는 13일 서울 포스트타워에서 '대한민국 인터넷대상'과 '디지털 혁신상' 시상식을 개최했다고 밝혔다. 올해로 21회를 맞은 대한민국 인터넷대상은 인터넷 분야 최고 권위의 정부 시상으로 올해는 12개 단체가 수상자로 선정됐다.대통령상을 수상한 엘리스그룹은 국내 최초 온수 냉각 'B300' AI 데이터센터와 자체 AI 클라우드·에이전트 기술을 개발·서비스화해 국내 AI 컴퓨팅 기술 발전에 기여한 공로를",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "330d1a2c0536",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 비영리단체 4곳, 오픈AI 등 5개사에 '최첨단 AI 개발 중단' 소송",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217372",
+      "date": "2026-11-13",
+      "summary": "미국 비영리단체 4곳이 오픈AI와 앤트로픽, 구글 등 주요 AI 기업 5곳을 상대로 최첨단 AI 모델 개발을 중단하라는 소송을 제기했다. AI 기업 경영진 스스로 첨단 AI가 인류에 심각한 위협이 될 수 있다고 경고해 온 만큼, 안전성이 확보되기 전까지 개발과 배포를 중단해야 한다는 주장이다.로이터와 AP에 따르면 기술 책임성을 촉구하는 비영리단체 연합은 12일(현지시간) 오픈AI, 앤트로픽, 구글, 스페이스X, 메타를 상대로 최첨단 AI 모델의 추가 개발과 배포를 막아달라는 소송을 샌프란시스코 법원에 제기했다.원고에는 이리플레이서",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "bc911da52f8b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "JP모건 \"미 휴머노이드 2030년 40만대\"…로보티즈 유망 부품사 선정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217376",
+      "date": "2026-11-13",
+      "summary": "JP모건이 미국의 휴머노이드 로봇 생산량이 2030년 최대 40만대, 2035년에는 약 150만대에 달할 것으로 전망했다. 특히 휴머노이드 시장 성장의 초기 수혜 기업으로 핵심 부품업체를 지목하면서 국내 로보티즈를 유망 공급업체 중 하나로 꼽았다.로이터에 따르면 JP모건은 12일(현지시간) 보고서에서 미국의 휴머노이드 생산량이 2030년 30만~40만대, 2035년에는 약 150만대에 이를 것으로 예상했다. 인력 부족과 로봇 도입의 경제성 개선, 생산능력 확대가 시장 성장을 이끌고 있다는 분석이다.특히 투자 기회는 당분간 완제품 제",
+      "keywords": [],
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "e4644c258bcc",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "소프트뱅크·엔비디아, 연 1만대 생산능력 갖춘 독일 휴머노이드 기업에 6600억 투자",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217370",
+      "date": "2026-11-13",
+      "summary": "소프트뱅크와 엔비디아가 독일 로봇 기업 애자일 로봇(Agile Robots)에 투자하며 휴머노이드와 피지컬 AI 사업을 강화하고 있다. 이미 산업 현장에 2만개 이상의 로봇 솔루션을 공급한 애자일 로봇은 이번 투자에서 85억달러(약 11조원)의 기업가치를 인정받았으며, 확보한 자금으로 미국 시장 진출과 휴머노이드 생산 확대를 추진할 계획이다.로이터와 블룸버그 등에 따르면 애자일 로봇은 12일(현지시간) 소프트뱅크가 주도한 투자 라운드에서 5억달러(약 6600억원)를 유치했다고 밝혔다. 엔비디아와 일본 히타치, T.캐피털도 참여했다.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-11-14"
     },
     {
       "id": "49cf590dc337",
@@ -116042,11 +116801,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-16",
-      "added": 28,
-      "total": 4191
-    },
-    {
       "date": "2026-08-17",
       "added": 17,
       "total": 4208
@@ -116490,6 +117244,11 @@
       "date": "2026-11-13",
       "added": 71,
       "total": 8691
+    },
+    {
+      "date": "2026-11-14",
+      "added": 57,
+      "total": 8748
     }
   ],
   "sources": {},
@@ -116637,77 +117396,77 @@
     {
       "week": "2026-W46",
       "keywords": {
-        "AI Agent": 64,
-        "Security": 23,
-        "Automation": 21,
-        "SDK/API": 18,
-        "Gemini": 18,
-        "Coding": 16,
-        "GPT": 12,
-        "Claude": 12,
-        "LLM": 11,
-        "Deployment": 7,
-        "Robotics": 7,
+        "AI Agent": 73,
+        "Security": 26,
+        "Automation": 24,
+        "Gemini": 19,
+        "SDK/API": 19,
+        "Coding": 19,
+        "GPT": 17,
+        "Claude": 14,
+        "LLM": 12,
+        "Deployment": 10,
+        "Optimization": 10,
+        "Cloud/DevOps": 9,
+        "Robotics": 9,
         "Open Source": 7,
-        "Cloud/DevOps": 7,
-        "Developer Tools": 5,
-        "Optimization": 5
+        "Developer Tools": 6
       }
     }
   ],
   "source_stats": {
+    "aitimes": {
+      "total": 4318,
+      "recent_7d": 216,
+      "recent_30d": 370
+    },
+    "lycorp": {
+      "total": 61,
+      "recent_7d": 1,
+      "recent_30d": 2
+    },
     "openai": {
-      "total": 377,
-      "recent_7d": 26,
-      "recent_30d": 43
+      "total": 379,
+      "recent_7d": 21,
+      "recent_30d": 45
     },
     "aws_ml": {
-      "total": 577,
-      "recent_7d": 47,
-      "recent_30d": 62
+      "total": 584,
+      "recent_7d": 52,
+      "recent_30d": 69
     },
     "techcrunch": {
-      "total": 2520,
-      "recent_7d": 127,
-      "recent_30d": 201
-    },
-    "aitimes": {
-      "total": 4288,
-      "recent_7d": 216,
-      "recent_30d": 340
-    },
-    "huggingface": {
-      "total": 206,
-      "recent_7d": 12,
-      "recent_30d": 17
-    },
-    "nvidia_ai": {
-      "total": 211,
-      "recent_7d": 14,
-      "recent_30d": 16
+      "total": 2533,
+      "recent_7d": 120,
+      "recent_30d": 214
     },
     "google_ai": {
       "total": 83,
-      "recent_7d": 8,
+      "recent_7d": 7,
       "recent_30d": 9
     },
     "deepmind": {
       "total": 85,
-      "recent_7d": 7,
+      "recent_7d": 5,
       "recent_30d": 8
     },
+    "huggingface": {
+      "total": 209,
+      "recent_7d": 13,
+      "recent_30d": 20
+    },
+    "nvidia_ai": {
+      "total": 212,
+      "recent_7d": 11,
+      "recent_30d": 17
+    },
     "meta_eng": {
-      "total": 49,
-      "recent_7d": 4,
-      "recent_30d": 5
+      "total": 50,
+      "recent_7d": 5,
+      "recent_30d": 6
     },
     "toss": {
       "total": 78,
-      "recent_7d": 2,
-      "recent_30d": 2
-    },
-    "lycorp": {
-      "total": 61,
       "recent_7d": 2,
       "recent_30d": 2
     },
@@ -116727,6 +117486,6 @@
       "recent_30d": 34
     }
   },
-  "last_updated": "2026-11-13",
-  "total_articles": 8691
+  "last_updated": "2026-11-14",
+  "total_articles": 8748
 }
