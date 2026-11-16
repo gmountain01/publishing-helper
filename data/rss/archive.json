@@ -1,6 +1,149 @@
 {
   "articles": [
     {
+      "id": "0f487767749a",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "date": "2026-11-16",
+      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punc",
+      "keywords": [
+        "AI Agent",
+        "Developer Tools",
+        "Robotics"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "74c2539a1974",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "date": "2026-11-16",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "273f5d527903",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프, 시진핑 회담서 젠슨 황 의혹 거론 안 할 듯…희토류 협상 집중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217449",
+      "date": "2026-11-16",
+      "summary": "도널드 트럼프 미국 대통령이 오는 19일 중국 선전에서 시진핑 국가주석과 정상회담을 갖지만, 젠슨 황 전 엔비디아 CEO와 관련된 중국 스파이 의혹은 제기하지 않을 것으로 알려졌다. 대신 기존 무역 합의의 이행과 희토류 공급 문제에 집중할 예정이다. 이날 블라디미르 푸틴 러시아 대통령이 참여하는 미중러 3국 정상회담도 열린다.파이낸셜타임스(FT)는 14일(현지시간) 미국 정부 관계자들을 인용해 트럼프 대통령이 시진핑 주석과의 회담에서 앨리스 황의 중국 스파이 의혹을 거론하지 않을 것이라고 보도했다. 두 정상은 18~19일 선전에서",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "c30a4a2339d9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "애플, AI 안경 차별화 전략은 '시리 앱 제어'…기존 아이폰 앱 활용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217438",
+      "date": "2026-11-16",
+      "summary": "애플이 개발 중인 첫 AI 스마트 안경의 핵심 경쟁력으로 기존 아이폰 앱을 음성 비서 '시리(Siri)'로 제어하는 기능을 내세울 것으로 알려졌다. 스마트 안경에서 별도의 앱을 실행하는 대신 아이폰에 설치된 앱을 활용해 식당 예약과 차량 호출, 쇼핑 등을 처리하는 방식이다. 이를 위해 외부 개발자들이 기존 앱에 시리 연동 기능을 추가하도록 유도하고 있다.블룸버그는 15일(현지시간) 애플이 코드명 'N50'으로 개발 중인 스마트 안경의 주력 기능으로 시리의 AI 앱 제어를 준비하고 있다고 보도했다. 애플은 2027년 6월 세계개발자회",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "f441a2ac6be4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "LGU+, 클라우드 기반 보안 플랫폼 'U+SASE' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217439",
+      "date": "2026-11-16",
+      "summary": "LG유플러스(대표 홍범식)는 기업 네트워크와 보안을 통합한 클라우드 기반 보안 플랫폼 'U+SASE'를 출시했다고 16일 밝혔다.U+SASE는 본사·지사·데이터센터·클라우드·재택근무 등 다양한 업무 공간의 네트워크 연결과 보안 기능을 하나의 플랫폼에서 관리하는 서비스다.최근 서비스형 소프트웨어(SaaS) 확산과 원격근무·생성형 AI 활용 증가에 따른 기업 내부 데이터 노출 위험과 기존 사내 네트워크 중심 보안 체계의 한계를 극복한다는 설명이다.주요 기능은 ▲유해 웹사이트 접속을 막는 보안 웹 게이트웨이(SWG) ▲클라우드 기반 방화",
+      "keywords": [
+        "Generative AI",
+        "Security"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "876c054fd3ef",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국·한국 등 9개국, 중국 견제 AI 공급망 보호 공동 선언",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217435",
+      "date": "2026-11-16",
+      "summary": "미국과 한국, 일본 등 9개국이 중국의 영향력으로부터 AI 공급망을 보호하기 위한 공동 선언에 서명했다. 반도체와 핵심 광물, 에너지 등 AI 산업에 필요한 기술과 인프라 가운데 보호가 필요한 분야를 공동으로 선정하고, 중국에 대한 공급망 의존도를 낮추기 위한 협력을 강화하기로 했다.파이낸셜타임스(FT)는 15일(현지시간) 제이컵 헬버그 미국 국무부 경제담당 차관과의 인터뷰를 통해 미국과 한국, 일본, 호주, 이스라엘, 영국, 인도, 카타르, 아랍에미리트(UAE) 등 9개국이 '샌프란시스코 선언'에 서명했다고 보도했다.독일과 스웨덴",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "d6257b687cb0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "포티넷코리아, 김종덕 신임 지사장 선임...20년만에 친정 복귀",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217440",
+      "date": "2026-11-16",
+      "summary": "네트워크 보안 솔루션 전문 포티넷코리아는 신임 지사장으로 김종덕 전 지사장을 재선임했다고 16일 밝혔다. 지난 2002년부터 2006년까지 포티넷코리아 지사장을 맡았던 김 신임 지시장은 AI와 데이터 사이언스, 퍼블릭 클라우드, 가상화, 네트워크 보안, 컴퓨팅 등 IT 분야에 30년 이상 몸담아 왔다.연세대학교 경제학과를 졸업하고 한국IBM을 거쳐 스트라투스테크놀로지스 코리아, 포티넷코리아, 블루코트 코리아, 한국EMC RSA정보보안사업부, 뉴타닉스 코리아, 하시코프 코리아, 데이터이쿠 코리아 등 다국적 IT 기업 지사장을 역임했다",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "f3329e86754f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "SKT, 효성중공업과 AI 데이터센터 전력 인프라 맞손",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217437",
+      "date": "2026-11-16",
+      "summary": "SK텔레콤(대표 정재헌)은 효성중공업과 AI 데이터센터 전력설비 공급과 차세대 전력기술 실증을 위한 전략적 파트너십 업무협약(MOU)을 맺었다고 16일 밝혔다.이번 제휴로 두 회사는 SKT의 AI 데이터센터 사업개발·운영 역량과 효성중공업의 전력 인프라 제조·엔지니어링 기술력을 결합한다.345kV 변전소 기자재 등 주요 전력설비의 안정적 공급체계를 구축한다. 345kV 변전소는 전력계통에서 받은 대용량 전력을 데이터센터에서 사용할 수 있는 전압으로 변환하는 핵심 인프라다. 특히 변압기 등 장납기 설비는 생산·공급 계획을 선제적으로",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "6877f11ce933",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메가스피드 \"앨리스 황 지난해 퇴사\"…중국 AI 칩 우회 공급 의혹도 부인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217436",
+      "date": "2026-11-16",
+      "summary": "싱가포르 클라우드 컴퓨팅 기업 메가스피드가 중국 스파이 의혹을 받는 전 임원 앨리스 황이 지난해 8월 퇴사했으며, 현재 회사에서 어떤 직책도 맡고 있지 않다고 밝혔다. 엔비디아의 고성능 AI 칩이 중국으로 우회 공급됐다는 의혹도 부인하고, 외부 법률 전문가를 선임해 관련 주장에 대한 조사에 나섰다고 설명했다.메가스피드는 15일(현지시간) CNBC 등에 보낸 성명에서 \"앨리스 황은 2025년 8월30일부로 공식 퇴사했으며 현재 회사에서 어떤 역할도 맡고 있지 않다\"라고 밝혔다. 사생활에 대해서는 언급하지 않겠다고 덧붙였다.최근 미국",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "800c33652456",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217277",
+      "date": "2026-11-16",
+      "summary": "AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링정상혁 | 위키북스2026년 11월 12일추천이유개발자가 AI 에이전트가 생성한 배치 코드를 효과적으로 감독하고 검증하는 방법을 스프링 배치의 핵심 원리와 함께 설명합니다. 이 책은 개발 환경과 운영 환경의 데이터 크기 차이로 인한 문제를 해결하고, AI 시대에 안정적인 배치 시스템을 구축하도록 안내합니다.상세보기 \"코딩 에이전트로 짠 배치 코드를 운영에 그대로 올려도 될까요?\" 최근 개발팀 단위로 들어오는 도서 문의에서 자주 함께 나오는 질문이다. 금융이나 커머스처럼 밤마다 수백",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "51477d482ee1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217428",
+      "date": "2026-11-16",
+      "summary": "젠슨 황 전 엔비디아 CEO가 사임한 지 며칠 만에 측근들과 복귀 가능성을 논의하기 시작한 것으로 알려졌다. 실리콘밸리 주요 경영진은 복귀를 위한 조직적인 로비에 나서고 백악관의 지원까지 확보할 계획이다.파이낸셜타임스(FT)는 15일(현지시간) 복수의 소식통을 인용해 황 전 CEO가 측근들과 엔비디아 CEO 복귀 가능성을 논의하고 있다고 보도했다.황의 측근 한 명은 실리콘밸리 주요 경영진으로 구성된 '워룸(war room)'을 조직해 복귀 전략을 조율하고, 엔비디아 이사회를 설득하는 동시에 백악관의 지지도 확보할 계획이라고 밝혔다.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
       "id": "0cbac1debe31",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -187,6 +330,156 @@
       "summary": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계 거물들도 황의 퇴진이 엔비디아의 사업 경쟁력과 미국 AI 산업에 타격을 줄 수 있다며 복귀를 지지하고 있다.CNBC는 14일(현지시간) 브래드 거스트너 알티미터 캐피털 CEO와 개빈 베이커 아트레이데스매니지먼트 CEO가 엔비디아 이사회에 공동 서한을",
       "keywords": [],
       "first_seen": "2026-11-15"
+    },
+    {
+      "id": "df3e44b99410",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "date": "2026-11-15",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "e1f75517207a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "date": "2026-11-15",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "22756b577313",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "date": "2026-11-15",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "b95b24505d9f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "date": "2026-11-15",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "a63866f99390",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "date": "2026-11-15",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "6d045c77a9be",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "date": "2026-11-15",
+      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "0b239a8f1e5a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "date": "2026-11-15",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "fa17e3f1ecbd",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "date": "2026-11-15",
+      "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "6e7500d8c625",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[기고] 채점이 편한 시험은 AI에도 편하다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217423",
+      "date": "2026-11-15",
+      "summary": "몇 년을 준비해도 붙기 어려운 시험이 있다. 올해 제63회 세무사 1차 시험에서 세법학개론을 본 1만 6856명은 평균 30.18점을 받았다.이 과목 만점자이자 수석 합격자인 A씨가 2026년 11월15일 부정행위를 자백하고, 경찰에 자수했다.자백에 따르면 초소형 카메라가 시험 문제를 찍었고, 생성 AI가 답을 만들었으며, A씨는 스마트폰으로 그 답을 확인했다.수험생만의 일이 아니다. 시험은 누구나 치른다. 학생은 내신과 수능을, 직장인은 자격시험을 본다. 시험을 보지 않는 사람도 시험으로 자격을 얻은 세무사와 의사, 변호사에게 일",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "77e4036ae453",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+      "date": "2026-11-15",
+      "summary": "제63회 세무사 시험 수석 합격자가 초소형 카메라와 생성 AI를 이용해 부정행위를 저질렀다고 자백했다. 세무사 1·2차 시험뿐 아니라 공인회계사 1차 시험에서도 같은 방법을 사용했다고 인정하고 경찰에 자수했다.세무사 시험 수석 합격자 A씨는 15일 이돈호 법무법인 노바 대표변호사의 유튜브 채널에 출연해 \"저는 세무사 시험에서 부정행위를 했다\"라며 \"제가 수석으로 합격한 것은 정당한 노력으로 얻은 결과가 아니다\"라고 밝혔다.A씨는 \"세무사 1·2차 시험에서 전자기기와 생성형 AI를 이용해 부정행위를 했다\"라며 \"공인회계사 1차 시험에",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "9ecd0132ed41",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+      "date": "2026-11-15",
+      "summary": "\"기업이 원하는 건 속기사가 아닙니다. 대화를 조직의 맥락으로 구조화해 자산화하는 것이 핵심입니다.\"AI 회의록 서비스인 '노트테이커' 시장은 이미 포화 상태다. 네이버 클로바노트, 노션 AI 회의록, 구글 미트에 연동된 서비스까지 사내 데이터베이스에 남지 않던 사람 간 대화를 자산화하려는 시도가 잇따르고 있다.치열해지는 경쟁 속에서 출시 2년 만에 연간반복매출(ARR) 300만달러(약 40억원)를 돌파하고, 주요 대기업과 금융기관에 도입된 서비스가 있다. 한 달에 처리하는 음성량만 17만 시간에 달하는 AI 미팅 서비스 '티로(T",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "80ae2c896b28",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "KT, 인천 남동산단에 AI기반 산업안전 솔루션 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217424",
+      "date": "2026-11-15",
+      "summary": "KT(대표 박윤영)는 AI 기반 화재안전 서비스 ‘세이프메이트(Safemate)’를 인천 남동국가산업단지에 적용했다고 15일 밝혔다.세이프메이트는 화재 발생 시 불꽃과 연기, 온도 변화 등 다양한 화재 징후를 감지하고 KT 관제서비스와 연계, 상황 확인부터 현장 대응까지 지원하는 서비스다.KT는 한국산업단지공단 인천지역본부가 추진하는 ‘2026년 남동산단 AIoT 화재감지기 설치 지원사업’을 통해 입주기업 20개사에 세이프메이트 화재감지기 105대를 구축했다.화재감지 기술 전문기업 엘디티(LDT)와 협력했다. KT는 세이프메이트 상",
+      "keywords": [],
+      "first_seen": "2026-11-16"
     },
     {
       "id": "90126f8878b1",
@@ -117173,14 +117466,159 @@
         "SDK/API"
       ],
       "first_seen": "2026-11-05"
+    },
+    {
+      "id": "7a460e95d1ce",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI가 \"개발 완료\"라고 하면, 어디까지 믿어도 될까",
+      "link": "https://yozm.wishket.com/magazine/detail/4039",
+      "date": "",
+      "summary": "에이전트에게 일을 맡기면 코드는 금방 나오지만, 그 코드를 사람이 읽고 확인하는 속도는 예전과 크게 다르지 않습니다. 테스트와 CI를 모두 통과했는데 막상 화면을 열어 보니 기능이 빠져 있는 일도 생기죠. 이제는 AI가 '다 됐다'고 보고할 때 그 말을 어디까지 믿고, 사람은 어디서 직접 확인할지 정해야 할 때입니다. 요즘IT에 2026년 7월부터 11월까지 실린 글 가운데 에이전트가 쓴 코드를 확인하는 장치를 만든 일곱 편을 분석해, 그 방법을 네 가지로 정리했습니다.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "7db9d39fa9a8",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI 디자인 작업 맥락 안 끊기는 캔버스 'Doop'에 Codex 연결해 써보니",
+      "link": "https://yozm.wishket.com/magazine/detail/4038",
+      "date": "",
+      "summary": "AI에게 화면을 만들어 달라고 하는 일은 더는 낯설지 않지만, 어떤 판단으로 화면이 만들어졌는지, 색과 구성 원칙이 다음 화면에도 이어지는지는 확인하기 어렵습니다. 결과물을 이미지나 코드로만 받으면 이 맥락은 채팅창과 파일 사이에서 쉽게 끊기고 마는데요. Doop은 이 문제를 하나의 캔버스로 가져온 디자인 도구로, 사람과 AI 에이전트가 같은 화면에서 프레임을 만들고 작업 카드·활동 기록·디자인 기준을 한곳에 남깁니다. 실제로 Codex를 MCP로 연결해 랜딩페이지와 에디터 시안까지 만들어본 과정을 정리했습니다.",
+      "keywords": [
+        "AI Agent",
+        "Coding",
+        "MCP"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "3bac4bee23f8",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "골드만삭스는 왜 트레이더에게서 클로드 코드를 뺏었을까",
+      "link": "https://yozm.wishket.com/magazine/detail/4037",
+      "date": "",
+      "summary": "골드만삭스는 왜 트레이더에게서 클로드 코드를 뺏었을까요? 블룸버그에 따르면 골드만삭스는 AI 코딩 도구를 엔지니어에게만 쓰게 했고, 스테이트 오브 AI는 그 이유를 검토 없이 쓰이는 코드, 부서 사이의 정보 차단, 비용으로 해석했습니다. 개인 AI 에이전트의 항공권 예약을 금지한 유나이티드항공, 클로드 안에서 팀과 함께 쓰는 화이트보드·시트·데이터까지. 이번 주 프로덕트 메이커가 눈여겨볼 세 가지를 정리했습니다.",
+      "keywords": [
+        "AI Agent",
+        "Claude"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "8f00d1747741",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "일본 개발 현장에서 달라진 것: 구현은 단 1시간, 검토는 반나절",
+      "link": "https://yozm.wishket.com/magazine/detail/4036",
+      "date": "",
+      "summary": "저는 아직 기능 명세서를 읽고 있는데, AI는 벌써 코드를 내놓습니다. 일본 대기업 현장에서 구현과 단위 테스트 초안을 한 시간 안팎에 받아 보지만, 그 초안을 읽고 고치는 데는 반나절 이상이 걸리곤 했죠. 조회 권한이 없는데 있다고 가정한 코드, 나중에 할 기능까지 구현한 코드가 검토에서 걸려 나왔고, 배포도 CI/CD 대신 사람이 단계별로 진행하는 방식으로 되돌렸습니다. AI가 빠르게 만든 결과에서 실제로 쓸 수 없는 가정과 하지 말아야 할 변경을 찾아내는 일, 그게 지금 이 개발자가 구현 대신 시간을 쓰는 곳입니다.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "22cdc6068524",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "엔지니어의 취향은 무기다",
+      "link": "https://yozm.wishket.com/magazine/detail/4035",
+      "date": "",
+      "summary": "우후죽순 등장하는 서비스들을 보고 있으면 묘한 감정이 든다. 그 어색함은 AI를 썼다는 사실이 아니라, 의사결정의 길목마다 사람의 흔적이 느껴지지 않는 데서 온다. 엔지니어의 취향은 근거 없는 고집이 아니라 반복된 실패와 기술적 고찰을 통해 압축된 판단 기준이다. MSA와 모놀리식, ORM과 저장 프로시저 사이에서 무엇을 포기하고 무엇을 얻을지 되물었던 경험을 지나, 평균적인 해답은 AI로도 쉽게 얻는 시대이기에 엔지니어의 취향이 강력한 무기가 될 수 있다는 결론에 이른다.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "f1e4bbd8e9a5",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "비개발 직군에 AI 가드레일 배포할 때 주의할 5가지",
+      "link": "https://yozm.wishket.com/magazine/detail/4034",
+      "date": "",
+      "summary": "이제는 비개발 직군도 직접 Git 저장소를 만들고 웹페이지를 배포하며 데이터를 가공합니다. 이 저장소를 개인 계정에 만들어도 되는지, AI가 만든 페이지를 바로 외부에 공개해도 되는지, 업무 파일이 섞인 폴더에서 에이전트를 돌려도 되는지는 기존 계정 관리나 문서 공유 기준만으로 답하기 어렵죠. PO로서 비개발 직군의 AI 활용 범위가 넓어지는 과정을 지켜보며, 접근·연결·실행 범위를 중심으로 AI 업무 가드레일을 설계한 경험을 다섯 가지로 정리했습니다.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "78987ad79c92",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI 시대 현직 개발자의 자기 효능감에 관하여",
+      "link": "https://yozm.wishket.com/magazine/detail/4033",
+      "date": "",
+      "summary": "오늘도 개발자가 안 된다고 말하던 시절을 지나, 이제 동료들은 바이브 코딩으로 필요한 툴을 직접 만들어 쓴다. 게임 회사 플랫폼 부서에서 일하는 글쓴이는 그 모습을 보며 앞으로 나는 무슨 일을 해야 할까 불안했다고 털어놓는다. 하지만 엑셀 diff 툴과 MCP 서버를 함께 고민하는 동료들을 지켜보며, 나를 움직이는 건 꼭 필요한 일을 하고 있다는 자기효능감임을 다시 확인한다. 모두가 툴을 만들 수 있게 되었다고 해서, 내가 해줄 수 있는 일까지 없어지는 건 아니었다.",
+      "keywords": [
+        "MCP",
+        "Vibe Coding"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "480a4b79b733",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "AI. vs 사람 맡길 일 고르는 기준 4가지",
+      "link": "https://yozm.wishket.com/magazine/detail/4032",
+      "date": "",
+      "summary": "‘이것도 돼?’를 넘어 이제는 어디까지 맡기고 어떤 건 내가 꼭 해야 하는지 정해야 할 때입니다. 사업관리 담당자, 법률 AI 디자이너, 프론트엔드 개발자까지 아홉 명이 먼저 맡겨보고 찾은 기준은 비슷했습니다. 맡길 가치가 있는 일을 고르고, 정해진 답은 규칙으로 묶고, 되돌리기 어려운 결정은 사람에게 남기고, 확인할 지점을 미리 설계하는 것. 경계선을 긋는 건 AI의 성능이 아니라 오류의 비용이라는 걸, 아홉 편의 레퍼런스를 분석해 네 가지로 정리했습니다.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "bfe3678510e1",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "국내 FDE 지도 2026: FDE는 무슨 일을 할까",
+      "link": "https://yozm.wishket.com/magazine/detail/4031",
+      "date": "",
+      "summary": "요즘 IT 업계에서 부쩍 자주 들리는 직군이 있습니다. 바로 FDE입니다. 사무실에서 요청을 받아 개발하는 대신, 고객 현장에 직접 들어가 문제를 찾고 실제로 돌아가는 시스템까지 만들어 내는 엔지니어를 가리키는데요. FDE라는 직무를 처음 만든 팔란티어의 공고부터 읽고, 올해 국내에서 FDE를 뽑거나 FDE 조직을 밝힌 회사 122곳을 지도로 정리했습니다.",
+      "keywords": [],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "2fa4e58e2c3b",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "개발자들이 더 이상 질문하지 않는다면",
+      "link": "https://yozm.wishket.com/magazine/detail/4029",
+      "date": "",
+      "summary": "개발자들이 더 이상 질문하지 않는다면, 그 많던 질문은 어디로 갔을까요? 2014년 한 달 20만 개를 넘던 스택오버플로 새 질문이 올해 9월 964개까지 줄었습니다. 여기에 AI가 95%를 맡으면 사람은 남은 5%를 감당할 수 있는지 묻는 SigNoz의 글, 카파시가 클로드와 대화만으로 2시간 만에 만든 해커뉴스판 유튜브 HackerTube까지. 이번 주 프로덕트 메이커가 눈여겨볼 세 가지를 정리했습니다.",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "bfd7fec4151b",
+      "source": "yozm",
+      "source_name": "요즘IT",
+      "icon": "📱",
+      "title": "깃허브 스타 42만 개 REA로 노션형 블록 에디터 구현해봤다",
+      "link": "https://yozm.wishket.com/magazine/detail/4028",
+      "date": "",
+      "summary": "그렇다면 REA를 설치하면 정말 남의 앱 기능을 알아내고 따라 만들 수 있을까요? 노션과 비슷한 오픈소스 앱 AFFiNE의 슬래시 메뉴와 블록 이동 기능을 REA로 분석하고 원본 소스와 맞춰 채점한 뒤 직접 다시 만들어 봤는데, 정리한 동작 규칙 18개 중 16개가 원본과 일치했습니다. 나머지 2개는 압축된 조건식을 반대로 읽은 해석 오류였고요. 번들 구조를 읽을 줄 아는 프론트엔드 개발자에게는 권하지만, 검증할 방법 없이 상용 서비스를 그대로 베끼는 용도로는 권하지 않는 이유까지 정리했습니다.",
+      "keywords": [
+        "Open Source"
+      ],
+      "first_seen": "2026-11-16"
     }
   ],
   "daily_stats": [
-    {
-      "date": "2026-08-18",
-      "added": 47,
-      "total": 4255
-    },
     {
       "date": "2026-08-19",
       "added": 65,
@@ -117625,30 +118063,15 @@
       "date": "2026-11-15",
       "added": 30,
       "total": 8778
+    },
+    {
+      "date": "2026-11-16",
+      "added": 34,
+      "total": 8812
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W39",
-      "keywords": {
-        "AI Agent": 61,
-        "Automation": 36,
-        "GPT": 30,
-        "Security": 22,
-        "SDK/API": 20,
-        "Claude": 13,
-        "Gemini": 11,
-        "LLM": 11,
-        "AI Safety": 11,
-        "Coding": 10,
-        "Robotics": 10,
-        "Video AI": 8,
-        "Deployment": 8,
-        "Cloud/DevOps": 8,
-        "Open Source": 7
-      }
-    },
     {
       "week": "2026-W40",
       "keywords": {
@@ -117778,23 +118201,38 @@
         "Gemini": 20,
         "SDK/API": 19,
         "Coding": 19,
-        "GPT": 17,
+        "GPT": 18,
         "Claude": 14,
         "LLM": 12,
         "Deployment": 10,
         "Optimization": 10,
         "Robotics": 9,
         "Cloud/DevOps": 9,
-        "Open Source": 7,
-        "Generative AI": 6
+        "Generative AI": 8,
+        "Open Source": 7
+      }
+    },
+    {
+      "week": "2026-W47",
+      "keywords": {
+        "AI Agent": 2,
+        "Security": 2,
+        "Developer Tools": 1,
+        "Robotics": 1,
+        "Generative AI": 1
       }
     }
   ],
   "source_stats": {
+    "techcrunch": {
+      "total": 2547,
+      "recent_7d": 112,
+      "recent_30d": 228
+    },
     "aitimes": {
-      "total": 4340,
-      "recent_7d": 208,
-      "recent_30d": 392
+      "total": 4353,
+      "recent_7d": 199,
+      "recent_30d": 405
     },
     "lycorp": {
       "total": 61,
@@ -117802,9 +118240,9 @@
       "recent_30d": 2
     },
     "openai": {
-      "total": 379,
-      "recent_7d": 19,
-      "recent_30d": 45
+      "total": 381,
+      "recent_7d": 21,
+      "recent_30d": 47
     },
     "meta_eng": {
       "total": 50,
@@ -117822,14 +118260,9 @@
       "recent_30d": 69
     },
     "nvidia_ai": {
-      "total": 212,
-      "recent_7d": 10,
-      "recent_30d": 17
-    },
-    "techcrunch": {
-      "total": 2540,
-      "recent_7d": 111,
-      "recent_30d": 221
+      "total": 213,
+      "recent_7d": 11,
+      "recent_30d": 18
     },
     "google_ai": {
       "total": 83,
@@ -117857,11 +118290,11 @@
       "recent_30d": 0
     },
     "yozm": {
-      "total": 136,
-      "recent_7d": 0,
-      "recent_30d": 34
+      "total": 147,
+      "recent_7d": 11,
+      "recent_30d": 45
     }
   },
-  "last_updated": "2026-11-15",
-  "total_articles": 8778
+  "last_updated": "2026-11-16",
+  "total_articles": 8812
 }
