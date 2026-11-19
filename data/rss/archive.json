@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": "7852cbf6f071",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "date": "2026-11-19",
+      "summary": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows h",
+      "keywords": [
+        "Automation",
+        "Benchmark",
+        "Fine-tuning"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "0f46293e3612",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "date": "2026-11-19",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "e8bf936643dd",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "date": "2026-11-19",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
       "id": "0b08a5d2f5b9",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -267,6 +307,660 @@
         "Security"
       ],
       "first_seen": "2026-11-18"
+    },
+    {
+      "id": "4739d2518717",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "date": "2026-11-18",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "32f46a407aa3",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "date": "2026-11-18",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "keywords": [
+        "AI Agent",
+        "Coding"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "c4029f8d3d08",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "date": "2026-11-18",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "keywords": [
+        "Coding",
+        "Enterprise AI",
+        "GPT"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "271c8d9c47fb",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "date": "2026-11-18",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "62857bef727a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "date": "2026-11-18",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "keywords": [
+        "AI Safety",
+        "Deployment"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "a2f695ac2f9b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "date": "2026-11-18",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "6cc0bdc2d009",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "date": "2026-11-18",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "d44535ff5d6c",
+      "source": "google_ai",
+      "source_name": "Google AI",
+      "icon": "🔵",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "date": "2026-11-18",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "88e5a492fec0",
+      "source": "deepmind",
+      "source_name": "DeepMind",
+      "icon": "🧠",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "date": "2026-11-18",
+      "summary": "",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "5d2eb708222d",
+      "source": "deepmind",
+      "source_name": "DeepMind",
+      "icon": "🧠",
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "date": "2026-11-18",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "eb5c657ba25e",
+      "source": "meta_eng",
+      "source_name": "Meta Engineering",
+      "icon": "🔷",
+      "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+      "link": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+      "date": "2026-11-18",
+      "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models.  Now, we’re sharing how we propagate ranking model improvements like architectural",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "202f78158e97",
+      "source": "meta_eng",
+      "source_name": "Meta Engineering",
+      "icon": "🔷",
+      "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+      "link": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+      "date": "2026-11-18",
+      "summary": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising tide that lifts all the boats. At Meta, we built a template",
+      "keywords": [
+        "Deployment",
+        "RAG"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "2d3bb8f13d73",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "date": "2026-11-18",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "5095af2e2b71",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "date": "2026-11-18",
+      "summary": "",
+      "keywords": [
+        "Fine-tuning"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "f99b49e5fcc5",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "date": "2026-11-18",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "2a8e5c49de3f",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "date": "2026-11-18",
+      "summary": "",
+      "keywords": [
+        "Optimization"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "f21a02eb186b",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "date": "2026-11-18",
+      "summary": "",
+      "keywords": [
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "85642e489987",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+      "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+      "date": "2026-11-18",
+      "summary": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a",
+      "keywords": [
+        "Embeddings",
+        "Optimization",
+        "Vector DB"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "6549e4eddf5f",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+      "date": "2026-11-18",
+      "summary": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "1a84cd37466d",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+      "date": "2026-11-18",
+      "summary": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model.",
+      "keywords": [
+        "Automation",
+        "Benchmark",
+        "Deployment"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "a7387a443937",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+      "date": "2026-11-18",
+      "summary": "Airbnb runs evals on real engineering tasks and uses Amazon Bedrock observability to choose models for its coding agents and control production costs. This post shows how cost per task guides model selection, why production spending can differ from eval results, and how to monitor latency, manage qu",
+      "keywords": [
+        "AI Agent",
+        "Coding"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "197ebba9bebf",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
+      "link": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
+      "date": "2026-11-18",
+      "summary": "Learn how to make RAG chatbot answers traceable with Amazon Aurora PostgreSQL, pgvector, and Amazon Bedrock Guardrails, logging sources, scores, and guardrail traces in SQL.",
+      "keywords": [
+        "Automation",
+        "Chatbot",
+        "RAG",
+        "Vector DB"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "1b7ab90d11a3",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
+      "link": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
+      "date": "2026-11-18",
+      "summary": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs), so your agents can connect to self-hosted identity providers that use a private CA. This post shows how to issue an IdP certificate with AWS Private CA, configure a credential provider to trust it, rotate the CA, a",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "73cc50bf7d9c",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "date": "2026-11-18",
+      "summary": "Learn how Salesforce uses the cross-Region inference router in Amazon SageMaker AI to turn fragmented Regional capacity into reliable model serving. Salesforce adds capacity securely across Regions and accounts while keeping its data residency commitments, and sees per request where each call was se",
+      "keywords": [
+        "Automation",
+        "Optimization",
+        "RAG"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "9f916203b8aa",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "How Social Department built culture-aware video discovery",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/",
+      "date": "2026-11-18",
+      "summary": "Social Department, an AI operating system for entertainment marketing, worked with TrackIt and AWS to build QuickSearch: single-action queries that surface shareable scenes, quotable lines, memeable frames, and trend-aligned moments across large video libraries, using TwelveLabs models on Amazon Bed",
+      "keywords": [
+        "Video AI"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "c40ae4195da3",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/",
+      "date": "2026-11-18",
+      "summary": "Many enterprises run a centralized network model: one account owns every VPC and a central firewall inspects all traffic. This post shows a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs and MCP servers in that model, with the VPC Lattice resource gateway in the netwo",
+      "keywords": [
+        "AI Agent",
+        "Enterprise AI",
+        "MCP",
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "0445747eb50e",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/",
+      "date": "2026-11-18",
+      "summary": "Stretto replaced its web-form lead capture with Tara, an AI voice agent built on Amazon Nova 2 Sonic that conducts bankruptcy intake interviews by phone and qualifies leads. See how Stretto, the AWS Generative AI Innovation Center, and CI&amp;T designed the voice architecture, validated it for sensi",
+      "keywords": [
+        "AI Agent",
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "c59c9842b761",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/",
+      "date": "2026-11-18",
+      "summary": "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow building.",
+      "keywords": [
+        "AI Agent",
+        "Coding",
+        "Enterprise AI",
+        "Reasoning"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "00973b1bcfa7",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "date": "2026-11-18",
+      "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local mod",
+      "keywords": [
+        "AI Agent",
+        "Fine-tuning",
+        "Video AI"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "5d67ac67da7b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "date": "2026-11-18",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "576b29b1a213",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "date": "2026-11-18",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "5ac4e453ed83",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "date": "2026-11-18",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "fac74cc95111",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "date": "2026-11-18",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "dcfcb32bd475",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "date": "2026-11-18",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "ccc363e11d29",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+      "date": "2026-11-18",
+      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "76d6931534fa",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "date": "2026-11-18",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "33520312c7be",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "date": "2026-11-18",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "f91436576411",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "date": "2026-11-18",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "2e49dd9ca02f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "date": "2026-11-18",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "90ca97b0101b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "date": "2026-11-18",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "keywords": [
+        "AI Coding",
+        "Claude",
+        "Coding",
+        "Developer Tools"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "3f0b5b1dbc71",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "date": "2026-11-18",
+      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "keywords": [
+        "AI Agent",
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "aa624a0de54a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "date": "2026-11-18",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "a402e5afc743",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "date": "2026-11-18",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "609b3ab24cd6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+      "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+      "date": "2026-11-18",
+      "summary": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "b26bbd76c789",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "date": "2026-11-18",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "74375866510a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "date": "2026-11-18",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "keywords": [],
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "d5373fa6c678",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+      "date": "2026-11-18",
+      "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-19"
     },
     {
       "id": "47cf1d25e644",
@@ -119700,11 +120394,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-21",
-      "added": 64,
-      "total": 4445
-    },
-    {
       "date": "2026-08-22",
       "added": 56,
       "total": 4501
@@ -120148,6 +120837,11 @@
       "date": "2026-11-18",
       "added": 74,
       "total": 8967
+    },
+    {
+      "date": "2026-11-19",
+      "added": 50,
+      "total": 9017
     }
   ],
   "sources": {},
@@ -120295,64 +120989,64 @@
     {
       "week": "2026-W47",
       "keywords": {
-        "AI Agent": 33,
-        "Automation": 19,
+        "AI Agent": 44,
+        "Automation": 26,
+        "GPT": 14,
         "Security": 13,
-        "GPT": 11,
-        "Deployment": 7,
-        "SDK/API": 7,
-        "Coding": 6,
+        "Coding": 12,
+        "Deployment": 10,
+        "SDK/API": 8,
+        "Enterprise AI": 7,
+        "Optimization": 6,
+        "Claude": 5,
+        "Gemini": 5,
+        "MCP": 5,
         "Open Source": 5,
-        "Developer Tools": 4,
-        "MCP": 4,
-        "Cloud/DevOps": 4,
-        "Claude": 4,
-        "Generative AI": 3,
-        "AI Safety": 3,
-        "Optimization": 3
+        "Developer Tools": 5,
+        "Fine-tuning": 4
       }
     }
   ],
   "source_stats": {
+    "techcrunch": {
+      "total": 2607,
+      "recent_7d": 123,
+      "recent_30d": 288
+    },
     "aitimes": {
       "total": 4413,
-      "recent_7d": 214,
+      "recent_7d": 185,
       "recent_30d": 465
     },
     "toss": {
       "total": 81,
-      "recent_7d": 4,
+      "recent_7d": 3,
       "recent_30d": 5
     },
-    "nvidia_ai": {
-      "total": 222,
-      "recent_7d": 14,
-      "recent_30d": 27
-    },
-    "techcrunch": {
-      "total": 2587,
-      "recent_7d": 123,
-      "recent_30d": 268
-    },
     "openai": {
-      "total": 397,
-      "recent_7d": 33,
-      "recent_30d": 63
+      "total": 404,
+      "recent_7d": 35,
+      "recent_30d": 70
     },
     "google_ai": {
-      "total": 85,
-      "recent_7d": 9,
-      "recent_30d": 11
-    },
-    "huggingface": {
-      "total": 210,
-      "recent_7d": 10,
-      "recent_30d": 21
+      "total": 86,
+      "recent_7d": 7,
+      "recent_30d": 12
     },
     "aws_ml": {
-      "total": 608,
-      "recent_7d": 61,
-      "recent_30d": 93
+      "total": 620,
+      "recent_7d": 67,
+      "recent_30d": 105
+    },
+    "nvidia_ai": {
+      "total": 223,
+      "recent_7d": 13,
+      "recent_30d": 28
+    },
+    "huggingface": {
+      "total": 215,
+      "recent_7d": 12,
+      "recent_30d": 26
     },
     "lycorp": {
       "total": 61,
@@ -120360,14 +121054,14 @@
       "recent_30d": 2
     },
     "meta_eng": {
-      "total": 50,
+      "total": 52,
       "recent_7d": 4,
-      "recent_30d": 6
+      "recent_30d": 8
     },
     "deepmind": {
-      "total": 86,
-      "recent_7d": 6,
-      "recent_30d": 9
+      "total": 88,
+      "recent_7d": 5,
+      "recent_30d": 11
     },
     "woowahan": {
       "total": 10,
@@ -120385,6 +121079,6 @@
       "recent_30d": 45
     }
   },
-  "last_updated": "2026-11-18",
-  "total_articles": 8967
+  "last_updated": "2026-11-19",
+  "total_articles": 9017
 }
