@@ -1,6 +1,256 @@
 {
   "articles": [
     {
+      "id": "210218952f24",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "link": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "date": "2026-11-21",
+      "summary": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "77a32261d585",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "date": "2026-11-21",
+      "summary": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which ev",
+      "keywords": [
+        "AI Agent",
+        "LLM",
+        "Optimization"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "e262e9837ef1",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "date": "2026-11-21",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "e62467858e87",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황, 20여년 전부터 직원들에게 폭언·위협…불만 제기 이어져",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217644",
+      "date": "2026-11-21",
+      "summary": "엔비디아 직원들이 젠슨 황 전 CEO의 폭언과 공개적인 모욕을 동반한 경영 방식에 20여년 전부터 불만을 제기해 온 것으로 드러났다. 엔비디아가 AI 칩 시장을 장악하며 세계적인 기업으로 성장하는 동안에도 직원들을 위협하고 인격적으로 모욕하는 관리 방식이 이어졌다는 증언이 나왔다.뉴욕타임스(NYT)는 20일(현지시간) 전·현직 직원 12명 이상과 법원 기록, 내부 문서 등을 취재한 결과를 보도하며 황 전 CEO가 오랫동안 직원들에게 모욕적인 언행과 폭력적인 위협을 가했다고 전했다.이에 따르면 황 전 CEO는 엔비디아 직원들이 회사의",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "a249ac63fdaf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "유튜브, 미 교육청들과 '중독 소송' 4조원 합의 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217647",
+      "date": "2026-11-21",
+      "summary": "구글의 유튜브가 청소년의 정신건강을 해치는 중독성 플랫폼을 설계했다는 이유로 미국 교육청들이 제기한 소송에서 30억달러(약 4조원) 규모의 합의에 근접했다. 합의가 성사되면 미국 교육청을 대상으로 한 기업 합의금 가운데 역대 최대 규모가 될 전망이다.20일(현지시간) 블룸버그에 따르면 유튜브는 수천 곳의 교육청에 약 30억달러를 지급하는 원칙적 합의에 도달했다.합의안에는 청소년을 보호하기 위한 플랫폼 기능 개선도 포함됐다. 전체 교육청의 과반이 동의해야 하며, 최종 확정까지는 수개월이 걸릴 것으로 예상된다. 소송을 담당하는 미국 캘",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "60b2c77ff689",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프 \"젠슨 황에 두 번째 기회 줘야\"…CEO 복귀 재촉구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217646",
+      "date": "2026-11-21",
+      "summary": "도널드 트럼프 미국 대통령이 젠슨 황 전 엔비디아 CEO의 복귀를 다시 한번 촉구했다. 사생활 문제로 물러났지만 미국 AI 산업의 경쟁력을 위해 다시 기회를 줘야 한다며, 시진핑 중국 국가주석도 황을 높이 평가했다고 전했다.워싱턴포스트와 CNBC에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 황 전 CEO에 대해 \"그는 좋은 사람이다. 몇 가지 잘못된 결정을 내렸지만 매우 뛰어난 인물\"이라고 평가했다.이어 \"그가 두 번째 기회를 얻기 바란다. 우리는 두 번째 기회를 주는 나라\"라며 \"엔비디아가 현명하다면 그 뛰어난",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "4a6750372afc",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217641",
+      "date": "2026-11-21",
+      "summary": "미국 민주당 하원의원들이 엔비디아가 중국으로의 반도체 불법 우회 수출 의혹을 받는 싱가포르 클라우드 기업 메가스피드에 대한 미 상무부 조사에 부당하게 개입했는지 조사에 착수했다. 엔비디아와 트럼프 행정부의 관계뿐 아니라 중국 반도체 수출통제 집행의 공정성까지 조사 대상에 올랐다.로이터와 블룸버그에 따르면 그레고리 믹스 뉴욕주 하원의원과 시드니 카믈라거-도브 캘리포니아주 하원의원은 20일(현지시간) 하워드 러트닉 상무장관에게 서한을 보내 엔비디아와 상무부 산업안보국(BIS) 조사 담당자 간의 연락 기록 및 관련 자료를 요구했다. 이들",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "0d4ded91f12e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217643",
+      "date": "2026-11-21",
+      "summary": "스페이스X의 AI 코딩 플랫폼 커서(Cursor)가 중국산 AI 모델의 사용을 단계적으로 중단하는 방안을 검토하고 있다. 미국 의회가 자국 기술 생태계에서 중국산 AI 모델의 사용 현황을 조사하면서, 기업들의 의존도를 줄이려는 움직임도 본격화하고 있다.CNBC는 20일(현지시간) 미국 하원 국토안보위원회와 중국특별위원회의 공동 보고서를 인용, 커서가 지정학적 위험을 고려해 중국에서 개발된 오픈웨이트 모델의 사용을 단계적으로 축소하는 방안을 검토 중이라고 위원회에 전달했다고 보도했다. 보고서는 미국 기술 생태계에 중국산 AI 모델이",
+      "keywords": [
+        "AI Coding"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "1ed4eef9b430",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+      "date": "2026-11-21",
+      "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 AI를 활용한 군사적 의사결정에는 인간이 개입해야 한다는 원칙에 합의했다. 양국이 AI 기술 패권을 놓고 경쟁하는 상황에서도 주요 군사작전을 AI가 독자적으로 수행해서는 안 된다는 데 뜻을 모은 것으로, 2024년 핵무기 사용 결정에 관한 합의보다 적용 범위가 넓어졌다.스콧 베선트 미국 재무장관은 20일(현지시간) CNBC 인터뷰에서 트럼프 대통령과 시 주석의 회담 성과를 설명하며 \"두 정상은 AI가 내리는 모든 군사적 결정에 인간이 항상 관여해야 하며, 주요 군사작전에서 AI가",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "2bdca5815475",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217645",
+      "date": "2026-11-21",
+      "summary": "미국 증권거래위원회(SEC)가 엔비디아의 회계 처리 문제를 조사하는 것으로 알려지면서 주가가 14% 폭락했다. 젠슨 황 전 CEO 퇴진에 이어 회계 처리와 매출 공시의 신뢰성에 대한 의문까지 제기되면서 시가총액이 알파벳 아래로 떨어지고 2008년 금융위기 이후 최장 주간 하락세를 기록했다.로이터는 20일(현지시간) 소식통 2명을 인용해 SEC 집행부서가 엔비디아의 회계 처리와 관련된 잠재적인 문제를 조사하고 있다고 보도했다.앞서 월스트리트저널(WSJ)은 지난 17일 SEC가 엔비디아를 조사하고 있다고 전했으나, 구체적인 조사 대상은",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "05b2386878ab",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217636",
+      "date": "2026-11-21",
+      "summary": "글·그림 Dr. Alf",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "7b33ebe229bd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 43 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217635",
+      "date": "2026-11-21",
+      "summary": "작은 것들에게도 한 해가 있다기계와 도구에게 감사하는 날이 있습니다.낯설게 들릴 수도 있지만, 세계 곳곳에는 실제로 그런 날이 있습니다. 일을 다한 것들에게 수고했다고 말하는 날. 너무 당연해서 한 번도 고마워한 적 없었던 것들을 다시 바라보는 날. 그런 날이 왜 필요한지를 생각하다 보면, 어느새 우리 자신의 하루를 들여다보게 됩니다.11월이 되면 거리의 색이 한꺼번에 바뀝니다. 여름 내내 초록이었던 나무는 노랗고 붉어지고, 과일가게 앞에는 감과 귤이 쌓입니다. 풍요롭고 찬란했던 계절이 가장 선명한 모습으로 지나가는 때입니다.이맘때",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "c1295cf7a1be",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "트럼프 \"해외에 데이터센터 짓는 미국 기업에 막대한 세금 부과\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217642",
+      "date": "2026-11-21",
+      "summary": "도널드 트럼프 미국 대통령이 해외에 데이터센터를 건설하는 미국 기업에 막대한 세금을 부과하겠다고 밝혔다. 미국 내 AI 인프라 투자를 늘리겠다는 취지로, 실제 시행된다면 미국 빅테크 기업들의 글로벌 데이터센터 투자에 상당한 영향을 미칠 전망이다.로이터 등에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 \"우리 기업들이 미국 밖에 데이터센터를 짓도록 허용하지 않을 것\"이라며 해외에 데이터센터를 건설하는 기업에 \"막대한 세금(tremendous tax)\"을 부과하겠다고 밝혔다.그러나 구체적인 세율과 적용 대상, 시행 시기",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "4d4940fda28e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217616",
+      "date": "2026-11-21",
+      "summary": "정부가 비수도권 AI 데이터센터 가운데 계약전력 50메가와트(MW) 이하 시설에 대한 전력계통영향평가를 면제하는 방안을 추진한다. AI 데이터센터 특구에는 평가 간소화를, 메가프로젝트와 인허가 일괄처리 대상에는 우선 심사를 도입할 계획이다.과학기술정보통신부와 기후에너지환경부는 20일 AI 데이터센터의 신속한 구축을 지원하기 위해 전력계통영향평가 제도를 개선한다고 밝혔다.정부는 이날 '인공지능 데이터센터 산업 진흥에 관한 특별법(AIDC 특별법)' 시행령을 입법예고하고, 비수도권에 신축·증축하거나 기존 시설을 전환하는 AI 데이터센터",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "5117994d261a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "베트남 수상태양광 속도…자라이성 35MW 착공·닥락성 304MW 부지 승인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217553",
+      "date": "2026-11-21",
+      "summary": "베트남 자라이성에서 35메가와트(MW) 규모의 수상태양광 발전소 착공식이 열렸다. 닥락성은 304MW 수상태양광 발전사업에 필요한 수면 포함 부지 약 354ha의 임대를 승인하며 사업 추진 절차를 진행하고 있다.자라이성 당위원회가 지난 18일(현지시간) 발표한 자료에 따르면, 이날 바우깐 수상태양광 발전소와 떠이호-쯔프롱 풍력발전소의 착공식이 함께 열렸다.바우깐 수상태양광 발전소는 바우깐 태양광에너지 주식회사가 추진하는 35MW 규모의 사업이다. 총사업비는 약 6130억동(약 318억원)이며, 약 47헥타르(ha)의 사업부지 가운데",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "74b508b006f8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "칠레 103MW 태양광발전소, 사이버공격 신고 후 80일 넘게 가동 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217563",
+      "date": "2026-11-21",
+      "summary": "칠레 북부의 103메가와트(MW) 규모 태양광발전소가 사이버공격을 원인으로 신고한 뒤 80일 넘게 가동을 재개하지 못하고 있다. 함께 설치된 98MW·312메가와트시(MWh) 규모의 배터리에너지저장장치(BESS)도 전력망에서 분리된 상태다.칠레 국가전력조정기관(CEN)이 지난 17일(현지시간) 공개한 운영일보에 따르면, 후아타콘도 태양광발전소와 BESS의 가동 가능 비율은 모두 0%로 기록됐다. 강제 분리 요청이 기록된 8월27일부터 82일이 지난 시점이다.지난 8월27일 오후 1시10분 전력조정기관 운영기록에는 발전소와 BESS의",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "c539b08c39d1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 상장 이틀째 8.5% 급락...공모가까지 근접",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217639",
+      "date": "2026-11-21",
+      "summary": "역대 최대 규모의 기업공개(IPO)를 기록한 앤트로픽이 상장 이틀 만에 주가가 급락하며 공모가에 근접했다. 엔비디아를 비롯한 주요 AI 관련주가 동반 하락하면서 앤트로픽의 상장이 AI 투자 열기를 되살릴 것이라는 기대도 꺾였다.앤트로픽 주가는 20일(현지시간) 나스닥에서 전날보다 8.5% 하락한 88.91달러에 거래를 마쳤다. 장중에는 83.05달러까지 떨어지며 공모가 83달러에 불과 5센트 차이로 근접했다.전날에는 공모가 83달러로 나스닥에 상장했다. 거래 시작과 동시에 주가가 111.50달러로 치솟으며 기업가치가 한때 2조달러를",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "fc1902f0da3a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "위성으로 본 칭하이성 태양광단지, 준공 2~5년 뒤 식생지수 28.4% 높아져",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217554",
+      "date": "2026-11-21",
+      "summary": "중국 칭하이성의 대규모 태양광 발전단지에서 준공 2~5년 후 식생지수가 공사 이전 대비 평균 28.4% 높아진 것으로 나타났다. 위성영상으로 관측한 식생의 녹색도 변화로, 식물이 자라는 면적이 같은 비율로 증가했다는 의미는 아니다.중국 허하이대와 칭하이 황허수력발전 등 공동 연구진이 지난 17일(현지시간) 국제학술지 '인포메이션 지오그래피(Information Geography)'에 온라인 공개한 논문에 따르면, 연구진은 칭하이성 궁허현 탈라탄 지역의 태양광 발전단지를 대상으로 식생 변화를 분석했다.연구 대상지는 해발 약 2920미",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "cbe5ad6827b7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽 수학자 \"클로드로 167년 난제 리만 가설 증명\"...검증 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
+      "date": "2026-11-21",
+      "summary": "앤트로픽의 수학자가 '클로드'의 도움으로 167년 동안 풀리지 않았던 수학계 최대 난제 중 하나인 '리만 가설(Riemann Hypothesis)'을 증명했다고 주장했다. 수학계의 검증을 거쳐 증명이 인정된다면 현대 수학의 가장 중요한 미해결 문제를 해결하는 동시에 AI가 인간 수학자와 함께 역사적인 연구 성과를 만들어낸 사례가 될 전망이다.앤트로픽의 수학자 레벤트 알포게는 20일(현지시간) 개인 홈페이지에 공개한 글에서 \"클로드와 함께 리만 가설의 증명을 발견했다고 믿는다\"라고 밝혔다.하버드대학교 출신의 정수론 전문가인 알포게는",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "46f124c73d47",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[11월20일] 구글 \"AGI는 끝이 아니다\"…AGI 이후 4가지 발전 경로 제시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217605",
+      "date": "2026-11-21",
+      "summary": "그동안 AI 업계의 관심은 'AGI가 언제 등장할 것인가'에 집중돼 왔습니다. 그러나 최근 AI 발전이 빨라지고 2030년 무렵 AGI에 도달할 것이라는 전망까지 나오면서, 논의는 'AGI 이후에는 무엇이 일어날 것인가'로 이어지고 있습니다.이런 가운데 구글 딥마인드가 AGI 이후 AI가 발전할 수 있는 네 가지 기술적 경로를 제시했습니다. 인간 수준의 지능을 확보하더라도 AI의 발전은 멈추지 않으며, 인간 전문가 집단의 능력까지 뛰어넘는 새로운 단계로 진입할 수 있다는 것입니다.구글 딥마인드의 팀 게네바인 연구원은 19일(현지시간",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
       "id": "209668fe6325",
       "source": "aws_ml",
       "source_name": "AWS ML",
@@ -350,6 +600,467 @@
         "Security"
       ],
       "first_seen": "2026-11-20"
+    },
+    {
+      "id": "7121ba7c9173",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "date": "2026-11-20",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "c2d364619a44",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "date": "2026-11-20",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "keywords": [
+        "GPT",
+        "RAG"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "3c753634dc1f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "date": "2026-11-20",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "c1386e2c0414",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "date": "2026-11-20",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "d74af1cfb4b1",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "date": "2026-11-20",
+      "summary": "",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "bf515a3b31be",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "date": "2026-11-20",
+      "summary": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter",
+      "keywords": [
+        "Automation",
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "f518160b7296",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "date": "2026-11-20",
+      "summary": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS Priva",
+      "keywords": [
+        "Automation",
+        "Optimization"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "0a44f21c3d03",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+      "date": "2026-11-20",
+      "summary": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, gi",
+      "keywords": [
+        "Automation",
+        "LLM"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "ae6278c20e4e",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "date": "2026-11-20",
+      "summary": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "e5ec5a43ebde",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+      "date": "2026-11-20",
+      "summary": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "e7c0769fe527",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "date": "2026-11-20",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "cc0a4dad659b",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "date": "2026-11-20",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "f509e696672e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "date": "2026-11-20",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "3f5a2dcba783",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "date": "2026-11-20",
+      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "cc04f916f5cb",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Chips can survive the space environment — can their financing?",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "date": "2026-11-20",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "e3a5bfebf397",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "date": "2026-11-20",
+      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "0bd1819066b6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "date": "2026-11-20",
+      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+      "keywords": [
+        "Cloud/DevOps",
+        "Security"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "a2263c052fc4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "date": "2026-11-20",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "6c7386711b10",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "date": "2026-11-20",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "df90abe9ffb5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "date": "2026-11-20",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "9c652f409ab4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The US national cyber director is stepping down",
+      "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "date": "2026-11-20",
+      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "d294153382e2",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217633",
+      "date": "2026-11-20",
+      "summary": "구글이 '제미나이 4'에 화학 원소 이름을 붙이면서 독특한 작명법이 화제가 되고 있다. 신형 모델이 나올 때마다 이용자들이 다음 원소를 예상하는 가운데, 구글도 주기율표를 활용한 모델 선택 기능과 영상을 선보이며 이러한 관심을 즐기는 모습이다.구글 딥마인드의 개발자 경험 총괄인 오마르 산세비에로는 19일(현지시간) X에 \"출시는 계속될 것(Shipping will continue)\"이라는 짧은 글을 올렸다. 구글이 최근 '제미나이 4 네온'까지 잇달아 출시한 상황에서 추가 모델의 등장을 예고한 것으로 받아들여졌다.구글은 최근 '아르",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "47a9c59f53c7",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217630",
+      "date": "2026-11-20",
+      "summary": "개발사가 공개되지 않은 AI 모델 '게슈탈트(Gestalt)'가 실제 기업의 웹사이트와 앱 제작 과제를 활용한 디자인 평가에서 인간 전문 디자이너와 주요 AI 기업의 모델을 모두 제치고 1위를 차지했다. 전문 디자이너들이 직접 결과물을 비교하는 블라인드 평가에서 인간이 제작한 디자인보다 높은 점수를 받은 것이다.미국의 프리랜서 창작 전문가 플랫폼 콘트라(Contra)의 연구 조직 콘트라 랩스는 18일(현지시간) AI 평가 기업 벤치플로우(BenchFlow)와 공동 개발한 '프론티어 디자인 벤치마크(Frontier Design Ben",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "619a2d2bf693",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217632",
+      "date": "2026-11-20",
+      "summary": "오픈AI가 AI 모델의 응답 속도에 따라 API 요금을 차등 적용하는 새로운 과금 방식을 선보였다. 개발자가 응답 완료까지 기다릴 수 있는 시간을 길게 설정하면 최대 40%까지 비용을 절감할 수 있어, 대규모 AI 작업을 수행하는 기업과 개발자의 비용 부담을 줄일 수 있게 됐다.오픈AI는 18일(현지시간) API 요청의 완료 목표 시간을 2시간 또는 8시간으로 설정하면 요금을 할인해 주는 새로운 옵션을 도입했다. 2시간을 선택하면 표준 요금보다 30%, 8시간을 선택하면 40% 저렴하다. 설정한 시간은 처리 완료 목표 시간으로, 작",
+      "keywords": [
+        "GPT",
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "e1c0486db824",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217629",
+      "date": "2026-11-20",
+      "summary": "메타가 AI 에이전트가 작업 경험을 바탕으로 기억 관리 방식을 스스로 개선하고, 이를 모델 학습에도 반영하는 기술을 공개했다. 최근 오픈AI와 앤트로픽이 AI를 활용한 연구개발 자동화와 자기개선 성과를 잇달아 발표한 가운데, 메타도 기억 관리 능력을 AI 스스로 발전시키는 방법을 제시했다.메타는 19일(현지시간) 공식 연구 발표를 통해 AI 에이전트가 어떤 정보를 기억하고 언제 다시 불러올지 결정하는 지침을 스스로 개선하는 '자기개선 메모리(Self-Improving Memory)' 기술을 공개했다.핵심은 AI가 작업 과정에서 발견",
+      "keywords": [
+        "AI Agent",
+        "Automation"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "def93796c9b5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "캘리포니아주, 엔비디아에 소환장...중국 기밀 유출·투자자 기만 조사",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217637",
+      "date": "2026-11-20",
+      "summary": "미국 캘리포니아주 법무부가 젠슨 황 전 엔비디아 CEO와 중국 간 연관성 의혹을 둘러싸고 엔비디아에 대한 조사에 착수했다. 황 전 CEO와 회사의 행위로 중국에 첨단 AI 칩이나 기밀 정보가 전달됐는지, 엔비디아가 관련 위험을 투자자들에게 제대로 알렸는지 등을 조사할 예정이다.캘리포니아주 법무부는 19일(현지시간) 공식 성명을 통해 롭 본타 법무장관이 엔비디아에 조사 관련 소환장을 발부했다고 밝혔다. 조사 대상에는 회사와 황 전 CEO의 행동으로 중국이 첨단 칩이나 기밀 정보를 확보했는지, 엔비디아가 투자자와 대중에게 관련 위험을",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "239af34dba38",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217634",
+      "date": "2026-11-20",
+      "summary": "미국 상무부가 엔비디아와 AMD의 AI 칩 약 88만개를 중국 기업에 수출하도록 승인한 사실이 공개됐다. 전체 승인 물량의 30% 이상은 미 국방부가 중국군 연계 기업으로 지정했거나 이후 지정한 업체들에 배정된 것으로 나타나, 수출 허가 심사 과정에 대한 논란이 커질 전망이다.블룸버그와 로이터에 따르면, 미 하원 외교위원회는 19일(현지시간) 도널드 트럼프 행정부가 2025년 12월부터 2026년 5월까지 엔비디아와 AMD의 AI 칩 약 87만9000개를 중국 기업에 수출하도록 승인했다고 밝혔다. 해당 기간 기업들이 신청한 수출 물",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "1b3aab12d7e5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217626",
+      "date": "2026-11-20",
+      "summary": "오픈AI가 '코덱스'를 활용해 챗GPT의 성능 저하 원인을 찾아내고 수정까지 지원하는 내부 자동화 시스템을 공개했다. 성능 문제가 발생하면 AI 에이전트가 로그와 코드를 분석해 원인을 파악하고 수정안을 작성하며, 배포 후에는 문제가 해결됐는지도 확인한다.오픈AI는 19일(현지시간) 코덱스 기반의 내부 성능 관리 시스템 '퍼포먼스 팩토리(Performance Factory)'의 개발 과정과 운영 방식을 공개했다. 성능 저하 감지부터 원인 분석, 수정안 제안, 배포 후 검증까지 일련의 작업을 자동화하는 시스템이다.도입 이후 3개월여 동",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "GPT"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "ffa10e3871bd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217606",
+      "date": "2026-11-20",
+      "summary": "구글이 맥용 '제미나이' 앱에 컴퓨터를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 도입했다. 앤트로픽과 오픈AI가 1~2년 전부터 선보인 기능으로, 구글도 기존 개발자용 기술을 일반 이용자에게 확대하면서 AI 에이전트 경쟁에 본격적으로 뛰어들었다.구글은 19일(현지시간) 공식 블로그를 통해 맥용 제미나이 앱에 컴퓨터 유즈 기능을 추가했다고 밝혔다. 사용자가 프롬프트에 '@Computer use'를 입력하고 원하는 작업을 설명하면, 제미나이가 필요한 앱을 실행하고 마우스 클릭과 키보드 입력, 메뉴 탐색, 양식 작성",
+      "keywords": [
+        "AI Agent",
+        "Gemini",
+        "Prompt"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "72e5259fe284",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[게시판] 셀렉트스타, 출판협회와 AI 학습용 출판데이터 공급 협력 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217631",
+      "date": "2026-11-20",
+      "summary": "■ 셀렉트스타(대표 김세엽)는 대한출판문화협회와 저작권자 및 출판권자의 권리를 보호하면서 고품질 AI 학습용 출판데이터를 공급하기 위한 업무협약(MOU)을 체결했다고 밝혔다. 양측은 ▲출판데이터 정제·가공·구조화·품질 검증 관련 기술 교류 ▲AI 학습용 데이터 공급 체계 마련 ▲출판데이터 수요처 관련 사업 공동 참여 등을 진행한다. 셀렉트스타는 광학문자인식(OCR)과 문서 레이아웃 분석(DLA) 기술을 활용한 문서 전처리 서비스를 활용해 기술협력을 추진한다.■ 아마존웹서비스(AWS)는 미래에셋증권에 생성형 AI 기반 '상품 지식 A",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "ccb6262316ac",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "뉴로퓨전, AI 미래 예측 벤치마크서 공동 1위...구글·오픈AI 앞서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217627",
+      "date": "2026-11-20",
+      "summary": "국내 AI 전문 뉴로퓨전이 글로벌 AI 미래 예측 벤치마크에서 구글 딥마인드와 오픈AI, 앤트로픽 등 주요 AI 기업을 앞서며 공동 1위를 기록했다. 경제·금융 지표와 주요 국제 사건의 발생 가능성을 예측하는 평가에서 자체 개발한 AI 시스템의 경쟁력을 입증했다는 설명이다.뉴로퓨전(대표 최한철)은 20일 글로벌 AI 예측 성능 평가인 '포캐스트벤치(ForecastBench)' 종합 리더보드에서 17일 기준 종합 69.4점으로 최상위 성적을 기록했다고 밝혔다. 뉴로퓨전은 앞서 공식 게시물을 통해 익명 참가팀을 포함하면 공동 1위에 해",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "540bf813d89c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217602",
+      "date": "2026-11-20",
+      "summary": "애플이 기존 '시리 AI'보다 복잡한 업무를 자율적으로 처리할 수 있는 범용 AI 에이전트 개발에 나섰다. 사용자를 대신해 여러 앱과 웹사이트를 조작하고 코드 작성과 디버깅까지 수행하는 시스템으로, 메타와 오픈AI 등 경쟁사의 AI 에이전트에 대응하려는 움직임이다.블룸버그는 19일(현지시간) 애플이 최근 공개한 채용 공고를 통해 이 같은 개발 계획을 드러냈다고 보도했다.애플은 '능동형 에이전트 AI(Agentic AI·Proactive)' 개발을 이끌 수석 엔지니어링 관리자를 모집하며, 사람처럼 컴퓨터를 사용하고 여러 단계의 작업을",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "04a35bf09601",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "모레, LLM 추론 효율 높이는 프레임워크 ‘TIDE’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217599",
+      "date": "2026-11-20",
+      "summary": "모레(대표 조강원)는 대형언어모델(LLM)의 추론 성능과 효율을 높이는 자기 개선형 추론 프레임워크 ‘TIDE’를 공개했다고 20일 밝혔다. TIDE는 미국 시카고에서 열린 고성능 컴퓨팅(HPC) 컨퍼런스 '슈퍼컴퓨팅 2026'에서 처음 발표됐다.TIDE는 실제 추론 과정에서 생성되는 데이터를 활용해 보조 모델을 지속적으로 개선하고, LLM의 추론 속도와 컴퓨팅 자원 활용 효율을 높이는 기술이다. 사용자 요청 변화에 따라 AI 추론 시스템이 스스로 최적의 실행 방식을 찾는 것이 특징이다.작은 보조 모델이 먼저 여러 토큰을 예측하면",
+      "keywords": [
+        "LLM"
+      ],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "992f00d1ebcd",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI가 먼저 걸렀다…스팸 데이터 개방으로 대량 악성문자·스팸전화 수신 전 차단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217628",
+      "date": "2026-11-20",
+      "summary": "국민이 신고한 스팸 데이터를 AI로 분석해 민간과 공공기관에 개방한 결과 악성 문자 5억건과 스팸 전화 1200만건이 이용자 수신 전에 차단됐다.한국인터넷진흥원(KISA)과 방송미디어통신위원회는 20일 서울 피스앤파크 컨벤션에서 ‘2026 스팸 데이터 개방 성과 공유회'를 개최하고 이 같은 내용을 공개했다.KISA는 불법스팸이 단순 광고를 넘어 불법도박, 불법금융, 불법의약품, 불법성인물, 피싱 등 범죄 수단으로 쓰이고 있다며, 특히 음성스팸의 증가를 강조했다.KISA와 방송미디어통신위원회는 국민이 신고한 대규모 스팸 데이터를 AI",
+      "keywords": [],
+      "first_seen": "2026-11-21"
+    },
+    {
+      "id": "8b6f32177077",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "디자인 시스템 만들던 디자이너가 3D 그래픽을 그린다면",
+      "link": "https://toss.tech/article/bankbook_graphic",
+      "date": "2026-11-20",
+      "summary": "통장 개설 UI를 그리면서 AI와 함께 상상의 폭을 넓혀 본 과정을 소개합니다.",
+      "keywords": [],
+      "first_seen": "2026-11-21"
     },
     {
       "id": "7852cbf6f071",
@@ -121396,11 +122107,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-23",
-      "added": 30,
-      "total": 4531
-    },
-    {
       "date": "2026-08-24",
       "added": 18,
       "total": 4549
@@ -121844,6 +122550,11 @@
       "date": "2026-11-20",
       "added": 74,
       "total": 9091
+    },
+    {
+      "date": "2026-11-21",
+      "added": 55,
+      "total": 9146
     }
   ],
   "sources": {},
@@ -121991,53 +122702,63 @@
     {
       "week": "2026-W47",
       "keywords": {
-        "AI Agent": 59,
-        "Automation": 39,
-        "Security": 19,
-        "GPT": 17,
+        "AI Agent": 65,
+        "Automation": 46,
+        "GPT": 20,
+        "Security": 20,
         "Coding": 16,
+        "SDK/API": 14,
         "Deployment": 13,
-        "SDK/API": 12,
+        "Optimization": 11,
         "Open Source": 10,
+        "Gemini": 10,
         "Enterprise AI": 9,
-        "Optimization": 9,
-        "Gemini": 8,
+        "LLM": 8,
+        "Claude": 7,
         "Developer Tools": 7,
-        "Claude": 6,
-        "Speech/Audio": 6,
-        "AI Safety": 5
+        "Speech/Audio": 6
       }
     }
   ],
   "source_stats": {
     "aws_ml": {
-      "total": 635,
-      "recent_7d": 69,
-      "recent_30d": 120
+      "total": 642,
+      "recent_7d": 65,
+      "recent_30d": 127
     },
     "techcrunch": {
-      "total": 2626,
-      "recent_7d": 126,
-      "recent_30d": 307
+      "total": 2638,
+      "recent_7d": 118,
+      "recent_30d": 319
     },
     "aitimes": {
-      "total": 4443,
+      "total": 4473,
       "recent_7d": 185,
-      "recent_30d": 495
+      "recent_30d": 525
+    },
+    "lycorp": {
+      "total": 62,
+      "recent_7d": 1,
+      "recent_30d": 3
     },
     "openai": {
-      "total": 409,
-      "recent_7d": 36,
-      "recent_30d": 75
+      "total": 412,
+      "recent_7d": 35,
+      "recent_30d": 78
     },
     "google_ai": {
       "total": 88,
-      "recent_7d": 6,
+      "recent_7d": 5,
       "recent_30d": 14
+    },
+    "nvidia_ai": {
+      "total": 225,
+      "recent_7d": 14,
+      "recent_30d": 30
     },
     "deepmind": {
       "total": 88,
-      "recent_7d": 4,
+      "recent_7d": 3,
       "recent_30d": 11
     },
     "meta_eng": {
@@ -122046,24 +122767,14 @@
       "recent_30d": 8
     },
     "huggingface": {
-      "total": 215,
+      "total": 217,
       "recent_7d": 11,
-      "recent_30d": 26
-    },
-    "nvidia_ai": {
-      "total": 225,
-      "recent_7d": 15,
-      "recent_30d": 30
+      "recent_30d": 28
     },
     "toss": {
-      "total": 81,
-      "recent_7d": 3,
-      "recent_30d": 5
-    },
-    "lycorp": {
-      "total": 62,
-      "recent_7d": 2,
-      "recent_30d": 3
+      "total": 82,
+      "recent_7d": 4,
+      "recent_30d": 6
     },
     "woowahan": {
       "total": 10,
@@ -122081,6 +122792,6 @@
       "recent_30d": 45
     }
   },
-  "last_updated": "2026-11-20",
-  "total_articles": 9091
+  "last_updated": "2026-11-21",
+  "total_articles": 9146
 }
