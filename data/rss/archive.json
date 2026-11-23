@@ -1,6 +1,160 @@
 {
   "articles": [
     {
+      "id": "ca5d392ce76c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "date": "2026-11-23",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "d1ddf7475b6a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217688",
+      "date": "2026-11-23",
+      "summary": "싱가포르 데이터센터 기업 데이원(DayOne)이 최대 50억달러(약 6조7000억원)를 조달하려던 미국 기업공개(IPO) 계획을 잠정 보류한 것으로 알려졌다. 호주 퍼머스와 에어트렁크에 이어 데이원까지 상장을 미루면서 AI 데이터센터 기업의 높은 기업가치와 막대한 투자비 부담에 대한 시장의 의구심이 커지고 있다.블룸버그는 20일(현지시간) 소식통을 인용, 데이원이 미국 IPO 계획을 보류했다고 보도했다. 당초 올해 4분기 최대 50억달러를 조달할 계획이었지만, AI 인프라 기업들의 주가 하락과 기업가치에 대한 투자자들의 평가가 달라",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "842ebc916bbb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217680",
+      "date": "2026-11-23",
+      "summary": "미국 캘리포니아주가 엔비디아의 중국 AI 칩 판매 의혹과 관련해 형사법 위반 가능성까지 조사하고 있다. 위법 행위가 확인되면 불법 거래 수익 환수와 판매 금지 명령은 물론 형사 사건으로 이어져 별도의 금전적 처벌을 받을 수도 있다.블룸버그에 따르면, 롭 본타 캘리포니아주 법무장관은 20일(현지시간) 엔비디아와 젠슨 황 전 CEO가 중국에 첨단 AI 칩을 판매하는 과정에서 투자자와 대중에게 허위 정보를 제공했는지 조사하고 있다고 밝혔다.그는 \"투자자와 대중을 오도하는 행위를 금지하는 캘리포니아주의 민사·형사 법률이 기본적인 조사 대상",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "83d18a42f3f5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "래블업, 미국 시장 겨냥 현지 인사이트 엔터프라이즈와 맞손",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217685",
+      "date": "2026-11-23",
+      "summary": "AI 인프라 소프트웨어 전문 래블업(대표 신정규)은 자사의 미국 자회사 래블업USA가 현지 기업용 솔루션 전문 '인사이트 엔터프라이즈'와 업무 제휴를 맺었다고 23일 밝혔다.양사는 이번 제휴를 통해 복잡성이 커지는 엔터프라이즈 환경에서 고객이 AI 인프라를 평가·도입·확장하는 전 과정을 함께 지원하기로 했다. 인사이트 엔터프라이즈는 클라우드, 데이터·AI, 모던 인프라, 사이버보안, 인텔리전트 엣지 등 영역에서 폭넓은 역량을 보유하고 있다.신정규 래블업 대표는 \"이번 제휴로 세계 최대 AI 인프라 시장인 미국에 백엔드.AI를 공급할",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "22550bf26640",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217683",
+      "date": "2026-11-23",
+      "summary": "중국의 AI 투자 열기가 빠르게 식으면서 주요 기술주 지수에 포함된 기업들의 시가총액이 5개월 만에 1조7000억달러(약 2300조원) 감소했다. 높은 기업가치와 미국의 반도체 규제, AI 투자 수익성에 대한 의문이 겹치면서 상반기 급등했던 중국 기술주가 하반기 들어 가파른 하락세를 보이고 있다.21일(현지시간) 블룸버그가 집계한 자료에 따르면, 중국 기술주 중심의 주요 3개 지수에서 6월 말 이후 사라진 시가총액은 총 1조7000억달러에 달한다. 상반기 기록적인 상승세를 보였던 AI 모델 개발사 Z.ai와 광모듈 업체 중지 이노라",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "c926a418d169",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앨리스 황 뒤 숨은 실세 기소...엔비디아 칩 중국 유출 거래망 주도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217678",
+      "date": "2026-11-23",
+      "summary": "엔비디아의 첨단 AI 칩을 동남아시아를 거쳐 중국으로 빼돌린 것으로 의심받는 거래망의 핵심 운영자로 중국인 리밍이 지목됐다. 젠슨 황 전 엔비디아 CEO의 연인으로 알려진 앨리스 황이 사업의 전면에 나섰지만, 실제로는 리밍이 메가스피드 등 관련 기업의 주요 의사결정에 관여하며 거래망을 주도했다는 보도가 나왔다.월스트리트저널(WSJ)은 21일(현지시간) 정통한 소식통들을 인용, 리밍이 메가스피드를 비롯해 엔비디아 칩을 거래한 여러 기업을 연결하는 핵심 인물이었다고 보도했다.앨리스 황과 그의 남편 강웨이는 리밍과 수년간 사업 관계를 유",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "2dcb7afb4461",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 안경 '몰래 촬영' 막는다…촬영 표시 탑재·사적 촬영 고지 의무화 법안 발의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217681",
+      "date": "2026-11-23",
+      "summary": "AI 안경으로 촬영시 상대방이 이를 알 수 있도록 하는 법안이 발의됐다. 제조 단계부터 촬영표시 기능 탑재를 의무화하고, 업무 목적 외 개인의 사적 촬영시에도 촬영사실 고지의무를 지우는 내용을 담고 있다.국회 과학기술정보방송통신위원회 소속 이주희 더불어민주당 의원은 23일 정보통신망법과 개인정보보호법 일부개정법률안, 이른바 '스마트글래스 불법촬영 방지법' 2건을 대표 발의했다고 밝혔다. 제조·수입 단계의 기기 기준과 이용자의 고지 의무를 함께 규정한 게 핵심이다.정보통신망법 개정안은 AI 안경 등 착용형 영상촬영기기의 제조·수입자에",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "be833b461316",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 재무장관, 젠슨 황 복귀에 \"수출 규제 위반 책임부터 확인해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217675",
+      "date": "2026-11-23",
+      "summary": "스콧 베선트 미국 재무장관이 젠슨 황 전 엔비디아 CEO의 복귀 문제에 대해 수출 통제 위반 의혹의 책임 소재를 먼저 확인해야 한다는 입장을 밝혔다. 황 전 CEO의 개인적 문제와 엔비디아의 규정 준수 체계를 구분해야 한다는 것으로, 도널드 트럼프 대통령이 공개적으로 지지한 복귀 가능성에 대해서도 조사 결과가 중요하다고 강조했다.베선트 장관은 22일(현지시간) CBS '페이스 더 네이션' 인터뷰에서 엔비디아의 중국 AI 칩 판매와 관련해 임시 경영진과 이사회 주요 인사, 법률 대리인들과 접촉하고 있지만 아직 충분한 답변을 받지 못했",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "4bf7b41af1e1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "비드래프트, AI 보안 커널 공개 검증…70명 참가해 공격 사례 245건 제출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217670",
+      "date": "2026-11-23",
+      "summary": "비드래프트가 AI 에이전트의 위험한 도구 실행을 차단하는 보안 기술을 공개 검증하는 해커톤을 진행하고 있다. 현재까지 약 70명이 참가해 245건의 공격 사례를 제출했으며, 회사는 이 가운데 확인된 취약점 90여 종을 보안 커널에 반영했다고 밝혔다.비드래프트(대표 김민식)는 AI 보안 커널 '비커널(ViKernel)'을 대상으로 외부 참가자가 취약점을 찾아 공격하는 'AI 모의해킹 해커톤'을 운영 중이라고 23일 밝혔다. 전체 상금 규모는 4500달러이며, 참가자는 허깅페이스 계정과 웹 브라우저만으로 참여할 수 있다.해커톤은 AI",
+      "keywords": [
+        "AI Agent",
+        "Security"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "b41de5a3b8f6",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] The RLHF Book 한국어판",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217619",
+      "date": "2026-11-23",
+      "summary": "The RLHF Book 한국어판네이선 램버트 | 책만2026년 11월 19일추천이유이 책은 LLM 성능 향상을 위한 RLHF의 핵심 구현과 직접 정렬 알고리즘을 다루며, 현업 엔지니어와 AI 연구자가 모델 정렬의 실무 기초를 탄탄히 다질 수 있도록 합니다.상세보기 출간 소식이 알려지자, 입고 일정을 묻는 문의가 먼저 들어왔다. 묻는 이들은 대개 모델을 직접 다루는 쪽이었다. 공개 모델을 받아 미세조정까지는 해 봤는데, 그다음 단계인 선호 학습과 강화학습을 차례 로 정리한 책이 있느냐는 질문이다. 영풍문고 북마스터는 이 질문에 책만",
+      "keywords": [
+        "Fine-tuning",
+        "LLM"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "e5cd84d5b663",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217665",
+      "date": "2026-11-23",
+      "summary": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평가했다.야쿠브 파초키 오픈AI 최고과학책임자는 22일(현지시간) '퍼플렉시티와 지능(Perplexity and Intelligence)'이라는 글을 발표하고, AI의 지능 발전을 추적할 수 있는 공통 지표와 개발 제한선을",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "e4fdd70ef0a7",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "목적마다, 상품마다 늘던 모델을 하나로: 금융 도메인에 멀티태스크 학습 적용하기",
+      "link": "https://toss.tech/article/multi-task-learning-in-finance",
+      "date": "2026-11-23",
+      "summary": "목적과 상품이 늘 때마다 같이 늘어나던 모델을, 늘어나도 하나로 유지되는 구조로 바꾼 이야기",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "cda6b48985da",
       "source": "aws_ml",
       "source_name": "AWS ML",
@@ -154,6 +308,162 @@
       "summary": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러(약 1350조원)에 인수하는 초대형 거래를 검토한 것으로 알려졌다. AI 반도체 공급망의 핵심인 고대역폭메모리(HBM) 사업까지 확보하려는 구상이었지만, 막대한 인수 자금과 한국 정부의 승인 문제 등으로 현재는 추진하지 않고 있다.디 인포메이션은 20일(현지시간) 복수의 소식통을 인용, 손 회장이 최근 월가 금융기관들과 접촉해 SK하이닉스 인수에 필요한 자금 조달 가능성을 타진했다고 보도했다.소프트뱅크 대변인은 \"회사는 다양한 기회를 검토하고 있으며, 이번 거래는 더 이상 적극적으로",
       "keywords": [],
       "first_seen": "2026-11-22"
+    },
+    {
+      "id": "d2fc1e262b4c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "date": "2026-11-22",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "keywords": [
+        "Developer Tools"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "515b29c7e877",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "date": "2026-11-22",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "772a602107ca",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "date": "2026-11-22",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "e485a29793b8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The best apps to make new friends right now",
+      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "date": "2026-11-22",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "9d8fa306d219",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "date": "2026-11-22",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "290d35fa760c",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "date": "2026-11-22",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "c55215d90850",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Can a TV be too large? An investigation",
+      "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "date": "2026-11-22",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "2cf51c938140",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "알트먼, 메타의 딥페이크 영상에 등장…메타 \"정책 위반 아니다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217664",
+      "date": "2026-11-22",
+      "summary": "메타의 최고AI책임자(CAIO)가 경쟁사 오픈AI의 샘 알트먼 CEO를 등장시킨 AI 딥페이크 영상을 소셜미디어에 게시해 눈길을 끌고 있다. 메타의 AI 에이전트를 홍보하면서 경쟁사 수장을 희화화한 것으로, 메타는 해당 영상이 AI 생성 콘텐츠임을 표시했기 때문에 자사 정책에 어긋나지 않는다고 밝혔다.더 버지는 최근 알렉산더 왕 메타 CAIO가 이달 초 인스타그램에 게시한 영상이 경쟁사 CEO의 모습을 AI로 합성한 콘텐츠라는 점에 주목했다. 왕 CAO는 메타의 소비자용 AI 에이전트 '뮤즈(Muse)'를 홍보하기 위해 제작된 이",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "acb26d49ca67",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI \"AI가 연구 작업 절반 스스로 완료\"…7개월 만에 성공률 2배",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+      "date": "2026-11-22",
+      "summary": "오픈AI의 에이전트가 인간에게 2~4시간 걸리는 AI 연구 작업을 스스로 완료하는 비율이 7개월 만에 23%에서 46%로 높아진 것으로 나타났다. 연구자들은 AI 덕분에 생산성이 크게 높아졌다고 평가했지만, 새로운 연구 아이디어를 구상하고 중요한 결정을 내리는 역할은 여전히 인간이 담당하는 것으로 조사됐다.오픈AI는 18일(현지시간) AI가 사내 연구개발을 얼마나 빠르게 변화시키고 있는지 분석한 두 번째 연구 가속 보고서 '들쭉날쭉한 프론티어(The Jagged Frontier)'를 공개했다. 지난 9월 첫 보고서에 이어 AI 에이",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "2ae07b4114d8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 이슈트렌드] 수능 AI 부정행위 논란 속 한덕수 판결 주목…앤트로픽 상장에도 기술주 약세",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217662",
+      "date": "2026-11-22",
+      "summary": "AI타임스와 이스트에이드의 11월 셋째 주(11월13~19일) 이슈 분석 결과, 수능을 비롯한 각종 시험의 AI 부정행위 논란과 한덕수 전 국무총리 내란 선고, 앤트로픽 상장에도 이어진 기술주 약세 등이 주요 관심사로 나타났다.이번 주 검색량 1위는 '수능 스마트기기 반납(4.07%)'이 차지했다. 세무사·법학적성시험(LEET·리트) 등 각종 시험에서 AI 부정행위 논란이 잇따르자, 정부가 대대적인 대응에 나섰다.올해 대학수학능력시험(수능)에서는 전자기기 관련 부정행위가 111건 적발된 것으로 나타났으며, 최교진 교육부 장관은 대응",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "8d3ef7c34715",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황의 '악수 거래', 엔비디아 경영 위험으로…공급망 유지 시험대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217663",
+      "date": "2026-11-22",
+      "summary": "젠슨 황 전 엔비디아 CEO의 개인적 신뢰에 기반한 거래 방식이 그의 퇴진 이후 새로운 경영 위험으로 떠올랐다. 주요 공급업체와 정식 계약보다 개인적 관계를 중시했던 만큼, 엔비디아가 기존 공급망과 투자 관계를 안정적으로 유지할 수 있을지가 과제로 제기됐다.월스트리트저널(WSJ)은 21일(현지시간) 이러한 비공식 거래 관계가 엔비디아의 기업 지배구조와 사업 지속성에 대한 의문으로 이어지고 있다고 지적했다.이 문제를 공개적으로 제기한 인물은 엔비디아의 주요 고객인 일론 머스크 CEO다. 머스크는 최근 X에서 \"젠슨은 엔비디아의 공급망",
+      "keywords": [],
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "8814f6fe5a02",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "유수연 네이션에이 대표 \"AI 영상 무제한 생성…비용 경쟁력으로 승부\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217427",
+      "date": "2026-11-22",
+      "summary": "\"3분짜리 홍보 영상을 만드는 데 50만원이 들었어요. AI 드라마 연재를 위해 일주일에 300만원 넘게 써요.\"AI 영상 생성 품질은 크게 향상됐지만, 원하는 결과를 얻으려면 여전히 생성을 반복해야 한다. 대다수 서비스가 영상 생성 시 크레딧을 차감하는 종량제이기 때문에 수정과 재생성을 거듭할수록 비용이 늘어난다.AI 영상 생성 플랫폼 '러다이트(Ludyte)'를 운영하는 유수연 네이션에이 대표는 이러한 비용 문제를 해결하기 위해 월정액 무제한 생성 방식을 도입했다. 외부 모델 API 대신 자체 GPU에서 오픈웨이트 모델을 직접",
+      "keywords": [
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-23"
     },
     {
       "id": "210218952f24",
@@ -122379,11 +122689,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-25",
-      "added": 56,
-      "total": 4605
-    },
-    {
       "date": "2026-08-26",
       "added": 63,
       "total": 4668
@@ -122827,30 +123132,15 @@
       "date": "2026-11-22",
       "added": 21,
       "total": 9167
+    },
+    {
+      "date": "2026-11-23",
+      "added": 24,
+      "total": 9191
     }
   ],
   "sources": {},
   "weekly_trends": [
-    {
-      "week": "2026-W40",
-      "keywords": {
-        "AI Agent": 76,
-        "Security": 25,
-        "GPT": 24,
-        "Automation": 23,
-        "SDK/API": 18,
-        "Claude": 15,
-        "LLM": 15,
-        "AI Safety": 14,
-        "Coding": 14,
-        "Gemini": 9,
-        "Speech/Audio": 9,
-        "Deployment": 8,
-        "Enterprise AI": 7,
-        "RAG": 7,
-        "Prompt": 6
-      }
-    },
     {
       "week": "2026-W41",
       "keywords": {
@@ -122974,12 +123264,12 @@
     {
       "week": "2026-W47",
       "keywords": {
-        "AI Agent": 69,
-        "Automation": 46,
+        "AI Agent": 71,
+        "Automation": 47,
         "GPT": 25,
         "Security": 20,
+        "SDK/API": 16,
         "Coding": 16,
-        "SDK/API": 15,
         "Deployment": 13,
         "Optimization": 11,
         "Gemini": 11,
@@ -122987,8 +123277,18 @@
         "Claude": 9,
         "Enterprise AI": 9,
         "LLM": 8,
-        "Developer Tools": 7,
+        "Developer Tools": 8,
         "RAG": 6
+      }
+    },
+    {
+      "week": "2026-W48",
+      "keywords": {
+        "Security": 2,
+        "SDK/API": 1,
+        "AI Agent": 1,
+        "Fine-tuning": 1,
+        "LLM": 1
       }
     }
   ],
@@ -122998,15 +123298,15 @@
       "recent_7d": 59,
       "recent_30d": 128
     },
-    "techcrunch": {
-      "total": 2644,
-      "recent_7d": 111,
-      "recent_30d": 325
-    },
     "aitimes": {
-      "total": 4487,
-      "recent_7d": 169,
-      "recent_30d": 539
+      "total": 4502,
+      "recent_7d": 162,
+      "recent_30d": 554
+    },
+    "techcrunch": {
+      "total": 2651,
+      "recent_7d": 111,
+      "recent_30d": 332
     },
     "lycorp": {
       "total": 62,
@@ -123014,9 +123314,9 @@
       "recent_30d": 3
     },
     "openai": {
-      "total": 412,
-      "recent_7d": 33,
-      "recent_30d": 78
+      "total": 413,
+      "recent_7d": 34,
+      "recent_30d": 79
     },
     "huggingface": {
       "total": 217,
@@ -123024,9 +123324,9 @@
       "recent_30d": 28
     },
     "toss": {
-      "total": 82,
-      "recent_7d": 4,
-      "recent_30d": 6
+      "total": 83,
+      "recent_7d": 5,
+      "recent_30d": 7
     },
     "google_ai": {
       "total": 88,
@@ -123040,7 +123340,7 @@
     },
     "deepmind": {
       "total": 88,
-      "recent_7d": 3,
+      "recent_7d": 2,
       "recent_30d": 11
     },
     "meta_eng": {
@@ -123064,6 +123364,6 @@
       "recent_30d": 45
     }
   },
-  "last_updated": "2026-11-22",
-  "total_articles": 9167
+  "last_updated": "2026-11-23",
+  "total_articles": 9191
 }
