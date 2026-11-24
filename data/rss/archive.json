@@ -1,6 +1,406 @@
 {
   "articles": [
     {
+      "id": "8aa39181cfcb",
+      "source": "aws_ml",
+      "source_name": "AWS ML",
+      "icon": "🟠",
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "date": "2026-11-24",
+      "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data wh",
+      "keywords": [
+        "Enterprise AI",
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "1d3636b0eaf5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "삼성SDS, 임원 인사 AX 진용 재편…부사장 4명·상무 6명 승진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217750",
+      "date": "2026-11-24",
+      "summary": "삼성SDS가 부사장 승진자를 지난해의 두 배로 늘리며 AX 시장 대응을 위한 진용재편에 나섰다.삼성SDS는 부사장 4명, 상무 6명 등 총 10명에 대한 2027년 정기 임원 인사를 실시했다고 24일 밝혔다. 전체 승진 규모는 지난해와 같지만 부사장 승진자는 2명에서 4명으로 늘었다.부사장에는 문관휘 전략마케팅실 유통·서비스AM팀장, 이제나 전략마케팅실 상품전략팀장, 이지환 전략마케팅실 금융컨설팅팀장, 한상원 클라우드서비스사업부 MSP사업팀장 등이 올랐다. 4명 중 3명이 전략마케팅실 소속이다.상무는 김동한 AX센터 데이터플랫폼실행",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "6993677cbf4e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황 부활에 국내 AI 인프라 서비스 관련 주가도 반등",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217749",
+      "date": "2026-11-24",
+      "summary": "젠슨 황 엔비디아 최고경영자(CEO)의 복귀로 엘리스그룹과 래블업, 씨이랩 등 국내 AI 인프라 서비스 관련 주들도 일제히 반등했다. 24일 한국거래소에 따르면 엘리스그룹은 이날 전 거래일보다 3300원(7.58%) 오른 4만6850원에 거래를 마쳤다. 래블업은 440원(4.28%) 오른 1만730원, 씨이랩은 410원(7.09%) 오른 6190원에 마감했다. 래블업은 장중 한때 1만1490원까지 올랐다.반등의 계기는 단연 젠슨 황의 복귀와 간밤 미국 증시였다. 엔비디아 이사회는 23일(현지시간) 사임 11일 만에 황 CEO를 복귀",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "669e6dc83928",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AWS “클라우드 사용자, 사람 아닌 에이전트”…CPU 인프라 강화 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217735",
+      "date": "2026-11-24",
+      "summary": "'AI 에이전트가 사람 대신 클라우드를 직접 쓰는 시대'가 열리면서 클라우드 인프라 경쟁의 축이 GPU에서 CPU로 확대되고 있다. 글로벌 클라우드 서비스의 대표주자 아마존웹서비스(AWS)도 자체 CPU를 앞세워 에이전트 전용 인프라를 강화하고 있다.윤석찬 AWS코리아 수석 테크 에반젤리스트는 24일 열린 'AWS 리인벤트(re:Invent) 2026 미디어 브리핑'에서 2029년까지 AI 에이전트가 10억 개 이상 배포될 것으로 내다보고, 에이전트 중심의 클라우드 전략을 소개했다.에이전트는 AI 모델 추론보다 API 호출, 코드",
+      "keywords": [
+        "AI Agent",
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "cbeb7ec79e21",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "멤텐서·엔비디아, 기억 내장 AI ‘멤T-1.0 프로’ 공개…과거 대화 재입력 줄인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217746",
+      "date": "2026-11-24",
+      "summary": "중국 AI 스타트업 멤텐서(MemTensor)가 엔비디아와 협력해 과거 대화 정보를 내부 기억에 저장하고 활용하는 AI 모델 ‘멤T-1.0 프로(MemT-1.0-Pro)’를 공개했다. 대화 기록 원문을 매번 프롬프트에 다시 넣는 부담을 줄이고, 이전에 주고받은 정보를 다음 응답에 활용하도록 설계했다.멤텐서는 23일 기술 보고서와 모델 카드를 통해 구조와 평가 결과를 소개했다. 지난달 처음 발표한 멤T-1.0 모델군은 나노와 플래시, 프로로 구성된다.프로 모델은 엔비디아의 ‘네모트론 3 울트라’를 기반으로 개발했다. 기술 보고서 기준",
+      "keywords": [
+        "Prompt"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "4a793cc594eb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "말레이시아, 미국 제재 기업 데이터센터 제한…싱가포르도 칩 우회 차단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217748",
+      "date": "2026-11-24",
+      "summary": "말레이시아가 미국 수출통제 명단에 오른 기업 7곳에 데이터센터 서비스를 제공하지 않도록 현지 사업자들에게 권고하기로 했다. 싱가포르도 첨단 반도체의 우회 공급을 막기 위한 미국의 조사에 협력하고 있다고 밝혀, 미국의 규제 강화에 동남아 현지 정부의 대응이 뒤따르고 있다.말레이시아 투자통상산업부(MITI)는 24일 공식 성명을 통해 투자개발청(MIDA)이 국내 모든 데이터센터 사업자에게 관련 공지를 보낼 예정이라고 밝혔다. 미국이 전날 수출통제 명단에 추가한 기업 7곳에 시설 입주와 공간 임대, 서비스를 제공하지 않도록 권고하는 내용",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "098f5fd237f3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, AI 검색에 월렛·드라이브 연결…결제 내역·개인 문서까지 활용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217741",
+      "date": "2026-11-24",
+      "summary": "구글이 AI 검색에 구글 월렛과 드라이브, 제미나이 앱을 연결해 개인 맞춤형 답변을 강화한다. 결제 내역과 개인 문서, 제미나이의 대화 기록까지 검색에 활용하는 것으로, 다양한 자체 서비스에 축적된 개인 데이터를 AI와 결합해 경쟁력을 높이려는 전략이다.구글은 23일(현지시간) 공식 블로그를 통해 검색의 AI 모드에 적용한 개인화 기능 '퍼스널 인텔리전스(Personal Intelligence)'의 앱 연동 범위를 확대한다고 발표했다.가장 먼저 구글 월렛 연결 기능을 제공하고, 앞으로 몇 주 안에 드라이브와 제미나이 앱까지 차례로",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "9e64e2e6da75",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국, 알리바바 계열사도 블랙리스트 등재…알리바바 \"법적 대응\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217730",
+      "date": "2026-11-24",
+      "summary": "미국 정부가 메가스피드와 함께 중국 알리바바의 싱가포르 자회사를 수출 통제 블랙리스트에 올렸다. 알리바바는 해당 자회사가 미국의 AI 칩 수출 규제를 위반한 적이 없다며 법적 대응에 나서겠다고 밝혔다.미국 상무부 산업안보국(BIS)은 23일(현지시간) 연방관보 공고를 통해 알리바바의 싱가포르 자회사 에이펙스 엔터프라이즈 솔루션(Apex Enterprise Solutions)과 메가스피드 등 동남아시아 소재 7개 기업을 수출 통제 명단(Entity List)에 추가했다.상무부는 이들 기업이 첨단 컴퓨팅 제품을 허가받지 않은 최종 사용",
+      "keywords": [
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "ef2c0fcc3715",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아마존, 데카르트의 'AI 최적화' 기술 10조원에 인수…창업자도 영입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217732",
+      "date": "2026-11-24",
+      "summary": "아마존이 이스라엘 AI 스타트업 데카르트(Decart)의 핵심 기술과 인력을 확보하는 데 75억달러(약 10조원)를 투입하기로 했다. 다양한 AI 칩에서 모델을 효율적으로 실행할 수 있는 소프트웨어를 확보해 자체 AI 칩의 경쟁력을 높이고, 엔비디아 의존도를 낮추려는 전략에 따른 것이다.아마존은 23일(현지시간) 공식 블로그를 통해 데카르트의 독점 기술을 인수하고 공동 창업자 3명과 AI 연구원 및 엔지니어를 영입하기로 합의했다고 밝혔다.인수 대상은 AI 모델이 서로 다른 하드웨어에서 효율적으로 작동하도록 지원하는 '데카르트 옵티마",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "27bbecdb497e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치…기업가치 두 배로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217747",
+      "date": "2026-11-24",
+      "summary": "오픈AI 이사회 의장 브렛 테일러가 이끄는 고객 서비스 AI 에이전트 기업 시에라(Sierra)가 기업가치 300억달러(약 40조원)를 기준으로 17억5000만달러(약 2조3000억원) 규모의 투자 유치를 발표했다. 6개월 만에 기업가치가 두 배 수준으로 높아진 것으로, 고객 문의에 답하는 것을 넘어 실제 업무를 처리하는 AI 에이전트의 성장성을 인정받았다.시에라는 23일(현지시간) 공식 블로그를 통해 그리노크스와 라이트스피드 벤처 파트너스가 이번 시리즈F 투자를 주도한다고 밝혔다. 벤치마크와 세쿼이아 캐피털, GV, 타이거 글로벌",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "13324ef77c3a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "지방소멸 대응에 AI 꺼낸 강진군…직원 72% 활용에 인사평가까지 개편",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217744",
+      "date": "2026-11-24",
+      "summary": "전남광주 강진군이 지방소멸에 대응하기 위해 4년 전부터 AI를 행정과 지역산업에 접목해 공무원 인사평가 제도까지 개편한다. 지난 9월 기준 전체 직원의 약 72%가 자발적으로 생성형 AI를 활용하는 가운데 개인의 업무 개선 성과를 부서 단위의 행정 혁신과 지역경제 활성화로 연결하겠다는 구상이다. 23일 강진군에 따르면 군은 공무원의 AI 활용 역량과 업무 개선 성과를 근무성적평정에 반영하는 제도 개편을 추진하고 있다. 관련 가산점은 내년 근무성적평정부터 적용할 예정이다.개편안에는 행정안전부의 'AI 챔피언' 등급 취득자와 AI 활용",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "f6e08eb1fab3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미 2개 주, 그록의 아동 성착취물 생성 문제로 스페이스X 제소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217740",
+      "date": "2026-11-24",
+      "summary": "미국 버지니아주와 오리건주가 '그록'의 아동 성착취물과 비동의 성적 이미지 생성을 방치했다며 일론 머스크 CEO의 스페이스X를 상대로 소송을 제기했다. 이미지 생성 기능의 안전성을 홍보하면서도 피해를 막을 보호 조치를 제대로 마련하지 않았으며, 해당 기능으로 수익까지 올렸다는 주장이다.버지니아주와 오리건주 법무부는 23일(현지시간) 각각 주 법원에 소비자 보호법 위반 소송을 제기했다고 발표했다. 그록을 둘러싼 각 주의 조사와 개인 피해자들의 소송은 이어져 왔지만, 주 정부가 직접 소송을 제기한 것은 이번이 처음이다.그록의 개발사인",
+      "keywords": [
+        "Image AI"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "52b72e732460",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "엔비디아 CEO 후보였던 르네 하스, Arm CEO 2033년까지 연임",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217738",
+      "date": "2026-11-24",
+      "summary": "엔비디아 차기 CEO 후보로 거론됐던 르네 하스 CEO가 2033년까지 Arm을 이끌기로 했다. 다음 달부터는 모회사인 소프트뱅크의 부회장도 겸임하며 그룹 내 반도체와 AI 사업에서 역할을 확대한다.Arm은 23일(현지시간) 공식 발표를 통해 하스 CEO와 2033년까지 계약을 연장했다고 밝혔다.하스 CEO는 2013년 Arm에 합류하기 전 엔비디아에서 약 7년간 근무하며 컴퓨팅 제품 사업부 부사장 겸 총괄을 맡았다. 2022년 Arm CEO에 오른 뒤에는 이듬해 나스닥 상장을 이끌었다.Arm은 스마트폰과 PC, 서버 등에 사용되는",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "e7a31f1015e5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI 전 엔지니어, 내부 회의 160시간 녹음…코덱스까지 활용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217731",
+      "date": "2026-11-24",
+      "summary": "오픈AI의 사우디아라비아 출신 전 엔지니어가 내부 회의를 몰래 녹음하고 기밀문서를 촬영한 혐의로 재판을 앞둔 가운데, 미국 검찰이 추가 증거를 공개했다. 외국 정부 대표단과의 회의를 포함해 160시간 이상의 녹음 자료를 확보했으며, 이 과정에서 오픈AI의 코딩 에이전트 '코덱스'까지 활용한 것으로 드러났다.파이낸셜타임스(FT)는 23일(현지시간) 미국 검찰이 압둘라흐만 알포잔의 보석 신청에 반대하기 위해 법원에 제출한 서류에서 추가 증거를 공개했다고 보도했다.검찰은 알포잔의 개인 노트북에서 수백개의 오디오 파일을 확보했다. 지난 9",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "dc47af88d03a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "황 CEO 복귀에 앤트로픽 주가 역주행…오픈웨이트 경쟁 부담",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217734",
+      "date": "2026-11-24",
+      "summary": "젠슨 황 엔비디아 CEO의 복귀 소식에 주요 AI 관련 종목이 동반 상승했지만, 앤트로픽은 오히려 주가가 하락했다. 황 CEO가 주도해 온 오픈웨이트 AI 모델 생태계가 폐쇄형 모델을 중심으로 성장한 앤트로픽의 사업에 부담이 될 수 있다는 분석이 나온다.블룸버그에 따르면, 23일(현지시간) 앤트로픽 주가는 전 거래일 대비 1.43% 하락한 87.64달러로 마감했다.장 초반 상승세를 보였으나 하락세로 돌아섰다. 상장 이후 이틀 연속 하락한 것으로, 공모가인 83달러와의 격차도 5.6%로 줄었다.엔비디아는 황 CEO의 복귀 소식에 31",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "5e2973e0029c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남광주 AI·디지털 교육에 948억원 편성…568억원은 학생용 기기 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217715",
+      "date": "2026-11-24",
+      "summary": "전남광주통합특별시교육청이 내년 인공지능(AI)·디지털 교육에 948억원을 편성한 가운데, 학생용 디지털기기 보급비가 568억원으로 전체의 59.9%를 차지하는 것으로 나타났다. 학생들이 실제로 배우는 AI 교육과 별도로 노트북 등 학습기기 보급에 상당한 예산이 배정된 것으로, 기존 광주지역에서는 기기 수리 과정에서 학부모 부담도 발생했다.교육청이 지난 11일 시의회에 제출한 2027년도 교육비특별회계 예산안에 따르면, AI·디지털 교육환경 조성에 749억원, 모든 학생을 위한 AI 기본교육에 199억원이 편성됐다. 전체 교육예산 7",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "8e82a6cecdc5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "정부, 중소 제조기업 AI 도입 지원 확대…데이터 수집에도 최대 5000만원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217723",
+      "date": "2026-11-24",
+      "summary": "정부가 내년 중소 제조기업의 AI 도입 지원을 확대하면서 제조데이터 수집·검증 단계에도 최대 5000만원을 지원한다. 제조AI 특화 지원 과제는 올해 계획 400개에서 내년 500개로 늘어난다.중소벤처기업부는 23일 2027년도 스마트공장 구축지원사업 참여기업 모집을 공고하고 12월 7일부터 내년 1월 6일까지 신청을 받는다고 밝혔다. 정부일반형·제조AI특화·자율형공장·상생형 AX 선도모델 등 4개 사업에 전국 1021개 기업, 총 2696억원을 지원할 계획이다.핵심 변화는 제조AI특화 사업의 지원 과제 수와 정부 지원비율이다. 중",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "73d6c938beb4",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남 의과 공보의 3년 새 반토막…AI 진단·전문의 원격협진 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217736",
+      "date": "2026-11-24",
+      "summary": "전남광주통합특별시가 서남권 의료기관에 AI 기반 진단 체계를 도입하고 상급종합병원 전문의와 연결하는 원격협진망 구축에 나선다. 전남권 의과 공중보건의가 3년 새 52.1% 감소한 가운데 섬과 농어촌의 의료공백을 줄이겠다는 구상이다.통합시는 23일 서남권 공공의료 혁신 대책을 발표했다. 국립의대 후보대학 선정 이후 제기된 서남권 의료 소외 문제에 대응하기 위한 것으로, 500병상 규모의 대학병원급 국가병원 신설과 함께 AI 원격의료망을 구축하는 방안을 정부와 협의해 구체화하고 있다.통합시는 AI 메디컬센터를 구축하고 서남권 병의원에",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "ffa6e5879264",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI 모델 신작] 호요버스의 게임 AI·엔비디아의 확산언어모델 등 7종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217742",
+      "date": "2026-11-24",
+      "summary": "■ '원신' 개발사 호요버스, 사람처럼 게임하는 범용 AI '게이머' 개발'원신' 개발사 호요버스 연구진이 사람처럼 화면을 보면서 키보드와 마우스를 조작해 게임을 진행하는 시각언어행동(VLA) 모델 '게이머(Gamer)'를 개발했다. 게임마다 별도의 조작 프로그램을 구축하지 않고 화면 정보와 자연어 지시를 바탕으로 행동하는 것이 특징이다. 단순한 키보드와 마우스 조작 기록을 대규모로 학습하는 것만으로도 복잡한 기술을 습득하고 장시간에 걸친 작업을 수행할 수 있다는 설명이다. 연구진은 이를 게임뿐 아니라 디지털 환경과 물리적 환경에서",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "15ef7847125e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 탐지기 'GPT제로 5' 출시…\"사람 글 오판 5만건당 1건\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217739",
+      "date": "2026-11-24",
+      "summary": "챗GPT 등장 직후 AI 생성 글 탐지 열풍을 일으켰던 'GPT제로(GPTZero)'가 차세대 탐지 모델을 출시하며 기술 주도권 회복에 나섰다. 최근 AI 탐지 분야에서 높은 평가를 받는 '팽그램(Pangram)'의 성능을 넘어섰다고 주장하는 것은 물론, 사람이 쓴 글을 AI 생성물로 잘못 판정한 사례를 찾아내면 상금까지 지급하기로 했다.GPT제로는 23일(현지시간) 공식 블로그를 통해 차세대 AI 텍스트 탐지 모델 'GPT제로 5.0'을 출시했다고 발표했다.외부 연구진이 구축한 9개 벤치마크 데이터셋을 활용한 자체 평가에서 최고",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "cee151385ae3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "2027 상용화 원년 AI 안경, '눈앞의 비서'로 쓰임새 넓힌다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217726",
+      "date": "2026-11-24",
+      "summary": "AI 안경이 실시간 통역과 길 안내를 넘어 박물관 해설, 장애인 의사소통 지원, 숙련 기술 전수, 결제·쇼핑 등 생활 밀착형 서비스로 활용 영역 확장을 꾀하고 있다. 몰래 촬영이나 시험 부정행위 같은 악용 우려도 커지고 있지만, 글로벌 빅테크가 잇따라 제품을 내놓으면서 AI 안경을 활용하는 응용 서비스 경쟁도 가속화할 전망이다.■ 빅테크 경쟁 본격화…번역·길 안내는 '기본'시장조사기업 카운터포인트리서치에 따르면 올해 상반기 AI 스마트 안경 출하량은 전년 동기 대비 263% 늘었다. 시장의 94%를 차지한 메타는 지난 5월 '레이밴",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "26fafe1c5deb",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "벤처비트 \"페이블 5.2, 오퍼스 5.5와 버그 수정 성능 비슷…비용은 3배\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217733",
+      "date": "2026-11-24",
+      "summary": "앤트로픽의 최상위 모델 '클로드 페이블 5.2'가 실제 코드 오류 수정 테스트에서 '오퍼스 5.5'와 비슷한 성능을 기록했지만, 비용은 3배에 달했다. 벤처비트가 자체 진행한 실험 결과로, 기업이 AI 모델을 선택할 때 토큰 가격이나 벤치마크 순위뿐 아니라 실제 작업을 성공적으로 마치는 데 드는 비용을 고려해야 한다는 점을 보여준다.벤처비트는 23일(현지시간) 주요 AI 모델 4종의 버그 수정 능력과 작업 비용을 비교한 자체 테스트 결과를 공개했다.테스트 대상은 앤트로픽의 '클로드 페이블 5.2' '클로드 오퍼스 5.5'와 중국의",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "6623b48afb68",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "“100년의 역사를 걷다”… 광주 동명동 나무전거리, 석재 디자인으로 보행공간 재탄생",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217652",
+      "date": "2026-11-24",
+      "summary": "광주시 동구 동명동 일대에 지역의 역사와 문화적 정체성을 담은 특색 있는 보행공간이 조성됐다. 이번 사업은 도시재생 뉴딜 보행환경 정비사업의 일환으로, 지역 고유의 이야기를 공공디자인에 접목해 보행환경을 개선하고 거리의 상징성을 높이는 데 의미를 두고 있다.이번 프로젝트의 중심은 동명동의 역사적 공간인 '나무전거리'를 표현한 석재 바닥 디자인이다. 과거의 기억을 간직한 거리의 정체성을 현대적인 디자인으로 재해석해 시민들이 일상 속에서 지역의 역사를 자연스럽게 접할 수 있도록 했다.보행공간 바닥에는 '100년의 전통을 이어 온 나무전",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "c59c48a5eb62",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 챗GPT에 'GPT-6.2 솔' 탑재…지시 수행·이미지 이해 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217725",
+      "date": "2026-11-24",
+      "summary": "오픈AI가 챗GPT에 일상적인 대화에 최적화한 'GPT-6.2 솔(Sol)'을 탑재했다. 이달 중순 '워크'와 '코덱스'에 먼저 도입한 모델을 일반 채팅에 맞게 조정한 것으로, 복잡한 지시 수행과 인터넷 검색, 이미지 이해 및 사용자 의도 파악 능력을 강화했다.오픈AI는 23일(현지시간) 공식 홈페이지를 통해 챗GPT의 일반 채팅에 GPT-6.2 솔을 적용하기 시작했다고 밝혔다.이번 모델은 사진 속 작은 글씨나 표지판의 기호 등 세부 정보를 파악하는 능력이 개선됐다. 인터넷 검색에서도 사용자의 우선순위를 더 정확하게 반영한다. 예를",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "3d8cba2e43f3",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "젠슨 황 복귀에 미 의회 초당적 반발…AI 칩 수출 규제 강화 요구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217721",
+      "date": "2026-11-24",
+      "summary": "젠슨 황 엔비디아 CEO의 복귀를 두고 미국 의회에서 공화당과 민주당 의원들의 초당적 반발이 이어지고 있다. 의원들은 중국의 첨단 AI 칩 접근을 차단하기 위한 수출 규제 강화를 요구하는 한편, 도널드 트럼프 대통령의 복귀 개입 경위와 엔비디아의 수출 통제 준수 여부도 조사해야 한다고 주장했다.로이터는 23일(현지시간) 톰 코튼 상원 정보위원장이 합법적으로 수출된 첨단 반도체가 제3자를 통해 중국으로 유입되는 것을 막기 위해 '칩 보안법(Chip Security Act)' 통과를 촉구했다고 보도했다.이 법안은 반도체 제조업체가 첨단",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "0906d00dfd0b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "NYT \"앨리스 황, 중국 정보기관과 1년 넘게 접촉\"…정부 조사는 계속",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217718",
+      "date": "2026-11-24",
+      "summary": "젠슨 황 엔비디아 CEO가 사임 2주 만에 경영 일선에 복귀했지만, 중국으로의 첨단 반도체 유출 및 투자자 기만 의혹을 둘러싼 조사는 계속되고 있다. 특히 황 CEO와 불륜 관계였던 앨리스 황이 중국 국가안전부 요원과 1년 넘게 접촉했다는 새로운 보도가 나왔다.뉴욕타임스(NYT)는 22일(현지시간) 정보기관 보고서를 확인한 관계자들을 인용, 앨리스 황이 지난해 봄부터 올해 가을까지 중국 국가안전부(MSS) 요원과 접촉했다고 전했다. 이는 젠슨 황과의 불륜 관계가 이어진 시기는 물론 메가스피드가 엔비디아의 첨단 AI 칩을 대량 구매한",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "f801ce3b8d4b",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국, 메가스피드 블랙리스트 등재…황 CEO 복귀 당일 AI 칩 공급 차단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217722",
+      "date": "2026-11-24",
+      "summary": "미국 정부가 엔비디아의 주요 고객사였던 싱가포르 반도체 유통·데이터센터 기업 메가스피드를 수출 통제 블랙리스트에 올렸다. 엔비디아의 첨단 AI 칩을 중국으로 밀수출했다는 의혹이 제기된 지 약 1년 만으로, 젠슨 황 엔비디아 CEO의 복귀가 결정된 당일 제재를 발표했다.미 상무부 산업안보국(BIS)은 23일(현지시간) 연방관보 공고를 통해 메가스피드와 관련 계열사 등 싱가포르·말레이시아·태국 소재 7개 기업을 수출 통제 명단(Entity List)에 추가했다. 이에 따라 미국 정부의 허가 없이는 이들 기업에 반도체를 비롯한 수출관리규",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "a26f2c7199da",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "광양경자청, 중국 유망기업 17개사 초청 미래 산업 투자유치 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217727",
+      "date": "2026-11-24",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 지난 22일부터 24일까지 3일간 중국 베이징, 상하이, 항저우, 선전 지역 유망기업 및 투자기관 17개사를 초청해 광양만권의 산업·물류 인프라와 투자 환경을 소개하는 현장 시찰을 진행했다고 밝혔다.이번 행사에는 반도체, 모빌리티, AI, 로봇, 에너지, 첨단소재 등 한국 진출에 관심이 높은 미래 성장산업 분야 기업들이 대거 참여했다. 방문단은 여수광양항만공사의 항만 운영 및 물류 인프라 브리핑을 시작으로 광양만권 내 외국인 투자기업과 율촌·세풍 등 주요 산업단지를 차례로 둘러봤다.특히 기업 관",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "2b78be537a79",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 초고온 지열 50MW 구매계약…사업자는 200MW 추가 개발 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217702",
+      "date": "2026-11-24",
+      "summary": "구글이 미국 오리건주에서 추진되는 초고온 지열발전소의 전력 50메가와트(MW)를 구매하는 계약을 체결했다. 앞서 396MW 규모의 지열 전력구매계약을 맺은 데 이어 아직 상용화되지 않은 초고온 지열발전까지 데이터센터 전력 확보 수단으로 활용하려는 움직임이다.미국 지열에너지 개발기업 퀘이즈 에너지(Quaise Energy)는 지난 17일(현지시간) 구글과 초고온 지열발전 사업인 '프로젝트 옵시디언(Project Obsidian)'의 전력구매계약(PPA)을 체결했다고 발표했다.구글은 이르면 2030년부터 전력 50MW를 구매할 예정이며",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "71e039e46007",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "멕시코 태양광, 2035년 43.8GW 전망…기존 예상치 6GW 상향",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217679",
+      "date": "2026-11-24",
+      "summary": "멕시코의 태양광 설비용량이 2025년 13.7기가와트(GW)에서 2035년 43.8GW로 약 3.2배 증가할 것이라는 전망이 나왔다. 기존 전망치를 6GW 상향 조정한 것으로, 송전망 혼잡과 전력 공급 인프라의 제약이 향후 보급 속도를 좌우할 것으로 분석됐다.시장조사업체 글로벌데이터(GlobalData)가 지난 19일(현지시간) 발표한 멕시코 전력시장 분석 결과에 따르면, 2035년 태양광 설비용량 전망치는 지난해 12월 제시했던 37.8GW에서 43.8GW로 높아졌다.멕시코의 전체 발전설비 용량은 2025년 104.2GW에서 20",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "73ce342fd186",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "삼성전자, 2027 임원인사…반도체 인재 중용 ‘성과주의’ 재확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217717",
+      "date": "2026-11-24",
+      "summary": "삼성전자가 2027년 정기 임원인사에서 지난해보다 20% 가까이 승진 규모를 줄였다. 하지만 역대 최대 실적의 반도체 부문은 승진자의 절반 이상을 차지했다.삼성전자는 24일 부사장 39명, 상무 78명, 펠로우 2명, 마스터 12명 등 총 131명을 승진 발령했다고 밝혔다. 이는 지난해(161명)보다 30명 줄어 든 규모이다.반도체가 속한 디바이스솔루션(DS)부문에서 70명(53%)이, 스마트폰과 가전을 맡은 디바이스경험(DX)부문에서 61명이 승진했다. 지난해에는 DX부문 92명, DS부문 69명이 승진해 1년 만에 두 부문의 선",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "ca5d392ce76c",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -153,6 +553,366 @@
       "summary": "목적과 상품이 늘 때마다 같이 늘어나던 모델을, 늘어나도 하나로 유지되는 구조로 바꾼 이야기",
       "keywords": [],
       "first_seen": "2026-11-23"
+    },
+    {
+      "id": "4dc6c6490d75",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "date": "2026-11-23",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "keywords": [
+        "Open Source"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "4201990503e1",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "date": "2026-11-23",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "a082949f03d8",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "icon": "🟢",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "date": "2026-11-23",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "keywords": [
+        "AI Agent",
+        "Automation",
+        "GPT"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "5353a3c7ac17",
+      "source": "google_ai",
+      "source_name": "Google AI",
+      "icon": "🔵",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "date": "2026-11-23",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "keywords": [
+        "Gemini"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "39d193b8654c",
+      "source": "deepmind",
+      "source_name": "DeepMind",
+      "icon": "🧠",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "date": "2026-11-23",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "20bf59765e93",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "link": "https://huggingface.co/blog/allenai/robotrack",
+      "date": "2026-11-23",
+      "summary": "",
+      "keywords": [
+        "Robotics"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "6c63040381af",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "date": "2026-11-23",
+      "summary": "",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "b80e3d0b9b97",
+      "source": "nvidia_ai",
+      "source_name": "NVIDIA AI",
+      "icon": "💚",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "date": "2026-11-23",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. [&#8230;]",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "5d1c454ef7b7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "date": "2026-11-23",
+      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "fc410e023e94",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "date": "2026-11-23",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "Coding",
+        "Developer Tools"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "a42ef673b6ac",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "date": "2026-11-23",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "b23fe2325ee9",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "date": "2026-11-23",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "b22bb97b417e",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "date": "2026-11-23",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "1f8997ce74a9",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "date": "2026-11-23",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "26cdaf273cc2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "date": "2026-11-23",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "keywords": [
+        "RAG"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "389c89635cfd",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "date": "2026-11-23",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "keywords": [
+        "Gemini",
+        "RAG"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "4eec8977b6a9",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "date": "2026-11-23",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "e483a8800952",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "date": "2026-11-23",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "c522f730f4a3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "date": "2026-11-23",
+      "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "236394fc6702",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "date": "2026-11-23",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "a3bc43bbd8d5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "date": "2026-11-23",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "383d3562e2f8",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "date": "2026-11-23",
+      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "keywords": [
+        "AI Agent",
+        "Enterprise AI",
+        "Security"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "b3ab263885d2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "date": "2026-11-23",
+      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "910818793cbe",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "date": "2026-11-23",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "15da0cbca7e4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "date": "2026-11-23",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "keywords": [
+        "Enterprise AI"
+      ],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "00a5cf6a18e4",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "date": "2026-11-23",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "4ae15e716f50",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "date": "2026-11-23",
+      "summary": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
+      "keywords": [],
+      "first_seen": "2026-11-24"
     },
     {
       "id": "cda6b48985da",
@@ -122689,11 +123449,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-26",
-      "added": 63,
-      "total": 4668
-    },
-    {
       "date": "2026-08-27",
       "added": 65,
       "total": 4733
@@ -123137,6 +123892,11 @@
       "date": "2026-11-23",
       "added": 24,
       "total": 9191
+    },
+    {
+      "date": "2026-11-24",
+      "added": 58,
+      "total": 9249
     }
   ],
   "sources": {},
@@ -123276,72 +124036,82 @@
         "Open Source": 10,
         "Claude": 9,
         "Enterprise AI": 9,
-        "LLM": 8,
         "Developer Tools": 8,
+        "LLM": 8,
         "RAG": 6
       }
     },
     {
       "week": "2026-W48",
       "keywords": {
-        "Security": 2,
-        "SDK/API": 1,
-        "AI Agent": 1,
+        "AI Agent": 10,
+        "Security": 5,
+        "Enterprise AI": 4,
+        "SDK/API": 3,
+        "GPT": 3,
+        "Gemini": 3,
+        "Automation": 2,
+        "Claude": 2,
+        "RAG": 2,
         "Fine-tuning": 1,
-        "LLM": 1
+        "LLM": 1,
+        "Open Source": 1,
+        "Robotics": 1,
+        "Coding": 1,
+        "Developer Tools": 1
       }
     }
   ],
   "source_stats": {
-    "aws_ml": {
-      "total": 643,
-      "recent_7d": 59,
-      "recent_30d": 128
+    "techcrunch": {
+      "total": 2670,
+      "recent_7d": 123,
+      "recent_30d": 351
     },
     "aitimes": {
-      "total": 4502,
-      "recent_7d": 162,
-      "recent_30d": 554
-    },
-    "techcrunch": {
-      "total": 2651,
-      "recent_7d": 111,
-      "recent_30d": 332
-    },
-    "lycorp": {
-      "total": 62,
-      "recent_7d": 1,
-      "recent_30d": 3
-    },
-    "openai": {
-      "total": 413,
-      "recent_7d": 34,
-      "recent_30d": 79
-    },
-    "huggingface": {
-      "total": 217,
-      "recent_7d": 8,
-      "recent_30d": 28
+      "total": 4532,
+      "recent_7d": 179,
+      "recent_30d": 584
     },
     "toss": {
       "total": 83,
       "recent_7d": 5,
       "recent_30d": 7
     },
-    "google_ai": {
-      "total": 88,
-      "recent_7d": 5,
-      "recent_30d": 14
+    "aws_ml": {
+      "total": 644,
+      "recent_7d": 60,
+      "recent_30d": 129
     },
-    "nvidia_ai": {
-      "total": 225,
-      "recent_7d": 13,
+    "openai": {
+      "total": 416,
+      "recent_7d": 35,
+      "recent_30d": 82
+    },
+    "lycorp": {
+      "total": 62,
+      "recent_7d": 1,
+      "recent_30d": 3
+    },
+    "huggingface": {
+      "total": 219,
+      "recent_7d": 10,
       "recent_30d": 30
     },
+    "google_ai": {
+      "total": 89,
+      "recent_7d": 6,
+      "recent_30d": 15
+    },
+    "nvidia_ai": {
+      "total": 226,
+      "recent_7d": 13,
+      "recent_30d": 31
+    },
     "deepmind": {
-      "total": 88,
-      "recent_7d": 2,
-      "recent_30d": 11
+      "total": 89,
+      "recent_7d": 3,
+      "recent_30d": 12
     },
     "meta_eng": {
       "total": 52,
@@ -123360,10 +124130,10 @@
     },
     "yozm": {
       "total": 147,
-      "recent_7d": 11,
+      "recent_7d": 0,
       "recent_30d": 45
     }
   },
-  "last_updated": "2026-11-23",
-  "total_articles": 9191
+  "last_updated": "2026-11-24",
+  "total_articles": 9249
 }
