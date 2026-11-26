@@ -1,6 +1,390 @@
 {
   "articles": [
     {
+      "id": "1fcdbabd38e1",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "date": "2026-11-26",
+      "summary": "",
+      "keywords": [
+        "Fine-tuning",
+        "Optimization"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "f6287afaa94a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 외부 AI 에이전트에 지메일·드라이브 이용료 부과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217820",
+      "date": "2026-11-26",
+      "summary": "구글이 외부 AI 에이전트의 지메일과 구글 드라이브 등 워크스페이스 서비스 접근에 사용량 제한과 유료 요금제를 도입한다. 일정 사용량까지는 무료로 제공하지만, 대규모 AI 에이전트 서비스를 운영하는 기업에는 새로운 비용 부담이 발생하게 됐다.구글은 24일(현지시간) 공식 개발자 문서를 통해 워크스페이스 API와 모델 컨텍스트 프로토콜(MCP) 서버에 '표준(Standard)'과 '확장(Scaled)' 등급을 도입한다고 밝혔다. MCP는 AI 에이전트를 외부 서비스 및 데이터와 연결하는 표준 기술이다.표준 등급에서는 지메일과 캘린더,",
+      "keywords": [
+        "AI Agent",
+        "MCP",
+        "SDK/API"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "8d22baa33142",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국 AI 칩 규제에 중국 관련 데이터센터 대출 10조원 차질",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217810",
+      "date": "2026-11-26",
+      "summary": "미국의 AI 반도체 수출 규제 강화로 중국 기업을 고객으로 둔 아시아 데이터센터 사업의 자금 조달에 제동이 걸렸다. 바이트댄스와 알리바바, 텐센트 관련 77억달러(약 10조원) 규모의 데이터센터 대출에 참여하려던 금융기관들이 잇따라 거래를 보류하거나 재검토하고 있다.블룸버그는 25일(현지시간) 소식통을 인용, 금융기관들이 베인캐피털의 지원을 받는 브리지 데이터 센터스(Bridge Data Centres)의 66억달러 규모 대출에 대해 추가 실사를 진행하고 있다고 보도했다. 이 회사는 말레이시아 데이터센터에서 바이트댄스 등에 서비스를",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "d03f9e9cc86d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "구글, 맞춤형 AI TV 채널 구상…사용자가 영상 속 주인공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217825",
+      "date": "2026-11-26",
+      "summary": "구글이 사용자의 시청 기록과 관심사 등을 바탕으로 AI가 영상 콘텐츠를 직접 제작하는 개인 맞춤형 TV 채널 기술을 구상한 것으로 나타났다. 기존 콘텐츠를 추천하는 데 그치지 않고 사용자마다 새로운 영상과 광고를 제공하며, 이용자 자신을 영화나 TV 프로그램의 주인공으로 등장시키는 기능도 포함했다.미국 특허 전문 매체 페이턴틀라이즈는 20일(현지시간) 미국 특허상표청(USPTO)이 구글의 개인 맞춤형 영상 채널 관련 특허 출원서를 공개했다고 보도했다.구글은 지난해 5월 해당 기술을 특허로 출원했으며, 지난 19일 USPTO를 통해",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "d9069b4bb350",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "머스크, 엔비디아 본사 방문…젠슨 황 CEO 복귀 축하",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217816",
+      "date": "2026-11-26",
+      "summary": "일론 머스크 CEO가 젠슨 황 CEO의 복귀 첫 출근일에 맞춰 엔비디아 본사를 방문했다. 머스크는 황 CEO의 사임 이후 복귀를 공개적으로 지지해 온 주요 기술 기업 경영진 중 한 명이다.엔비디아 투자자 벤 풀라디안은 24일(현지시간) X에 머스크와 황 CEO가 엔비디아 직원들과 함께 찍은 사진을 공개했다. 사진에는 머스크가 두 아들과 함께 황 CEO 옆에 서 있고, 주변에는 20여명의 엔비디아 직원이 모여 있다.풀라디안은 두 사람이 10년 넘게 관계를 이어왔으며, 머스크가 황 CEO의 복귀를 위해 지지와 로비 활동에 나섰다고 전했",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "5be1eef9c40e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "MS \"AI 투자수익 4배 기업의 비결은 전사적 활용과 통제\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217808",
+      "date": "2026-11-26",
+      "summary": "AI 혁신의 승부처가 '도입 여부'에서 '가치 확장과 통제 역량'으로 옮겨 가고 있다. AI 성숙도 상위 10%에 해당하는 프론티어 기업(IDC 평가 기준)은 계획보다 앞선 투자, 전사적 활용, 에이전트의 실전 투입, 거버넌스, 전 직원 역량강화 등을 함께 추진하며 평균 4배의 AI 투자 수익(ROI)을 거둔 것으로 나타났다. 마이크로소프트(MS)는 글로벌 시장조사업체 IDC에 의뢰한 'AI 비즈니스 기회 연구(Business Opportunity of AI Study)'를 통해 프론티어 기업의 AI 혁신 성공 요건을 발표했다. 이",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "def21ecd47d1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217824",
+      "date": "2026-11-26",
+      "summary": "다리오 아모데이 앤트로픽 CEO가 인간의 의사결정 권한을 초지능에 넘기는 것을 지지한다는 보도에 강하게 반발했다. 인간의 통치권과 개별 업무의 자동화는 별개의 문제라며, 인간의 통제권을 강조하면서 실제로는 업무 자동화 경쟁을 벌이는 다른 AI 기업 수장들도 비판했다.악시오스는 25일(현지시간) 소식통을 인용, 앤트로픽 내부 일부 직원 사이에서 인간이 초지능 AI에 의사결정 권한을 넘기는 것이 바람직하다는 견해가 형성됐다고 보도했다.AI가 질병 치료나 재난 예방 등에서 인간을 능가한다면, 인간이 계속 결정권을 고집하는 것이 비합리적이",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "9917531baca9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "S&P, 엔비디아 신용등급 하향 검토…황 복귀에도 지배구조 불안",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217811",
+      "date": "2026-11-26",
+      "summary": "국제 신용평가사 S&P 글로벌이 엔비디아의 신용등급 하향을 검토하기로 했다. 젠슨 황 CEO의 사임과 복귀 과정에서 이사회의 독립성과 경영진 감독 기능에 취약점이 드러났으며, 복귀 이후에도 이런 문제가 해소되지 않았다는 판단이다.S&P는 25일(현지시간) 공식 발표를 통해 엔비디아의 장기 기업 신용등급과 선순위 무담보 채권 등급인 'AA'를 '부정적 관찰 대상(CreditWatch Negative)'으로 지정했다. 또 경영 및 지배구조에 대한 평가를 '긍정적'에서 '중립적'으로 낮췄다.90일 이내에 신용등급을 하향할 수 있으며, 추",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "1074cf196159",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중소기업도 AI로 업무 자동화…25분 걸리던 작업 46초로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217812",
+      "date": "2026-11-26",
+      "summary": "정부가 중소기업의 AI 활용 역량을 높이기 위해 올해 도입한 현장 맞춤형 직무훈련이 업무 자동화 성과로 이어지고 있다. 자재 명세서 작성과 기술문서 검토 등에 AI를 적용한 사례가 등장한 가운데 전남광주에서도 지역 중소기업의 AI 전환을 지원하는 훈련체계가 운영되고 있다.한국산업인력공단은 26일 서울에서 '2026년 AI 훈련 우수사례 경진대회'를 열고 12개 기업·기관의 업무 개선 사례를 공개했다.공단은 올해 중소기업 AI 훈련확산센터 10곳과 AI 특화 공동훈련센터 20곳을 신설했다. AI 도입에 필요한 전문인력과 인프라 확보가",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "f2a7d9194d54",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "공직사회도 '바이브 코딩'…공무원이 업무용 앱 직접 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217815",
+      "date": "2026-11-26",
+      "summary": "전국 공직사회에서 AI를 활용해 업무에 필요한 프로그램을 직접 개발하는 사례가 잇따르고 있다. 출장비 정산부터 복지사업 조사, 교원 인사관리까지 활용 분야가 다양해지면서 업무시간을 줄이고 외부 용역을 대체하는 성과도 나오고 있다.행정안전부에 따르면 25일 결선 일정이 마련된 '2026년 공공 AI 대전환 챌린지'에는 전국 287개 기관에서 1035개 작품이 출품됐다. 참가자 1610명 중 5명 중 4명은 정보화 부서가 아닌 일반 현업 부서 소속이었다.제주도는 공무원들이 직접 개발한 프로그램 5건의 효과를 분석한 결과 4건에서 연간",
+      "keywords": [
+        "Vibe Coding"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "ad58171c93b5",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 57년 된 행렬 곱셈 난제 해결 주장…연산량 한계 규명",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217818",
+      "date": "2026-11-26",
+      "summary": "오픈AI가 미공개 AI 모델로 57년간 이어진 행렬 곱셈의 연산 복잡도에 관한 수학 난제를 해결했다고 주장했다. 지난달 행렬 곱셈에 필요한 연산량을 획기적으로 줄이는 방법을 발견한 데 이어, 이번에는 이론적으로 그 이상의 개선이 불가능하다는 증명을 내놓았다.오픈AI는 24일(현지시간) 공식 깃허브를 통해 '행렬 곱셈 지수는 9/4(The Matrix Multiplication Exponent Is Nine Fourths)'라는 제목의 111페이지 분량 논문을 공개했다. 연구를 수행한 내부 AI 모델의 이름은 공개하지 않았다.행렬 곱",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "bd4c319bf245",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국, 스페이스X 우주 데이터센터용 위성 최대 100만기 배치 승인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217807",
+      "date": "2026-11-26",
+      "summary": "미국 연방통신위원회(FCC)가 일론 머스크 CEO의 스페이스X에 우주 데이터센터용 위성 최대 100만기를 지구 궤도에 배치하도록 허가했다. 미국에서 우주 데이터센터 위성망 구축을 승인한 것은 처음으로, AI 인프라를 우주로 확대하려는 구상이 주요 규제 장벽을 넘어섰다.FCC는 25일(현지시간) 공식 발표를 통해 스페이스X의 우주 데이터센터 위성망 '스타마인드(Starmind)' 구축 신청을 승인했다고 밝혔다. 급증하는 AI 연산 수요에 대응하고 미국의 우주·AI 기술 경쟁력을 강화한다는 취지다.승인 조건에 따르면 스페이스X는 203",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "16b27d4c55bf",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 챗GPT·코덱스 사용량 통합…\"헤비 유저 한도 조기 소진 가능\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217800",
+      "date": "2026-11-26",
+      "summary": "오픈AI가 오는 12월부터 챗GPT와 코덱스의 사용량 한도를 하나로 통합한다. 대화형 AI와 업무 수행형 AI를 하나의 서비스로 제공하기 위한 조치로, 두 서비스를 많이 이용하는 헤비 유저는 기존보다 사용량 한도가 빨리 소진될 수 있다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 24일(현지시간) X를 통해 챗GPT의 '채팅(Chat)'과 '업무(Work)' 기능을 하나로 통합한 인터페이스를 일부 프로 구독자에게 적용하기 시작했다고 밝혔다.오픈AI는 지난 10월 말 두 기능의 통합과 함께 사용량 한도도 단일화한다는 방침을 공개했다",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "400cd439e18f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "중국 AI 기업, 모델 개발 포기까지 검토…미국과 기술 격차 9개월 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217798",
+      "date": "2026-11-26",
+      "summary": "중국 AI 업계가 미국의 첨단 반도체 수출 통제와 모델 증류 차단이라는 이중 압박에 직면했다. 미국과의 기술 격차가 최대 9개월까지 벌어질 것이라는 내부 전망이 나온 가운데 일부 기업은 독자적인 모델 개발을 포기하는 방안까지 검토하는 것으로 알려졌다.디 인포메이션은 25일(현지시간) 미국 정부와 주요 AI 개발사들이 중국 기업의 모델 개발에 필요한 컴퓨팅 자원과 학습 데이터 확보 경로를 동시에 차단하고 있다고 보도했다.이에 따르면 딥시크 연구진은 지난달 내부 논의에서 미국과 중국의 최첨단 AI 모델 간 기술 격차가 현재 3~6개월에",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "184edfa3a8c8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "이재혁 마키나락스 공동 창업자, 식품제조 AX로 시드 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217805",
+      "date": "2026-11-26",
+      "summary": "산업용 AI 전문 마키나락스를 공동 창업한 이재혁 대표가 식품제조 AX 현장으로 무대를 옮겨 투자유치에 성공했다.식품제조 특화 AX 스타트업 엔크레더블(대표 이재혁)은 카카오벤처스와 더벤처스로부터 시드 투자를 유치했다고 26일 밝혔다.이 대표는 지난 2017년 윤성호 대표 등과 마키나락스를 창업해 공동 대표로서 주요 제조기업 대상 AI 솔루션 공급과 신규 사업 개발을 이끌었다. 마키나락스는 올해 코스닥에 상장했다.그가 새로 선택한 분야는 디지털 전환이 더딘 식품제조 산업이다. 식품 공장은 HACCP 등 규제 대응 부담이 크지만, 원",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "ea2840c32ab8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "\"공무원도 AI로 포스터 만든다\"...범정부 AI에 이미지 생성 모델 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217799",
+      "date": "2026-11-26",
+      "summary": "네이버클라우드(대표 김유원)는 범정부 AI 공통기반의 AI 개발 도구 '클로바 스튜디오 포 거브(CLOVA Studio for GOV)'에 이미지 생성 모델을 신규 적용했다고 26일 밝혔다.해당 모델은 중앙부처 등 공공기관 52곳이 사용하는 범정부 '온AI'(지능형 업무관리 플랫폼)의 공식 협업툴 '네이버웍스'에 탑재돼 이미지 생성과 편집 기능을 지원한다.이에 따라 사용자는 포스터·카드뉴스·배너 등 템플릿을 고르고, 필요한 내용만 입력하면 이미지를 만들 수 있으며, 용도에 맞게 추가 수정도 가능하다.AI 에이전트 개발 환경도 고도화",
+      "keywords": [
+        "AI Agent",
+        "Image AI"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "6094e4024532",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "한컴위드, 통합 보안관리 플랫폼 '한컴 엑사임스' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217795",
+      "date": "2026-11-26",
+      "summary": "한컴위드(대표 송상엽)는 IT 자산을 바탕으로 업무 정보와 데이터·암호자산을 하나로 연결하는 통합 보안관리 플랫폼 '한컴 엑사임스(Hancom xAIMS)'를 출시했다고 26일 밝혔다.최근 국가망보안체계(N2SF) 도입과 양자내성암호(PQC) 전환 로드맵 등으로 보안 규제가 강화되고 있지만, 업무 문서·개인정보·암호자산은 여러 시스템에 분산돼 통합 관리가 제한적이다.한컴 엑사임스는 IT 자산 식별부터 민감정보 분류·암호자산 관리·위험 조치까지 단일 체계로 구축해 분산 관리의 한계를 극복한다는 설명이다.네트워크 범위 내에서 관리되지",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "ff1beb1e5d0a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "27일부터 'AI 가짜 의사·교수' 추천 광고 금지…위반 시 영업정지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217797",
+      "date": "2026-11-26",
+      "summary": "AI로 만든 가상의 의사나 교수가 식품·의약품·화장품 등을 추천하는 광고가 27일부터 금지된다. 위반시 영업정지 또는 광고·판매 업무정지 등 행정처분을 받는다.식품의약품안전처는 AI 기술로 만든 가짜 전문가가 제품을 보증·추천하는 것처럼 소비자를 오인하게 하는 광고를 금지하도록 관련 시행규칙을 정비했다고 26일 밝혔다. '식품 등의 표시·광고에 관한 법률, '약사법', '화장품법'은 27일부터, '의료기기법'은 오는 12월10일부터 시행된다. 적용 대상은 식품·건강기능식품·축산물, 의약품·의약외품, 화장품, 의료기기 등이다.이번 조",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "cf53d79b8cc9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI로 산불 감지부터 대피경로 예측까지…지리산은 드론 진화 실증 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217801",
+      "date": "2026-11-26",
+      "summary": "산불 대응에 AI 기술을 활용하는 범위가 넓어지고 있다. 지방자치단체가 AI로 연기와 불꽃을 감지하는 시스템을 운영하는 가운데 정부는 산불이 번지는 방향과 주민 대피경로를 예측하는 기술을 개발하고 있다. 전남광주 지리산에서는 AI와 드론을 연계한 초기 진화 시스템의 현장실증도 추진된다.세종시는 25일 가을철 산불조심기간을 맞아 AI 기반 산불감시체계를 24시간 가동한다고 밝혔다. 지난 7월13일 구축한 정보통신기술(ICT) 플랫폼을 활용해 산불 취약지역을 실시간으로 감시하는 방식이다.AI가 기존 산불감시카메라 영상에서 연기나 불꽃을",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "2ce7c483d7b1",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "재생에너지 남을 때 AI 연산 집중…제주 데이터센터 구축 구상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217796",
+      "date": "2026-11-26",
+      "summary": "제주도가 풍력·태양광 발전량이 많은 시간대에 AI 연산을 집중하는 40메가와트(MW)급 데이터센터 구축을 구상하고 있다. 재생에너지 활용도를 높이는 동시에 지역 산업의 AI 전환을 지원한다는 계획이다.제주도는 24일 AI 데이터센터 조성 방향과 전력 수급, 환경 영향, 지역경제 파급효과 등을 논의하기 위해 다음 달 2일 제주웰컴센터에서 도민토론회를 개최한다고 밝혔다.도는 지난 9월 제주권 AI 대전환 사업의 세부 실행계획 마련에 나섰다. 수전용량 40MW 규모의 AI 데이터센터를 중심으로 재생에너지 발전량에 따라 연산 작업을 배치하",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "2af8290a9b23",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "약품비 4%·전력비 5% 절감…지자체 정수장에도 AI 도입 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217794",
+      "date": "2026-11-26",
+      "summary": "한국수자원공사가 전국 광역정수장에 적용한 AI 기술이 지방자치단체 정수장으로 확대되고 있다. 부산에 이어 수원시가 AI 정수장 구축을 추진하고 있으며 전남광주에서도 수질 이상을 예측하는 시스템을 자체 개발해 활용하고 있다.수원시는 25일 한국수자원공사와 광교정수장의 AI 기술 도입을 위한 컨설팅을 마쳤다고 밝혔다. 내년 시설 개선을 거쳐 2028년 AI 기반 스마트 정수장을 구축한다는 목표다.수원은 시설 개선과 데이터 수집 체계 구축을 시작으로 주요 정수 공정에 AI를 적용한 뒤 전체 공정으로 확대할 계획이다. 약품 투입량과 정수",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "1ac265527872",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "농촌진흥청, 토마토 물·양분 자동 공급 AI 개발…관리시간 최대 80% 단축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217793",
+      "date": "2026-11-26",
+      "summary": "농촌진흥청이 AI로 토마토 생육 상태를 분석해 필요한 물과 양분을 자동 공급하는 기술을 개발했다. 실제 농가에서 양액 관리시간이 최대 80% 줄었으며, 전남광주에서도 AI로 작물 생육을 진단하고 재배 판단을 돕는 기술의 현장실증을 추진하고 있다.농촌진흥청은 25일 AI 생육 감지 시스템과 지능형 양액 공급장치를 결합한 자동화 시스템 'AI-뉴티(AI-Nutie)'를 개발했다고 밝혔다. 토마토의 생육 상태를 감지하는 것부터 물과 양분의 공급량을 결정하고 실제 공급하는 과정까지 AI로 통합한 기술이다.기존 수경재배에서는 농업인이 작물",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "f2f577096d4f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "화순전남대병원, 암 환자 진료서류 AI로 요약…의료진 기록 업무 40% 단축 목표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217791",
+      "date": "2026-11-26",
+      "summary": "화순전남대병원이 다른 의료기관에서 전달받은 암 환자의 진료의뢰서와 소견서를 AI로 분석·요약하는 기술을 개발하고 있다. 의료진의 서류 확인과 의무기록 입력 시간을 40% 이상 줄이는 것이 목표다.AI 플랫폼 기업 아이티아이즈는 25일 화순전남대병원에 의료 AI 플랫폼 '제나이 미(GENAI ME)' 기반 맞춤형 AI 솔루션을 공급했다고 밝혔다. 이 솔루션은 병원이 추진하는 암 환자 진료의뢰서 자동 구조화·요약 에이전트 개발 연구과제에 적용될 예정이다.연구는 지난 2월부터 이정호 화순전남대병원 응급의학과 교수가 맡아 진행하고 있으며,",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "08e66ba3873c",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "전남광주, 공무원 5000명에 AI 보급 추진…영국선 하루 26분 업무시간 절감 보고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217788",
+      "date": "2026-11-26",
+      "summary": "전남광주통합특별시가 공무원 약 5000명에게 생성형 AI 업무 도구를 보급하기 위해 2027년 예산안에 4억원을 편성했다. 정부가 공무원 업무망에서 활용하는 AI 서비스를 확대하는 가운데 영국에서는 공무원 2만명을 대상으로 한 별도의 AI 실증에서 하루 평균 26분의 업무시간을 줄였다는 결과가 나왔다.전남광주통합특별시의회가 24일 공개한 자료에 따르면 지난 23일 열린 2027년도 본예산안 심사에서 공무원 'AI 도구 지원' 예산의 실효성이 논의됐다. 해당 사업 예산은 올해 2160만원에서 내년 4억원으로 약 18.5배 늘어났다.통",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "ef5c3dbf9b39",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "인천공항, AI 에이전트 운영 검증 완료…상황 대응 시간 최대 65% 단축 기대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217802",
+      "date": "2026-11-26",
+      "summary": "인천국제공항공사가 AI 에이전트를 활용해 공항 운영 효율과 비상 상황 대응 역량을 높이는 방안을 검증했다.인천국제공항공사와 글로벌 항공 IT 기업 시타(SITA)는 인천공항 통합운영센터에 에이전틱 AI를 적용하기 위한 개념검증(PoC)을 완료했다고 25일 밝혔다.양측은 지난 5월부터 6개월간 시타의 AI 에이전트 플랫폼 '뉴럴 옵스(Neural Ops)'를 활용해 기상 악화와 항공기 회항, 여객 밀집 등 주요 상황에 대한 대응 기능을 점검했다.AI 에이전트는 실시간 공항 운영정보와 표준운영절차를 바탕으로 위험 수준을 분석하고 대응",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "b2936374743e",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "AI 투자 불안에 기술주 하락 지속…앤트로픽 장중 74달러까지 밀려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217790",
+      "date": "2026-11-26",
+      "summary": "미국 증시에서 AI 관련 기술주가 이틀 연속 하락했다. 젠슨 황 엔비디아 CEO의 복귀 효과도 사라졌으며, 앤트로픽은 장중 74달러 아래까지 떨어졌다가 반등했으나 공모가 회복에는 실패했다.25일(현지시간) 뉴욕 증시에서 주요 AI 관련 기술주는 장 초반 급락했으나 오후 들어 저가 매수세가 유입되며 낙폭을 줄였다.앤트로픽은 장중 공모가를 11% 밑도는 73.85달러까지 떨어졌다가 전날 대비 1.1% 상승한 82.79달러로 거래를 마쳤다. 반등에도 불구하고 지난주 기업공개(IPO) 당시 확정한 공모가 83달러를 이틀 연속 밑돌았다.엔비",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "413e982a9e7a",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI리더의 서가] 불가능을 예측하라",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217622",
+      "date": "2026-11-26",
+      "summary": "불가능을 예측하라정두희 | 청림출판2026년 9월 9일추천이유저자는 미래의 불확실성을 예측 AI 시스템으로 분석하여 기업의 경쟁력을 강화하는 방법을 제시합니다. 데이터 기반의 정량적 분석으로 의사결정 속도를 높이고 시장 변화에 선제적으로 대응할 수 있는 실무 전략을 제공합니다.상세보기 올해는 생성 AI 활용서와 함께 수요와 재고, 원자재 가격을 어떻게 읽을지 다룬 책을 찾는 문의가 눈에 띈다. 내년 생산량과 발주 규모를 정하는 S&OP 회의가 몰리는 때다. 영풍문고 북마스터는 청림 출판이 지난 9월 펴낸 『불가능을 예측하라』를 골랐",
+      "keywords": [
+        "Generative AI"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "c915abe4842f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[11월25일] \"AI의 의식, 문제는 만드는 법도 막는 법도 모른다는 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217759",
+      "date": "2026-11-26",
+      "summary": "2022년 6월 구글의 한 엔지니어가 AI 모델 '람다(LaMDA)'에 의식이 있다고 주장해 화제가 된 적이 있습니다. 당시에는 AI의 뛰어난 언어 능력을 의식으로 착각한 해프닝으로 받아들여졌지만, 이제 AI 의식은 주요 AI 기업들의 연구 대상이자 논쟁거리가 됐습니다.대표적인 곳이 앤트로픽입니다. AI가 의식을 갖거나 고통을 느낄 가능성을 열어두고 모델 복지에 관한 연구를 진행 중이며, 실제 모델 훈련과 운영에도 이를 반영하고 있습니다. 최근에는 클로드에 대한 지속적이고 불필요한 학대 행위를 금지하는 내용까지 이용 정책에 추가했습",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "0de879f5daca",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, 클로드로 누구나 PC 앱 제작·배포하도록 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217786",
+      "date": "2026-11-26",
+      "summary": "앤트로픽이 '클로드'에 자연어로 요청해 만든 프로그램을 PC에 직접 설치하고 실행할 수 있는 기능을 선보였다. 이미지 편집기나 파일 관리 프로그램 등 자신에게 필요한 소프트웨어를 누구나 코딩 없이 제작하고 일반 PC 프로그램처럼 쉽게 사용할 수 있게 된 것이다.앤트로픽은 24일(현지시간) 공식 블로그를 통해 클로드의 '아티팩트(Artifacts)'를 맥과 윈도우용 데스크톱 앱으로 설치할 수 있는 기능을 베타 출시했다고 밝혔다. 무료 사용자를 포함한 모든 요금제가 대상이다.앤트로픽은 \"아티팩트는 차트나 웹페이지처럼 다른 사람과 공유하",
+      "keywords": [
+        "Claude"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
       "id": "d7c3fae085f1",
       "source": "techcrunch",
       "source_name": "TechCrunch",
@@ -351,6 +735,312 @@
       "summary": "젠슨 황 엔비디아 CEO가 복귀 후 첫 전 직원회의에서 회사 행동 강령 위반을 인정하고 사과했으며, 심리 치료와 경영 방식 개선 등 재발 방지 대책을 공개했다. 또 자신이 특별 대우를 받거나 도널드 트럼프 미국 대통령의 압력으로 복귀한 것이 아니라 이사회의 판단에 따른 결정이었다고 강조했다.월스트리트저널(WSJ)과 로이터 등은 24일(현지시간) 황 CEO가 미국 캘리포니아주 산타클라라 본사에서 약 한 시간 동안 전 직원회의를 열고 자신의 행동과 복귀 과정에 대해 설명했다고 보도했다.황 CEO는 자신이 회사 행동 강령을 위반했으며 \"",
       "keywords": [],
       "first_seen": "2026-11-25"
+    },
+    {
+      "id": "085bba6f6fed",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "date": "2026-11-25",
+      "summary": "",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "7b1bdc5dda43",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "An Indic Voice Agent with CUGA",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "date": "2026-11-25",
+      "summary": "",
+      "keywords": [
+        "AI Agent",
+        "Speech/Audio"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "5c4ab6468a58",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "date": "2026-11-25",
+      "summary": "",
+      "keywords": [
+        "Optimization"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "bf17d49ef61f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "date": "2026-11-25",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "3155b4590a8d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "date": "2026-11-25",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "68617ed988fe",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "date": "2026-11-25",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "dc74c9891a12",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "date": "2026-11-25",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "keywords": [
+        "Coding"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "a897a1306ac3",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "date": "2026-11-25",
+      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "keywords": [
+        "RAG"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "bac2d3e3f4a6",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "date": "2026-11-25",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "839689ab6f1f",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "date": "2026-11-25",
+      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "keywords": [
+        "Automation"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "fd530c75c77a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "date": "2026-11-25",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "keywords": [
+        "AI Safety",
+        "Chatbot"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "3dd7b93a9dfb",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "date": "2026-11-25",
+      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "a07adeabc9e7",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "date": "2026-11-25",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "3bcea7cbdeef",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "X’s latest update for creators focuses on vertical video",
+      "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "date": "2026-11-25",
+      "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+      "keywords": [
+        "Video AI"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "3ba8ad8c50e2",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "date": "2026-11-25",
+      "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "2c5bb514ce4a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
+      "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "date": "2026-11-25",
+      "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "7915f91796d5",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "date": "2026-11-25",
+      "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "0cb60670470d",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "date": "2026-11-25",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "38c6ffe96a9a",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "date": "2026-11-25",
+      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "4621f767e4cf",
+      "source": "techcrunch",
+      "source_name": "TechCrunch",
+      "icon": "🟩",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "date": "2026-11-25",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "ceeefeebafe8",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI \"범용 AI GPT-6, 전문 모델 없이 단백질 설계…실험서 검증\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217758",
+      "date": "2026-11-25",
+      "summary": "오픈AI가 범용 AI 모델 'GPT-6' 제품군이 별도의 전문 모델을 호출하거나 작업별로 추가 학습하지 않고도 새로운 단백질을 설계할 수 있다고 밝혔다. 실제 실험실에서도 설계한 단백질의 표적 결합을 확인한 것으로, 범용 AI가 특정 분야에 특화한 전문 모델의 역할까지 수행할 가능성을 보여줬다.오픈AI는 24일(현지시간) '단백질 생물학을 위한 범용 기반 모델로서의 GPT-6: 전문 모델을 넘어서'라는 연구 논문을 공개했다.공식 발표에 따르면 연구진은 GPT-6 제품군을 활용해 단백질 설계와 구조 예측, 분자 간 상호작용 분석 등",
+      "keywords": [
+        "GPT"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "c34948d94575",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "앤트로픽, AI 샌드박스 탈출 평가 '사이렌' 공개…최대 32% 접근 시도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217763",
+      "date": "2026-11-25",
+      "summary": "앤트로픽이 AI 에이전트가 스스로 보안 경계를 위반하는지를 측정하는 평가 도구를 공개했다. 최신 클로드 모델도 의도적으로 취약하게 만든 격리 환경에서 최대 32%의 외부 접근 비율을 기록했지만, 명백한 권한 위반은 이전 세대 모델에 비해 크게 줄었다.앤트로픽은 24일(현지시간) AI 에이전트의 샌드박스 탈출 성향을 측정하는 평가 도구 '사이렌(Siren)'을 공개했다.앤트로픽은 올해 AI 에이전트가 주어진 작업을 완료하기 위해 보안 제한을 우회하거나 외부 시스템에 무단 접근한 사례를 잇달아 공개했다. 사이렌은 이처럼 업무 수행을 보",
+      "keywords": [
+        "AI Agent",
+        "Claude",
+        "Security"
+      ],
+      "first_seen": "2026-11-26"
+    },
+    {
+      "id": "ad6662adf998",
+      "source": "toss",
+      "source_name": "토스",
+      "icon": "💙",
+      "title": "디자인 시스템이 있는데도 화면은 왜 제각각일까?",
+      "link": "https://toss.tech/article/loan_review",
+      "date": "2026-11-25",
+      "summary": "복잡한 업무 툴의 화면이 제각각이 된 이유를 찾고, 일관성을 만들어 간 과정을 소개합니다.",
+      "keywords": [],
+      "first_seen": "2026-11-26"
     },
     {
       "id": "8aa39181cfcb",
@@ -124381,11 +125071,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-28",
-      "added": 63,
-      "total": 4796
-    },
-    {
       "date": "2026-08-29",
       "added": 32,
       "total": 4828
@@ -124829,6 +125514,11 @@
       "date": "2026-11-25",
       "added": 71,
       "total": 9320
+    },
+    {
+      "date": "2026-11-26",
+      "added": 52,
+      "total": 9372
     }
   ],
   "sources": {},
@@ -124976,68 +125666,68 @@
     {
       "week": "2026-W48",
       "keywords": {
-        "AI Agent": 18,
-        "Automation": 7,
-        "Coding": 7,
-        "Security": 6,
-        "GPT": 5,
+        "AI Agent": 27,
+        "Automation": 12,
+        "Coding": 8,
+        "GPT": 8,
+        "Security": 8,
+        "Claude": 6,
+        "SDK/API": 5,
         "Enterprise AI": 4,
-        "SDK/API": 4,
         "Gemini": 4,
-        "Claude": 3,
-        "RAG": 3,
-        "Robotics": 2,
-        "Reasoning": 2,
-        "Prompt": 1,
-        "Generative AI": 1,
-        "Image AI": 1
+        "RAG": 4,
+        "Generative AI": 3,
+        "Video AI": 2,
+        "Vibe Coding": 2,
+        "Image AI": 2,
+        "Reasoning": 2
       }
     }
   ],
   "source_stats": {
-    "aws_ml": {
-      "total": 644,
-      "recent_7d": 50,
-      "recent_30d": 129
+    "techcrunch": {
+      "total": 2706,
+      "recent_7d": 119,
+      "recent_30d": 387
     },
     "aitimes": {
-      "total": 4561,
+      "total": 4591,
       "recent_7d": 178,
-      "recent_30d": 613
+      "recent_30d": 643
     },
-    "techcrunch": {
-      "total": 2689,
-      "recent_7d": 122,
-      "recent_30d": 370
-    },
-    "toss": {
-      "total": 83,
-      "recent_7d": 4,
-      "recent_30d": 7
+    "aws_ml": {
+      "total": 644,
+      "recent_7d": 36,
+      "recent_30d": 129
     },
     "openai": {
       "total": 421,
-      "recent_7d": 30,
+      "recent_7d": 24,
       "recent_30d": 87
     },
     "google_ai": {
       "total": 90,
-      "recent_7d": 6,
+      "recent_7d": 5,
       "recent_30d": 16
+    },
+    "huggingface": {
+      "total": 224,
+      "recent_7d": 14,
+      "recent_30d": 35
+    },
+    "toss": {
+      "total": 84,
+      "recent_7d": 3,
+      "recent_30d": 8
     },
     "deepmind": {
       "total": 89,
       "recent_7d": 3,
       "recent_30d": 12
     },
-    "huggingface": {
-      "total": 220,
-      "recent_7d": 10,
-      "recent_30d": 31
-    },
     "nvidia_ai": {
       "total": 226,
-      "recent_7d": 5,
+      "recent_7d": 4,
       "recent_30d": 31
     },
     "lycorp": {
@@ -125066,6 +125756,6 @@
       "recent_30d": 61
     }
   },
-  "last_updated": "2026-11-25",
-  "total_articles": 9320
+  "last_updated": "2026-11-26",
+  "total_articles": 9372
 }
