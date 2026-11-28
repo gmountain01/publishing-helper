@@ -1,6 +1,118 @@
 {
   "articles": [
     {
+      "id": "e4730e95e4f9",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217889",
+      "date": "2026-11-28",
+      "summary": "오픈AI가 애플을 상대로 맞소송을 제기하며 자사의 AI 기기 개발을 방해하기 위해 제조 협력업체에 압력을 행사했다고 주장했다. 불공정한 고용 계약과 영업비밀 침해 의혹도 제기하면서 양사의 갈등이 인재 확보를 넘어 하드웨어 공급망 경쟁으로 번지고 있다.블룸버그와 로이터 등에 따르면 오픈AI는 27일(현지시간) 미국 캘리포니아주 산호세 연방법원에 맞소송을 제기했다.소장에 따르면 애플은 제조 협력업체에 경쟁사 프로젝트 참여 여부와 관련 직원의 이름, 근무지, 담당 업무 등을 파악하도록 요구했다. 특히 향후 거래에서 불이익을 받을 수 있다",
+      "keywords": [],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "5f2e1833beac",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 휴먼러닝하기",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217895",
+      "date": "2026-11-28",
+      "summary": "글·그림 Dr. Alf",
+      "keywords": [],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "1e71574f58f0",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[내면 지도 그리기] 44 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217886",
+      "date": "2026-11-28",
+      "summary": "걸어야 나타나는 시장지도에는 있지만, 지도만으로는 알 수 없는 장소가 있습니다.주소를 찾아갈 수는 있어도, 그날 그곳에 어떤 사람이 나와 있을지, 무엇이 놓여 있을지는 알 수 없습니다. 길을 걷다가 작은 천막과 사람들 사이를 우연히 만나고서야 \"오늘 여기에 장이 섰구나\" 알게 되는 곳. 어떤 시장은 계절마다 돌아오고, 어떤 시장은 며칠만 한옥 마당에 머뭅니다. 이곳의 법칙은 가격표보다 우연과 발견에 가깝습니다. 오늘의 물건은 오늘만 있고, 같은 자리에도 다음번에는 전혀 다른 사람이 앉습니다.서울 종로구 숭인동에는 동묘 벼룩시장이 있",
+      "keywords": [],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "03465abed358",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "창문으로 태양광 발전하고 AI로 발전량 예측…일본 간사이전력 실증 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217830",
+      "date": "2026-11-28",
+      "summary": "일본 간사이전력이 건물 창문에 설치되는 페로브스카이트 태양전지의 발전량을 AI로 예측하는 실증사업을 추진한다. 파나소닉홀딩스가 유리형 페로브스카이트 태양전지의 판매를 시작한 가운데 실제 건물에서 설치·운용 방법과 발전량 예측 정확도를 검증한다.간사이전력과 간사이대학은 지난 20일(현지시간) 파나소닉홀딩스 등 3개 기업과 페로브스카이트 태양광 발전 실증을 위한 기본협약을 체결했다고 밝혔다.실증은 내년 여름부터 2년간 진행될 예정이다. 일본 오사카부 다카쓰키시에 위치한 간사이대학 다카쓰키 뮤즈캠퍼스 건물 창틀에 유리형 페로브스카이트 태",
+      "keywords": [],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "bc94fe9e140d",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "주택용 태양광, 폭염 사망 위험도 낮출 수 있다…일본 44개 지역 분석",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217836",
+      "date": "2026-11-28",
+      "summary": "주택용 태양광 발전이 폭염에 따른 사망 위험을 낮추는 데 도움이 될 수 있다는 연구 결과가 나왔다. 전기요금이 급등했던 일본의 지역별 자료를 분석한 결과, 태양광 보급에 따른 사망 위험 완화 효과는 특히 65세 이상 고령층에서 나타났다.일본 도시샤대는 지난 19일(현지시간) 아시아성장연구소와 공동으로 진행한 이 같은 연구 결과를 발표했다. 연구논문은 지난 10월12일 국제학술지 '소셜 사이언스 앤드 메디슨(Social Science & Medicine)'에 온라인 공개됐다.연구팀은 2011년 동일본 대지진과 후쿠시마 원전 사고 이후",
+      "keywords": [],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "c47b89418509",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "태양광 패널, 새 배설물로 성능 최대 11.4% 저하…빗물 세척에도 한계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217832",
+      "date": "2026-11-28",
+      "summary": "새 배설물이 주요 오염원인 태양광 패널의 성능이 오염으로 최대 11.4% 저하됐다는 연구 결과가 나왔다. 1년간의 현장 실험에서 오염으로 인한 성능 손실은 평균 5.9%였으며, 비가 내렸을 때도 누적된 오염 손실은 평균 26%만 줄어들었다.이탈리아 로마 사피엔자대와 크로아티아 스플리트대 공동연구팀은 이 같은 연구 결과를 지난 17일(현지시간) 국제학술지 '솔라 에너지(Solar Energy)'에 공개했다.연구팀은 2024년 7월부터 2025년 7월까지 1년간 크로아티아 스플리트대 캠퍼스에 410W급 단결정 실리콘 태양광 모듈 2장을",
+      "keywords": [],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "14c747fc4120",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217890",
+      "date": "2026-11-28",
+      "summary": "중국 텐센트가 AI를 이용해 두 개의 치료 표적에 동시에 작용하는 새로운 약물 후보물질을 설계하는 데 성공했다. 동물 실험에서 기존 비만 치료제의 10분의 1 용량으로 더 큰 체중 감소 효과를 냈으며, 암 치료 후보물질은 대조군 대비 종양 부피를 94.2% 줄였다.텐센트는 26일(현지시간) 생명과학연구소가 주도하고 선전이공대학과 청두중의약대학 등이 참여한 공동 연구 결과가 네이처에 게재됐다고 발표했다. 텐센트가 주도한 연구가 네이처 본지에 실린 것은 이번이 처음이다.이번 연구의 핵심은 하나의 분자로 두 개의 치료 표적을 동시에 공략",
+      "keywords": [],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "0fe460ac6745",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217888",
+      "date": "2026-11-28",
+      "summary": "미국 공군과 재무부, 영국 정부 부처 등 서방 주요 기관에서 사이버 공격과 시스템 장애가 잇따르고 있다. AI의 소프트웨어 취약점 발견 능력이 급격하게 발전하면서 공격자와 방어자의 보안 경쟁이 치열해지고, 노후한 디지털 인프라가 이를 감당할 수 있을지에 대한 의문도 커지고 있다.파이낸셜타임스(FT)는 27일(현지시간) 최근 한달간 미국과 유럽에서 발생한 대규모 사이버 공격과 네트워크 장애로 국가 주요 기반 시설의 취약성이 드러나고 있다고 보도했다.연간 3300억파운드(약 578조원) 규모의 영국 복지 시스템을 운영하는 노동연금부(D",
+      "keywords": [
+        "Security"
+      ],
+      "first_seen": "2026-11-28"
+    },
+    {
+      "id": "756dd098b94f",
+      "source": "aitimes",
+      "source_name": "AI타임스",
+      "icon": "🇰🇷",
+      "title": "[11월27일] 16세 고등학생도 AI로 수학 난제 해결 주장…이제는 검증이 문제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217855",
+      "date": "2026-11-28",
+      "summary": "16세 고등학생이 AI를 활용해 100개 이상의 수학 추측을 해결했다고 주장해 화제입니다. AI의 발전으로 전문 연구자가 아닌 사람도 수학이나 과학 난제에 도전할 수 있게 됐지만, 쏟아지는 연구 결과를 어떻게 검증할지가 새로운 문제로 떠오르고 있습니다.미국의 수학·과학 영재교육 고등학교에 재학 중인 16세 시나 데이비스는 24일(현지시간) X를 통해 올해 제기된 수학 문제인 '카이올로-페로니-호스터 추측'의 반례를 발견했다고 밝혔습니다. 이 게시물은 조회수 600만회를 기록했습니다.그는 오픈AI의 개인용 AI 에이전트 '닷츠(Dot",
+      "keywords": [
+        "AI Agent"
+      ],
+      "first_seen": "2026-11-28"
+    },
+    {
       "id": "9b054eccf437",
       "source": "aitimes",
       "source_name": "AI타임스",
@@ -397,6 +509,20 @@
       "summary": "드론이 스스로 이착륙하고 충전하며 AI로 실종자와 위험 상황을 탐지하는 무인순찰 기술이 경남에서 실증됐다. 기존 경찰 인력과 순찰차, CCTV의 감시 사각지대를 보완하기 위한 것이다.경남도는 25일 진주시 와룡지구 친수생태공원에서 AI 기반 무인순찰 드론의 현장 실증을 진행했다고 밝혔다. 올해 처음 추진한 '공공수요 기반 AI 드론 실증지원' 사업의 일환이다.진주 소재 드론 기업 엔스퀘어는 경남경찰청의 현장 수요를 반영해 무인순찰 시스템을 개발했다. 드론스테이션을 거점으로 드론이 순찰 임무를 수행하고 자동으로 복귀해 충전한 뒤 다시",
       "keywords": [],
       "first_seen": "2026-11-27"
+    },
+    {
+      "id": "0f9e4500bae5",
+      "source": "huggingface",
+      "source_name": "Hugging Face",
+      "icon": "🤗",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "date": "2026-11-27",
+      "summary": "",
+      "keywords": [
+        "Video AI"
+      ],
+      "first_seen": "2026-11-28"
     },
     {
       "id": "1fcdbabd38e1",
@@ -125583,11 +125709,6 @@
   ],
   "daily_stats": [
     {
-      "date": "2026-08-30",
-      "added": 33,
-      "total": 4861
-    },
-    {
       "date": "2026-08-31",
       "added": 21,
       "total": 4882
@@ -126031,6 +126152,11 @@
       "date": "2026-11-27",
       "added": 39,
       "total": 9411
+    },
+    {
+      "date": "2026-11-28",
+      "added": 10,
+      "total": 9421
     }
   ],
   "sources": {},
@@ -126178,38 +126304,43 @@
     {
       "week": "2026-W48",
       "keywords": {
-        "AI Agent": 34,
+        "AI Agent": 35,
         "Automation": 14,
-        "Security": 12,
+        "Security": 13,
         "GPT": 11,
         "Claude": 9,
         "Coding": 8,
         "SDK/API": 6,
         "Gemini": 5,
         "Generative AI": 4,
+        "Video AI": 4,
         "RAG": 4,
         "Enterprise AI": 4,
-        "Video AI": 3,
-        "Fine-tuning": 2,
-        "Optimization": 2,
-        "MCP": 2
+        "LLM": 2,
+        "MCP": 2,
+        "Fine-tuning": 2
       }
     }
   ],
   "source_stats": {
-    "huggingface": {
-      "total": 226,
-      "recent_7d": 11,
-      "recent_30d": 37
-    },
     "aitimes": {
-      "total": 4621,
-      "recent_7d": 208,
-      "recent_30d": 673
+      "total": 4630,
+      "recent_7d": 187,
+      "recent_30d": 682
+    },
+    "huggingface": {
+      "total": 227,
+      "recent_7d": 12,
+      "recent_30d": 38
+    },
+    "nvidia_ai": {
+      "total": 227,
+      "recent_7d": 2,
+      "recent_30d": 32
     },
     "techcrunch": {
       "total": 2711,
-      "recent_7d": 104,
+      "recent_7d": 85,
       "recent_30d": 392
     },
     "toss": {
@@ -126219,17 +126350,17 @@
     },
     "aws_ml": {
       "total": 644,
-      "recent_7d": 24,
+      "recent_7d": 9,
       "recent_30d": 129
     },
     "openai": {
       "total": 421,
-      "recent_7d": 17,
+      "recent_7d": 12,
       "recent_30d": 87
     },
     "google_ai": {
       "total": 90,
-      "recent_7d": 4,
+      "recent_7d": 2,
       "recent_30d": 16
     },
     "deepmind": {
@@ -126237,14 +126368,9 @@
       "recent_7d": 2,
       "recent_30d": 13
     },
-    "nvidia_ai": {
-      "total": 227,
-      "recent_7d": 4,
-      "recent_30d": 32
-    },
     "lycorp": {
       "total": 62,
-      "recent_7d": 1,
+      "recent_7d": 0,
       "recent_30d": 3
     },
     "meta_eng": {
@@ -126268,6 +126394,6 @@
       "recent_30d": 61
     }
   },
-  "last_updated": "2026-11-27",
-  "total_articles": 9411
+  "last_updated": "2026-11-28",
+  "total_articles": 9421
 }
